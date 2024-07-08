@@ -242,3 +242,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-08T17:39:32.945Z,59.6187,-153.5843,118.5,1.8,ml,,,,0.24,ak,ak0248qigqku,2024-07-08T17:41:10.223Z,"34 km ESE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-07-08T17:24:01.476Z,31.597,-103.944,4.9182,1.5,ml,14.0,78.0,0.0,0.2,tx,tx2024niqn,2024-07-08T17:43:36.603Z,"34 km NNW of Toyah, Texas",earthquake,0.0,1.30748216474633,0.2,12.0,automatic,tx,tx
 2024-07-08T15:50:53.277Z,36.5634,71.2919,229.228,4.2,mb,43.0,76.0,2.937,0.64,us,us7000mxsx,2024-07-08T17:40:45.040Z,"25 km WSW of Ashkāsham, Afghanistan",earthquake,9.04,7.268,0.127,17.0,reviewed,us,us
+2024-07-08T17:31:31.814Z,31.645,-104.323,5.0091,1.7,ml,15.0,89.0,0.1,0.5,tx,tx2024niqt,2024-07-08T17:49:47.658Z,"59 km S of Whites City, New Mexico",earthquake,0.0,2.74067511518149,0.1,12.0,automatic,tx,tx
+2024-07-08T15:17:05.930Z,38.7953333333333,-122.823666666667,6.18,0.37,md,7.0,209.0,0.01418,0.16,nc,nc75032377,2024-07-08T17:52:23.573Z,"6 km WNW of The Geysers, CA",earthquake,1.97,31.61,0.183,7.0,reviewed,nc,nc
