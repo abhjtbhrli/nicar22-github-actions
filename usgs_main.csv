@@ -206,3 +206,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-07T17:18:37.190Z,31.4825,-115.6173333,6.87,3.42,ml,11.0,71.0,0.1689,0.2,ci,ci40651367,2024-07-08T13:52:42.939Z,"93 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.33,1.79,0.194,213.0,reviewed,ci,ci
 2024-07-08T14:18:10.141Z,69.5975,-144.6691,5.8,2.7,ml,,,,0.83,ak,ak0248qgjvxg,2024-07-08T14:20:54.142Z,"71 km SSW of Kaktovik, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-07-08T14:03:31.977Z,-15.9568,-74.9032,21.342,5.3,mww,91.0,137.0,4.371,0.73,us,us7000mxsb,2024-07-08T14:22:38.040Z,"60 km WSW of Atiquipa, Peru",earthquake,8.87,5.349,0.073,18.0,reviewed,us,us
+2024-07-08T14:27:15.000Z,33.3918343,-116.8556671,3.88,1.35,ml,19.0,73.0,0.03857,0.16,ci,ci40652127,2024-07-08T14:29:17.402Z,"4 km N of Palomar Observatory, CA",earthquake,0.47,0.67,0.514,6.0,automatic,ci,ci
+2024-07-08T14:26:29.650Z,62.8949,-149.4598,77.5,0.9,ml,,,,0.45,ak,ak0248qgln79,2024-07-08T14:28:22.626Z,"59 km NE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
