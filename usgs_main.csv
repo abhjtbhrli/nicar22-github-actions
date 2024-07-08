@@ -244,3 +244,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-08T15:50:53.277Z,36.5634,71.2919,229.228,4.2,mb,43.0,76.0,2.937,0.64,us,us7000mxsx,2024-07-08T17:40:45.040Z,"25 km WSW of Ashkāsham, Afghanistan",earthquake,9.04,7.268,0.127,17.0,reviewed,us,us
 2024-07-08T17:31:31.814Z,31.645,-104.323,5.0091,1.7,ml,15.0,89.0,0.1,0.5,tx,tx2024niqt,2024-07-08T17:49:47.658Z,"59 km S of Whites City, New Mexico",earthquake,0.0,2.74067511518149,0.1,12.0,automatic,tx,tx
 2024-07-08T15:17:05.930Z,38.7953333333333,-122.823666666667,6.18,0.37,md,7.0,209.0,0.01418,0.16,nc,nc75032377,2024-07-08T17:52:23.573Z,"6 km WNW of The Geysers, CA",earthquake,1.97,31.61,0.183,7.0,reviewed,nc,nc
+2024-07-08T18:16:09.590Z,33.2316667,-116.0368333,3.37,0.72,ml,30.0,91.0,0.06448,0.19,ci,ci40652383,2024-07-08T18:22:21.963Z,"11 km SW of Salton City, CA",earthquake,0.24,0.43,0.143,12.0,automatic,ci,ci
+2024-07-08T18:07:17.521Z,60.3491,-151.3412,118.9,1.6,ml,,,,0.39,ak,ak0248qiva2w,2024-07-08T18:09:06.691Z,"2 km SW of Cohoe, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-07-08T17:55:07.290Z,63.5186,-148.7316,11.4,0.9,ml,,,,0.77,ak,ak0248qik42a,2024-07-08T17:57:37.015Z,"17 km NE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
