@@ -252,3 +252,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-08T19:02:53.330Z,34.9926667,-118.1993333,0.07,1.35,ml,24.0,46.0,0.1161,0.25,ci,ci40652471,2024-07-08T19:09:18.966Z,"7 km SSW of Mojave, CA",earthquake,0.35,0.76,0.27,18.0,automatic,ci,ci
 2024-07-08T18:54:23.461Z,61.5805,-141.0835,4.7,1.7,ml,,,,0.54,ak,ak0248qj5d6y,2024-07-08T18:56:09.697Z,"99 km E of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-07-08T18:05:44.618Z,50.5091,-173.9133,146.933,3.5,ml,9.0,234.0,1.705,0.73,us,us7000mxuz,2024-07-08T19:11:04.040Z,"188 km S of Atka, Alaska",earthquake,8.05,24.212,0.091,22.0,reviewed,us,us
+2024-07-08T19:20:30.856Z,58.4653,-154.1272,1.6,1.8,ml,,,,0.69,ak,ak0248qjjj0t,2024-07-08T19:23:38.482Z,"84 km WNW of Aleneva, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-07-08T04:07:17.200Z,52.8313333333333,-169.948333333333,-1.14,1.83,ml,6.0,158.0,0.01932,0.09,av,av93189636,2024-07-08T19:27:19.060Z,"74 km W of Nikolski, Alaska",earthquake,0.16,0.22,0.308287193484695,9.0,reviewed,av,av
