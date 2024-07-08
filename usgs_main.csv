@@ -298,3 +298,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-08T22:17:58.048Z,62.7285,-147.8031,135.9,1.2,ml,,,,1.07,ak,ak0248qlb8sc,2024-07-08T22:19:43.580Z,"81 km NW of Lake Louise, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2024-07-08T22:06:14.144Z,29.1418,-97.7977,10.927,2.8,mb_lg,31.0,117.0,0.068,0.41,us,us7000mxx1,2024-07-08T22:31:46.436Z,"14 km SSW of Nixon, Texas",earthquake,4.42,6.067,0.066,60.0,reviewed,us,us
 2024-07-08T03:23:23.120Z,58.4388333333333,-154.689,3.7,-0.28,ml,7.0,174.0,0.05998,0.16,av,av93014629,2024-07-08T22:33:09.590Z,"97 km N of Karluk, Alaska",earthquake,0.47,0.71,0.156015597641014,7.0,reviewed,av,av
+2024-07-08T22:39:16.740Z,19.2059993743896,-155.490005493164,31.8199996948242,3.3,ml,61.0,76.0,0.043,0.129999995,hv,hv74322916,2024-07-08T22:47:38.753Z,"1 km WNW of Pāhala, Hawaii",earthquake,0.37,0.49000001,0.35,45.0,automatic,hv,hv
+2024-07-08T22:36:37.798Z,58.347,-133.4458,0.0,2.9,ml,,,,0.74,ak,ak0248qlf9tv,2024-07-08T22:38:49.341Z,"57 km E of Juneau, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-07-08T22:35:32.120Z,33.8396667,-116.9631667,16.27,0.77,ml,22.0,196.0,0.135,0.25,ci,ci40652759,2024-07-08T22:41:38.964Z,"6 km N of San Jacinto, CA",earthquake,0.73,0.85,0.14,21.0,automatic,ci,ci
+2024-07-08T21:50:37.999Z,22.024,121.3255,14.408,4.2,mb,22.0,150.0,0.822,0.94,us,us7000mxwz,2024-07-08T22:41:01.040Z,"60 km E of Hengchun, Taiwan",earthquake,5.35,4.8,0.199,7.0,reviewed,us,us
+2024-07-08T16:57:56.930Z,44.647,-111.930833333333,8.91,1.34,ml,18.0,69.0,0.2065,0.27,mb,mb90056293,2024-07-08T22:45:05.090Z,"37 km NNE of Spencer, Idaho",earthquake,0.73,2.17,0.171941031154688,15.0,reviewed,mb,mb
