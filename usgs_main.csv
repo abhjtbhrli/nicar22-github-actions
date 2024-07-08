@@ -232,3 +232,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-08T08:45:03.847Z,38.2653,-118.7893,8.7,1.2,ml,11.0,116.06999999999996,0.224,0.2037,nn,nn00880566,2024-07-08T16:43:42.510Z,"32 km SSW of Hawthorne, Nevada",earthquake,,1.7,0.18,3.0,reviewed,nn,nn
 2024-07-08T16:53:31.954Z,65.442,-148.2485,4.1,0.9,ml,,,,0.36,ak,ak0248qhyax7,2024-07-08T16:56:08.538Z,"16 km SE of Livengood, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-07-08T16:52:22.910Z,35.7395,-117.583,10.74,0.83,ml,17.0,61.0,0.1442,0.13,ci,ci40652287,2024-07-08T16:58:17.555Z,"16 km NNE of Ridgecrest, CA",earthquake,0.26,0.63,0.082,7.0,automatic,ci,ci
+2024-07-08T17:06:02.031Z,48.6041,-129.0655,43.8,1.9,ml,,,,0.96,ak,ak0248qi9lk9,2024-07-08T17:21:53.226Z,"239 km WSW of Tofino, Canada",earthquake,,0.9,,,automatic,ak,ak
+2024-07-08T14:49:43.031Z,1.551,127.7313,7.97,4.5,mb,51.0,100.0,0.855,0.74,us,us7000mxsh,2024-07-08T17:16:08.040Z,"36 km WSW of Tobelo, Indonesia",earthquake,7.4,4.419,0.082,44.0,reviewed,us,us
