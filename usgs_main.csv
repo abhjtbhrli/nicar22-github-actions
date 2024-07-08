@@ -204,3 +204,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-08T13:18:19.584Z,-23.7985,-66.5443,210.976,4.5,mb,96.0,83.0,1.722,0.95,us,us7000mxs4,2024-07-08T14:05:38.040Z,"51 km NNW of San Antonio de los Cobres, Argentina",earthquake,8.29,5.113,0.035,235.0,reviewed,us,us
 2024-07-07T20:45:32.900Z,31.4831667,-115.6148333,7.95,3.02,ml,12.0,71.0,0.1711,0.19,ci,ci40651503,2024-07-08T14:00:02.981Z,"93 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.33,1.62,0.23,127.0,reviewed,ci,ci
 2024-07-07T17:18:37.190Z,31.4825,-115.6173333,6.87,3.42,ml,11.0,71.0,0.1689,0.2,ci,ci40651367,2024-07-08T13:52:42.939Z,"93 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.33,1.79,0.194,213.0,reviewed,ci,ci
+2024-07-08T14:18:10.141Z,69.5975,-144.6691,5.8,2.7,ml,,,,0.83,ak,ak0248qgjvxg,2024-07-08T14:20:54.142Z,"71 km SSW of Kaktovik, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-07-08T14:03:31.977Z,-15.9568,-74.9032,21.342,5.3,mww,91.0,137.0,4.371,0.73,us,us7000mxsb,2024-07-08T14:22:38.040Z,"60 km WSW of Atiquipa, Peru",earthquake,8.87,5.349,0.073,18.0,reviewed,us,us
