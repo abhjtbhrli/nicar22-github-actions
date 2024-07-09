@@ -448,3 +448,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-09T09:55:14.348Z,57.2727,-153.6439,34.9,3.8,ml,,,,0.59,ak,ak0248s1c075,2024-07-09T10:03:07.454Z,"21 km WNW of Old Harbor, Alaska",earthquake,,291.1,,,automatic,ak,ak
 2024-07-09T10:16:54.760Z,31.4921667,-115.615,7.51,2.09,ml,8.0,112.0,0.1759,0.18,ci,ci40653143,2024-07-09T10:23:17.145Z,"92 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.38,4.39,0.117,7.0,automatic,ci,ci
 2024-07-09T10:15:06.620Z,19.299165725708,-155.216506958008,0.46000000834465,2.01,ml,41.0,140.0,0.01943,0.200000003,hv,hv74324136,2024-07-09T10:17:45.180Z,"16 km S of Volcano, Hawaii",earthquake,0.33,0.239999995,0.24,12.0,automatic,hv,hv
+2024-07-09T10:36:07.934Z,64.6911,-146.7664,6.3,0.9,ml,,,,0.64,ak,ak0248s1tcrd,2024-07-09T10:38:10.687Z,"14 km ENE of Eielson Air Force Base, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-07-09T09:38:13.156Z,-32.7943,-179.2331,73.424,4.9,mb,53.0,75.0,3.697,1.2,us,us7000my03,2024-07-09T10:33:36.040Z,south of the Kermadec Islands,earthquake,9.61,6.693,0.067,129.0,reviewed,us,us
+2024-07-09T09:11:51.715Z,36.6798,28.1896,80.005,4.8,mb,68.0,62.0,0.469,0.87,us,us7000mxzg,2024-07-09T10:40:31.232Z,"13 km SSW of İçmeler, Turkey",earthquake,6.18,4.694,0.041,180.0,reviewed,us,us
