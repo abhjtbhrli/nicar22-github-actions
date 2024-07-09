@@ -510,3 +510,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-09T17:16:26.958Z,36.4277,-115.0366,0.0,1.1,ml,8.0,286.88000000000005,0.953,0.326,nn,nn00880628,2024-07-09T17:18:47.221Z,"20 km N of Nellis Air Force Base, Nevada",earthquake,,0.1,0.32,5.0,automatic,nn,nn
 2024-07-09T12:30:32.168Z,38.4388,-118.3469,8.5,1.3,ml,7.0,82.19999999999999,0.225,0.1114,nn,nn00880633,2024-07-09T17:29:48.452Z,"21 km WNW of Mina, Nevada",earthquake,,3.3,0.21,5.0,reviewed,nn,nn
 2024-07-09T03:06:41.191Z,39.4192,-117.9989,0.0,-0.2,ml,3.0,201.67,0.143,0.0579,nn,nn00880631,2024-07-09T17:23:40.221Z,"61 km N of Gabbs, Nevada",earthquake,,0.0,0.0,1.0,reviewed,nn,nn
+2024-07-09T17:31:04.286Z,61.4582,-152.0391,111.9,1.8,ml,,,,0.45,ak,ak0248s5yb4v,2024-07-09T17:33:02.034Z,"62 km NW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-07-09T17:26:58.460Z,33.4716667,-116.5555,10.28,0.67,ml,30.0,48.0,0.04529,0.14,ci,ci40653703,2024-07-09T17:33:01.686Z,"14 km SE of Anza, CA",earthquake,0.18,0.34,0.123,16.0,automatic,ci,ci
