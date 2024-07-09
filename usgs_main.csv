@@ -544,3 +544,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-08T22:10:56.490Z,53.8515,-166.513666666667,10.57,0.01,ml,10.0,116.0,0.008328,0.13,av,av93190326,2024-07-09T19:38:13.670Z,"2 km SSE of Unalaska, Alaska",earthquake,0.4,0.51,0.287074619550536,10.0,reviewed,av,av
 2024-07-09T19:50:54.830Z,61.8414,-151.0063,77.4,1.4,ml,,,,0.32,ak,ak0248s79cuj,2024-07-09T19:53:24.724Z,"26 km SE of Skwentna, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2024-07-09T19:42:18.197Z,62.904,-150.1956,27.0,0.9,ml,,,,0.81,ak,ak0248s77kaj,2024-07-09T19:44:11.102Z,"50 km N of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-07-09T20:02:30.110Z,19.3904991149902,-155.273330688477,2.00999999046326,2.56,ml,30.0,49.0,0.004852,0.189999998,hv,hv74324991,2024-07-09T20:05:07.950Z,"7 km SW of Volcano, Hawaii",earthquake,0.25,0.209999993,0.37,24.0,automatic,hv,hv
+2024-07-09T19:58:14.240Z,35.944,-117.3838333,0.55,1.32,ml,22.0,84.0,0.09726,0.19,ci,ci40654031,2024-07-09T20:04:08.546Z,"20 km N of Searles Valley, CA",earthquake,0.36,0.52,0.155,12.0,automatic,ci,ci
+2024-07-09T19:53:06.360Z,60.5382,-151.8092,71.1,3.6,ml,,,,0.59,ak,ak0248s79w9m,2024-07-09T20:10:45.379Z,"28 km WSW of Salamatof, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-07-09T19:18:07.028Z,34.1134,86.1206,10.0,4.0,mb,19.0,97.0,6.334,0.73,us,us7000my3y,2024-07-09T20:03:09.040Z,western Xizang,earthquake,11.57,1.954,0.156,11.0,reviewed,us,us
+2024-07-09T16:52:12.100Z,45.92383333333333,-122.423,15.46,0.61,ml,15.0,264.0,0.009045,0.08,uw,uw62023026,2024-07-09T20:00:36.720Z,"2 km NE of Amboy, Washington",earthquake,0.45,0.59,0.1296743391866782,5.0,reviewed,uw,uw
+2024-07-09T07:42:50.986Z,31.49,-103.881,4.895,1.6,ml,13.0,94.0,0.1,0.2,tx,tx2024njsx,2024-07-09T20:06:30.210Z,"21 km NNW of Toyah, Texas",earthquake,1.0484258670672777,2.5056600758004954,0.1,7.0,reviewed,tx,tx
