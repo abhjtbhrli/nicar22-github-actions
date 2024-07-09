@@ -594,3 +594,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-09T23:20:30.332Z,58.2743,-154.0525,95.0,1.7,ml,,,,0.61,ak,ak0248s9glw9,2024-07-09T23:22:09.495Z,"71 km WNW of Aleneva, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-07-09T21:20:39.360Z,48.084833333333336,-121.91866666666668,-0.23,1.52,ml,13.0,72.0,0.02925,0.22,uw,uw62023146,2024-07-09T23:26:10.350Z,"3 km E of Granite Falls, Washington",explosion,0.4,31.61,0.1508842553583183,5.0,reviewed,uw,uw
 2024-07-09T05:04:12.690Z,52.8575,-169.509,-1.72,1.0,ml,7.0,169.0,0.1479,0.29,av,av93190636,2024-07-09T23:27:26.130Z,"44 km WSW of Nikolski, Alaska",earthquake,2.33,0.5,0.166313829674627,7.0,reviewed,av,av
+2024-07-09T09:09:36.860Z,47.57116666666667,-121.71383333333333,11.44,0.89,ml,8.0,133.0,0.123,0.07,uw,uw62022896,2024-07-09T23:32:08.340Z,"9 km ENE of Snoqualmie, Washington",earthquake,0.4,0.79,0.0248706812485405,3.0,reviewed,uw,uw
+2024-07-09T05:20:51.600Z,56.2465,-159.437333333333,4.26,0.03,ml,4.0,292.0,0.05167,0.38,av,av93190651,2024-07-09T23:36:59.550Z,"38 km N of Ivanof Bay, Alaska",earthquake,2.52,2.05,0.314214801872958,4.0,reviewed,av,av
