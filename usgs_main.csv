@@ -368,3 +368,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-09T03:09:58.206Z,60.6351,-144.8321,0.0,1.7,ml,,,,1.21,ak,ak0248rxhn2k,2024-07-09T03:12:10.248Z,"51 km E of Cordova, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-07-08T15:20:12.910Z,54.5421666666667,-163.515166666667,11.9,1.5,ml,8.0,264.0,0.1676,0.17,av,av93190041,2024-07-09T03:21:33.750Z,"35 km S of False Pass, Alaska",earthquake,0.9,0.68,0.205690661643354,9.0,reviewed,av,av
 2024-07-08T14:19:59.170Z,58.2928333333333,-154.8205,6.16,-0.19,ml,9.0,205.0,0.091,0.09,av,av93190001,2024-07-09T03:09:39.710Z,"83 km NNW of Karluk, Alaska",earthquake,0.55,0.96,0.272693092820232,9.0,reviewed,av,av
+2024-07-09T03:27:54.970Z,33.9628333,-116.6663333,12.16,0.88,ml,41.0,69.0,0.07702,0.14,ci,ci40652991,2024-07-09T03:34:20.432Z,"12 km ENE of Cabazon, CA",earthquake,0.16,0.51,0.108,24.0,automatic,ci,ci
+2024-07-08T16:35:44.460Z,53.934,-166.5375,10.6,-0.18,ml,7.0,235.0,0.0911,0.19,av,av93190091,2024-07-09T03:31:42.570Z,"4 km N of Dutch Harbor, Alaska",earthquake,0.74,1.16,0.0778908554587942,7.0,reviewed,av,av
