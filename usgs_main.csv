@@ -489,3 +489,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-09T14:52:24.419Z,36.4355,-116.0628,0.0,0.3,ml,11.0,306.76,0.24,0.2816,nn,nn00880623,2024-07-09T14:54:27.047Z,"26 km NNW of Pahrump, Nevada",earthquake,,0.2,0.1,7.0,automatic,nn,nn
 2024-07-08T23:02:59.539Z,35.34533333,-97.9935,6.8,0.98,ml,38.0,69.0,0.07738481446,0.26,ok,ok2024njbs,2024-07-09T15:06:06.915Z,"5 km NW of Minco, Oklahoma",earthquake,,0.6,0.22,16.0,reviewed,ok,ok
 2024-07-09T15:11:10.990Z,31.72,-104.611,2.8517,2.0,ml,8.0,216.0,0.1,0.3,tx,tx2024nkhq,2024-07-09T15:25:25.663Z,"55 km SSW of Whites City, New Mexico",earthquake,0.0,2.70473057686689,0.2,6.0,automatic,tx,tx
+2024-07-09T15:40:36.778Z,59.6397,-153.3553,118.0,2.1,ml,,,,0.57,ak,ak0248s4tfwt,2024-07-09T15:42:27.395Z,"45 km ESE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
