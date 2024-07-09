@@ -472,3 +472,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-09T11:59:44.260Z,31.4948333,-115.6191667,7.75,2.72,ml,9.0,110.0,0.1746,0.16,ci,ci40653199,2024-07-09T12:06:24.505Z,"92 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.38,2.58,0.233,25.0,automatic,ci,ci
 2024-07-09T12:45:01.744Z,61.8839,-149.3048,6.2,1.7,ml,,,,0.82,ak,ak0248s324xq,2024-07-09T12:46:36.961Z,"16 km NNW of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-07-09T12:43:43.252Z,63.4169,-149.9424,94.4,1.5,ml,,,,0.42,ak,ak0248s31sph,2024-07-09T12:45:56.233Z,"49 km W of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-07-09T08:55:51.700Z,44.7648333333333,-111.014833333333,7.17,0.78,ml,14.0,132.0,0.008274,0.1,uu,uu80075516,2024-07-09T12:59:23.020Z,"13 km NNE of West Yellowstone, Montana",earthquake,0.33,0.55,0.161828470028421,4.0,reviewed,uu,uu
