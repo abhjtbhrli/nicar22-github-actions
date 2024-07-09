@@ -462,3 +462,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-09T11:19:39.906Z,59.7879,-153.175,118.4,0.0,ml,,,,0.54,ak,ak0248s2b7xh,2024-07-09T11:22:01.584Z,"52 km E of Pedro Bay, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-07-09T11:16:25.650Z,19.3990001678467,-155.279830932617,-0.0599999986588955,2.01,ml,19.0,62.0,0.006868,0.219999999,hv,hv74324276,2024-07-09T11:19:02.260Z,"6 km SW of Volcano, Hawaii",earthquake,0.15,0.159999996,0.3,14.0,automatic,hv,hv
 2024-07-09T11:17:36.050Z,17.928,-66.9258333333333,8.49,2.34,md,11.0,215.0,0.04691,0.12,pr,pr71454868,2024-07-09T11:44:54.080Z,"5 km SSW of Guánica, Puerto Rico",earthquake,0.69,0.58,0.0600968765223144,5.0,reviewed,pr,pr
+2024-07-09T11:48:48.745Z,60.4521,-151.3797,48.9,1.2,ml,,,,0.37,ak,ak0248s2hg3u,2024-07-09T11:50:10.232Z,"6 km NW of Kalifornsky, Alaska",earthquake,,1.4,,,automatic,ak,ak
