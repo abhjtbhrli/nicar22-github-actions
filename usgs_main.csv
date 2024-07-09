@@ -523,3 +523,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-09T18:35:10.440Z,33.6508331,-116.7080002,13.12,1.0,ml,13.0,96.0,0.0604,0.06,ci,ci40653863,2024-07-09T18:37:12.848Z,"10 km S of Idyllwild, CA",earthquake,0.46,0.8,0.548,4.0,automatic,ci,ci
 2024-07-09T18:30:21.526Z,61.2705,-151.5014,76.5,1.1,ml,,,,0.54,ak,ak0248s6jkco,2024-07-09T18:32:09.423Z,"26 km WNW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-07-09T06:44:59.690Z,46.887166666666666,-122.0055,10.95,0.26,ml,20.0,81.0,0.04122,0.09,uw,uw62022881,2024-07-09T18:29:07.090Z,"14 km N of Ashford, Washington",earthquake,0.26,0.42,0.1672892859327766,8.0,reviewed,uw,uw
+2024-07-09T18:38:15.820Z,62.2502,-150.4002,18.0,1.3,ml,,,,0.39,ak,ak0248s6l9n2,2024-07-09T18:39:52.749Z,"11 km SW of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-07-08T19:34:43.030Z,52.0846666666667,-176.124166666667,-1.77,0.44,ml,5.0,150.0,0.03148,0.19,av,av93190246,2024-07-09T18:39:24.750Z,"42 km ENE of Adak, Alaska",earthquake,0.8,1.48,0.134793663205396,5.0,reviewed,av,av
+2024-07-08T19:11:17.150Z,58.508,-154.425,4.3,-0.5,ml,5.0,214.0,0.06547,0.23,av,av93014769,2024-07-09T18:47:21.900Z,"101 km WNW of Aleneva, Alaska",earthquake,1.05,0.79,0.323042884014864,5.0,reviewed,av,av
