@@ -378,3 +378,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-09T03:58:23.990Z,19.3811664581299,-155.265167236328,0.159999996423721,1.75999999,md,18.0,62.0,0.009684,0.180000007,hv,hv74323386,2024-07-09T04:01:03.210Z,"7 km SSW of Volcano, Hawaii",earthquake,0.17,0.200000003,0.379999995,13.0,automatic,hv,hv
 2024-07-09T03:57:23.813Z,64.9699,-151.2992,12.2,0.9,ml,,,,0.67,ak,ak0248rxrus4,2024-07-09T03:59:42.672Z,"31 km W of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-07-08T12:01:26.990Z,37.5961666666667,-118.9925,0.67,-0.19,md,9.0,204.0,0.02826,0.05,nc,nc75032332,2024-07-09T04:13:33.217Z,"5 km SSW of Mammoth Lakes, CA",earthquake,0.51,0.67,0.347,6.0,reviewed,nc,nc
+2024-07-09T04:22:04.253Z,58.3359,-133.4344,0.0,2.6,ml,,,,0.97,ak,ak0248ry5qu9,2024-07-09T04:24:28.731Z,"57 km E of Juneau, Alaska",earthquake,,0.3,,,automatic,ak,ak
