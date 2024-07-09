@@ -538,3 +538,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-09T19:08:52.880Z,31.4991667,-115.6286667,8.38,2.72,ml,9.0,108.0,0.1708,0.2,ci,ci40653951,2024-07-09T19:16:17.274Z,"92 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.42,2.65,0.151,23.0,automatic,ci,ci
 2024-07-09T17:51:37.298Z,17.6318,-102.1057,10.0,4.2,mb,111.0,231.0,2.17,0.57,us,us7000my3g,2024-07-09T19:23:21.040Z,"38 km S of Petacalco, Mexico",earthquake,7.21,1.986,0.052,102.0,reviewed,us,us
 2024-07-08T21:30:41.870Z,51.8656666666667,-177.831333333333,3.44,1.26,ml,5.0,238.0,0.05243,0.13,av,av93190296,2024-07-09T19:22:33.250Z,"82 km W of Adak, Alaska",earthquake,0.61,0.77,0.224957914144537,5.0,reviewed,av,av
+2024-07-09T19:25:42.359Z,63.6375,-149.127,31.7,1.1,ml,,,,0.67,ak,ak0248s73yzf,2024-07-09T19:27:55.882Z,"14 km SW of Denali Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
