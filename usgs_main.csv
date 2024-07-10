@@ -795,3 +795,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-10T18:53:20.840Z,34.9661674,-118.2143326,8.01,1.5,ml,14.0,55.0,0.08792,0.24,ci,ci40655375,2024-07-10T18:55:26.248Z,"10 km SSW of Mojave, CA",earthquake,0.66,1.48,0.375,6.0,automatic,ci,ci
 2024-07-10T18:48:41.660Z,38.7929992675781,-122.748664855957,2.46000003814697,0.8,md,13.0,90.0,0.01151,0.02,nc,nc75033312,2024-07-10T18:50:19.591Z,"2 km NNE of The Geysers, CA",earthquake,0.31,0.889999986,0.19,13.0,automatic,nc,nc
 2024-07-10T17:41:44.375Z,16.6459,-94.5266,98.373,4.3,mb,84.0,128.0,2.321,0.7,us,us7000myc1,2024-07-10T18:53:48.040Z,"12 km NE of Niltepec, Mexico",earthquake,10.14,7.279,0.066,64.0,reviewed,us,us
+2024-07-10T19:02:06.111Z,61.1529,-146.7019,35.1,1.5,ml,,,,0.72,ak,ak0248tuib7n,2024-07-10T19:03:31.510Z,"19 km W of Valdez, Alaska",earthquake,,16.2,,,automatic,ak,ak
+2024-07-10T15:34:28.940Z,51.9095,179.5635,12.57,0.18,ml,5.0,176.0,0.009719,0.18,av,av93192586,2024-07-10T18:59:42.090Z,"261 km W of Adak, Alaska",earthquake,0.98,0.82,0.260663624605076,5.0,reviewed,av,av
