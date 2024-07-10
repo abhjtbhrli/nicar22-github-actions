@@ -757,3 +757,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-10T15:57:22.989Z,68.1543,-158.4368,0.0,2.7,ml,,,,0.59,ak,ak0248tsgehb,2024-07-10T16:01:26.975Z,"121 km NNW of Ambler, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-07-10T15:56:58.106Z,61.4961,-146.6152,30.8,1.4,ml,,,,0.62,ak,ak0248tsg9gy,2024-07-10T15:58:47.988Z,"43 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-07-10T15:39:35.656Z,-22.8068,-66.2556,261.767,4.5,mb,35.0,59.0,1.779,0.81,us,us7000mya4,2024-07-10T16:10:11.040Z,"58 km W of Abra Pampa, Argentina",earthquake,6.17,10.543,0.157,12.0,reviewed,us,us
+2024-07-10T16:34:05.630Z,33.5146675,-116.560997,14.77,1.02,ml,17.0,60.0,0.03977,0.25,ci,ci40655095,2024-07-10T16:36:18.952Z,"11 km ESE of Anza, CA",earthquake,0.52,1.29,0.217,10.0,automatic,ci,ci
+2024-07-10T16:31:53.820Z,38.8436660766602,-122.811164855957,3.96000003814697,0.22,md,6.0,148.0,0.01453,0.02,nc,nc75033272,2024-07-10T16:33:30.285Z,"8 km WNW of Cobb, CA",earthquake,1.27,4.3499999,0.12,8.0,automatic,nc,nc
+2024-07-10T16:26:01.650Z,35.0578333,-118.3356667,0.61,1.51,ml,31.0,36.0,0.06725,0.17,ci,ci40655055,2024-07-10T16:32:28.673Z,"13 km SE of Tehachapi, CA",earthquake,0.26,0.47,0.424,8.0,automatic,ci,ci
+2024-07-10T16:21:03.612Z,39.1324,-119.6496,11.3,1.2,ml,9.0,103.81,0.058,0.271,nn,nn00880687,2024-07-10T16:23:22.113Z,"10 km ESE of Carson City, Nevada",earthquake,,0.6,0.07,8.0,automatic,nn,nn
+2024-07-10T15:32:40.790Z,39.9606666666667,-111.776333333333,-0.11,1.49,ml,18.0,61.0,0.0732,0.21,uu,uu80075601,2024-07-10T16:35:50.170Z,"1 km SSE of Santaquin, Utah",earthquake,0.48,2.44,0.278092488617163,7.0,reviewed,uu,uu
