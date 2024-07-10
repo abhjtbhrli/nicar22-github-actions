@@ -630,3 +630,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-10T02:27:08.410Z,38.8228340148926,-122.845497131348,2.01999998092651,0.62,md,10.0,84.0,0.008181,0.01,nc,nc75032972,2024-07-10T02:28:47.054Z,"9 km NW of The Geysers, CA",earthquake,0.35,0.600000024,0.31,11.0,automatic,nc,nc
 2024-07-09T12:45:29.550Z,53.8745,-166.857833333333,4.23,-0.7,ml,5.0,188.0,0.05774,0.08,av,av93014844,2024-07-10T02:43:54.120Z,"20 km W of Dutch Harbor, Alaska",earthquake,0.48,2.0,0.0768201545144648,5.0,reviewed,av,av
 2024-07-09T12:16:40.360Z,53.8653333333333,-166.8545,6.96,-0.55,ml,5.0,176.0,0.06325,0.15,av,av93014839,2024-07-10T02:25:50.820Z,"20 km W of Dutch Harbor, Alaska",earthquake,0.66,1.21,0.18217339658558,5.0,reviewed,av,av
+2024-07-10T02:51:13.736Z,59.2837,-154.7358,0.0,1.5,ml,,,,0.63,ak,ak0248tkoglp,2024-07-10T02:53:08.849Z,"17 km S of Kokhanok, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-07-10T02:49:14.600Z,61.4367,-146.4973,27.8,2.3,ml,,,,0.44,ak,ak0248tko18k,2024-07-10T02:50:54.420Z,"35 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-07-09T13:24:04.330Z,59.7853333333333,-152.969833333333,18.05,0.68,ml,15.0,178.0,0.04588,0.11,av,av93191051,2024-07-10T02:51:42.000Z,"63 km E of Pedro Bay, Alaska",earthquake,0.75,0.85,0.315156461285997,17.0,reviewed,av,av
