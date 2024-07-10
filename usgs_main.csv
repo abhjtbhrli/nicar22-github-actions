@@ -762,3 +762,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-10T16:26:01.650Z,35.0578333,-118.3356667,0.61,1.51,ml,31.0,36.0,0.06725,0.17,ci,ci40655055,2024-07-10T16:32:28.673Z,"13 km SE of Tehachapi, CA",earthquake,0.26,0.47,0.424,8.0,automatic,ci,ci
 2024-07-10T16:21:03.612Z,39.1324,-119.6496,11.3,1.2,ml,9.0,103.81,0.058,0.271,nn,nn00880687,2024-07-10T16:23:22.113Z,"10 km ESE of Carson City, Nevada",earthquake,,0.6,0.07,8.0,automatic,nn,nn
 2024-07-10T15:32:40.790Z,39.9606666666667,-111.776333333333,-0.11,1.49,ml,18.0,61.0,0.0732,0.21,uu,uu80075601,2024-07-10T16:35:50.170Z,"1 km SSE of Santaquin, Utah",earthquake,0.48,2.44,0.278092488617163,7.0,reviewed,uu,uu
+2024-07-10T16:34:06.050Z,33.5146667,-116.5471667,10.25,0.78,ml,20.0,110.0,0.0448,0.11,ci,ci40655087,2024-07-10T16:40:13.651Z,"12 km ESE of Anza, CA",earthquake,0.64,0.76,0.139,17.0,automatic,ci,ci
