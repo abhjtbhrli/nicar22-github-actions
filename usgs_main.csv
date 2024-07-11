@@ -1125,3 +1125,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-11T23:11:17.460Z,19.3881664276123,-155.278503417969,1.61000001430511,1.88,ml,18.0,64.0,0.00344,0.170000002,hv,hv74328756,2024-07-11T23:13:57.470Z,"7 km SW of Volcano, Hawaii",earthquake,0.19,0.219999999,0.17,9.0,automatic,hv,hv
 2024-07-11T23:09:56.643Z,61.5751,-141.1831,0.0,2.3,ml,,,,0.8,ak,ak0248vkh01c,2024-07-11T23:11:57.259Z,"93 km E of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-07-11T22:55:14.279Z,63.096,-151.3545,0.0,1.4,ml,,,,0.39,ak,ak0248vk5c3i,2024-07-11T22:58:18.161Z,"52 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-07-11T23:20:34.310Z,35.8668333,-117.6863333,8.38,0.9,ml,22.0,66.0,0.086,0.13,ci,ci40657103,2024-07-11T23:26:24.042Z,"21 km ESE of Little Lake, CA",earthquake,0.17,0.5,0.207,12.0,automatic,ci,ci
+2024-07-11T23:18:07.616Z,64.441,-149.9678,15.8,2.2,ml,,,,0.64,ak,ak0248vkitp5,2024-07-11T23:20:29.312Z,"39 km WNW of Anderson, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-07-11T09:04:00.280Z,52.336,-173.964333333333,16.74,0.32,ml,8.0,286.0,0.05358,0.16,av,av93015089,2024-07-11T23:19:45.550Z,"22 km NE of Atka, Alaska",earthquake,1.48,0.91,0.362790171041204,8.0,reviewed,av,av
