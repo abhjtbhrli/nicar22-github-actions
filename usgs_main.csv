@@ -1043,3 +1043,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-11T17:23:49.150Z,19.3826675415039,-155.251159667969,1.70000004768372,2.13,ml,27.0,80.0,0.002831,0.25,hv,hv74328161,2024-07-11T17:26:29.200Z,"6 km SSW of Volcano, Hawaii",earthquake,0.26,0.219999999,0.2,14.0,automatic,hv,hv
 2024-07-11T17:23:42.580Z,19.345666885376,-155.210006713867,4.8600001335144,2.4,ml,17.0,71.0,0.02845,0.150000006,hv,hv74328166,2024-07-11T17:26:31.270Z,"11 km SSE of Volcano, Hawaii",earthquake,0.45,0.75,0.25,12.0,automatic,hv,hv
 2024-07-11T16:19:41.616Z,-6.3025,128.4166,334.657,4.4,mb,27.0,55.0,2.307,0.68,us,us7000myma,2024-07-11T17:18:08.040Z,"289 km S of Ambon, Indonesia",earthquake,7.63,10.807,0.13,17.0,reviewed,us,us
+2024-07-11T17:40:53.029Z,36.6238,-116.2562,0.0,-0.1,ml,9.0,227.79,0.07,0.1812,nn,nn00880768,2024-07-11T17:42:50.202Z,"52 km NNW of Pahrump, Nevada",earthquake,,6.2,0.2,5.0,automatic,nn,nn
+2024-07-11T17:34:23.000Z,49.3519,-129.186,11.0,4.9,Mb,36.0,255.59997955200163,3.365987,1.21,at,at00sggzhb,2024-07-11T17:39:51.245Z,"204 km SW of Port McNeill, Canada",earthquake,0.0,0.0,,17.0,reviewed,at,at
