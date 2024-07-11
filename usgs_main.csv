@@ -913,3 +913,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-11T02:59:21.503Z,61.557,-141.2221,0.0,1.6,ml,,,,0.63,ak,ak0248v89jel,2024-07-11T03:02:02.897Z,"91 km E of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-07-11T02:59:13.602Z,64.4154,-149.5536,15.0,1.1,ml,,,,0.47,ak,ak0248v89it8,2024-07-11T03:02:12.860Z,"19 km WNW of Anderson, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-07-10T20:16:15.360Z,57.064,-135.692,7.79,-0.36,ml,4.0,237.0,0.009073,0.09,av,av93192791,2024-07-11T02:58:05.510Z,"21 km W of Sitka, Alaska",earthquake,1.05,0.67,0.153823721721754,4.0,reviewed,av,av
+2024-07-11T03:01:18.427Z,37.0126,137.4273,10.0,4.9,mb,59.0,72.0,0.779,0.92,us,us7000myhp,2024-07-11T03:23:42.040Z,"10 km NW of Nyūzen, Japan",earthquake,4.75,1.855,0.039,205.0,reviewed,us,us
+2024-07-11T02:55:19.305Z,-8.7449,-74.6308,132.926,4.8,mb,65.0,104.0,3.888,0.87,us,us7000myhh,2024-07-11T03:17:24.040Z,"9 km ENE of Honoria, Peru",earthquake,7.52,7.443,0.031,326.0,reviewed,us,us
+2024-07-10T21:15:19.820Z,52.369,-174.116666666667,5.88,-0.01,ml,4.0,262.0,0.02369,0.21,av,av93192841,2024-07-11T03:18:55.350Z,"20 km NNE of Atka, Alaska",earthquake,1.38,1.16,0.328943570580593,4.0,reviewed,av,av
+2024-07-10T21:11:43.780Z,52.4078333333333,-174.168166666667,4.39,0.05,ml,6.0,232.0,0.02993,0.12,av,av93192836,2024-07-11T03:20:42.980Z,"23 km N of Atka, Alaska",earthquake,0.58,0.68,0.36492227982423,6.0,reviewed,av,av
