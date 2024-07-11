@@ -950,3 +950,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-11T06:40:47.090Z,38.8380012512207,-122.836166381836,1.80999994277954,0.57,md,8.0,114.0,0.01489,0.02,nc,nc75033562,2024-07-11T06:42:21.689Z,"10 km NW of The Geysers, CA",earthquake,0.48,1.02999997,0.33,9.0,automatic,nc,nc
 2024-07-11T06:59:32.223Z,59.5138,-152.4955,68.3,2.1,ml,,,,0.42,ak,ak0248vanao6,2024-07-11T07:08:04.040Z,"37 km WNW of Nanwalek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-07-11T06:56:58.980Z,63.3882,-149.0339,78.9,1.2,ml,,,,0.48,ak,ak0248vampkj,2024-07-11T07:11:32.779Z,"4 km W of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-07-11T07:24:25.524Z,18.0519,-66.9173,22.915,2.9,ml,14.0,149.0,0.146,1.15,us,us7000myim,2024-07-11T07:33:58.040Z,"2 km NW of Lluveras, Puerto Rico",earthquake,3.7,8.258,0.081,20.0,reviewed,us,us
