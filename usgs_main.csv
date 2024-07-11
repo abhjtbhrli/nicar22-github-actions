@@ -932,3 +932,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-11T03:55:55.770Z,33.6478333,-116.7426667,14.22,0.46,ml,14.0,222.0,0.1237,0.12,ci,ci40655959,2024-07-11T04:01:44.205Z,"10 km SSW of Idyllwild, CA",earthquake,0.68,0.44,0.146,8.0,automatic,ci,ci
 2024-07-10T15:39:55.640Z,52.0673333333333,-176.121166666667,-1.77,-0.43,ml,4.0,145.0,0.01854,0.43,av,av93192591,2024-07-11T04:00:01.530Z,"41 km ENE of Adak, Alaska",earthquake,1.26,2.55,0.312663402432482,4.0,reviewed,av,av
 2024-07-10T12:22:22.775Z,-14.2673,-74.3448,87.663,4.4,mb,22.0,132.0,3.325,0.63,us,us7000my9d,2024-07-11T04:07:50.040Z,"36 km S of Sacsamarca, Peru",earthquake,5.94,8.732,0.179,9.0,reviewed,us,us
+2024-07-11T04:26:18.481Z,37.3602,-117.886,7.4,1.0,ml,11.0,179.27000000000004,0.069,0.3246,nn,nn00880738,2024-07-11T04:28:55.171Z,"37 km SSE of Dyer, Nevada",earthquake,,1.1,0.16,7.0,automatic,nn,nn
+2024-07-11T04:25:18.570Z,61.3718,-146.6356,24.2,1.9,ml,,,,0.69,ak,ak0248v99429,2024-07-11T04:27:09.811Z,"30 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
