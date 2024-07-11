@@ -1122,3 +1122,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-11T22:53:52.210Z,33.8426666,-117.7324982,8.47,1.26,ml,24.0,65.0,0.03239,0.21,ci,ci40657055,2024-07-11T22:55:55.631Z,"8 km ENE of Villa Park, CA",earthquake,0.5,1.08,0.251,9.0,automatic,ci,ci
 2024-07-11T22:48:13.210Z,19.3876667022705,-155.282669067383,-0.400000005960464,2.16,ml,20.0,55.0,0.001444,0.25,hv,hv74328716,2024-07-11T22:50:54.600Z,"7 km SW of Volcano, Hawaii",earthquake,0.19,0.230000004,0.26,14.0,automatic,hv,hv
 2024-07-11T22:34:45.477Z,-25.5453,179.6885,522.267,4.5,mb,14.0,110.0,4.269,0.58,us,us7000mypm,2024-07-11T22:50:34.040Z,south of the Fiji Islands,earthquake,10.44,12.015,0.128,18.0,reviewed,us,us
+2024-07-11T23:11:17.460Z,19.3881664276123,-155.278503417969,1.61000001430511,1.88,ml,18.0,64.0,0.00344,0.170000002,hv,hv74328756,2024-07-11T23:13:57.470Z,"7 km SW of Volcano, Hawaii",earthquake,0.19,0.219999999,0.17,9.0,automatic,hv,hv
+2024-07-11T23:09:56.643Z,61.5751,-141.1831,0.0,2.3,ml,,,,0.8,ak,ak0248vkh01c,2024-07-11T23:11:57.259Z,"93 km E of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-07-11T22:55:14.279Z,63.096,-151.3545,0.0,1.4,ml,,,,0.39,ak,ak0248vk5c3i,2024-07-11T22:58:18.161Z,"52 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
