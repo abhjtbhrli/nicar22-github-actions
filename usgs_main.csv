@@ -1028,3 +1028,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-11T15:08:32.000Z,49.855,-129.881,11.0,6.6,Mi,18.0,,,,pt,pt24193001,2024-07-11T15:18:39.893Z,"215 km WSW of Port McNeill, Canada",earthquake,,,,39.0,reviewed,pt,pt
 2024-07-11T15:21:45.660Z,38.8334999084473,-122.81600189209,1.8400000333786,0.96,md,11.0,76.0,0.0111,0.02,nc,nc75033727,2024-07-11T15:23:21.773Z,"8 km NNW of The Geysers, CA",earthquake,0.35,0.550000012,0.11,15.0,automatic,nc,nc
 2024-07-11T15:08:47.501Z,48.8127,-128.7254,10.0,6.4,mww,60.0,68.0,1.869,1.18,us,us7000mykj,2024-07-11T15:30:32.154Z,"209 km WSW of Tofino, Canada",earthquake,3.85,1.902,0.041,58.0,reviewed,us,us
+2024-07-11T15:54:49.730Z,32.2338333,-116.9943314,13.99,2.21,ml,26.0,157.0,0.2802,0.2,ci,ci40656415,2024-07-11T15:56:57.167Z,"7 km WNW of Primo Tapia, B.C., MX",earthquake,0.53,1.32,0.194,14.0,automatic,ci,ci
