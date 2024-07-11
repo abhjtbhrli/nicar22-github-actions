@@ -1060,3 +1060,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-11T00:46:47.990Z,61.255,-152.189166666667,27.94,0.24,ml,6.0,167.0,0.08857,0.08,av,av93193001,2024-07-11T18:51:08.220Z,"60 km WNW of Tyonek, Alaska",earthquake,0.62,0.73,0.19250887682987,6.0,reviewed,av,av
 2024-07-11T19:10:21.890Z,38.835334777832,-122.803665161133,2.07999992370605,0.76,md,9.0,78.0,0.01085,0.01,nc,nc75033792,2024-07-11T19:11:58.381Z,"7 km WNW of Cobb, CA",earthquake,0.37,1.19000006,0.18,9.0,automatic,nc,nc
 2024-07-11T19:03:49.389Z,61.2678,-150.61,35.8,1.4,ml,,,,0.45,ak,ak0248vi1yre,2024-07-11T19:05:20.790Z,"29 km ENE of Beluga, Alaska",earthquake,,3.7,,,automatic,ak,ak
+2024-07-11T05:44:20.460Z,47.69533333333333,-121.91616666666668,28.66,1.16,ml,10.0,74.0,0.03134,0.11,uw,uw62015632,2024-07-11T19:21:39.300Z,"0 km NNW of Lake Marcel-Stillwater, Washington",earthquake,0.37,0.65,0.1649499281927432,3.0,reviewed,uw,uw
