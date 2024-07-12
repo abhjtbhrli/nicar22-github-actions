@@ -1352,3 +1352,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-12T20:23:49.810Z,34.9586678,-119.0494995,15.09,1.36,ml,13.0,81.0,0.09771,0.11,ci,ci40658023,2024-07-12T20:25:53.741Z,"11 km W of Grapevine, CA",earthquake,0.79,2.09,0.343,4.0,automatic,ci,ci
 2024-07-12T20:17:02.262Z,66.7473,-149.4975,4.8,2.1,ml,,,,0.75,ak,ak0248x69n8y,2024-07-12T20:19:25.145Z,"64 km SSE of Coldfoot, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-07-12T02:21:51.810Z,51.6095,-178.561666666667,14.19,1.56,ml,11.0,181.0,0.1672,0.17,av,av93193936,2024-07-12T20:23:45.930Z,"136 km WSW of Adak, Alaska",earthquake,1.54,2.95,0.323186868543803,11.0,reviewed,av,av
+2024-07-12T17:35:40.111Z,-5.3377,150.0941,176.288,4.4,mb,18.0,159.0,4.979,0.42,us,us7000myxa,2024-07-12T20:34:14.040Z,"24 km NNW of Kimbe, Papua New Guinea",earthquake,13.24,9.1,0.144,16.0,reviewed,us,us
+2024-07-12T02:38:43.080Z,60.0235,-153.1315,-0.8,-0.54,ml,5.0,167.0,0.03612,0.09,av,av93193946,2024-07-12T20:33:02.380Z,"60 km ENE of Pedro Bay, Alaska",earthquake,0.31,3.47,0.192326799457604,5.0,reviewed,av,av
