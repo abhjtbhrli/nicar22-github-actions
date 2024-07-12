@@ -1241,3 +1241,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-12T10:38:33.410Z,19.3771667480469,-155.25016784668,1.5,2.45,ml,11.0,118.0,0.008369,0.180000007,hv,hv74330046,2024-07-12T10:41:09.500Z,"7 km SSW of Volcano, Hawaii",earthquake,0.43,0.200000003,0.54,42.0,automatic,hv,hv
 2024-07-12T10:34:01.247Z,1.7179,126.4274,46.501,4.8,mb,33.0,112.0,1.329,0.58,us,us7000myue,2024-07-12T10:48:24.040Z,"147 km ENE of Bitung, Indonesia",earthquake,7.17,9.32,0.102,30.0,reviewed,us,us
 2024-07-12T01:11:00.590Z,37.726,-122.119333333333,5.48,1.01,md,15.0,78.0,0.001838,0.08,nc,nc75033847,2024-07-12T10:44:50.529Z,"3 km E of San Leandro, CA",earthquake,0.16,0.25,0.254,11.0,reviewed,nc,nc
+2024-07-12T10:37:45.724Z,31.691,-104.422,5.8051,2.1,ml,37.0,58.0,0.0,0.2,tx,tx2024npld,2024-07-12T10:52:47.580Z,"53 km S of Whites City, New Mexico",earthquake,0.5420849019869632,0.4915648542272779,0.2,34.0,reviewed,tx,tx
