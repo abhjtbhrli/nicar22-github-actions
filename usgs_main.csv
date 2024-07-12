@@ -1368,3 +1368,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-12T18:51:13.362Z,23.9533,121.7596,24.134,4.4,mb,56.0,84.0,0.266,0.64,us,us7000myxu,2024-07-12T21:09:41.040Z,"16 km E of Hualien City, Taiwan",earthquake,2.83,4.901,0.087,40.0,reviewed,us,us
 2024-07-12T21:33:15.650Z,33.8463326,-117.4921646,0.94,1.43,ml,41.0,50.0,0.0487,0.22,ci,ci40658095,2024-07-12T21:35:22.037Z,"4 km SE of Home Gardens, CA",earthquake,0.33,0.56,0.239,22.0,automatic,ci,ci
 2024-07-12T18:59:17.690Z,61.284,-152.246666666667,0.02,-0.35,ml,6.0,111.0,0.0656,0.15,av,av93194631,2024-07-12T21:32:41.300Z,"64 km WNW of Tyonek, Alaska",earthquake,0.45,31.61,0.0840928342226629,5.0,reviewed,av,av
+2024-07-12T21:34:10.773Z,63.0981,-151.6647,0.0,1.7,ml,,,,1.02,ak,ak0248x6yqoo,2024-07-12T21:36:36.905Z,"49 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-07-12T18:55:00.138Z,-15.9589,-74.7651,25.103,4.8,mb,119.0,146.0,4.433,0.73,us,us7000myxy,2024-07-12T21:40:21.040Z,"46 km WSW of Atiquipa, Peru",earthquake,9.62,6.112,0.048,142.0,reviewed,us,us
