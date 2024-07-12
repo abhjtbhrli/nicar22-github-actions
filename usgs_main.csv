@@ -1310,3 +1310,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-12T16:57:18.040Z,35.0493333,-118.3403333,-0.95,0.98,ml,25.0,36.0,0.05861,0.22,ci,ci40657815,2024-07-12T17:03:27.899Z,"14 km SE of Tehachapi, CA",earthquake,0.31,0.83,0.116,11.0,automatic,ci,ci
 2024-07-12T17:18:28.151Z,64.2636,-148.947,11.5,1.1,ml,,,,0.75,ak,ak0248x4hm5b,2024-07-12T17:20:36.765Z,"11 km E of Clear, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-07-12T17:12:48.942Z,-3.7984,151.3829,10.256,5.6,mww,119.0,37.0,6.972,0.73,us,us7000myx6,2024-07-12T17:37:51.731Z,"97 km WNW of Rabaul, Papua New Guinea",earthquake,5.13,4.425,0.068,21.0,reviewed,us,us
+2024-07-12T17:42:23.100Z,37.5794982910156,-121.69750213623,5.63000011444092,2.5,md,45.0,59.0,0.08666,0.07,nc,nc75034077,2024-07-12T17:45:33.100Z,"13 km SSE of Livermore, CA",earthquake,0.16,0.769999981,0.15,55.0,automatic,nc,nc
+2024-07-12T17:33:50.710Z,33.3885,-116.876,9.03,0.45,ml,30.0,42.0,0.03655,0.19,ci,ci40657871,2024-07-12T17:39:49.789Z,"4 km NNW of Palomar Observatory, CA",earthquake,0.22,0.61,0.165,9.0,automatic,ci,ci
+2024-07-12T13:07:09.030Z,46.18933333333333,-122.16266666666668,-1.29,-0.06,ml,4.0,236.0,0.01923,0.06,uw,uw62015977,2024-07-12T17:42:45.390Z,"38 km NE of Amboy, Washington",earthquake,1.51,8.06,0.0073335982075639,2.0,reviewed,uw,uw
