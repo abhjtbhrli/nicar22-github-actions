@@ -1227,3 +1227,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-12T09:14:45.620Z,33.1498333,-115.97,4.8,1.24,ml,56.0,54.0,0.02447,0.19,ci,ci40657455,2024-07-12T09:20:57.152Z,"15 km E of Ocotillo Wells, CA",earthquake,0.17,0.34,0.149,28.0,automatic,ci,ci
 2024-07-12T09:12:23.780Z,35.9666667,-117.372,2.74,1.18,ml,23.0,69.0,0.1044,0.17,ci,ci40657447,2024-07-12T09:18:23.367Z,"22 km N of Searles Valley, CA",earthquake,0.34,1.24,0.226,11.0,automatic,ci,ci
 2024-07-12T08:45:28.973Z,31.32,-103.074,7.2197,1.8,ml,6.0,157.0,0.0,0.5,tx,tx2024nphk,2024-07-12T09:12:25.175Z,"8 km N of Coyanosa, Texas",earthquake,0.0,5.51215839322289,0.3,6.0,automatic,tx,tx
+2024-07-12T09:30:32.984Z,-15.5726,-74.7689,31.894,5.7,mww,133.0,120.0,4.093,0.7,us,us7000mytc,2024-07-12T09:51:33.566Z,"23 km SW of Acarí, Peru",earthquake,8.19,5.013,0.062,25.0,reviewed,us,us
