@@ -1183,3 +1183,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-12T04:26:34.610Z,17.8941666666667,-66.843,3.01,2.44,md,13.0,201.0,0.2057,0.34,pr,pr71455193,2024-07-12T04:46:29.180Z,"10 km SSE of Maria Antonia, Puerto Rico",earthquake,1.05,0.79,0.136031837894141,7.0,reviewed,pr,pr
 2024-07-12T04:58:28.998Z,64.4839,-146.9577,0.0,1.6,ml,,,,0.8,ak,ak0248wwzjzn,2024-07-12T05:00:47.571Z,"5 km SSW of Salcha, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-07-12T04:53:53.270Z,19.3866672515869,-155.310501098633,-0.370000004768372,1.85,ml,6.0,278.0,0.01593,0.159999996,hv,hv74329386,2024-07-12T04:56:31.160Z,"10 km SW of Volcano, Hawaii",earthquake,0.45,0.340000004,0.26,5.0,automatic,hv,hv
+2024-07-12T05:13:44.140Z,39.5374984741211,-123.349670410156,8.90999984741211,2.61,md,29.0,56.0,,0.1,nc,nc75033932,2024-07-12T05:18:01.870Z,"11 km NNE of Brooktrails, CA",earthquake,0.27,0.540000021,0.12,31.0,automatic,nc,nc
+2024-07-12T04:53:52.661Z,54.8238,167.93,9.683,5.1,mww,87.0,93.0,5.772,0.88,us,us7000mys6,2024-07-12T05:12:27.935Z,"Komandorskiye Ostrova, Russia region",earthquake,9.22,4.452,0.05,39.0,reviewed,us,us
