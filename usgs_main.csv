@@ -1293,3 +1293,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-12T15:57:24.458Z,61.2325,-150.0328,35.6,2.0,ml,,,,0.52,ak,ak0248x3j3kt,2024-07-12T15:58:46.364Z,"7 km WNW of Anchorage, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2024-07-12T15:02:20.630Z,29.1643,56.9795,10.474,4.5,mb,31.0,103.0,4.259,0.6,us,us7000mywh,2024-07-12T15:53:42.040Z,"21 km SE of Kūh Sefīd, Iran",earthquake,6.77,4.727,0.106,26.0,reviewed,us,us
 2024-07-12T00:29:31.390Z,47.2956666666667,-113.1925,20.09,1.72,ml,21.0,83.0,0.1941,0.11,mb,mb90056593,2024-07-12T15:54:54.150Z,"25 km ENE of Seeley Lake, Montana",earthquake,0.3,0.85,0.123884320389642,11.0,reviewed,mb,mb
+2024-07-12T16:18:11.053Z,36.8559,-117.4827,8.2,1.4,ml,23.0,220.24,0.168,0.2648,nn,nn00880819,2024-07-12T16:20:38.995Z,"53 km NE of Keeler, California",earthquake,,1.3,0.2,16.0,automatic,nn,nn
+2024-07-12T16:11:11.930Z,35.96533203125,-120.521835327148,11.0100002288818,2.03,md,33.0,58.0,0.02096,0.09,nc,nc75034052,2024-07-12T16:14:41.360Z,"11 km NW of Parkfield, CA",earthquake,0.23,0.340000004,0.14,27.0,automatic,nc,nc
+2024-07-12T08:10:23.220Z,44.7791666666667,-110.8885,7.01,-0.21,md,7.0,174.0,0.02857,0.08,uu,uu80075741,2024-07-12T16:05:05.460Z,"21 km NE of West Yellowstone, Montana",earthquake,0.98,1.53,0.316935701206447,4.0,reviewed,uu,uu
