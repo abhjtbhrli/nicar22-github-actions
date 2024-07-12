@@ -1181,3 +1181,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-12T04:22:04.510Z,64.8785,-148.9631,15.4,0.4,ml,,,,0.6,ak,ak0248wwrsbe,2024-07-12T04:25:01.845Z,"31 km NNE of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-07-12T04:35:20.500Z,35.683,-117.5391667,7.23,1.48,ml,33.0,56.0,0.09568,0.15,ci,ci40657319,2024-07-12T04:41:29.257Z,"14 km ENE of Ridgecrest, CA",earthquake,0.18,0.45,0.123,21.0,automatic,ci,ci
 2024-07-12T04:26:34.610Z,17.8941666666667,-66.843,3.01,2.44,md,13.0,201.0,0.2057,0.34,pr,pr71455193,2024-07-12T04:46:29.180Z,"10 km SSE of Maria Antonia, Puerto Rico",earthquake,1.05,0.79,0.136031837894141,7.0,reviewed,pr,pr
+2024-07-12T04:58:28.998Z,64.4839,-146.9577,0.0,1.6,ml,,,,0.8,ak,ak0248wwzjzn,2024-07-12T05:00:47.571Z,"5 km SSW of Salcha, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-07-12T04:53:53.270Z,19.3866672515869,-155.310501098633,-0.370000004768372,1.85,ml,6.0,278.0,0.01593,0.159999996,hv,hv74329386,2024-07-12T04:56:31.160Z,"10 km SW of Volcano, Hawaii",earthquake,0.45,0.340000004,0.26,5.0,automatic,hv,hv
