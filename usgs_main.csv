@@ -1177,3 +1177,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-12T04:03:17.160Z,33.4075,-116.4365,14.38,0.48,ml,28.0,66.0,0.1153,0.16,ci,ci40657311,2024-07-12T04:09:22.741Z,"18 km NNW of Borrego Springs, CA",earthquake,0.22,0.57,0.089,8.0,automatic,ci,ci
 2024-07-12T03:55:54.102Z,-15.0227,-173.3514,10.0,5.0,mb,60.0,58.0,1.88,1.0,us,us7000myrz,2024-07-12T04:13:37.040Z,"113 km NNE of Hihifo, Tonga",earthquake,9.99,1.868,0.038,224.0,reviewed,us,us
 2024-07-12T01:54:42.372Z,38.6879,-97.6025,5.0,2.4,mb_lg,20.0,93.0,0.698,0.46,us,us7000myr4,2024-07-12T04:19:36.040Z,"0 km NNE of Assaria, Kansas",earthquake,1.38,1.896,0.083,38.0,reviewed,us,us
+2024-07-12T04:29:46.630Z,37.8655014038086,-121.771003723145,17.9099998474121,3.1,ml,83.0,139.0,,0.14,nc,nc75033907,2024-07-12T04:31:53.469Z,"8 km SW of Brentwood, CA",earthquake,0.27,0.300000012,0.337,30.0,automatic,nc,nc
+2024-07-12T04:22:04.510Z,64.8785,-148.9631,15.4,0.4,ml,,,,0.6,ak,ak0248wwrsbe,2024-07-12T04:25:01.845Z,"31 km NNE of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
