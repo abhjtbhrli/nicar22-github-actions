@@ -1612,3 +1612,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-13T23:07:56.040Z,31.696,-104.15,7.3124,1.6,ml,15.0,85.0,0.1,0.4,tx,tx2024nsfk,2024-07-13T23:18:51.291Z,"52 km W of Mentone, Texas",earthquake,0.0,4.2912192003371,0.2,10.0,automatic,tx,tx
 2024-07-13T22:49:33.954Z,30.0714,86.9602,10.0,4.5,mb,45.0,96.0,2.701,0.95,us,us7000mz4d,2024-07-13T23:13:45.040Z,"187 km ENE of Saga, China",earthquake,9.29,1.899,0.101,29.0,reviewed,us,us
 2024-07-13T18:49:13.100Z,37.1308333333333,-121.614333333333,6.67,1.0,md,21.0,55.0,0.03398,0.14,nc,nc75034537,2024-07-13T23:27:12.496Z,"4 km E of Morgan Hill, CA",earthquake,0.3,0.55,0.221,16.0,reviewed,nc,nc
+2024-07-13T23:39:12.810Z,38.8176651000977,-122.808502197266,3.15000009536743,1.08,md,21.0,42.0,0.005852,0.02,nc,nc75034587,2024-07-13T23:40:47.592Z,"6 km NW of The Geysers, CA",earthquake,0.25,0.660000026,0.17,22.0,automatic,nc,nc
