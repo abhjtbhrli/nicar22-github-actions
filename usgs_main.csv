@@ -1562,3 +1562,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-13T17:37:48.970Z,33.0578333,-115.8998333,2.9,1.58,ml,49.0,37.0,0.08727,0.23,ci,ci40658591,2024-07-13T17:44:44.256Z,"24 km ESE of Ocotillo Wells, CA",earthquake,0.17,0.36,0.135,29.0,automatic,ci,ci
 2024-07-13T17:37:12.120Z,33.3385,-116.3123333,10.93,1.56,ml,76.0,17.0,0.02392,0.19,ci,ci40658583,2024-07-13T17:43:55.252Z,"11 km NNE of Borrego Springs, CA",earthquake,0.14,0.26,0.15,27.0,automatic,ci,ci
 2024-07-13T17:35:19.990Z,32.9855,-116.3131667,8.13,0.76,ml,28.0,61.0,0.03189,0.19,ci,ci40658575,2024-07-13T17:41:16.049Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.24,0.52,0.083,14.0,automatic,ci,ci
+2024-07-13T17:45:54.970Z,35.5626678466797,-120.745162963867,5.6100001335144,1.49,md,10.0,97.0,0.08972,0.11,nc,nc75034522,2024-07-13T17:47:31.153Z,"4 km WNW of Templeton, CA",earthquake,0.43,1.17999995,0.24,4.0,automatic,nc,nc
