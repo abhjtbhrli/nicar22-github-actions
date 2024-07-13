@@ -1531,3 +1531,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-13T14:44:57.047Z,59.8972,-152.144,61.1,1.9,ml,,,,0.54,ak,ak0248yqeao8,2024-07-13T14:46:31.066Z,"22 km NW of Anchor Point, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-07-13T14:43:48.670Z,38.8361663818359,-122.794502258301,2.13000011444092,1.09,md,13.0,106.0,0.003945,0.02,nc,nc75034422,2024-07-13T14:45:26.952Z,"6 km WNW of Cobb, CA",earthquake,0.31,0.600000024,0.18,15.0,automatic,nc,nc
 2024-07-13T02:06:38.580Z,44.3575,-115.192333333333,8.74,1.94,ml,14.0,63.0,0.3534,0.21,mb,mb90056708,2024-07-13T14:55:03.950Z,"25 km NW of Stanley, Idaho",earthquake,0.44,1.11,0.190154772254715,19.0,reviewed,mb,mb
+2024-07-13T15:19:44.437Z,56.059,-158.0146,26.4,2.6,ml,,,,0.79,ak,ak0248yqucej,2024-07-13T15:21:26.412Z,"35 km SE of Chignik, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2024-07-13T13:07:30.257Z,45.8919,-111.5105,12.846,2.5,ml,43.0,54.0,0.262,0.38,us,us7000mz29,2024-07-13T15:17:40.773Z,"3 km E of Three Forks, Montana",earthquake,1.5,7.213,0.049,54.0,reviewed,us,us
