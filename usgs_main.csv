@@ -1503,3 +1503,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-13T09:44:06.364Z,36.4757,-81.0745,1.306,2.1,mb_lg,23.0,38.0,0.572,0.69,us,us7000mz1k,2024-07-13T10:50:40.786Z,"5 km SE of Sparta, North Carolina",earthquake,1.6,6.879,0.295,3.0,reviewed,us,us
 2024-07-13T11:12:09.220Z,33.7261658,-116.8479996,14.2,1.12,ml,32.0,76.0,0.07426,0.16,ci,ci40658383,2024-07-13T11:14:12.678Z,"5 km ESE of Valle Vista, CA",earthquake,0.41,0.61,0.403,7.0,automatic,ci,ci
 2024-07-13T11:20:08.935Z,35.03562546,-97.51341248,0.4262930155,1.62,ml,10.0,104.1176682,0.03806008399,0.4355846181,ok,ok2024nria,2024-07-13T11:27:40.387Z,"3 km SW of Washington, Oklahoma",earthquake,4.266068978,3.446159867,0.26,10.0,automatic,ok,ok
+2024-07-13T11:34:09.790Z,19.2045001983643,-155.464340209961,31.2099990844727,2.5,ml,57.0,102.0,0.04887,0.119999997,hv,hv74331991,2024-07-13T11:36:48.630Z,"1 km E of Pāhala, Hawaii",earthquake,0.42,0.5,0.44,25.0,automatic,hv,hv
+2024-07-13T11:29:58.459Z,61.7175,-146.4903,27.5,1.6,ml,,,,0.61,ak,ak0248yois85,2024-07-13T11:31:35.491Z,"33 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
