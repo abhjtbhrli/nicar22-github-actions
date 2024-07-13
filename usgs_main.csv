@@ -1493,3 +1493,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-13T08:36:28.871Z,37.4368,-117.9144,3.3,0.9,ml,8.0,244.98,0.083,0.275,nn,nn00880855,2024-07-13T08:38:59.802Z,"28 km SSE of Dyer, Nevada",earthquake,,12.7,0.82,6.0,automatic,nn,nn
 2024-07-13T08:35:50.780Z,31.499,-115.6243333,7.77,2.2,ml,8.0,108.0,0.1736,0.17,ci,ci40658351,2024-07-13T08:42:05.388Z,"92 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.42,2.86,0.121,10.0,automatic,ci,ci
 2024-07-13T08:33:25.275Z,37.4775,-117.9467,6.0,0.9,ml,8.0,140.01999999999998,0.111,0.1345,nn,nn00880854,2024-07-13T08:35:59.594Z,"23 km SSE of Dyer, Nevada",earthquake,,3.6,0.97,6.0,automatic,nn,nn
+2024-07-13T09:25:40.050Z,36.0541648864746,-120.613670349121,5.67000007629395,1.2,md,12.0,99.0,0.02035,0.06,nc,nc75034357,2024-07-13T09:27:15.360Z,"24 km NNW of Parkfield, CA",earthquake,0.55,0.790000021,0.26,7.0,automatic,nc,nc
