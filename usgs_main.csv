@@ -1522,3 +1522,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-13T12:00:59.480Z,35.4358333333333,-91.6786666666667,6.27,2.15,md,10.0,192.0,0.122,0.17,nm,nm60502183,2024-07-13T13:17:47.270Z,"13 km SSW of Pleasant Plains, Arkansas",earthquake,0.88,1.33,0.0550196923068516,9.0,reviewed,nm,nm
 2024-07-13T13:00:47.405Z,44.3214,-129.9249,10.0,3.9,mb,27.0,226.0,4.275,0.72,us,us7000mz27,2024-07-13T13:33:04.040Z,off the coast of Oregon,earthquake,5.89,2.018,0.229,5.0,reviewed,us,us
 2024-07-13T13:39:47.330Z,38.8356666564941,-122.807167053223,2.10999989509583,1.05,md,20.0,51.0,0.01246,0.02,nc,nc75034397,2024-07-13T13:41:26.562Z,"7 km WNW of Cobb, CA",earthquake,0.21,0.439999998,0.11,22.0,automatic,nc,nc
+2024-07-13T13:41:31.835Z,29.042,-98.269,4.5175,1.6,ml,11.0,119.0,0.2,0.7,tx,tx2024nrms,2024-07-13T13:50:15.486Z,"14 km SW of Floresville, Texas",earthquake,0.0,1.76730098343123,0.1,9.0,automatic,tx,tx
