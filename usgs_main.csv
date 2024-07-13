@@ -1489,3 +1489,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-13T08:17:29.720Z,19.3678340911865,-155.218170166016,1.47000002861023,1.76999998,md,12.0,173.0,0.006434,0.170000002,hv,hv74331801,2024-07-13T08:19:07.650Z,"8 km SSE of Volcano, Hawaii",earthquake,0.53,0.209999993,0.150000006,10.0,automatic,hv,hv
 2024-07-13T08:10:44.370Z,33.9733333,-116.7528333,15.95,0.62,ml,35.0,78.0,0.07672,0.15,ci,ci40658343,2024-07-13T08:16:38.090Z,"7 km NNE of Cabazon, CA",earthquake,0.19,0.5,0.144,11.0,automatic,ci,ci
 2024-07-13T08:29:17.426Z,62.1762,-145.4486,31.3,1.6,ml,,,,0.28,ak,ak0248ymqe8u,2024-07-13T08:31:31.356Z,"9 km NE of Glennallen, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2024-07-13T08:37:53.833Z,58.2443,-155.1288,29.5,1.9,ml,,,,0.4,ak,ak0248yms6s7,2024-07-13T08:39:03.114Z,"85 km NNW of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-07-13T08:36:28.871Z,37.4368,-117.9144,3.3,0.9,ml,8.0,244.98,0.083,0.275,nn,nn00880855,2024-07-13T08:38:59.802Z,"28 km SSE of Dyer, Nevada",earthquake,,12.7,0.82,6.0,automatic,nn,nn
+2024-07-13T08:35:50.780Z,31.499,-115.6243333,7.77,2.2,ml,8.0,108.0,0.1736,0.17,ci,ci40658351,2024-07-13T08:42:05.388Z,"92 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.42,2.86,0.121,10.0,automatic,ci,ci
+2024-07-13T08:33:25.275Z,37.4775,-117.9467,6.0,0.9,ml,8.0,140.01999999999998,0.111,0.1345,nn,nn00880854,2024-07-13T08:35:59.594Z,"23 km SSE of Dyer, Nevada",earthquake,,3.6,0.97,6.0,automatic,nn,nn
