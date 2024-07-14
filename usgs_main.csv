@@ -1617,3 +1617,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-13T23:48:21.800Z,36.2026672,-118.3036652,4.22,1.69,ml,19.0,99.0,0.05108,0.17,ci,ci40658751,2024-07-13T23:50:26.535Z,"28 km WSW of Olancha, CA",earthquake,0.44,0.84,0.275,13.0,automatic,ci,ci
 2024-07-13T23:16:19.308Z,31.695,-104.055,3.9275,1.7,ml,18.0,81.0,0.0,0.4,tx,tx2024nsfq,2024-07-13T23:51:57.466Z,"43 km W of Mentone, Texas",earthquake,0.0,1.18147037004664,0.1,14.0,automatic,tx,tx
 2024-07-13T23:13:30.823Z,31.696,-104.061,4.8499,2.0,ml,20.0,69.0,0.0,0.3,tx,tx2024nsfo,2024-07-13T23:51:52.513Z,"43 km W of Mentone, Texas",earthquake,0.0,1.18816372241913,0.2,12.0,automatic,tx,tx
+2024-07-14T00:34:29.780Z,33.1753333,-115.615,2.52,1.21,ml,42.0,43.0,0.002197,0.2,ci,ci40658775,2024-07-14T00:45:32.290Z,"11 km WNW of Calipatria, CA",earthquake,0.2,0.19,0.157,27.0,automatic,ci,ci
