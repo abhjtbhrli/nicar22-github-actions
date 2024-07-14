@@ -1676,3 +1676,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-14T08:59:07.665Z,61.3549,-149.9275,41.0,2.9,ml,,,,0.24,ak,ak02490ag5gu,2024-07-14T09:16:12.634Z,"2 km E of Point MacKenzie, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-07-14T08:58:24.140Z,38.8330001831055,-122.880500793457,2.1800000667572,1.48,md,21.0,62.0,0.005702,0.02,nc,nc75034717,2024-07-14T08:59:59.578Z,"12 km E of Cloverdale, CA",earthquake,0.24,0.400000006,0.12,25.0,automatic,nc,nc
 2024-07-14T08:19:30.338Z,19.8337,121.2343,15.25,4.4,mb,51.0,104.0,2.973,0.68,us,us7000mz66,2024-07-14T09:02:31.040Z,"102 km SW of Basco, Philippines",earthquake,9.03,5.196,0.097,31.0,reviewed,us,us
+2024-07-14T09:34:22.990Z,38.8325004577637,-122.881332397461,1.91999995708466,1.34,md,25.0,63.0,0.005949,0.02,nc,nc75034727,2024-07-14T09:36:00.062Z,"12 km E of Cloverdale, CA",earthquake,0.25,0.360000014,0.12,27.0,automatic,nc,nc
+2024-07-14T09:30:07.470Z,35.2215,-118.6026667,7.93,0.84,ml,36.0,50.0,0.07114,0.13,ci,ci40658951,2024-07-14T09:40:10.034Z,"17 km NW of Tehachapi, CA",earthquake,0.15,0.43,0.208,9.0,automatic,ci,ci
