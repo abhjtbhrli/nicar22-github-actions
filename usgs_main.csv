@@ -1649,3 +1649,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-14T04:54:51.180Z,40.7286682128906,-121.193496704102,13.5900001525879,2.05,md,8.0,96.0,0.1243,0.18,nc,nc75034637,2024-07-14T04:56:28.433Z,"37 km SSE of Fall River Mills, CA",earthquake,0.72,2.3499999,0.12,3.0,automatic,nc,nc
 2024-07-14T04:41:27.506Z,55.659,160.8462,156.509,4.3,mb,65.0,109.0,2.937,0.38,us,us7000mz5k,2024-07-14T04:54:19.040Z,"73 km S of Klyuchi, Russia",earthquake,12.78,10.64,0.074,51.0,reviewed,us,us
 2024-07-14T04:38:18.642Z,63.3098,-149.4208,68.8,1.5,ml,,,,0.83,ak,ak024907xxuz,2024-07-14T04:50:37.829Z,"25 km WSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-07-14T05:03:07.210Z,32.5696667,-115.6496667,8.86,1.57,ml,27.0,49.0,0.06576,0.18,ci,ci40658871,2024-07-14T05:17:33.438Z,"6 km W of Progreso, B.C., MX",earthquake,0.24,0.53,0.244,21.0,automatic,ci,ci
