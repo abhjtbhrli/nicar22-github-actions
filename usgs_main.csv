@@ -1753,3 +1753,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-14T18:03:38.628Z,33.4307,140.7547,61.124,4.5,mb,76.0,114.0,0.849,0.57,us,us7000mz88,2024-07-14T18:56:36.040Z,"190 km SSE of Tateyama, Japan",earthquake,9.31,6.713,0.06,82.0,reviewed,us,us
 2024-07-14T19:06:06.754Z,60.0612,-151.7615,31.4,1.7,ml,,,,0.44,ak,ak02490gok3n,2024-07-14T19:07:48.896Z,"5 km WNW of Ninilchik, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-07-14T18:47:22.961Z,-17.2106,-174.1996,117.597,4.7,mb,83.0,67.0,4.025,0.8,us,us7000mz8d,2024-07-14T19:15:43.040Z,"145 km SSW of Hihifo, Tonga",earthquake,7.5,5.487,0.035,247.0,reviewed,us,us
+2024-07-14T18:59:50.892Z,-48.6876,106.781,10.0,5.0,mb,40.0,129.0,17.748,0.63,us,us7000mz8e,2024-07-14T19:23:38.040Z,southeast Indian Ridge,earthquake,15.99,1.855,0.118,23.0,reviewed,us,us
