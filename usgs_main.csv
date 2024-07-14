@@ -1651,3 +1651,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-14T04:38:18.642Z,63.3098,-149.4208,68.8,1.5,ml,,,,0.83,ak,ak024907xxuz,2024-07-14T04:50:37.829Z,"25 km WSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-07-14T05:03:07.210Z,32.5696667,-115.6496667,8.86,1.57,ml,27.0,49.0,0.06576,0.18,ci,ci40658871,2024-07-14T05:17:33.438Z,"6 km W of Progreso, B.C., MX",earthquake,0.24,0.53,0.244,21.0,automatic,ci,ci
 2024-07-14T05:26:04.710Z,38.8274993896484,-122.799667358398,2.51999998092651,0.76,md,17.0,67.0,0.009103,0.02,nc,nc75034647,2024-07-14T05:27:42.872Z,"7 km WNW of Cobb, CA",earthquake,0.26,0.779999971,0.16,17.0,automatic,nc,nc
+2024-07-14T05:38:19.889Z,39.783,-120.5718,5.1,1.7,ml,10.0,247.54,0.183,0.2611,nn,nn00880892,2024-07-14T05:40:35.799Z,"0 km ENE of Mohawk Vista, California",earthquake,,1.8,0.36,5.0,automatic,nn,nn
+2024-07-14T05:22:26.000Z,17.9648333333333,-66.8675,16.59,2.52,md,7.0,189.0,0.03984,0.16,pr,pr71455363,2024-07-14T05:37:28.410Z,"2 km ESE of Maria Antonia, Puerto Rico",earthquake,0.63,0.82,0.0636362340540466,3.0,reviewed,pr,pr
