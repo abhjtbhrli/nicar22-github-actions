@@ -2017,3 +2017,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-15T11:04:59.190Z,36.2586666666667,-120.375833333333,9.6,1.42,md,22.0,169.0,0.0276,0.11,nc,nc75035087,2024-07-15T19:33:29.557Z,"13 km N of Coalinga, CA",earthquake,0.45,0.31,0.221,20.0,reviewed,nc,nc
 2024-07-15T01:48:29.420Z,51.8563333333333,-177.771,3.43,0.62,ml,4.0,285.0,0.05011,0.04,av,av93197141,2024-07-15T19:28:18.420Z,"78 km W of Adak, Alaska",earthquake,0.59,0.36,0.45154405101086,5.0,reviewed,av,av
 2024-07-15T19:40:33.412Z,61.0775,-152.4467,127.7,2.2,ml,,,,0.48,ak,ak024924f8zf,2024-07-15T19:42:34.482Z,"70 km W of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-07-15T00:21:47.720Z,51.979,-177.196166666667,6.26,-0.12,ml,4.0,322.0,0.06014,0.19,av,av93015364,2024-07-15T19:52:10.920Z,"40 km WNW of Adak, Alaska",earthquake,1.51,1.86,0.270135122216874,4.0,reviewed,av,av
