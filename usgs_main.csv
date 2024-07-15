@@ -1842,3 +1842,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-15T05:49:51.362Z,62.6887,-149.0751,55.6,1.6,ml,,,,0.37,ak,ak02491w55cw,2024-07-15T05:52:26.304Z,"59 km ENE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-07-15T05:47:07.210Z,33.9718333,-116.5573333,7.73,0.55,ml,29.0,102.0,0.1005,0.13,ci,ci40659471,2024-07-15T05:53:03.434Z,"5 km WNW of Desert Hot Springs, CA",earthquake,0.16,0.61,0.115,8.0,automatic,ci,ci
 2024-07-14T11:13:45.155Z,29.851,138.5513,455.713,4.0,mb,58.0,75.0,3.428,0.74,us,us7000mz6n,2024-07-15T05:47:18.040Z,"Izu Islands, Japan region",earthquake,12.49,9.18,0.085,37.0,reviewed,us,us
+2024-07-15T06:01:19.820Z,18.7321666666667,-66.3388333333333,56.78,2.56,md,10.0,232.0,0.5986,0.19,pr,pr71455428,2024-07-15T06:18:18.630Z,"29 km N of Brenas, Puerto Rico",earthquake,2.06,3.49,0.101558811857365,6.0,reviewed,pr,pr
+2024-07-15T06:00:29.120Z,33.6216667,-116.692,12.24,0.58,ml,38.0,35.0,0.0495,0.14,ci,ci40659487,2024-07-15T06:06:14.169Z,"8 km NNW of Anza, CA",earthquake,0.18,0.3,0.202,13.0,automatic,ci,ci
+2024-07-15T05:57:44.558Z,36.6399,-115.8365,0.9,0.2,ml,10.0,294.26,0.103,0.3082,nn,nn00880928,2024-07-15T05:59:43.020Z,"16 km WNW of Indian Springs, Nevada",earthquake,,10.6,0.18,7.0,reviewed,nn,nn
+2024-07-15T05:54:35.820Z,35.2946667,-118.6165,5.92,1.14,ml,39.0,39.0,0.08675,0.19,ci,ci40659479,2024-07-15T06:00:52.684Z,"22 km ENE of Arvin, CA",earthquake,0.19,0.78,0.167,20.0,automatic,ci,ci
