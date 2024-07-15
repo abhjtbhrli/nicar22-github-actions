@@ -1997,3 +1997,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-15T18:36:59.500Z,60.2799,-140.4799,19.8,1.6,ml,,,,0.59,ak,ak024923t0ji,2024-07-15T18:38:47.265Z,"91 km NNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-07-15T18:21:59.445Z,-16.4487,-172.3973,10.0,5.3,mww,40.0,106.0,2.594,1.09,us,us7000mzev,2024-07-15T18:39:17.040Z,"159 km ESE of Hihifo, Tonga",earthquake,8.28,1.851,0.098,10.0,reviewed,us,us
 2024-07-14T20:37:16.890Z,37.7406666666667,-122.145,4.02,1.09,md,27.0,61.0,0.02621,0.08,nc,nc75034897,2024-07-15T18:36:11.132Z,"2 km NE of San Leandro, CA",earthquake,0.16,0.26,0.265,14.0,reviewed,nc,nc
+2024-07-15T18:42:48.807Z,58.9734,-152.7942,29.0,1.7,ml,,,,0.73,ak,ak024923ua0g,2024-07-15T18:44:44.044Z,"65 km SW of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-07-15T08:39:46.850Z,37.6245,-119.112833333333,2.72,0.23,md,6.0,291.0,0.05051,0.02,nc,nc75035062,2024-07-15T18:48:44.762Z,"12 km W of Mammoth Lakes, CA",earthquake,0.93,1.16,0.188,6.0,reviewed,nc,nc
+2024-07-15T01:46:04.740Z,51.793,-178.8175,6.86,-0.32,ml,5.0,137.0,0.02723,0.14,av,av93197136,2024-07-15T18:49:04.270Z,"150 km W of Adak, Alaska",earthquake,0.7,0.97,0.282152124418586,5.0,reviewed,av,av
+2024-07-14T22:42:52.600Z,40.6478333333333,-122.228,17.96,2.0,md,19.0,46.0,0.03295,0.08,nc,nc75034917,2024-07-15T18:42:43.102Z,"1 km NE of Bella Vista, CA",earthquake,0.27,0.35,0.097,18.0,reviewed,nc,nc
