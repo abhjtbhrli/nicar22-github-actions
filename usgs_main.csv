@@ -1874,3 +1874,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-15T09:41:48.217Z,36.47532272,-98.80497742,2.769219398,2.17,ml,25.0,75.73224258,0.02566121146,0.6239327984,ok,ok2024nuvu,2024-07-15T09:49:22.878Z,"13 km SSE of Waynoka, Oklahoma",earthquake,2.294508774,1.753246997,0.35,8.0,automatic,ok,ok
 2024-07-15T09:37:38.560Z,38.8248329162598,-122.803833007812,2.78999996185303,0.28,md,7.0,97.0,0.005082,0.01,nc,nc75035067,2024-07-15T09:39:16.046Z,"7 km NNW of The Geysers, CA",earthquake,0.77,1.53999996,0.08,8.0,automatic,nc,nc
 2024-07-15T06:56:44.728Z,1.2131,-85.2883,10.0,4.3,mb,22.0,183.0,5.664,1.14,us,us7000mzat,2024-07-15T09:44:12.040Z,off the coast of Ecuador,earthquake,9.6,1.984,0.177,9.0,reviewed,us,us
+2024-07-15T09:52:22.042Z,62.9533,-150.1719,71.4,1.2,ml,,,,0.43,ak,ak02491yjgnw,2024-07-15T09:54:31.222Z,"56 km N of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
