@@ -1865,3 +1865,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-15T08:20:58.340Z,38.835334777832,-122.880668640137,1.89999997615814,0.91,md,14.0,123.0,0.003612,0.03,nc,nc75035052,2024-07-15T08:22:36.328Z,"12 km E of Cloverdale, CA",earthquake,0.29,0.550000012,0.14,16.0,automatic,nc,nc
 2024-07-15T08:15:45.491Z,-4.0355,142.9813,8.569,5.3,mb,51.0,64.0,2.73,0.86,us,us7000mzax,2024-07-15T08:33:22.040Z,"27 km NE of Ambunti, Papua New Guinea",earthquake,7.62,4.638,0.058,98.0,reviewed,us,us
 2024-07-15T08:35:03.090Z,31.4996667,-115.6225,8.28,2.78,ml,9.0,109.0,0.1752,0.17,ci,ci40659575,2024-07-15T08:41:49.058Z,"92 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.35,2.12,0.264,27.0,automatic,ci,ci
+2024-07-15T08:51:05.810Z,34.0148315,-117.0185013,16.14,1.83,ml,89.0,27.0,0.09839,0.21,ci,ci40659591,2024-07-15T08:53:09.127Z,"3 km SE of Yucaipa, CA",earthquake,0.18,0.5,0.3,26.0,automatic,ci,ci
+2024-07-15T08:26:50.225Z,31.662,-104.471,6.8575,1.5,ml,8.0,78.0,0.0,0.3,tx,tx2024nuti,2024-07-15T08:48:42.747Z,"57 km S of Whites City, New Mexico",earthquake,0.0,3.80071024029568,0.1,6.0,automatic,tx,tx
