@@ -1991,3 +1991,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-15T17:40:18.477Z,-16.2694,-172.4985,10.0,5.8,mww,28.0,94.0,2.447,0.96,us,us7000mzel,2024-07-15T17:57:13.040Z,"143 km ESE of Hihifo, Tonga",earthquake,6.73,1.745,0.086,13.0,reviewed,us,us
 2024-07-15T17:01:52.970Z,18.235,-66.4478333333333,36.03,1.96,md,8.0,102.0,0.116,0.25,pr,pr71455488,2024-07-15T17:52:29.500Z,"6 km W of Orocovis, Puerto Rico",earthquake,1.03,1.67,0.009531765154592,3.0,reviewed,pr,pr
 2024-07-15T08:35:41.800Z,31.4925,-115.642,10.62,2.29,ml,12.0,70.0,0.1578,0.16,ci,ci37676940,2024-07-15T17:57:53.305Z,"91 km ESE of Maneadero, B.C., MX",earthquake,0.27,0.6,0.135,10.0,reviewed,ci,ci
+2024-07-15T18:15:45.617Z,60.1317,-153.2997,146.2,1.4,ml,,,,0.4,ak,ak024923ohc2,2024-07-15T18:18:48.509Z,"56 km E of Port Alsworth, Alaska",earthquake,,2.5,,,automatic,ak,ak
+2024-07-15T18:01:24.140Z,18.726,-66.7953333333333,20.45,2.68,md,6.0,295.0,0.4761,0.09,pr,pr71455498,2024-07-15T18:13:03.320Z,"26 km N of Hatillo, Puerto Rico",earthquake,1.14,11.22,0.0555721210960374,3.0,reviewed,pr,pr
+2024-07-15T17:57:02.410Z,33.9758333,-116.807,-1.43,0.69,ml,15.0,247.0,0.05917,0.19,ci,ci40660119,2024-07-15T18:02:56.155Z,"7 km NNW of Cabazon, CA",earthquake,3.58,1.88,0.098,17.0,automatic,ci,ci
