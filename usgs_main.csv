@@ -1987,3 +1987,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-15T17:43:55.560Z,35.4915009,-118.5313339,2.57,1.81,ml,36.0,88.0,0.2192,0.18,ci,ci40660095,2024-07-15T17:46:17.235Z,"11 km SSW of Bodfish, CA",earthquake,0.24,0.91,0.248,18.0,automatic,ci,ci
 2024-07-15T17:41:55.781Z,63.089,-151.3504,0.0,1.4,ml,,,,0.42,ak,ak0249238n8f,2024-07-15T17:45:33.200Z,"53 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-07-15T17:40:20.000Z,-16.485,-172.134,10.0,6.2,Mi,11.0,154.799987616001,,,pt,pt24197000,2024-07-15T17:46:21.977Z,"187 km ESE of Hihifo, Tonga",earthquake,,,,9.0,reviewed,pt,pt
+2024-07-15T17:50:34.320Z,19.3986663818359,-155.282501220703,0.939999997615814,1.70000005,md,12.0,60.0,0.008982,0.0799999982,hv,hv74335602,2024-07-15T17:53:12.520Z,"7 km SW of Volcano, Hawaii",earthquake,0.2,0.239999995,0.449999988,5.0,automatic,hv,hv
+2024-07-15T17:40:18.477Z,-16.2694,-172.4985,10.0,5.8,mww,28.0,94.0,2.447,0.96,us,us7000mzel,2024-07-15T17:57:13.040Z,"143 km ESE of Hihifo, Tonga",earthquake,6.73,1.745,0.086,13.0,reviewed,us,us
+2024-07-15T17:01:52.970Z,18.235,-66.4478333333333,36.03,1.96,md,8.0,102.0,0.116,0.25,pr,pr71455488,2024-07-15T17:52:29.500Z,"6 km W of Orocovis, Puerto Rico",earthquake,1.03,1.67,0.009531765154592,3.0,reviewed,pr,pr
+2024-07-15T08:35:41.800Z,31.4925,-115.642,10.62,2.29,ml,12.0,70.0,0.1578,0.16,ci,ci37676940,2024-07-15T17:57:53.305Z,"91 km ESE of Maneadero, B.C., MX",earthquake,0.27,0.6,0.135,10.0,reviewed,ci,ci
