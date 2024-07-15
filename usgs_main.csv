@@ -1994,3 +1994,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-15T18:15:45.617Z,60.1317,-153.2997,146.2,1.4,ml,,,,0.4,ak,ak024923ohc2,2024-07-15T18:18:48.509Z,"56 km E of Port Alsworth, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2024-07-15T18:01:24.140Z,18.726,-66.7953333333333,20.45,2.68,md,6.0,295.0,0.4761,0.09,pr,pr71455498,2024-07-15T18:13:03.320Z,"26 km N of Hatillo, Puerto Rico",earthquake,1.14,11.22,0.0555721210960374,3.0,reviewed,pr,pr
 2024-07-15T17:57:02.410Z,33.9758333,-116.807,-1.43,0.69,ml,15.0,247.0,0.05917,0.19,ci,ci40660119,2024-07-15T18:02:56.155Z,"7 km NNW of Cabazon, CA",earthquake,3.58,1.88,0.098,17.0,automatic,ci,ci
+2024-07-15T18:36:59.500Z,60.2799,-140.4799,19.8,1.6,ml,,,,0.59,ak,ak024923t0ji,2024-07-15T18:38:47.265Z,"91 km NNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-07-15T18:21:59.445Z,-16.4487,-172.3973,10.0,5.3,mww,40.0,106.0,2.594,1.09,us,us7000mzev,2024-07-15T18:39:17.040Z,"159 km ESE of Hihifo, Tonga",earthquake,8.28,1.851,0.098,10.0,reviewed,us,us
+2024-07-14T20:37:16.890Z,37.7406666666667,-122.145,4.02,1.09,md,27.0,61.0,0.02621,0.08,nc,nc75034897,2024-07-15T18:36:11.132Z,"2 km NE of San Leandro, CA",earthquake,0.16,0.26,0.265,14.0,reviewed,nc,nc
