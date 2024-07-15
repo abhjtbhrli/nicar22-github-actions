@@ -1856,3 +1856,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-15T07:18:51.941Z,61.3922,-146.7677,25.7,2.4,ml,,,,0.32,ak,ak02491x5dey,2024-07-15T07:20:12.608Z,"36 km NW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-07-15T07:00:38.960Z,31.653,-104.457,8.6453,1.6,ml,14.0,84.0,0.0,0.4,tx,tx2024nuqm,2024-07-15T07:21:09.860Z,"58 km S of Whites City, New Mexico",earthquake,0.0,3.22671929594998,0.2,10.0,automatic,tx,tx
 2024-07-15T07:34:43.589Z,66.194,-147.5642,13.3,2.6,ml,,,,0.71,ak,ak02491x8s86,2024-07-15T07:37:00.246Z,"19 km SSW of Beaver, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-07-15T07:52:19.760Z,36.0615005,-117.7166672,2.25,1.21,ml,16.0,118.0,0.0535,0.16,ci,ci40659535,2024-07-15T07:54:36.779Z,"21 km E of Coso Junction, CA",earthquake,0.35,0.36,0.119,4.0,automatic,ci,ci
+2024-07-15T07:46:54.150Z,32.6694984,-115.7151642,6.91,1.4,ml,24.0,118.0,0.1243,0.23,ci,ci40659527,2024-07-15T07:48:56.584Z,"16 km NW of Progreso, B.C., MX",earthquake,0.46,1.55,0.309,6.0,automatic,ci,ci
+2024-07-15T07:44:25.460Z,33.7195,-116.7505,17.49,0.56,ml,32.0,69.0,0.0314,0.15,ci,ci40659519,2024-07-15T07:55:08.391Z,"4 km SW of Idyllwild, CA",earthquake,0.2,0.35,0.211,10.0,automatic,ci,ci
