@@ -1867,3 +1867,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-15T08:35:03.090Z,31.4996667,-115.6225,8.28,2.78,ml,9.0,109.0,0.1752,0.17,ci,ci40659575,2024-07-15T08:41:49.058Z,"92 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.35,2.12,0.264,27.0,automatic,ci,ci
 2024-07-15T08:51:05.810Z,34.0148315,-117.0185013,16.14,1.83,ml,89.0,27.0,0.09839,0.21,ci,ci40659591,2024-07-15T08:53:09.127Z,"3 km SE of Yucaipa, CA",earthquake,0.18,0.5,0.3,26.0,automatic,ci,ci
 2024-07-15T08:26:50.225Z,31.662,-104.471,6.8575,1.5,ml,8.0,78.0,0.0,0.3,tx,tx2024nuti,2024-07-15T08:48:42.747Z,"57 km S of Whites City, New Mexico",earthquake,0.0,3.80071024029568,0.1,6.0,automatic,tx,tx
+2024-07-15T09:07:27.740Z,33.8208333,-117.0523333,15.33,0.68,ml,42.0,48.0,0.1211,0.16,ci,ci40659599,2024-07-15T09:13:21.253Z,"9 km ENE of Nuevo, CA",earthquake,0.16,0.35,0.183,17.0,automatic,ci,ci
+2024-07-15T09:06:18.814Z,61.3307,-146.839,34.8,1.4,ml,,,,0.26,ak,ak02491y9lh5,2024-07-15T09:07:44.638Z,"34 km NW of Valdez, Alaska",earthquake,,3.8,,,automatic,ak,ak
+2024-07-15T09:01:48.420Z,19.1508331298828,-155.399673461914,32.2000007629395,1.98000002,md,30.0,211.0,0.0592,0.129999995,hv,hv74334712,2024-07-15T09:03:31.440Z,"10 km SE of Pāhala, Hawaii",earthquake,0.78,0.730000019,0.170000002,6.0,automatic,hv,hv
