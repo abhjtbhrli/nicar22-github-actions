@@ -1983,3 +1983,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-15T17:30:31.830Z,34.2638321,-117.7008362,20.35,2.08,ml,18.0,196.0,0.309,0.28,ci,ci40660063,2024-07-15T17:32:36.148Z,"12 km SSW of Wrightwood, CA",earthquake,0.84,2.19,0.338,7.0,automatic,ci,ci
 2024-07-15T17:14:18.425Z,-21.097,-68.7592,120.825,4.7,mb,34.0,69.0,0.682,0.82,us,us7000mzeg,2024-07-15T17:37:23.040Z,"54 km WNW of Ollagüe, Chile",earthquake,6.62,5.5,0.106,27.0,reviewed,us,us
 2024-07-15T12:02:07.411Z,32.22,-101.984,8.5693,2.0,ml,28.0,59.0,0.1,0.1,tx,tx2024nvak,2024-07-15T17:32:49.455Z,"21 km WNW of Stanton, Texas",earthquake,0.295929436517436,0.6982211284243226,0.1,26.0,reviewed,tx,tx
+2024-07-15T17:44:21.193Z,37.4975,-117.9522,6.7,1.3,ml,8.0,143.13000000000002,0.13,0.2555,nn,nn00880938,2024-07-15T17:46:55.584Z,"21 km SSE of Dyer, Nevada",earthquake,,3.2,0.73,6.0,automatic,nn,nn
+2024-07-15T17:43:55.560Z,35.4915009,-118.5313339,2.57,1.81,ml,36.0,88.0,0.2192,0.18,ci,ci40660095,2024-07-15T17:46:17.235Z,"11 km SSW of Bodfish, CA",earthquake,0.24,0.91,0.248,18.0,automatic,ci,ci
+2024-07-15T17:41:55.781Z,63.089,-151.3504,0.0,1.4,ml,,,,0.42,ak,ak0249238n8f,2024-07-15T17:45:33.200Z,"53 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-07-15T17:40:20.000Z,-16.485,-172.134,10.0,6.2,Mi,11.0,154.799987616001,,,pt,pt24197000,2024-07-15T17:46:21.977Z,"187 km ESE of Hihifo, Tonga",earthquake,,,,9.0,reviewed,pt,pt
