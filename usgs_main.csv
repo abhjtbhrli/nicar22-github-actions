@@ -2152,3 +2152,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-15T19:06:50.840Z,46.21816666666667,-122.20233333333331,6.46,0.27,ml,15.0,67.0,0.01365,0.07,uw,uw62016822,2024-07-16T05:20:13.290Z,"38 km S of Morton, Washington",earthquake,0.25,0.35,0.127396056492033,7.0,reviewed,uw,uw
 2024-07-16T05:35:50.050Z,36.7113342285156,-121.412498474121,2.52999997138977,1.34,md,16.0,67.0,0.05317,0.24,nc,nc75035432,2024-07-16T05:37:28.839Z,"12 km SSW of Ridgemark, CA",earthquake,0.56,1.78999996,0.24,9.0,automatic,nc,nc
 2024-07-16T05:42:55.730Z,66.2273,-149.5307,0.0,1.7,ml,,,,1.34,ak,ak02493jn06d,2024-07-16T05:44:53.260Z,"31 km NW of Stevens Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-07-16T05:51:06.218Z,62.2504,-150.9746,53.6,1.5,ml,,,,0.65,ak,ak02493jotst,2024-07-16T05:53:31.543Z,"29 km SSW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-07-16T05:27:23.978Z,-18.053,-178.2125,502.366,4.4,mb,75.0,36.0,3.569,0.79,us,us7000mzhg,2024-07-16T05:50:41.040Z,"261 km E of Levuka, Fiji",earthquake,11.27,6.58,0.057,87.0,reviewed,us,us
