@@ -2175,3 +2175,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-15T13:21:26.420Z,47.93383333333333,-124.24366666666668,0.4,1.4,ml,16.0,108.0,0.1023,0.31,uw,uw62016727,2024-07-16T07:40:53.350Z,"10 km E of Forks, Washington",earthquake,0.45,0.9,0.1344853857137808,7.0,reviewed,uw,uw
 2024-07-16T07:39:55.485Z,63.0974,-151.3445,0.0,1.2,ml,,,,0.35,ak,ak02493kt87w,2024-07-16T07:43:09.008Z,"52 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-07-15T09:00:12.518Z,46.2208,149.2909,179.649,4.2,mb,38.0,161.0,4.562,0.57,us,us7000mzb2,2024-07-16T07:47:46.040Z,"155 km NE of Kuril’sk, Russia",earthquake,10.49,12.471,0.098,29.0,reviewed,us,us
+2024-07-16T07:49:08.060Z,38.8359985351562,-122.786003112793,5.19000005722046,0.81,md,10.0,105.0,0.004158,0.04,nc,nc75035477,2024-07-16T07:50:44.977Z,"6 km WNW of Cobb, CA",earthquake,0.65,2.22000003,0.17,11.0,automatic,nc,nc
