@@ -2359,3 +2359,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-16T06:39:35.980Z,61.9753333333333,-144.017833333333,6.78,0.22,ml,5.0,161.0,0.08815,0.31,av,av93015494,2024-07-16T22:21:02.800Z,"55 km NNE of Chitina, Alaska",earthquake,2.97,1.28,0.106678913119603,4.0,reviewed,av,av
 2024-07-16T22:31:19.950Z,34.6211667,-119.0596667,2.59,2.21,ml,63.0,36.0,0.1175,0.25,ci,ci40661719,2024-07-16T22:38:16.667Z,"25 km SSW of Frazier Park, CA",earthquake,0.18,1.04,0.173,28.0,automatic,ci,ci
 2024-07-16T06:33:58.260Z,52.6961666666667,-169.455833333333,14.0,1.33,ml,7.0,237.0,0.1859,0.21,av,av93015499,2024-07-16T22:34:32.120Z,"48 km SW of Nikolski, Alaska",earthquake,1.41,1.85,0.303202365905856,7.0,reviewed,av,av
+2024-07-16T22:42:20.077Z,62.4998,-148.3174,35.6,1.5,ml,,,,0.77,ak,ak02493trapj,2024-07-16T22:44:19.599Z,"78 km N of Chickaloon, Alaska",earthquake,,0.8,,,automatic,ak,ak
