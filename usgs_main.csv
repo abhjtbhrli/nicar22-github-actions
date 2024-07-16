@@ -2325,3 +2325,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-16T03:41:39.810Z,46.85266666666666,-121.7645,0.6,0.31,ml,16.0,78.0,0.02754,0.07,uw,uw62016977,2024-07-16T20:11:11.300Z,"22 km ENE of Ashford, Washington",earthquake,0.18,0.69,0.1518071308480676,7.0,reviewed,uw,uw
 2024-07-16T20:10:52.565Z,19.2032,-155.3994,33.398,2.6,ml,25.0,163.0,0.076,0.39,us,us7000mznk,2024-07-16T20:26:39.040Z,"8 km E of Pāhala, Hawaii",earthquake,8.55,7.915,0.052,48.0,reviewed,us,us
 2024-07-16T12:51:24.566Z,40.0925,-119.6677,13.7,0.4,ml,3.0,182.72000000000003,0.092,0.0226,nn,nn00880996,2024-07-16T20:26:35.846Z,"16 km NNW of Sutcliffe, Nevada",earthquake,,5.5,0.0,1.0,reviewed,nn,nn
+2024-07-16T13:55:54.801Z,40.1604,-120.2246,0.0,0.5,ml,3.0,248.94,0.312,0.0748,nn,nn00880997,2024-07-16T20:32:43.544Z,"6 km WNW of Patton Village, California",earthquake,,0.0,0.2,2.0,reviewed,nn,nn
+2024-07-16T06:46:30.810Z,46.87383333333333,-122.05383333333332,4.57,0.5700000000000001,ml,16.0,94.0,0.03297,0.14,uw,uw62017012,2024-07-16T20:34:58.970Z,"12 km N of Ashford, Washington",earthquake,0.27,0.71,0.1121376624388488,10.0,reviewed,uw,uw
