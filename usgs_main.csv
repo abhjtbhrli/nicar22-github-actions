@@ -2252,3 +2252,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-16T06:50:20.443Z,32.14,-102.218,7.1045,1.6,ml,24.0,69.0,0.0,0.1,tx,tx2024nwlq,2024-07-16T14:28:42.403Z,"20 km NE of Gardendale, Texas",earthquake,0.6283980670793371,0.7334049141356749,0.2,27.0,reviewed,tx,tx
 2024-07-15T21:03:53.689Z,36.45966667,-98.80216667,4.47,0.89,ml,16.0,119.0,0.009898057663,0.1,ok,ok2024nvsh,2024-07-16T14:19:53.166Z,"15 km SSE of Waynoka, Oklahoma",earthquake,,0.5,0.05,5.0,reviewed,ok,ok
 2024-07-16T14:39:29.740Z,33.9405,-118.289,19.32,1.67,ml,45.0,74.0,0.07852,0.21,ci,ci40661079,2024-07-16T14:46:16.031Z,"4 km NW of Willowbrook, CA",earthquake,0.24,0.47,0.213,32.0,automatic,ci,ci
+2024-07-16T14:46:56.900Z,33.5026667,-116.5035,13.79,0.5,ml,25.0,58.0,0.05932,0.13,ci,ci40661087,2024-07-16T14:53:22.877Z,"17 km ESE of Anza, CA",earthquake,0.24,0.4,0.127,12.0,automatic,ci,ci
+2024-07-16T14:17:08.400Z,17.9413,-66.6523,6.0,3.06,md,18.0,161.0,0.1371,0.22,pr,pr2024198000,2024-07-16T14:51:02.118Z,"8 km SSW of Ponce, Puerto Rico",earthquake,0.42,0.6,0.14,13.0,reviewed,pr,pr
