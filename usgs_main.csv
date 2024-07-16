@@ -2288,3 +2288,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-16T17:33:47.960Z,19.3713340759277,-155.222839355469,1.29999995231628,1.81,ml,15.0,102.0,0.007345,0.140000001,hv,hv74337887,2024-07-16T17:36:26.630Z,"7 km S of Volcano, Hawaii",earthquake,0.29,0.230000004,0.19,4.0,automatic,hv,hv
 2024-07-16T17:06:27.029Z,31.567,-104.021,7.0207,2.6,ml,16.0,64.0,0.0,0.3,tx,tx2024nxfy,2024-07-16T17:29:06.434Z,"35 km NW of Toyah, Texas",earthquake,0.0,2.59554734060361,0.2,13.0,automatic,tx,tx
 2024-07-16T02:34:20.223Z,39.6939,-119.9426,9.8,0.2,ml,3.0,169.68,0.088,0.0741,nn,nn00880987,2024-07-16T17:29:20.142Z,"3 km ENE of Cold Springs, Nevada",earthquake,,8.5,0.32,3.0,reviewed,nn,nn
+2024-07-16T17:40:50.611Z,64.6524,-149.6711,12.5,0.9,ml,,,,0.62,ak,ak02493qrrlx,2024-07-16T17:43:06.162Z,"26 km WNW of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-07-16T07:13:34.646Z,38.2732,-118.7894,7.4,1.1,ml,7.0,175.97000000000003,0.225,0.0953,nn,nn00880988,2024-07-16T17:38:32.185Z,"31 km SSW of Hawthorne, Nevada",earthquake,,3.2,0.23,4.0,reviewed,nn,nn
