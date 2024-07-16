@@ -2251,3 +2251,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-16T11:25:48.303Z,52.0898,-173.7913,7.7,1.5,ml,,,,0.47,ak,ak02493n3y26,2024-07-16T14:22:14.354Z,"30 km ESE of Atka, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2024-07-16T06:50:20.443Z,32.14,-102.218,7.1045,1.6,ml,24.0,69.0,0.0,0.1,tx,tx2024nwlq,2024-07-16T14:28:42.403Z,"20 km NE of Gardendale, Texas",earthquake,0.6283980670793371,0.7334049141356749,0.2,27.0,reviewed,tx,tx
 2024-07-15T21:03:53.689Z,36.45966667,-98.80216667,4.47,0.89,ml,16.0,119.0,0.009898057663,0.1,ok,ok2024nvsh,2024-07-16T14:19:53.166Z,"15 km SSE of Waynoka, Oklahoma",earthquake,,0.5,0.05,5.0,reviewed,ok,ok
+2024-07-16T14:39:29.740Z,33.9405,-118.289,19.32,1.67,ml,45.0,74.0,0.07852,0.21,ci,ci40661079,2024-07-16T14:46:16.031Z,"4 km NW of Willowbrook, CA",earthquake,0.24,0.47,0.213,32.0,automatic,ci,ci
