@@ -2259,3 +2259,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-16T14:29:15.066Z,16.3967,-97.5118,12.633,4.8,mb,179.0,78.0,1.537,0.63,us,us7000mzjz,2024-07-16T15:23:55.390Z,"10 km NNE of Tataltepec de Valdés, Mexico",earthquake,8.28,4.263,0.028,407.0,reviewed,us,us
 2024-07-16T10:37:31.666Z,36.6435,-116.2743,6.3,-0.4,ml,16.0,202.52000000000004,0.052,0.0695,nn,nn00880982,2024-07-16T15:23:56.393Z,"52 km SE of Beatty, Nevada",earthquake,,1.3,0.32,4.0,reviewed,nn,nn
 2024-07-16T06:58:18.472Z,36.6989,-116.036,3.7,-0.4,ml,14.0,142.58,0.05,0.0736,nn,nn00880981,2024-07-16T15:17:41.949Z,"35 km WNW of Indian Springs, Nevada",earthquake,,1.6,0.4,4.0,reviewed,nn,nn
+2024-07-16T15:33:40.870Z,34.8838333,-119.0416667,9.02,0.94,ml,18.0,84.0,0.111,0.17,ci,ci40661119,2024-07-16T15:39:51.153Z,"11 km ENE of Pine Mountain Club, CA",earthquake,0.41,0.84,0.124,8.0,automatic,ci,ci
