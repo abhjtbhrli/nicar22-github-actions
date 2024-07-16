@@ -2124,3 +2124,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-16T03:24:29.166Z,38.5461,-119.5338,8.1,1.5,ml,12.0,92.44,0.21,0.249,nn,nn00880963,2024-07-16T03:27:08.264Z,"3 km SW of Coleville, California",earthquake,,0.8,0.25,6.0,automatic,nn,nn
 2024-07-16T03:12:09.956Z,61.5736,-149.6719,30.1,2.3,ml,,,,0.5,ak,ak02493i9lyb,2024-07-16T03:13:52.875Z,"6 km SSW of Meadow Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-07-15T22:29:04.700Z,53.8693333333333,-166.905,1.92,-0.58,ml,7.0,164.0,0.06486,0.31,av,av93015454,2024-07-16T03:15:30.910Z,"23 km W of Dutch Harbor, Alaska",earthquake,0.75,3.99,0.200936052163742,7.0,reviewed,av,av
+2024-07-16T03:10:06.010Z,31.653,-104.232,5.9073,1.6,ml,18.0,65.0,0.0,0.4,tx,tx2024nwej,2024-07-16T03:40:10.985Z,"56 km NW of Toyah, Texas",earthquake,0.0,2.90738417941689,0.2,13.0,automatic,tx,tx
+2024-07-16T02:53:07.993Z,-4.2312,102.0522,56.365,4.9,mb,52.0,180.0,0.91,0.59,us,us7000mzh0,2024-07-16T03:33:40.040Z,"53 km SSW of Bengkulu, Indonesia",earthquake,10.16,7.061,0.069,67.0,reviewed,us,us
+2024-07-15T20:12:00.540Z,40.6128333333333,-122.208666666667,13.33,1.43,md,10.0,99.0,0.03468,0.15,nc,nc75035277,2024-07-16T03:37:39.194Z,"4 km SSE of Bella Vista, CA",earthquake,0.62,0.89,0.315,10.0,reviewed,nc,nc
