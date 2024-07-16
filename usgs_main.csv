@@ -2292,3 +2292,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-16T07:13:34.646Z,38.2732,-118.7894,7.4,1.1,ml,7.0,175.97000000000003,0.225,0.0953,nn,nn00880988,2024-07-16T17:38:32.185Z,"31 km SSW of Hawthorne, Nevada",earthquake,,3.2,0.23,4.0,reviewed,nn,nn
 2024-07-16T17:44:02.534Z,62.926,-150.6648,29.4,0.9,ml,,,,0.74,ak,ak02493qsioh,2024-07-16T17:46:08.540Z,"48 km N of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-07-16T13:31:55.702Z,51.5853,178.8262,71.76,3.7,mb,113.0,142.0,0.363,0.79,us,us7000mzjp,2024-07-16T17:48:51.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,6.6,5.501,0.06,71.0,reviewed,us,us
+2024-07-16T18:07:32.960Z,33.0338326,-114.9875031,5.39,1.38,ml,10.0,74.0,0.06195,0.17,ci,ci40661383,2024-07-16T18:10:58.330Z,"44 km NNW of Los Algodones, B.C., MX",earthquake,0.66,1.44,0.229,12.0,automatic,ci,ci
+2024-07-16T18:00:10.570Z,38.8414993286133,-122.810165405273,1.92999994754791,0.22,md,13.0,53.0,0.01578,0.02,nc,nc75035667,2024-07-16T18:01:49.314Z,"8 km WNW of Cobb, CA",earthquake,0.28,0.819999993,0.11,13.0,automatic,nc,nc
+2024-07-16T17:32:55.383Z,-1.7815,36.2153,10.0,4.6,mb,22.0,111.0,1.224,0.68,us,us7000mzmk,2024-07-16T18:17:20.222Z,"15 km NNW of Magadi, Kenya",earthquake,9.15,1.933,0.126,19.0,reviewed,us,us
