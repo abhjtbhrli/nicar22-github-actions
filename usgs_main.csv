@@ -2256,3 +2256,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-16T14:17:08.400Z,17.9413,-66.6523,6.0,3.06,md,18.0,161.0,0.1371,0.22,pr,pr2024198000,2024-07-16T14:51:02.118Z,"8 km SSW of Ponce, Puerto Rico",earthquake,0.42,0.6,0.14,13.0,reviewed,pr,pr
 2024-07-16T15:11:32.360Z,19.3918342590332,-155.251007080078,0.170000001788139,1.71000004,md,13.0,66.0,0.006298,0.119999997,hv,hv74337607,2024-07-16T15:14:10.970Z,"5 km SSW of Volcano, Hawaii",earthquake,0.18,0.239999995,0.25999999,12.0,automatic,hv,hv
 2024-07-16T15:05:40.580Z,33.1593333,-116.4675,6.91,2.71,ml,97.0,16.0,0.08543,0.19,ci,ci40661111,2024-07-16T15:16:22.750Z,"14 km SW of Borrego Springs, CA",earthquake,0.11,0.45,0.241,26.0,automatic,ci,ci
+2024-07-16T14:29:15.066Z,16.3967,-97.5118,12.633,4.8,mb,179.0,78.0,1.537,0.63,us,us7000mzjz,2024-07-16T15:23:55.390Z,"10 km NNE of Tataltepec de Valdés, Mexico",earthquake,8.28,4.263,0.028,407.0,reviewed,us,us
+2024-07-16T10:37:31.666Z,36.6435,-116.2743,6.3,-0.4,ml,16.0,202.52000000000004,0.052,0.0695,nn,nn00880982,2024-07-16T15:23:56.393Z,"52 km SE of Beatty, Nevada",earthquake,,1.3,0.32,4.0,reviewed,nn,nn
+2024-07-16T06:58:18.472Z,36.6989,-116.036,3.7,-0.4,ml,14.0,142.58,0.05,0.0736,nn,nn00880981,2024-07-16T15:17:41.949Z,"35 km WNW of Indian Springs, Nevada",earthquake,,1.6,0.4,4.0,reviewed,nn,nn
