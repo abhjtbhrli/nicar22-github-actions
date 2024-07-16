@@ -2176,3 +2176,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-16T07:39:55.485Z,63.0974,-151.3445,0.0,1.2,ml,,,,0.35,ak,ak02493kt87w,2024-07-16T07:43:09.008Z,"52 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-07-15T09:00:12.518Z,46.2208,149.2909,179.649,4.2,mb,38.0,161.0,4.562,0.57,us,us7000mzb2,2024-07-16T07:47:46.040Z,"155 km NE of Kuril’sk, Russia",earthquake,10.49,12.471,0.098,29.0,reviewed,us,us
 2024-07-16T07:49:08.060Z,38.8359985351562,-122.786003112793,5.19000005722046,0.81,md,10.0,105.0,0.004158,0.04,nc,nc75035477,2024-07-16T07:50:44.977Z,"6 km WNW of Cobb, CA",earthquake,0.65,2.22000003,0.17,11.0,automatic,nc,nc
+2024-07-16T08:22:58.810Z,33.3573341,-116.3278351,11.07,0.95,ml,36.0,76.0,0.01607,0.22,ci,ci40660815,2024-07-16T08:25:01.227Z,"12 km NNE of Borrego Springs, CA",earthquake,0.37,0.63,0.152,8.0,automatic,ci,ci
+2024-07-16T07:59:41.700Z,33.0246667,-115.994,7.07,0.9,ml,36.0,58.0,0.139,0.25,ci,ci40660807,2024-07-16T08:05:37.433Z,"18 km SE of Ocotillo Wells, CA",earthquake,0.29,1.17,0.141,14.0,automatic,ci,ci
+2024-07-16T07:49:37.791Z,31.677,-104.407,4.0823,1.5,ml,16.0,86.0,0.0,0.4,tx,tx2024nwnp,2024-07-16T08:21:25.554Z,"55 km S of Whites City, New Mexico",earthquake,0.0,1.30804536630835,0.2,12.0,automatic,tx,tx
+2024-07-16T07:31:03.701Z,31.679,-104.404,4.117,1.6,ml,17.0,69.0,0.0,0.4,tx,tx2024nwna,2024-07-16T08:21:17.028Z,"55 km S of Whites City, New Mexico",earthquake,0.0,1.33786340393441,0.1,12.0,automatic,tx,tx
