@@ -2211,3 +2211,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-16T10:43:20.980Z,18.0788333333333,-66.7543333333333,3.61,2.09,md,7.0,145.0,0.1454,0.25,pr,pr71455533,2024-07-16T11:03:30.910Z,"1 km N of Santo Domingo, Puerto Rico",earthquake,0.63,1.07,0.0006061510912838,3.0,reviewed,pr,pr
 2024-07-16T11:28:14.742Z,61.3291,-152.2675,2.6,0.5,ml,,,,0.51,ak,ak02493n4ima,2024-07-16T11:30:08.881Z,"66 km WNW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-07-16T11:40:14.473Z,64.8394,-146.6751,8.5,1.0,ml,,,,0.47,ak,ak02493n736v,2024-07-16T11:42:18.488Z,"10 km ESE of Pleasant Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-07-16T11:43:23.507Z,36.46440887,-98.79027557,4.126653671,1.96,ml,20.0,71.30363083,0.01694934629,0.4047482991,ok,ok2024nwvh,2024-07-16T11:53:29.102Z,"15 km SSE of Waynoka, Oklahoma",earthquake,3.138754609,2.097960042,0.32,13.0,automatic,ok,ok
