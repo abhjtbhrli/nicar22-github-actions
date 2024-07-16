@@ -2188,3 +2188,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-16T08:56:16.785Z,61.2578,-146.3581,29.0,1.6,ml,,,,0.43,ak,ak02493li80e,2024-07-16T08:57:48.737Z,"14 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-07-16T08:49:22.680Z,19.2614994049072,-155.404159545898,30.9200000762939,2.3599999,md,42.0,125.0,0.07362,0.140000001,hv,hv74336827,2024-07-16T08:51:35.290Z,"10 km NE of Pāhala, Hawaii",earthquake,0.38,0.569999993,0.360000014,7.0,automatic,hv,hv
 2024-07-16T08:25:50.797Z,-52.8123,25.8396,10.0,4.8,mb,19.0,87.0,17.967,0.62,us,us7000mzhz,2024-07-16T08:49:37.040Z,south of Africa,earthquake,13.62,1.917,0.131,18.0,reviewed,us,us
+2024-07-16T09:16:24.270Z,36.2598342895508,-120.703330993652,4.28000020980835,2.11,md,39.0,90.0,0.0905,0.39,nc,nc75035502,2024-07-16T09:19:48.220Z,"18 km SSW of New Idria, CA",earthquake,0.65,1.75999999,0.15,27.0,automatic,nc,nc
+2024-07-16T09:10:19.607Z,61.5061,-147.3947,20.1,1.2,ml,,,,0.41,ak,ak02493ltsw8,2024-07-16T09:12:04.154Z,"36 km SSE of Glacier View, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-07-16T09:05:30.843Z,61.501,-147.3976,19.9,2.2,ml,,,,0.5,ak,ak02493lsr6k,2024-07-16T09:07:03.398Z,"36 km SSE of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-07-16T08:41:35.686Z,31.655,-104.586,3.8016,2.0,ml,17.0,190.0,0.1,0.3,tx,tx2024nwpi,2024-07-16T09:02:44.904Z,"61 km SSW of Whites City, New Mexico",earthquake,0.0,1.91966592008101,0.1,13.0,automatic,tx,tx
