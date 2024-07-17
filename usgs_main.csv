@@ -2562,3 +2562,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-17T16:45:47.946Z,31.681,-104.423,5.6177,2.0,ml,15.0,57.0,0.0,0.2,tx,tx2024nzau,2024-07-17T17:31:07.043Z,"55 km S of Whites City, New Mexico",earthquake,0.0,2.63195587620955,0.2,11.0,automatic,tx,tx
 2024-07-17T17:39:20.390Z,19.3956661224365,-155.251327514648,1.62000000476837,1.76,ml,24.0,50.0,0.0101,0.219999999,hv,hv74340981,2024-07-17T17:41:58.420Z,"5 km SSW of Volcano, Hawaii",earthquake,0.21,0.239999995,0.3,13.0,automatic,hv,hv
 2024-07-17T02:21:17.290Z,46.18633333333333,-122.19916666666668,4.32,-0.12,ml,7.0,199.0,0.05569,0.04,uw,uw62017297,2024-07-17T17:48:40.440Z,"36 km NNE of Amboy, Washington",earthquake,0.63,2.03,0.0702274085630593,2.0,reviewed,uw,uw
+2024-07-17T18:03:53.846Z,59.1484,-138.0349,0.0,2.1,ml,,,,1.17,ak,ak02495eomgo,2024-07-17T18:06:47.533Z,"106 km ESE of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-07-17T17:55:17.391Z,59.0708,-137.9156,1.9,3.7,ml,,,,0.93,ak,ak02495ee9a3,2024-07-17T18:04:54.540Z,"114 km WSW of Covenant Life, Alaska",earthquake,,0.4,,,automatic,ak,ak
