@@ -2501,3 +2501,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-17T12:44:59.380Z,33.665,-116.746,16.01,0.78,ml,35.0,67.0,0.05315,0.12,ci,ci40662071,2024-07-17T12:56:03.337Z,"9 km SSW of Idyllwild, CA",earthquake,0.18,0.28,0.156,21.0,automatic,ci,ci
 2024-07-17T07:22:35.280Z,35.5553333333333,-84.364,5.05,1.89,md,9.0,90.0,0.1663,0.09,se,se60587171,2024-07-17T12:52:48.660Z,"3 km N of Madisonville, Tennessee",earthquake,0.27,0.95,0.07137164740625,8.0,reviewed,se,se
 2024-07-17T00:25:36.912Z,32.22,-101.988,6.9092,2.5,ml,21.0,61.0,0.0,0.1,tx,tx2024nxum,2024-07-17T13:01:59.242Z,"21 km WNW of Stanton, Texas",earthquake,0.5211832689393148,0.7236626501876992,0.0,6.0,reviewed,tx,tx
+2024-07-17T07:27:54.428Z,36.7352,-116.0284,3.5,-0.4,ml,12.0,134.1,0.027,0.0733,nn,nn00881015,2024-07-17T13:08:17.179Z,"36 km WNW of Indian Springs, Nevada",earthquake,,2.1,0.19,2.0,reviewed,nn,nn
