@@ -2536,3 +2536,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-17T15:02:23.570Z,44.9263333333333,-111.476166666667,11.43,1.49,ml,24.0,55.0,0.1365,0.22,mb,mb90057158,2024-07-17T15:43:15.890Z,"28 km NW of Hebgen Lake Estates, Montana",earthquake,0.37,0.72,0.232329909081466,24.0,reviewed,mb,mb
 2024-07-16T22:18:14.891Z,31.609,-103.996,6.2097,1.6,ml,16.0,41.0,0.0,0.4,tx,tx2024nxqg,2024-07-17T15:44:15.792Z,"37 km NNW of Toyah, Texas",earthquake,0.0,2.1545817237877,0.2,13.0,automatic,tx,tx
 2024-07-16T21:11:54.127Z,31.729,-104.593,2.599,1.6,ml,14.0,201.0,0.1,0.7,tx,tx2024nxob,2024-07-17T15:44:10.348Z,"53 km SSW of Whites City, New Mexico",earthquake,0.0,2.09697872991148,0.1,11.0,automatic,tx,tx
+2024-07-17T13:48:04.291Z,54.9398,-157.0659,4.3,2.3,ml,,,,0.45,ak,ak02495bz113,2024-07-17T15:51:39.861Z,"170 km SE of Perryville, Alaska",earthquake,,2.0,,,reviewed,ak,ak
+2024-07-17T06:28:09.550Z,44.36,-115.187666666667,8.26,2.02,ml,14.0,108.0,0.3528,0.25,mb,mb90057148,2024-07-17T15:51:26.170Z,"25 km NW of Stanley, Idaho",earthquake,0.62,1.23,0.164426422842251,17.0,reviewed,mb,mb
