@@ -2496,3 +2496,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-17T10:43:51.007Z,31.679,-104.425,5.5742,1.5,ml,16.0,73.0,0.0,0.3,tx,tx2024nyov,2024-07-17T11:32:02.380Z,"55 km S of Whites City, New Mexico",earthquake,0.0,2.678775465324,0.2,13.0,automatic,tx,tx
 2024-07-17T11:47:57.741Z,59.7053,-153.2592,108.2,0.6,ml,,,,0.4,ak,ak02495as11a,2024-07-17T11:49:39.098Z,"48 km E of Pedro Bay, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2024-07-17T03:50:21.289Z,36.45566667,-98.806,7.1,1.48,ml,19.0,103.0,0.007198587392,0.16,ok,ok2024nybf,2024-07-17T11:56:50.173Z,"15 km SSE of Waynoka, Oklahoma",earthquake,,0.4,0.14,6.0,reviewed,ok,ok
+2024-07-17T12:38:30.357Z,60.1982,-150.5065,37.2,2.0,ml,,,,0.33,ak,ak02495bbh2z,2024-07-17T12:40:01.057Z,"36 km SSE of Funny River, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-07-17T12:33:36.720Z,19.1651668548584,-155.471664428711,32.9900016784668,2.02999997,md,52.0,89.0,0.01325,0.150000006,hv,hv74340546,2024-07-17T12:35:33.030Z,"4 km S of Pāhala, Hawaii",earthquake,0.52,0.730000019,0.129999995,13.0,automatic,hv,hv
