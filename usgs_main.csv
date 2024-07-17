@@ -2467,3 +2467,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-17T07:21:13.376Z,64.7734,-148.0596,16.5,0.1,ml,,,,0.32,ak,ak0249588mkp,2024-07-17T07:23:24.831Z,"8 km SSW of Ester, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2024-07-17T07:04:05.330Z,17.9238333333333,-66.8803333333333,13.12,2.95,md,13.0,222.0,0.05514,0.15,pr,pr71455638,2024-07-17T07:18:15.210Z,"6 km SSE of Guánica, Puerto Rico",earthquake,0.56,0.45,0.0074103914206502,4.0,reviewed,pr,pr
 2024-07-17T07:35:37.080Z,38.7991676330566,-122.818168640137,3.5,0.48,md,7.0,113.0,0.01295,0.02,nc,nc75036057,2024-07-17T07:37:14.442Z,"6 km NW of The Geysers, CA",earthquake,0.66,1.21000004,0.23,8.0,automatic,nc,nc
+2024-07-17T07:47:29.120Z,34.453,-117.9531667,8.94,1.24,ml,26.0,45.0,0.004453,0.17,ci,ci40661943,2024-07-17T07:53:54.111Z,"7 km SW of Pearblossom, CA",earthquake,0.22,0.41,0.236,35.0,automatic,ci,ci
+2024-07-17T07:30:06.390Z,31.605,-104.534,4.9105,1.7,ml,17.0,157.0,0.1,0.4,tx,tx2024nyin,2024-07-17T07:51:31.089Z,"65 km SSW of Whites City, New Mexico",earthquake,0.0,1.62833304805747,0.1,12.0,automatic,tx,tx
