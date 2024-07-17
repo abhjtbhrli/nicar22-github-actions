@@ -2498,3 +2498,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-17T03:50:21.289Z,36.45566667,-98.806,7.1,1.48,ml,19.0,103.0,0.007198587392,0.16,ok,ok2024nybf,2024-07-17T11:56:50.173Z,"15 km SSE of Waynoka, Oklahoma",earthquake,,0.4,0.14,6.0,reviewed,ok,ok
 2024-07-17T12:38:30.357Z,60.1982,-150.5065,37.2,2.0,ml,,,,0.33,ak,ak02495bbh2z,2024-07-17T12:40:01.057Z,"36 km SSE of Funny River, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-07-17T12:33:36.720Z,19.1651668548584,-155.471664428711,32.9900016784668,2.02999997,md,52.0,89.0,0.01325,0.150000006,hv,hv74340546,2024-07-17T12:35:33.030Z,"4 km S of Pāhala, Hawaii",earthquake,0.52,0.730000019,0.129999995,13.0,automatic,hv,hv
+2024-07-17T12:44:59.380Z,33.665,-116.746,16.01,0.78,ml,35.0,67.0,0.05315,0.12,ci,ci40662071,2024-07-17T12:56:03.337Z,"9 km SSW of Idyllwild, CA",earthquake,0.18,0.28,0.156,21.0,automatic,ci,ci
+2024-07-17T07:22:35.280Z,35.5553333333333,-84.364,5.05,1.89,md,9.0,90.0,0.1663,0.09,se,se60587171,2024-07-17T12:52:48.660Z,"3 km N of Madisonville, Tennessee",earthquake,0.27,0.95,0.07137164740625,8.0,reviewed,se,se
+2024-07-17T00:25:36.912Z,32.22,-101.988,6.9092,2.5,ml,21.0,61.0,0.0,0.1,tx,tx2024nxum,2024-07-17T13:01:59.242Z,"21 km WNW of Stanton, Texas",earthquake,0.5211832689393148,0.7236626501876992,0.0,6.0,reviewed,tx,tx
