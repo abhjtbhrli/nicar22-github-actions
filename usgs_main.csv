@@ -2403,3 +2403,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-17T02:09:29.083Z,41.5643,46.0699,29.127,4.1,mwr,23.0,89.0,0.864,0.7,us,us7000mzq9,2024-07-17T02:36:06.919Z,"10 km SE of Ts’nori, Georgia",earthquake,4.46,7.168,0.083,14.0,reviewed,us,us
 2024-07-17T02:07:47.490Z,38.7786674499512,-122.71549987793,2.02999997138977,1.12,md,14.0,75.0,0.01645,0.02,nc,nc75035972,2024-07-17T02:09:25.093Z,"2 km WNW of Anderson Springs, CA",earthquake,0.3,0.49000001,0.15,13.0,automatic,nc,nc
 2024-07-17T02:23:24.690Z,17.9366666666667,-66.9585,11.5,2.94,md,16.0,220.0,0.05917,0.13,pr,pr71455598,2024-07-17T02:46:48.860Z,"6 km SW of Guánica, Puerto Rico",earthquake,0.5,0.32,0.0529592004537069,7.0,reviewed,pr,pr
+2024-07-17T02:53:18.800Z,32.8613333,-116.1556667,8.4,1.09,ml,24.0,78.0,0.08501,0.18,ci,ci40661871,2024-07-17T02:59:24.836Z,"21 km NW of Ocotillo, CA",earthquake,0.3,0.83,0.322,19.0,automatic,ci,ci
