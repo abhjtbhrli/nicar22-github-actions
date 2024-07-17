@@ -2519,3 +2519,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-17T14:12:54.310Z,35.7145,-117.56,2.43,0.72,ml,21.0,68.0,0.1214,0.12,ci,ci40662127,2024-07-17T14:18:32.780Z,"15 km NE of Ridgecrest, CA",earthquake,0.18,0.39,0.032,7.0,automatic,ci,ci
 2024-07-17T14:09:07.369Z,61.0477,-148.4768,0.0,1.4,ml,,,,0.92,ak,ak02495cc2r4,2024-07-17T14:11:17.784Z,"32 km NNE of Whittier, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-07-17T14:35:34.060Z,19.3850002288818,-155.242492675781,1.39999997615814,2.25,ml,34.0,57.0,0.008339,0.239999995,hv,hv74340721,2024-07-17T14:38:33.550Z,"6 km S of Volcano, Hawaii",earthquake,0.26,0.170000002,0.34,18.0,automatic,hv,hv
+2024-07-17T14:45:26.068Z,59.7102,-153.505,128.6,0.6,ml,,,,0.21,ak,ak02495cjtz2,2024-07-17T14:47:01.504Z,"34 km ESE of Pedro Bay, Alaska",earthquake,,5.9,,,automatic,ak,ak
+2024-07-17T14:44:14.224Z,62.3814,-149.1195,18.1,1.0,ml,,,,0.35,ak,ak02495cjlce,2024-07-17T14:45:57.397Z,"45 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-07-17T14:42:10.390Z,36.9828338623047,-121.46199798584,7.28999996185303,1.48,md,11.0,116.0,0.113,0.14,nc,nc75036117,2024-07-17T14:43:45.973Z,"10 km ESE of Gilroy, CA",earthquake,0.58,3.07999992,0.16,10.0,automatic,nc,nc
+2024-07-17T14:38:07.420Z,33.3383333,-116.3941667,12.21,1.22,ml,61.0,31.0,0.02541,0.19,ci,ci40662175,2024-07-17T14:44:17.748Z,"9 km N of Borrego Springs, CA",earthquake,0.17,0.4,0.17,27.0,automatic,ci,ci
+2024-07-17T14:36:45.240Z,37.5016670227051,-118.862503051758,4.59999990463257,2.19,md,21.0,113.0,,0.03,nc,nc75036112,2024-07-17T14:39:21.384Z,"17 km W of Toms Place, CA",earthquake,0.41,1.13999999,0.18,24.0,automatic,nc,nc
