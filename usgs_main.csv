@@ -2492,3 +2492,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-17T10:38:11.309Z,31.676,-104.422,4.5501,1.8,ml,14.0,82.0,0.0,0.5,tx,tx2024nyor,2024-07-17T10:54:07.569Z,"55 km S of Whites City, New Mexico",earthquake,0.0,1.43494702736512,0.1,12.0,automatic,tx,tx
 2024-07-17T10:56:01.510Z,35.6425,-117.4401667,8.39,0.83,ml,20.0,82.0,0.02624,0.15,ci,ci40662007,2024-07-17T11:06:17.829Z,"14 km SSW of Searles Valley, CA",earthquake,0.28,0.7,0.294,5.0,automatic,ci,ci
 2024-07-17T11:12:27.690Z,31.4898333,-115.6138333,8.04,2.53,ml,8.0,112.0,0.1755,0.16,ci,ci40662023,2024-07-17T11:18:42.389Z,"92 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.37,2.14,0.154,20.0,automatic,ci,ci
+2024-07-17T11:29:24.290Z,38.8368339538574,-122.799835205078,1.9099999666214,0.6,md,13.0,66.0,0.007577,0.01,nc,nc75036092,2024-07-17T11:31:00.352Z,"7 km WNW of Cobb, CA",earthquake,0.32,0.670000017,0.21,12.0,automatic,nc,nc
+2024-07-17T10:43:51.007Z,31.679,-104.425,5.5742,1.5,ml,16.0,73.0,0.0,0.3,tx,tx2024nyov,2024-07-17T11:32:02.380Z,"55 km S of Whites City, New Mexico",earthquake,0.0,2.678775465324,0.2,13.0,automatic,tx,tx
