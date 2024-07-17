@@ -2494,3 +2494,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-17T11:12:27.690Z,31.4898333,-115.6138333,8.04,2.53,ml,8.0,112.0,0.1755,0.16,ci,ci40662023,2024-07-17T11:18:42.389Z,"92 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.37,2.14,0.154,20.0,automatic,ci,ci
 2024-07-17T11:29:24.290Z,38.8368339538574,-122.799835205078,1.9099999666214,0.6,md,13.0,66.0,0.007577,0.01,nc,nc75036092,2024-07-17T11:31:00.352Z,"7 km WNW of Cobb, CA",earthquake,0.32,0.670000017,0.21,12.0,automatic,nc,nc
 2024-07-17T10:43:51.007Z,31.679,-104.425,5.5742,1.5,ml,16.0,73.0,0.0,0.3,tx,tx2024nyov,2024-07-17T11:32:02.380Z,"55 km S of Whites City, New Mexico",earthquake,0.0,2.678775465324,0.2,13.0,automatic,tx,tx
+2024-07-17T11:47:57.741Z,59.7053,-153.2592,108.2,0.6,ml,,,,0.4,ak,ak02495as11a,2024-07-17T11:49:39.098Z,"48 km E of Pedro Bay, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2024-07-17T03:50:21.289Z,36.45566667,-98.806,7.1,1.48,ml,19.0,103.0,0.007198587392,0.16,ok,ok2024nybf,2024-07-17T11:56:50.173Z,"15 km SSE of Waynoka, Oklahoma",earthquake,,0.4,0.14,6.0,reviewed,ok,ok
