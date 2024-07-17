@@ -2514,3 +2514,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-17T06:46:11.252Z,32.22,-101.988,6.665,2.1,ml,22.0,60.0,0.0,0.1,tx,tx2024nyha,2024-07-17T13:44:44.707Z,"21 km WNW of Stanton, Texas",earthquake,0.5013270349875064,0.8429241799140121,0.0,7.0,reviewed,tx,tx
 2024-07-16T23:02:04.640Z,44.5683333333333,-111.001833333333,14.46,0.19,md,7.0,226.0,0.1037,0.08,uu,uu80075926,2024-07-17T13:45:04.340Z,"13 km SE of West Yellowstone, Montana",earthquake,2.1,1.65,0.336769343271745,4.0,reviewed,uu,uu
 2024-07-17T13:59:11.641Z,67.3496,-156.1511,0.0,1.9,ml,,,,0.68,ak,ak02495c1da4,2024-07-17T14:02:30.973Z,"58 km NNE of Kobuk, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-07-17T14:18:11.470Z,33.393,-116.3603333,3.13,0.7,ml,31.0,93.0,0.0523,0.19,ci,ci40662135,2024-07-17T14:24:23.870Z,"15 km N of Borrego Springs, CA",earthquake,0.23,0.35,0.157,15.0,automatic,ci,ci
+2024-07-17T14:17:38.030Z,19.4015007019043,-155.265167236328,0.46000000834465,1.79,ml,16.0,61.0,0.003343,0.119999997,hv,hv74340706,2024-07-17T14:20:17.900Z,"5 km SW of Volcano, Hawaii",earthquake,0.2,0.170000002,0.17,9.0,automatic,hv,hv
+2024-07-17T14:12:54.310Z,35.7145,-117.56,2.43,0.72,ml,21.0,68.0,0.1214,0.12,ci,ci40662127,2024-07-17T14:18:32.780Z,"15 km NE of Ridgecrest, CA",earthquake,0.18,0.39,0.032,7.0,automatic,ci,ci
+2024-07-17T14:09:07.369Z,61.0477,-148.4768,0.0,1.4,ml,,,,0.92,ak,ak02495cc2r4,2024-07-17T14:11:17.784Z,"32 km NNE of Whittier, Alaska",earthquake,,0.7,,,automatic,ak,ak
