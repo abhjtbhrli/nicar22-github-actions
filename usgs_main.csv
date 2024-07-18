@@ -2783,3 +2783,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-18T11:07:25.158Z,59.3213,-152.8154,74.1,1.4,ml,,,,0.35,ak,ak02496y2qdf,2024-07-18T11:09:58.086Z,"51 km W of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-07-18T11:03:02.870Z,33.7628333,-116.9281667,12.82,0.49,ml,28.0,65.0,0.07564,0.19,ci,ci40663271,2024-07-18T11:09:01.537Z,"4 km WNW of Valle Vista, CA",earthquake,0.31,0.63,0.111,10.0,automatic,ci,ci
 2024-07-18T11:07:36.268Z,33.536,140.1754,105.552,5.6,mww,127.0,30.0,0.517,0.89,us,us7000mzzc,2024-07-18T11:26:44.040Z,"163 km S of Tateyama, Japan",earthquake,7.34,5.07,0.043,53.0,reviewed,us,us
+2024-07-18T11:33:09.610Z,33.3356667,-116.668335,11.78,1.75,ml,27.0,59.0,0.125,0.14,ci,ci40663295,2024-07-18T11:35:20.480Z,"7 km NNW of Warner Springs, CA",earthquake,0.31,0.86,0.51,10.0,automatic,ci,ci
+2024-07-18T11:29:52.153Z,58.651,-154.0691,93.6,0.8,ml,,,,0.2,ak,ak02496y7i7j,2024-07-18T11:31:27.857Z,"94 km NW of Aleneva, Alaska",earthquake,,1.6,,,automatic,ak,ak
