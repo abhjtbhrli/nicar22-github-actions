@@ -2723,3 +2723,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-18T04:45:57.210Z,36.0359993,-117.7779999,1.82,0.98,ml,10.0,167.0,0.01492,0.06,ci,ci40663071,2024-07-18T04:49:05.919Z,"15 km E of Coso Junction, CA",earthquake,0.4,0.48,0.266,4.0,automatic,ci,ci
 2024-07-18T04:43:18.613Z,36.6087,-116.4934,0.0,0.6,ml,17.0,247.16000000000005,0.129,0.2189,nn,nn00881066,2024-07-18T04:45:08.968Z,"36 km ENE of Furnace Creek, California",earthquake,,8.6,0.2,13.0,automatic,nn,nn
 2024-07-18T04:25:36.210Z,17.9623333333333,-66.5136666666667,11.39,2.08,md,9.0,217.0,0.119,0.21,pr,pr71455763,2024-07-18T04:44:58.010Z,"3 km SSW of Potala Pastillo, Puerto Rico",earthquake,1.45,0.72,0.142917781422996,3.0,reviewed,pr,pr
+2024-07-18T05:17:15.950Z,60.24,-151.2004,53.6,1.2,ml,,,,0.41,ak,ak02496uk96z,2024-07-18T05:19:11.708Z,"10 km E of Clam Gulch, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-07-18T05:07:08.300Z,32.9858333,-116.314,9.01,0.79,ml,33.0,73.0,0.08242,0.18,ci,ci40663079,2024-07-18T05:13:02.830Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.2,0.63,0.212,10.0,automatic,ci,ci
+2024-07-18T05:04:42.970Z,18.0391666666667,-65.385,13.14,3.03,md,10.0,203.0,0.3128,0.28,pr,pr71455768,2024-07-18T05:16:43.110Z,"11 km SE of Esperanza, Puerto Rico",earthquake,1.54,0.92,0.0891949121861231,7.0,reviewed,pr,pr
