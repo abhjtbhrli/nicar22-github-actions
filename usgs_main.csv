@@ -2842,3 +2842,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-18T16:10:21.301Z,63.2766,-150.9266,0.0,1.6,ml,,,,0.94,ak,ak0249712j8y,2024-07-18T16:12:51.667Z,"49 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-07-18T15:40:51.791Z,40.0101,44.4374,10.0,3.4,ml,10.0,80.0,0.271,0.54,us,us7000n018,2024-07-18T16:25:35.423Z,"1 km SE of Noramarg, Armenia",earthquake,1.76,1.968,0.115,10.0,reviewed,us,us
 2024-07-18T13:55:51.744Z,31.609,-103.972,8.0353,1.8,ml,16.0,64.0,0.0,0.1,tx,tx2024oaqq,2024-07-18T16:29:51.979Z,"36 km NNW of Toyah, Texas",earthquake,0.3723973058927587,0.5238787196362827,0.2,15.0,reviewed,tx,tx
+2024-07-18T16:37:18.130Z,33.1711655,-116.4443359,11.14,1.28,ml,49.0,43.0,0.09375,0.19,ci,ci40663535,2024-07-18T16:39:32.303Z,"11 km SW of Borrego Springs, CA",earthquake,0.25,0.46,0.321,8.0,automatic,ci,ci
+2024-07-18T16:31:24.180Z,19.396333694458,-155.28483581543,0.0199999995529652,1.99,ml,23.0,43.0,0.01019,0.100000001,hv,hv74342931,2024-07-18T16:34:02.290Z,"7 km SW of Volcano, Hawaii",earthquake,0.14,0.150000006,0.35,20.0,automatic,hv,hv
+2024-07-18T16:30:48.050Z,32.9875,-116.312,8.25,0.85,ml,31.0,53.0,0.0336,0.16,ci,ci40663527,2024-07-18T16:36:53.899Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.21,0.43,0.227,14.0,automatic,ci,ci
