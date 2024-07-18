@@ -2839,3 +2839,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-18T16:06:41.090Z,33.947834,-116.3410034,2.27,2.42,ml,94.0,32.0,0.05678,0.2,ci,ci40663503,2024-07-18T16:08:46.123Z,"15 km E of Desert Hot Springs, CA",earthquake,0.17,0.37,0.221,23.0,automatic,ci,ci
 2024-07-18T15:58:34.580Z,19.1978340148926,-155.460327148438,31.5799999237061,2.19000006,md,45.0,114.0,0.04223,0.100000001,hv,hv74342871,2024-07-18T16:00:28.020Z,"2 km ESE of Pāhala, Hawaii",earthquake,0.41,0.569999993,0.349999994,6.0,automatic,hv,hv
 2024-07-17T19:41:20.882Z,31.665,-104.354,5.8948,2.4,ml,32.0,69.0,0.1,0.1,tx,tx2024nzgp,2024-07-18T16:00:32.679Z,"56 km S of Whites City, New Mexico",earthquake,0.833006792791737,0.922288283553094,0.1,18.0,reviewed,tx,tx
+2024-07-18T16:10:21.301Z,63.2766,-150.9266,0.0,1.6,ml,,,,0.94,ak,ak0249712j8y,2024-07-18T16:12:51.667Z,"49 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-07-18T15:40:51.791Z,40.0101,44.4374,10.0,3.4,ml,10.0,80.0,0.271,0.54,us,us7000n018,2024-07-18T16:25:35.423Z,"1 km SE of Noramarg, Armenia",earthquake,1.76,1.968,0.115,10.0,reviewed,us,us
+2024-07-18T13:55:51.744Z,31.609,-103.972,8.0353,1.8,ml,16.0,64.0,0.0,0.1,tx,tx2024oaqq,2024-07-18T16:29:51.979Z,"36 km NNW of Toyah, Texas",earthquake,0.3723973058927587,0.5238787196362827,0.2,15.0,reviewed,tx,tx
