@@ -2822,3 +2822,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-18T14:17:38.330Z,38.820499420166,-122.841499328613,2.05999994277954,0.81,md,13.0,114.0,0.005689,0.03,nc,nc75036527,2024-07-18T14:19:16.180Z,"9 km NW of The Geysers, CA",earthquake,0.31,0.620000005,0.46,14.0,automatic,nc,nc
 2024-07-18T13:45:41.310Z,31.5689,-103.9654,5.139,2.6,mb_lg,20.0,87.0,0.078,0.9,us,us7000n00a,2024-07-18T14:28:28.040Z,"32 km NNW of Toyah, Texas",earthquake,1.64,5.678,0.083,39.0,reviewed,us,us
 2024-07-18T08:52:44.557Z,5.0939,-82.6109,10.0,4.4,mb,73.0,146.0,3.37,0.93,us,us7000mzyv,2024-07-18T14:29:24.040Z,south of Panama,earthquake,5.74,1.931,0.052,108.0,reviewed,us,us
+2024-07-18T13:19:21.133Z,29.2653,130.3943,36.184,4.7,mb,46.0,105.0,2.236,0.56,us,us7000n004,2024-07-18T14:35:25.040Z,"107 km S of Yudomari, Japan",earthquake,2.95,7.716,0.073,57.0,reviewed,us,us
