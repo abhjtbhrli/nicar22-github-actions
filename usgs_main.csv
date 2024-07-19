@@ -3118,3 +3118,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-18T17:47:39.570Z,35.10366667,-95.38233333,7.51,1.44,ml,36.0,71.0,0.1214761622,0.21,ok,ok2024oayi,2024-07-19T15:13:25.730Z,"2 km SSW of Quinton, Oklahoma",earthquake,,0.5,0.16,13.0,reviewed,ok,ok
 2024-07-19T15:20:58.144Z,63.3619,-150.222,29.4,1.3,ml,,,,0.85,ak,ak02498o2o52,2024-07-19T15:23:35.633Z,"63 km W of Cantwell, Alaska",earthquake,,3.7,,,automatic,ak,ak
 2024-07-18T19:31:44.350Z,35.62483333,-97.14483333,16.13,1.0,ml,30.0,109.0,0.09358163609,0.18,ok,ok2024obbt,2024-07-19T15:33:26.784Z,"6 km SE of Luther, Oklahoma",earthquake,,0.7,0.31,12.0,reviewed,ok,ok
+2024-07-19T15:37:44.149Z,63.4376,-148.377,5.6,2.0,ml,,,,0.94,ak,ak02498o6a8e,2024-07-19T15:39:42.365Z,"29 km E of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-07-19T05:00:06.780Z,40.1118,-119.7555,14.8,2.6,ml,20.0,100.01000000000002,0.061,0.1535,nn,nn00881143,2024-07-19T15:39:16.309Z,"22 km NW of Sutcliffe, Nevada",earthquake,,1.2,0.17,8.0,reviewed,nn,nn
