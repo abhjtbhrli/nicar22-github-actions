@@ -3189,3 +3189,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-19T20:31:40.680Z,38.8318328857422,-122.799003601074,7.5,0.21,md,7.0,133.0,0.009427,0.05,nc,nc75037037,2024-07-19T20:33:19.353Z,"7 km WNW of Cobb, CA",earthquake,1.57,7.36000013,0.12,8.0,automatic,nc,nc
 2024-07-19T10:19:04.400Z,33.7638333,-116.932,14.35,0.62,ml,29.0,66.0,0.07686,0.12,ci,ci37677268,2024-07-19T20:32:11.311Z,"3 km SE of San Jacinto, CA",earthquake,0.25,0.38,0.084,19.0,reviewed,ci,ci
 2024-07-19T03:28:02.200Z,51.9431666666667,-177.2185,9.09,1.02,ml,5.0,306.0,0.02809,0.13,av,av93015904,2024-07-19T20:39:22.620Z,"40 km W of Adak, Alaska",earthquake,1.15,0.67,0.325937875752402,4.0,reviewed,av,av
+2024-07-19T20:44:31.420Z,32.6073341,-115.7330017,8.42,1.45,ml,30.0,74.0,0.04225,0.22,ci,ci40665015,2024-07-19T20:46:36.122Z,"14 km WNW of Progreso, B.C., MX",earthquake,0.33,0.67,0.313,10.0,automatic,ci,ci
+2024-07-19T20:43:51.282Z,65.1133,-150.7453,13.3,0.9,ml,,,,0.61,ak,ak02498r6r3s,2024-07-19T20:46:34.222Z,"13 km NNW of Manley Hot Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-07-19T20:40:18.966Z,60.3704,-152.4145,101.9,0.9,ml,,,,0.37,ak,ak02498r61go,2024-07-19T20:42:33.498Z,"54 km NW of Ninilchik, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-07-19T17:22:30.018Z,36.9094,-104.834,6.866,2.4,ml,16.0,87.0,0.11,0.65,us,us7000n0ac,2024-07-19T20:43:08.040Z,"24 km S of Weston, Colorado",earthquake,1.53,3.837,0.052,49.0,reviewed,us,us
