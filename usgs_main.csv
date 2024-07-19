@@ -3054,3 +3054,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-19T08:33:10.915Z,59.1579,-153.1329,11.0,1.3,ml,,,,0.67,ak,ak02498jzbkj,2024-07-19T08:35:13.234Z,"72 km WSW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-07-19T08:30:03.610Z,60.163,-141.5709,13.7,1.2,ml,,,,0.36,ak,ak02498jynux,2024-07-19T08:31:47.249Z,"124 km WNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-07-19T08:20:39.706Z,-20.4704,-69.1672,103.009,4.2,mb,20.0,87.0,0.328,0.36,us,us7000n07s,2024-07-19T08:40:09.040Z,"53 km ESE of La Tirana, Chile",earthquake,4.74,7.662,0.131,16.0,reviewed,us,us
+2024-07-19T08:47:00.017Z,62.4953,-149.8053,5.4,0.9,ml,,,,0.72,ak,ak02498k2ar5,2024-07-19T08:48:44.755Z,"16 km ENE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-07-19T08:38:31.756Z,38.1801,-117.8401,7.6,1.0,ml,8.0,205.69,0.115,0.3433,nn,nn00881146,2024-07-19T08:41:14.931Z,"33 km SE of Mina, Nevada",earthquake,,0.6,0.69,6.0,automatic,nn,nn
+2024-07-19T04:03:38.183Z,52.0045,-170.7912,25.7,3.6,ml,,,,0.65,ak,ak02498hf7r6,2024-07-19T08:45:42.887Z,"167 km SW of Nikolski, Alaska",earthquake,,2.1,,,reviewed,ak,ak
