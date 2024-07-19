@@ -3067,3 +3067,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-19T10:19:15.960Z,33.7428333,-116.9565,14.59,0.59,ml,15.0,167.0,0.05106,0.14,ci,ci40664311,2024-07-19T10:25:22.950Z,"2 km ESE of Hemet, CA",earthquake,0.69,0.79,0.1,16.0,automatic,ci,ci
 2024-07-19T09:55:40.456Z,-32.0966,-71.8713,32.447,4.4,mb,33.0,148.0,0.763,0.74,us,us7000n083,2024-07-19T10:31:42.040Z,"72 km WNW of La Ligua, Chile",earthquake,4.32,2.285,0.179,9.0,reviewed,us,us
 2024-07-19T10:37:39.765Z,63.164,-150.4113,102.0,1.7,ml,,,,0.5,ak,ak02498l73vc,2024-07-19T10:39:41.628Z,"76 km NNE of Petersville, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-07-19T10:53:33.150Z,19.470666885376,-155.585494995117,9.22000026702881,2.13000011,md,14.0,59.0,0.005829,0.280000001,hv,hv74344636,2024-07-19T10:55:14.390Z,"29 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.67,1.30999994,0.109999999,3.0,automatic,hv,hv
+2024-07-19T10:10:18.624Z,18.5365,145.6294,203.686,4.5,mb,94.0,79.0,3.281,0.63,us,us7000n08b,2024-07-19T10:58:55.040Z,"Pagan region, Northern Mariana Islands",earthquake,9.83,7.29,0.048,124.0,reviewed,us,us
+2024-07-19T08:41:06.640Z,31.68,-104.436,5.4333,1.6,ml,20.0,52.0,0.0,0.2,tx,tx2024ocbu,2024-07-19T11:10:59.883Z,"55 km S of Whites City, New Mexico",earthquake,0.7134025303332553,0.5716787964683584,0.1,18.0,reviewed,tx,tx
