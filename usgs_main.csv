@@ -3139,3 +3139,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-19T17:01:48.657Z,56.6269,-155.6887,27.9,1.9,ml,,,,0.23,ak,ak02498p5g0h,2024-07-19T17:04:04.708Z,"99 km WSW of Akhiok, Alaska",earthquake,,2.9,,,automatic,ak,ak
 2024-07-19T16:57:06.050Z,33.8906667,-116.8536667,-0.55,0.69,ml,7.0,196.0,0.1491,0.18,ci,ci40664671,2024-07-19T17:03:27.111Z,"4 km SSE of Banning, CA",earthquake,2.27,1.76,0.122,13.0,automatic,ci,ci
 2024-07-19T17:28:05.060Z,35.8824997,-117.6621704,7.19,1.47,ml,23.0,125.0,0.06596,0.11,ci,ci40664727,2024-07-19T17:30:26.967Z,"23 km ESE of Little Lake, CA",earthquake,0.34,1.0,0.233,8.0,automatic,ci,ci
+2024-07-19T17:32:00.700Z,34.2166667,-117.2483333,1.55,1.35,ml,50.0,73.0,0.08528,0.24,ci,ci40664735,2024-07-19T17:38:33.018Z,"4 km SE of Crestline, CA",earthquake,0.22,0.3,0.138,29.0,automatic,ci,ci
