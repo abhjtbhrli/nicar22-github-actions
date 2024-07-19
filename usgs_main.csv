@@ -3167,3 +3167,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-19T19:00:14.590Z,33.8634987,-117.5043335,2.21,1.08,ml,27.0,73.0,0.06745,0.18,ci,ci40664855,2024-07-19T19:02:17.006Z,"2 km SE of Home Gardens, CA",earthquake,0.35,0.51,0.309,7.0,automatic,ci,ci
 2024-07-19T13:31:18.820Z,19.2406666666667,-155.418333333333,33.39,1.71,md,20.0,108.0,0.01993,0.07,hv,hv74344836,2024-07-19T18:51:23.520Z,"7 km ENE of Pāhala, Hawaii",earthquake,0.83,0.82,0.0779602278622891,10.0,reviewed,hv,hv
 2024-07-19T19:01:33.730Z,33.942,-116.8418333,8.98,0.81,ml,31.0,61.0,0.09713,0.21,ci,ci40664863,2024-07-19T19:07:31.677Z,"4 km ENE of Banning, CA",earthquake,0.24,0.86,0.163,20.0,automatic,ci,ci
+2024-07-19T11:32:01.899Z,32.332,-101.08,9.3506,1.9,ml,19.0,70.0,0.2,0.1,tx,tx2024ochm,2024-07-19T19:18:48.168Z,"6 km WSW of Westbrook, Texas",earthquake,0.6473018045337561,1.269453108876211,0.1,20.0,reviewed,tx,tx
