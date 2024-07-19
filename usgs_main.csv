@@ -3106,3 +3106,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-19T13:52:00.290Z,19.386833190918,-155.251663208008,1.03999996185303,1.74000001,md,21.0,52.0,0.001358,0.219999999,hv,hv74344861,2024-07-19T13:53:39.490Z,"6 km SSW of Volcano, Hawaii",earthquake,0.21,0.159999996,0.239999995,15.0,automatic,hv,hv
 2024-07-19T13:36:04.786Z,0.7544,126.0762,31.468,5.0,mb,63.0,57.0,1.29,0.98,us,us7000n095,2024-07-19T13:53:22.040Z,"129 km SE of Bitung, Indonesia",earthquake,7.15,4.053,0.066,73.0,reviewed,us,us
 2024-07-19T14:07:28.888Z,62.8073,-148.482,52.9,1.5,ml,,,,1.2,ak,ak02498nedyw,2024-07-19T14:09:46.136Z,"69 km SSE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-07-19T14:33:39.050Z,19.4046669006348,-155.275497436523,0.100000001490116,1.74,ml,23.0,34.0,0.009414,0.180000007,hv,hv74344926,2024-07-19T14:36:20.690Z,"6 km SW of Volcano, Hawaii",earthquake,0.15,0.219999999,0.34,9.0,automatic,hv,hv
+2024-07-19T14:29:13.284Z,60.3042,-150.7702,60.6,2.3,ml,,,,0.45,ak,ak02498nj2iq,2024-07-19T14:30:51.143Z,"22 km S of Funny River, Alaska",earthquake,,1.0,,,automatic,ak,ak
