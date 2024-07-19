@@ -3057,3 +3057,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-19T08:47:00.017Z,62.4953,-149.8053,5.4,0.9,ml,,,,0.72,ak,ak02498k2ar5,2024-07-19T08:48:44.755Z,"16 km ENE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-07-19T08:38:31.756Z,38.1801,-117.8401,7.6,1.0,ml,8.0,205.69,0.115,0.3433,nn,nn00881146,2024-07-19T08:41:14.931Z,"33 km SE of Mina, Nevada",earthquake,,0.6,0.69,6.0,automatic,nn,nn
 2024-07-19T04:03:38.183Z,52.0045,-170.7912,25.7,3.6,ml,,,,0.65,ak,ak02498hf7r6,2024-07-19T08:45:42.887Z,"167 km SW of Nikolski, Alaska",earthquake,,2.1,,,reviewed,ak,ak
+2024-07-19T09:08:01.231Z,60.5389,-147.672,22.7,1.2,ml,,,,0.63,ak,ak02498kfdiz,2024-07-19T09:11:15.862Z,"55 km NNE of Chenega, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-07-19T09:05:52.700Z,38.7953338623047,-122.784164428711,3.84999990463257,0.5,md,9.0,91.0,0.003638,0.02,nc,nc75036857,2024-07-19T09:07:29.052Z,"3 km NW of The Geysers, CA",earthquake,0.56,1.53999996,0.23,9.0,automatic,nc,nc
+2024-07-19T09:00:45.560Z,33.7646667,-116.9353333,13.6,1.32,ml,60.0,23.0,0.07798,0.17,ci,ci40664279,2024-07-19T09:17:37.990Z,"3 km SE of San Jacinto, CA",earthquake,0.15,0.33,0.163,27.0,automatic,ci,ci
