@@ -3116,3 +3116,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-19T15:11:10.087Z,62.1737,-150.9236,46.2,1.8,ml,,,,0.71,ak,ak02498o0mzk,2024-07-19T15:13:28.029Z,"32 km NE of Skwentna, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-07-19T15:08:40.178Z,57.1053,-155.4005,25.3,1.5,ml,,,,0.34,ak,ak02498o024r,2024-07-19T15:11:26.888Z,"76 km WNW of Akhiok, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2024-07-18T17:47:39.570Z,35.10366667,-95.38233333,7.51,1.44,ml,36.0,71.0,0.1214761622,0.21,ok,ok2024oayi,2024-07-19T15:13:25.730Z,"2 km SSW of Quinton, Oklahoma",earthquake,,0.5,0.16,13.0,reviewed,ok,ok
+2024-07-19T15:20:58.144Z,63.3619,-150.222,29.4,1.3,ml,,,,0.85,ak,ak02498o2o52,2024-07-19T15:23:35.633Z,"63 km W of Cantwell, Alaska",earthquake,,3.7,,,automatic,ak,ak
+2024-07-18T19:31:44.350Z,35.62483333,-97.14483333,16.13,1.0,ml,30.0,109.0,0.09358163609,0.18,ok,ok2024obbt,2024-07-19T15:33:26.784Z,"6 km SE of Luther, Oklahoma",earthquake,,0.7,0.31,12.0,reviewed,ok,ok
