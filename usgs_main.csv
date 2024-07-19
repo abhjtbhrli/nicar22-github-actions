@@ -3038,3 +3038,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-19T05:52:39.190Z,33.357,-116.9726667,5.03,1.4,ml,74.0,22.0,0.05892,0.23,ci,ci40664223,2024-07-19T06:03:32.090Z,"10 km E of Pala, CA",earthquake,0.16,0.47,0.111,26.0,automatic,ci,ci
 2024-07-19T05:47:42.268Z,-23.3092,-67.821,147.318,4.4,mb,30.0,120.0,0.485,0.91,us,us7000n074,2024-07-19T06:08:32.040Z,"58 km SE of San Pedro de Atacama, Chile",earthquake,9.35,5.782,0.117,21.0,reviewed,us,us
 2024-07-19T06:09:13.392Z,61.3822,-150.1181,30.1,1.6,ml,,,,0.58,ak,ak02498inbd7,2024-07-19T06:11:05.571Z,"7 km WNW of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-07-19T06:38:33.510Z,38.8219985961914,-122.800003051758,2.78999996185303,1.07,md,22.0,49.0,0.007989,0.01,nc,nc75036817,2024-07-19T06:40:09.095Z,"6 km NNW of The Geysers, CA",earthquake,0.24,0.50999999,0.18,22.0,automatic,nc,nc
+2024-07-19T06:35:17.580Z,33.1963333,-116.3836667,11.86,1.15,ml,67.0,30.0,0.07697,0.19,ci,ci40664239,2024-07-19T06:41:26.041Z,"7 km S of Borrego Springs, CA",earthquake,0.15,0.44,0.141,26.0,automatic,ci,ci
