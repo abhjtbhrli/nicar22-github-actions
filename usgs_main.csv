@@ -3037,3 +3037,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-19T06:00:37.960Z,33.2008333,-116.3853333,12.36,0.96,ml,59.0,38.0,0.07229,0.17,ci,ci40664231,2024-07-19T06:06:41.358Z,"6 km S of Borrego Springs, CA",earthquake,0.15,0.43,0.153,27.0,automatic,ci,ci
 2024-07-19T05:52:39.190Z,33.357,-116.9726667,5.03,1.4,ml,74.0,22.0,0.05892,0.23,ci,ci40664223,2024-07-19T06:03:32.090Z,"10 km E of Pala, CA",earthquake,0.16,0.47,0.111,26.0,automatic,ci,ci
 2024-07-19T05:47:42.268Z,-23.3092,-67.821,147.318,4.4,mb,30.0,120.0,0.485,0.91,us,us7000n074,2024-07-19T06:08:32.040Z,"58 km SE of San Pedro de Atacama, Chile",earthquake,9.35,5.782,0.117,21.0,reviewed,us,us
+2024-07-19T06:09:13.392Z,61.3822,-150.1181,30.1,1.6,ml,,,,0.58,ak,ak02498inbd7,2024-07-19T06:11:05.571Z,"7 km WNW of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
