@@ -3135,3 +3135,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-19T16:30:16.140Z,38.8206672668457,-122.764167785645,2.09999990463257,1.11,md,18.0,119.0,0.01077,0.02,nc,nc75036962,2024-07-19T16:31:53.639Z,"4 km W of Cobb, CA",earthquake,0.29,0.439999998,0.15,22.0,automatic,nc,nc
 2024-07-19T16:24:36.870Z,38.84033203125,-122.835502624512,1.33000004291534,0.76,md,10.0,111.0,0.001741,0.02,nc,nc75036957,2024-07-19T16:26:14.524Z,"10 km NNW of The Geysers, CA",earthquake,0.27,0.540000021,0.2,11.0,automatic,nc,nc
 2024-07-19T16:05:28.572Z,-20.1187,-68.0326,183.725,4.6,mb,35.0,86.0,1.053,1.15,us,us7000n09y,2024-07-19T16:34:11.040Z,"112 km SE of Colchane, Chile",earthquake,3.89,7.359,0.112,24.0,reviewed,us,us
+2024-07-19T17:13:36.295Z,61.3323,-150.0851,35.0,1.9,ml,,,,0.35,ak,ak02498p7znh,2024-07-19T17:15:24.037Z,"6 km WSW of Point MacKenzie, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-07-19T17:01:48.657Z,56.6269,-155.6887,27.9,1.9,ml,,,,0.23,ak,ak02498p5g0h,2024-07-19T17:04:04.708Z,"99 km WSW of Akhiok, Alaska",earthquake,,2.9,,,automatic,ak,ak
+2024-07-19T16:57:06.050Z,33.8906667,-116.8536667,-0.55,0.69,ml,7.0,196.0,0.1491,0.18,ci,ci40664671,2024-07-19T17:03:27.111Z,"4 km SSE of Banning, CA",earthquake,2.27,1.76,0.122,13.0,automatic,ci,ci
