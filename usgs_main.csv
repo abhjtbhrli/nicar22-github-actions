@@ -3193,3 +3193,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-19T20:43:51.282Z,65.1133,-150.7453,13.3,0.9,ml,,,,0.61,ak,ak02498r6r3s,2024-07-19T20:46:34.222Z,"13 km NNW of Manley Hot Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-07-19T20:40:18.966Z,60.3704,-152.4145,101.9,0.9,ml,,,,0.37,ak,ak02498r61go,2024-07-19T20:42:33.498Z,"54 km NW of Ninilchik, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-07-19T17:22:30.018Z,36.9094,-104.834,6.866,2.4,ml,16.0,87.0,0.11,0.65,us,us7000n0ac,2024-07-19T20:43:08.040Z,"24 km S of Weston, Colorado",earthquake,1.53,3.837,0.052,49.0,reviewed,us,us
+2024-07-19T20:55:57.850Z,38.8256683349609,-122.799163818359,2.66000008583069,1.06,md,21.0,32.0,0.008819,0.02,nc,nc75037062,2024-07-19T20:57:34.625Z,"7 km NNW of The Geysers, CA",earthquake,0.24,0.519999981,0.11,22.0,automatic,nc,nc
+2024-07-19T20:54:25.490Z,38.7550010681152,-122.72533416748,0.639999985694885,1.11,md,7.0,153.0,0.006593,0.06,nc,nc75037057,2024-07-19T20:56:03.471Z,"4 km WSW of Anderson Springs, CA",earthquake,0.46,0.5,0.2,7.0,automatic,nc,nc
+2024-07-19T15:20:31.770Z,34.1593333,-117.6423333,9.37,0.92,ml,21.0,99.0,0.0387,0.13,ci,ci40664519,2024-07-19T20:57:03.612Z,"7 km N of Upland, CA",earthquake,0.3,0.45,0.103,13.0,reviewed,ci,ci
