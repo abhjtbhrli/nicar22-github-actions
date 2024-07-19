@@ -3011,3 +3011,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-19T03:13:48.026Z,52.1259,-170.9323,41.509,6.0,mwr,59.0,109.0,0.993,1.43,us,us7000n068,2024-07-19T03:27:56.858Z,"167 km WSW of Nikolski, Alaska",earthquake,8.31,8.844,0.052,36.0,reviewed,us,us
 2024-07-19T03:11:16.379Z,61.523,-146.9157,19.8,1.6,ml,,,,0.33,ak,ak02498gvg7p,2024-07-19T03:12:49.800Z,"48 km SSE of Eureka Roadhouse, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-07-19T03:09:52.106Z,59.8107,-152.0994,87.8,1.9,ml,,,,0.28,ak,ak02498gv2da,2024-07-19T03:11:30.060Z,"15 km WNW of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-07-19T03:35:57.940Z,19.2608337402344,-155.275833129883,28.8600006103516,2.02,ml,53.0,173.0,0.04621,0.109999999,hv,hv74343966,2024-07-19T03:38:34.430Z,"20 km SSW of Volcano, Hawaii",earthquake,0.53,0.769999981,0.82,6.0,automatic,hv,hv
+2024-07-19T03:35:56.910Z,19.2586669921875,-155.297668457031,38.1500015258789,2.14,ml,21.0,152.0,0.03852,0.100000001,hv,hv74343971,2024-07-19T03:38:42.500Z,"19 km ENE of Pāhala, Hawaii",earthquake,0.55,1.64999998,0.75,7.0,automatic,hv,hv
+2024-07-19T03:11:24.734Z,-23.3841,-67.8196,145.351,4.7,mb,32.0,150.0,0.542,1.01,us,us7000n066,2024-07-19T03:33:13.040Z,"65 km SE of San Pedro de Atacama, Chile",earthquake,9.14,5.308,0.059,88.0,reviewed,us,us
