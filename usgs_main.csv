@@ -3026,3 +3026,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-19T04:33:32.179Z,61.3318,-147.5693,20.1,2.9,ml,,,,0.55,ak,ak02498hlmsf,2024-07-19T04:35:14.323Z,"53 km S of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-07-19T04:12:31.277Z,32.1374,-101.0491,0.718,2.5,mb_lg,28.0,52.0,0.232,0.87,us,us7000n06r,2024-07-19T04:34:12.040Z,"24 km S of Westbrook, Texas",earthquake,2.17,4.499,0.09,32.0,reviewed,us,us
 2024-07-19T04:51:24.300Z,34.668,-119.5443333,9.05,0.77,ml,11.0,148.0,0.1298,0.14,ci,ci40664191,2024-07-19T04:57:18.422Z,"27 km NNE of Montecito, CA",earthquake,0.42,1.21,0.143,4.0,automatic,ci,ci
+2024-07-19T05:07:22.092Z,63.1874,-150.5489,120.7,1.4,ml,,,,0.25,ak,ak02498i1h01,2024-07-19T05:09:30.881Z,"70 km SE of Denali National Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-07-19T04:57:17.700Z,18.0113333333333,-66.9701666666667,14.71,2.44,md,19.0,153.0,0.08188,0.25,pr,pr71455853,2024-07-19T05:16:32.500Z,"4 km SW of Liborio Negron Torres, Puerto Rico",earthquake,0.52,0.98,0.168144662636533,7.0,reviewed,pr,pr
+2024-07-19T04:57:03.160Z,33.7301667,-117.4873333,10.41,1.98,ml,116.0,30.0,0.03127,0.23,ci,ci40664199,2024-07-19T05:09:44.444Z,"12 km NE of Trabuco Canyon, CA",earthquake,0.15,0.28,0.248,25.0,automatic,ci,ci
+2024-07-19T04:51:33.338Z,-3.97,143.1568,35.0,4.5,mb,18.0,156.0,2.844,0.85,us,us7000n06v,2024-07-19T05:20:39.040Z,"46 km NE of Ambunti, Papua New Guinea",earthquake,13.74,1.953,0.163,12.0,reviewed,us,us
