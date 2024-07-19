@@ -3025,3 +3025,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-19T03:58:01.370Z,33.1971667,-116.3851667,11.67,1.48,ml,71.0,30.0,0.07575,0.19,ci,ci40664175,2024-07-19T04:12:35.821Z,"7 km S of Borrego Springs, CA",earthquake,0.14,0.27,0.12,26.0,automatic,ci,ci
 2024-07-19T04:33:32.179Z,61.3318,-147.5693,20.1,2.9,ml,,,,0.55,ak,ak02498hlmsf,2024-07-19T04:35:14.323Z,"53 km S of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-07-19T04:12:31.277Z,32.1374,-101.0491,0.718,2.5,mb_lg,28.0,52.0,0.232,0.87,us,us7000n06r,2024-07-19T04:34:12.040Z,"24 km S of Westbrook, Texas",earthquake,2.17,4.499,0.09,32.0,reviewed,us,us
+2024-07-19T04:51:24.300Z,34.668,-119.5443333,9.05,0.77,ml,11.0,148.0,0.1298,0.14,ci,ci40664191,2024-07-19T04:57:18.422Z,"27 km NNE of Montecito, CA",earthquake,0.42,1.21,0.143,4.0,automatic,ci,ci
