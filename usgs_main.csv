@@ -3211,3 +3211,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-19T16:58:21.640Z,34.3478333,-118.3138333,5.28,0.04,ml,2.0,181.0,0.02063,0.11,ci,ci40664687,2024-07-19T22:05:30.022Z,"10 km NNE of Lake View Terrace, CA",earthquake,9.69,31.61,0.03,2.0,reviewed,ci,ci
 2024-07-19T07:24:25.510Z,58.707,-153.792666666667,12.48,-0.03,ml,5.0,333.0,0.31,0.17,av,av93015919,2024-07-19T21:59:25.210Z,"88 km NW of Aleneva, Alaska",earthquake,2.11,1.1,0.175905785299596,5.0,reviewed,av,av
 2024-07-18T22:46:01.050Z,47.2913333333333,-113.196,19.62,1.69,ml,18.0,82.0,0.1895,0.12,mb,mb90057388,2024-07-19T22:12:25.940Z,"25 km ENE of Seeley Lake, Montana",earthquake,0.31,0.81,0.13540925191924,9.0,reviewed,mb,mb
+2024-07-19T22:21:13.167Z,57.8575,-155.3454,69.8,1.0,ml,,,,0.73,ak,ak02498s8tmc,2024-07-19T22:23:21.144Z,"62 km WNW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-07-19T21:14:53.490Z,33.0463333,-114.9916667,-0.21,1.61,ml,9.0,93.0,0.07479,0.22,ci,ci40665071,2024-07-19T22:24:41.667Z,"45 km NE of Holtville, CA",quarry blast,0.63,31.61,0.13,11.0,reviewed,ci,ci
+2024-07-19T20:51:46.990Z,40.093,-120.027,6.4,0.1,ml,3.0,202.55,0.215,0.0688,nn,nn00881174,2024-07-19T22:25:52.838Z,"9 km NE of Doyle, California",earthquake,,37.0,0.06,3.0,reviewed,nn,nn
+2024-07-19T19:39:14.656Z,31.671,-104.375,6.1255,2.1,ml,22.0,69.0,0.1,0.1,tx,tx2024ocxn,2024-07-19T22:24:02.666Z,"55 km S of Whites City, New Mexico",earthquake,0.7628334834752486,0.7928869118870485,0.1,13.0,reviewed,tx,tx
+2024-07-19T18:30:49.270Z,45.382666666666665,-122.00633333333332,-1.73,1.1,ml,7.0,193.0,0.1777,0.06,uw,uw62026256,2024-07-19T22:19:27.990Z,"3 km NNW of Mount Hood Village, Oregon",explosion,1.2,31.61,0.0798090271905005,3.0,reviewed,uw,uw
+2024-07-19T02:17:39.340Z,-23.265,-67.8693,159.102,4.6,mb,25.0,68.0,0.422,0.79,us,us7000n05q,2024-07-19T22:19:13.040Z,"51 km SE of San Pedro de Atacama, Chile",earthquake,9.33,6.296,0.165,11.0,reviewed,us,us
