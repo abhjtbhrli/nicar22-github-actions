@@ -3121,3 +3121,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-19T15:37:44.149Z,63.4376,-148.377,5.6,2.0,ml,,,,0.94,ak,ak02498o6a8e,2024-07-19T15:39:42.365Z,"29 km E of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-07-19T05:00:06.780Z,40.1118,-119.7555,14.8,2.6,ml,20.0,100.01000000000002,0.061,0.1535,nn,nn00881143,2024-07-19T15:39:16.309Z,"22 km NW of Sutcliffe, Nevada",earthquake,,1.2,0.17,8.0,reviewed,nn,nn
 2024-07-19T15:46:41.185Z,60.4253,-149.6398,89.3,1.0,ml,,,,1.29,ak,ak02498o87g6,2024-07-19T15:49:14.585Z,"12 km SE of Cooper Landing, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-07-19T15:52:25.100Z,33.2705002,-116.4213333,4.48,0.59,ml,16.0,73.0,0.004182,0.11,ci,ci40664559,2024-07-19T15:55:55.634Z,"5 km WNW of Borrego Springs, CA",earthquake,0.34,0.6,0.134,11.0,automatic,ci,ci
+2024-07-18T21:13:59.490Z,35.883,-97.92333333,5.3,1.55,ml,75.0,47.0,0.08818269555,0.32,ok,ok2024obfd,2024-07-19T16:02:53.001Z,"2 km NNE of Kingfisher, Oklahoma",earthquake,,0.9,0.26,29.0,reviewed,ok,ok
