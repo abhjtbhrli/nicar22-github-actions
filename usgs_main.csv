@@ -3399,3 +3399,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-20T19:49:31.000Z,33.8373337,-116.7785034,14.92,0.95,ml,23.0,104.0,0.01614,0.18,ci,ci40665983,2024-07-20T19:51:33.424Z,"9 km S of Cabazon, CA",earthquake,0.57,0.88,0.214,6.0,automatic,ci,ci
 2024-07-20T19:44:56.574Z,61.3863,-150.074,44.6,2.0,ml,,,,0.76,ak,ak0249ae4w5z,2024-07-20T19:47:55.503Z,"5 km WNW of Point MacKenzie, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-07-20T19:43:57.461Z,39.3538,-119.9947,5.5,1.6,ml,15.0,116.51,0.069,0.1118,nn,nn00881208,2024-07-20T19:46:36.524Z,"5 km SSE of Floriston, California",earthquake,,0.7,0.2,9.0,automatic,nn,nn
+2024-07-20T19:54:09.430Z,38.8209991455078,-122.787666320801,1.95000004768372,1.33,md,23.0,39.0,0.009459,0.02,nc,nc75037342,2024-07-20T19:55:47.468Z,"6 km NNW of The Geysers, CA",earthquake,0.2,0.379999995,0.13,25.0,automatic,nc,nc
