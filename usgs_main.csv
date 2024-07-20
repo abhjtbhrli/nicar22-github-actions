@@ -3301,3 +3301,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-20T07:03:18.759Z,36.6441,-116.4891,0.0,0.3,ml,8.0,234.15000000000003,0.121,0.1788,nn,nn00881183,2024-07-20T07:05:11.264Z,"37 km SE of Beatty, Nevada",earthquake,,9.0,0.45,5.0,automatic,nn,nn
 2024-07-20T07:07:31.590Z,35.865,-117.6958333,11.46,0.52,ml,12.0,107.0,0.0795,0.12,ci,ci40665471,2024-07-20T07:13:27.839Z,"21 km ESE of Little Lake, CA",earthquake,0.3,0.57,0.126,2.0,automatic,ci,ci
 2024-07-20T07:02:35.467Z,-23.2488,-67.835,134.533,4.6,mb,44.0,72.0,0.433,0.62,us,us7000n0fu,2024-07-20T07:25:19.040Z,"52 km SE of San Pedro de Atacama, Chile",earthquake,9.17,3.901,0.091,36.0,reviewed,us,us
+2024-07-20T07:37:39.280Z,38.8176651000977,-122.816665649414,2.60999989509583,1.08,md,19.0,53.0,0.007697,0.02,nc,nc75037172,2024-07-20T07:39:16.864Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.569999993,0.22,21.0,automatic,nc,nc
