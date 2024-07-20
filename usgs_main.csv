@@ -3363,3 +3363,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-20T11:56:07.230Z,35.5203333333333,-85.136,13.1,2.18,md,14.0,120.0,0.04632,0.14,se,se60587421,2024-07-20T14:18:05.520Z,"9 km NNW of Graysville, Tennessee",earthquake,0.47,0.39,0.0553288952294526,12.0,reviewed,se,se
 2024-07-20T14:34:23.610Z,33.2669983,-116.4203339,4.86,1.3,ml,48.0,52.0,0.002917,0.21,ci,ci40665735,2024-07-20T14:37:57.207Z,"4 km WNW of Borrego Springs, CA",earthquake,0.25,0.49,0.198,26.0,automatic,ci,ci
 2024-07-20T14:18:56.831Z,40.9149,84.2541,10.0,4.5,mb,36.0,121.0,4.288,0.74,us,us7000n0h9,2024-07-20T14:32:52.040Z,"142 km SE of Kuqa, China",earthquake,8.97,1.902,0.095,33.0,reviewed,us,us
+2024-07-20T14:21:58.102Z,-16.7249,-177.0946,10.0,4.8,mb,25.0,85.0,5.049,0.44,us,us7000n0hb,2024-07-20T14:46:53.040Z,"288 km SSE of Alo, Wallis and Futuna",earthquake,12.15,1.903,0.084,50.0,reviewed,us,us
