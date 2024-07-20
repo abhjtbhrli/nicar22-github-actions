@@ -3313,3 +3313,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-20T08:56:16.450Z,32.9816667,-116.3176667,8.7,1.02,ml,48.0,42.0,0.07876,0.19,ci,ci40665519,2024-07-20T09:07:37.292Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.18,0.6,0.129,6.0,automatic,ci,ci
 2024-07-20T09:40:46.700Z,36.5574989318848,-121.148666381836,1.17999994754791,1.44,md,12.0,107.0,0.09029,0.37,nc,nc75037197,2024-07-20T09:42:21.718Z,"3 km N of Pinnacles, CA",earthquake,1.07,6.86000013,0.24,10.0,automatic,nc,nc
 2024-07-20T09:41:25.854Z,62.9904,-150.5662,96.3,1.6,ml,,,,0.74,ak,ak0249a85uk1,2024-07-20T09:45:02.343Z,"55 km N of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-07-20T10:00:12.810Z,34.6139984,-119.0683365,5.7,1.44,ml,12.0,69.0,0.1224,0.13,ci,ci40665543,2024-07-20T10:06:40.648Z,"24 km NE of Ojai, CA",earthquake,0.47,2.53,0.428,10.0,automatic,ci,ci
