@@ -3299,3 +3299,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-20T06:50:02.830Z,38.8198318481445,-122.764335632324,1.88999998569489,1.45,md,29.0,101.0,0.01148,0.04,nc,nc75037157,2024-07-20T06:51:40.509Z,"4 km W of Cobb, CA",earthquake,0.22,0.340000004,0.17,28.0,automatic,nc,nc
 2024-07-20T07:05:58.015Z,60.5928,-147.5229,14.0,1.9,ml,,,,0.67,ak,ak0249a6rc1l,2024-07-20T07:07:57.343Z,"55 km WSW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-07-20T07:03:18.759Z,36.6441,-116.4891,0.0,0.3,ml,8.0,234.15000000000003,0.121,0.1788,nn,nn00881183,2024-07-20T07:05:11.264Z,"37 km SE of Beatty, Nevada",earthquake,,9.0,0.45,5.0,automatic,nn,nn
+2024-07-20T07:07:31.590Z,35.865,-117.6958333,11.46,0.52,ml,12.0,107.0,0.0795,0.12,ci,ci40665471,2024-07-20T07:13:27.839Z,"21 km ESE of Little Lake, CA",earthquake,0.3,0.57,0.126,2.0,automatic,ci,ci
