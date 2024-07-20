@@ -3305,3 +3305,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-20T07:43:42.300Z,33.226,-116.0561667,8.45,1.19,ml,61.0,56.0,0.07989,0.22,ci,ci40665479,2024-07-20T07:49:59.303Z,"12 km NE of Ocotillo Wells, CA",earthquake,0.17,0.62,0.2,28.0,automatic,ci,ci
 2024-07-20T07:53:13.248Z,-24.0587,-66.792,199.961,4.6,mb,29.0,74.0,1.683,0.64,us,us7000n0fx,2024-07-20T08:08:54.040Z,"51 km WNW of San Antonio de los Cobres, Argentina",earthquake,10.73,3.9,0.107,26.0,reviewed,us,us
 2024-07-20T07:34:58.540Z,44.6826,-111.1434,8.636,2.2,ml,33.0,28.0,0.078,0.28,us,us7000n0fw,2024-07-20T08:02:25.426Z,"3 km NW of West Yellowstone, Montana",earthquake,1.0,7.972,0.06,36.0,reviewed,us,us
+2024-07-20T08:18:36.735Z,63.6026,-147.2805,0.0,1.2,ml,,,,1.07,ak,ak0249a7fibd,2024-07-20T08:21:00.144Z,"82 km E of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-07-20T08:16:52.370Z,57.8144,-155.4669,74.5,1.6,ml,,,,0.45,ak,ak0249a7f439,2024-07-20T08:18:56.022Z,"66 km WNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
