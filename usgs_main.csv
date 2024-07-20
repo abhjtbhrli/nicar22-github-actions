@@ -3326,3 +3326,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-20T11:03:02.400Z,36.7513,-116.1988,2.4,0.0,ml,10.0,111.52,0.103,0.1987,nn,nn00881187,2024-07-20T11:05:02.491Z,"51 km WNW of Indian Springs, Nevada",earthquake,,1.0,0.16,7.0,automatic,nn,nn
 2024-07-20T06:18:48.936Z,31.672,-104.372,7.0227,1.8,ml,30.0,69.0,0.1,0.3,tx,tx2024odsp,2024-07-20T10:59:53.683Z,"55 km S of Whites City, New Mexico",earthquake,0.7978856678565863,0.9157867048706748,0.2,24.0,reviewed,tx,tx
 2024-07-20T05:18:26.946Z,31.649,-104.468,6.6125,2.0,ml,34.0,72.0,0.0,0.3,tx,tx2024odqp,2024-07-20T11:17:24.889Z,"59 km S of Whites City, New Mexico",earthquake,1.2413806335246167,0.8002831345584043,0.2,24.0,reviewed,tx,tx
+2024-07-20T11:25:56.320Z,33.2341667,-116.7405,10.66,0.65,ml,45.0,33.0,0.01541,0.17,ci,ci40665575,2024-07-20T11:32:00.085Z,"2 km ESE of Lake Henshaw, CA",earthquake,0.18,0.31,0.13,20.0,automatic,ci,ci
+2024-07-20T11:15:50.520Z,36.7002,141.5659,24.817,4.9,mb,70.0,118.0,2.705,0.7,us,us7000n0gi,2024-07-20T11:34:10.040Z,"72 km ESE of Iwaki, Japan",earthquake,6.86,3.968,0.03,339.0,reviewed,us,us
