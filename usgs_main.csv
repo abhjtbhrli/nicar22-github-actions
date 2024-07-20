@@ -3384,3 +3384,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-20T17:58:45.370Z,36.707332611084,-121.216835021973,10.539999961853,2.19,md,41.0,91.0,0.034,0.16,nc,nc75037317,2024-07-20T18:02:07.820Z,"13 km SE of Tres Pinos, CA",earthquake,0.3,0.709999979,0.16,39.0,automatic,nc,nc
 2024-07-20T17:45:57.626Z,61.2287,-147.6272,0.0,1.7,ml,,,,0.89,ak,ak0249acy8s8,2024-07-20T17:54:59.140Z,"64 km S of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-07-20T17:41:57.361Z,-12.2338,166.6405,129.818,5.0,mb,105.0,70.0,7.137,0.66,us,us7000n0i2,2024-07-20T18:01:06.040Z,"190 km SSE of Lata, Solomon Islands",earthquake,9.29,7.009,0.053,118.0,reviewed,us,us
+2024-07-20T16:00:48.969Z,39.1281,-120.0373,9.2,0.1,ml,7.0,89.44,0.105,0.1409,nn,nn00881206,2024-07-20T18:23:06.684Z,"8 km SE of Dollar Point, California",earthquake,,2.9,0.25,4.0,reviewed,nn,nn
+2024-07-19T19:21:52.400Z,40.3743333333333,-125.990833333333,10.0,2.95,md,60.0,278.0,1.263,0.31,nc,nc75037002,2024-07-20T18:28:27.109Z,"145 km WNW of Petrolia, CA",earthquake,1.32,31.61,0.253,45.0,reviewed,nc,nc
