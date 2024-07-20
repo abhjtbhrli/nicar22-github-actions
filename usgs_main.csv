@@ -3367,3 +3367,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-20T14:49:37.400Z,39.1419982910156,-120.021003723145,3.45000004768372,2.55,md,9.0,86.0,0.1047,0.02,nc,nc75037282,2024-07-20T14:51:44.687Z,"9 km SE of Dollar Point, CA",earthquake,0.48,2.22000003,0.25,10.0,automatic,nc,nc
 2024-07-20T15:08:33.224Z,65.0416,-149.8279,0.0,0.7,ml,,,,0.54,ak,ak0249abje4a,2024-07-20T15:10:24.928Z,"25 km WSW of Minto, Alaska",earthquake,,24.6,,,automatic,ak,ak
 2024-07-20T14:57:24.213Z,38.1724,-117.7829,3.8,1.1,ml,11.0,206.33,0.112,0.2837,nn,nn00881193,2024-07-20T15:00:03.877Z,"37 km SE of Mina, Nevada",earthquake,,1.7,0.34,8.0,automatic,nn,nn
+2024-07-20T15:39:33.884Z,65.4951,-149.3607,0.0,0.9,ml,,,,0.33,ak,ak0249abq1d8,2024-07-20T15:41:06.958Z,"37 km E of Rampart, Alaska",earthquake,,0.6,,,automatic,ak,ak
