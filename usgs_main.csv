@@ -3319,3 +3319,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-20T10:37:16.006Z,63.0734,-151.1492,0.0,1.5,ml,,,,1.06,ak,ak0249a8qej4,2024-07-20T10:39:28.608Z,"59 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-07-20T10:36:24.031Z,61.7468,-151.4136,180.6,2.0,ml,,,,0.91,ak,ak0249a8q92u,2024-07-20T10:39:25.164Z,"27 km S of Skwentna, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2024-07-20T10:24:30.503Z,61.9114,-149.4698,27.8,1.2,ml,,,,0.68,ak,ak0249a8nnca,2024-07-20T10:30:36.858Z,"22 km NNW of Fishhook, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-07-20T10:42:45.260Z,33.2748333,-116.7573333,5.67,0.79,ml,55.0,29.0,0.03877,0.16,ci,ci40665567,2024-07-20T10:48:44.888Z,"4 km N of Lake Henshaw, CA",earthquake,0.16,0.44,0.137,27.0,automatic,ci,ci
+2024-07-20T10:12:14.590Z,27.7863,140.7064,21.81,4.7,mb,53.0,64.0,1.483,0.91,us,us7000n0g8,2024-07-20T10:49:51.040Z,"Bonin Islands, Japan region",earthquake,7.57,5.34,0.048,130.0,reviewed,us,us
