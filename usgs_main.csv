@@ -3370,3 +3370,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-20T15:39:33.884Z,65.4951,-149.3607,0.0,0.9,ml,,,,0.33,ak,ak0249abq1d8,2024-07-20T15:41:06.958Z,"37 km E of Rampart, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-07-20T14:52:10.357Z,39.1362,-120.0283,9.4,0.6,ml,8.0,84.03999999999999,0.104,0.1773,nn,nn00881197,2024-07-20T15:53:21.442Z,"8 km SE of Dollar Point, California",earthquake,,2.7,0.32,6.0,reviewed,nn,nn
 2024-07-20T14:47:57.061Z,39.1214,-120.0432,8.8,-0.1,ml,5.0,180.54,0.108,0.1039,nn,nn00881196,2024-07-20T15:50:15.589Z,"8 km SSE of Dollar Point, California",earthquake,,3.6,0.38,3.0,reviewed,nn,nn
+2024-07-20T15:08:50.234Z,39.1269,-120.0448,11.1,0.5,ml,7.0,178.31000000000003,0.103,0.1645,nn,nn00881199,2024-07-20T15:59:31.119Z,"8 km SE of Dollar Point, California",earthquake,,2.3,0.42,5.0,reviewed,nn,nn
+2024-07-20T14:59:45.727Z,39.132,-120.0244,7.7,-0.2,ml,5.0,100.58999999999996,0.109,0.0719,nn,nn00881200,2024-07-20T16:02:36.396Z,"8 km WNW of Glenbrook, Nevada",earthquake,,4.0,0.25,3.0,reviewed,nn,nn
+2024-07-20T14:58:52.488Z,39.1283,-120.0275,8.4,-0.2,ml,4.0,151.18,0.11,0.1315,nn,nn00881198,2024-07-20T15:56:25.734Z,"8 km WNW of Glenbrook, Nevada",earthquake,,5.6,0.0,1.0,reviewed,nn,nn
