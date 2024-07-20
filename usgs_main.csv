@@ -3444,3 +3444,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-20T23:25:28.521Z,59.7959,-152.8883,99.3,0.8,ml,,,,0.22,ak,ak0249agehro,2024-07-20T23:27:42.427Z,"59 km W of Anchor Point, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-07-20T23:37:31.030Z,38.8344993591309,-122.810501098633,2.05999994277954,1.25,md,24.0,51.0,0.01109,0.02,nc,nc75037362,2024-07-20T23:39:09.240Z,"8 km WNW of Cobb, CA",earthquake,0.2,0.439999998,0.18,25.0,automatic,nc,nc
 2024-07-20T23:34:22.938Z,59.5522,-152.9107,94.7,1.1,ml,,,,0.36,ak,ak0249agges5,2024-07-20T23:36:56.834Z,"60 km WNW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-07-20T23:42:52.223Z,63.8136,-148.5292,96.7,1.0,ml,,,,0.31,ak,ak0249agi6rn,2024-07-20T23:52:41.778Z,"21 km ENE of Denali Park, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2024-07-20T17:11:33.190Z,38.7696666666667,-123.099666666667,5.26,1.24,md,41.0,58.0,0.06629,0.1,nc,nc75037297,2024-07-20T23:57:21.495Z,"8 km WSW of Cloverdale, CA",earthquake,0.15,0.41,0.173,35.0,reviewed,nc,nc
