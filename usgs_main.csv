@@ -3290,3 +3290,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-19T09:10:34.720Z,40.3506666666667,-124.761166666667,10.0,2.05,md,24.0,287.0,0.326,0.28,nc,nc75036862,2024-07-20T05:24:05.835Z,"40 km WNW of Petrolia, CA",earthquake,1.14,31.61,0.24,15.0,reviewed,nc,nc
 2024-07-20T05:41:03.110Z,38.8248329162598,-122.764503479004,2.20000004768372,0.71,md,9.0,126.0,0.007039,0.01,nc,nc75037147,2024-07-20T05:42:41.684Z,"4 km WNW of Cobb, CA",earthquake,0.41,0.790000021,0.09,10.0,automatic,nc,nc
 2024-07-19T12:37:11.106Z,44.6157,148.3223,70.923,4.4,mb,47.0,134.0,4.138,0.62,us,us7000n08y,2024-07-20T05:49:35.040Z,"76 km SSE of Kuril’sk, Russia",earthquake,9.81,5.678,0.065,67.0,reviewed,us,us
+2024-07-20T06:14:18.730Z,65.4524,-148.3557,13.3,0.5,ml,,,,0.68,ak,ak0249a67qup,2024-07-20T06:15:37.995Z,"11 km SE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-07-20T06:10:31.810Z,40.329833984375,-124.345001220703,16.7399997711182,2.6,md,17.0,185.0,0.03732,0.07,nc,nc75037152,2024-07-20T06:17:15.736Z,"5 km WNW of Petrolia, CA",earthquake,0.84,0.629999995,0.11,21.0,automatic,nc,nc
+2024-07-19T20:24:50.045Z,52.0357,-170.3419,20.2,2.5,ml,,,,0.7,ak,ak02498r2tg2,2024-07-20T06:19:26.679Z,"142 km SW of Nikolski, Alaska",earthquake,,8.3,,,reviewed,ak,ak
+2024-07-19T17:19:36.501Z,52.8915,-174.4858,222.9,2.9,ml,,,,0.63,ak,ak02498p9f27,2024-07-20T06:04:40.868Z,"79 km NNW of Atka, Alaska",earthquake,,2.1,,,reviewed,ak,ak
