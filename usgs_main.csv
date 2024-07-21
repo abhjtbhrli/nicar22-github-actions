@@ -3497,3 +3497,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-20T05:17:54.259Z,46.959,145.7598,387.554,4.0,mb,45.0,151.0,2.054,0.55,us,us7000n0fg,2024-07-21T04:08:53.040Z,"228 km ESE of Dolinsk, Russia",earthquake,12.91,10.28,0.1,27.0,reviewed,us,us
 2024-07-21T04:33:41.230Z,63.2228,-149.7612,88.1,1.6,ml,,,,0.45,ak,ak0249bsoch7,2024-07-21T04:35:55.965Z,"44 km WSW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-07-21T04:05:15.430Z,18.3936666666667,-67.4273333333333,7.93,3.39,md,31.0,151.0,0.1774,0.44,pr,pr71455908,2024-07-21T04:41:21.820Z,"19 km WNW of Rincón, Puerto Rico",earthquake,0.77,1.51,0.10106725710727,9.0,reviewed,pr,pr
+2024-07-21T04:47:34.813Z,39.1261,-120.0601,3.0,1.2,ml,11.0,149.5,0.148,0.1906,nn,nn00881240,2024-07-21T04:49:38.103Z,"7 km SSE of Dollar Point, California",earthquake,,1.1,0.2,6.0,automatic,nn,nn
+2024-07-21T04:44:47.520Z,38.8398323059082,-122.82266998291,2.21000003814697,2.09,md,33.0,63.0,0.01009,0.03,nc,nc75037472,2024-07-21T04:52:13.013Z,"9 km WNW of Cobb, CA",earthquake,0.19,0.319999993,0.14,37.0,automatic,nc,nc
+2024-07-21T04:27:28.462Z,42.713,145.5393,23.857,5.3,mww,117.0,96.0,1.898,0.77,us,us7000n0lj,2024-07-21T04:47:11.040Z,"66 km ESE of Akkeshi, Japan",earthquake,7.81,5.051,0.103,9.0,reviewed,us,us
