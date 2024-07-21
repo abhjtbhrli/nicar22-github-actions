@@ -3546,3 +3546,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-21T10:23:23.430Z,38.8211669921875,-122.793334960938,2.74000000953674,1.46,md,32.0,32.0,0.01265,0.03,nc,nc75037577,2024-07-21T10:26:41.970Z,"6 km NNW of The Geysers, CA",earthquake,0.22,0.379999995,0.13,32.0,automatic,nc,nc
 2024-07-21T10:32:50.127Z,63.4946,-146.3908,9.4,1.2,ml,,,,0.76,ak,ak0249bw8r2s,2024-07-21T10:34:54.179Z,"59 km NW of Paxson, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-07-21T10:42:52.033Z,61.3968,-146.5677,18.3,1.7,ml,,,,0.88,ak,ak0249bwawdv,2024-07-21T10:44:57.009Z,"31 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-07-21T08:51:37.935Z,31.691,-104.485,6.9202,1.5,ml,25.0,60.0,0.0,0.2,tx,tx2024oftd,2024-07-21T10:59:53.114Z,"54 km S of Whites City, New Mexico",earthquake,1.0392001548502237,0.8219852079094244,0.2,19.0,reviewed,tx,tx
