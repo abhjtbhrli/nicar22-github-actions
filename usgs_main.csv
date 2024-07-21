@@ -3478,3 +3478,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-21T02:58:02.392Z,60.5681,-147.6509,7.2,2.2,ml,,,,0.39,ak,ak0249brmr67,2024-07-21T02:59:48.165Z,"59 km NNE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-07-21T02:53:48.887Z,14.5566,-89.9665,260.714,6.2,mww,81.0,62.0,0.515,0.91,us,us7000n0ka,2024-07-21T03:17:36.122Z,"8 km SSE of Jalapa, Guatemala",earthquake,8.11,5.873,0.038,66.0,reviewed,us,us
 2024-07-21T03:19:17.394Z,39.1315,-120.054,8.0,2.8,ml,16.0,97.74,0.094,0.2292,nn,nn00881223,2024-07-21T03:27:48.806Z,"7 km SSE of Dollar Point, California",earthquake,,0.6,0.17,8.0,automatic,nn,nn
+2024-07-21T03:36:26.750Z,38.8208351135254,-122.843330383301,2.10999989509583,0.75,md,12.0,84.0,0.006872,0.03,nc,nc75037437,2024-07-21T03:38:03.026Z,"9 km NW of The Geysers, CA",earthquake,0.33,0.699999988,0.44,12.0,automatic,nc,nc
+2024-07-21T03:34:00.268Z,63.5422,-147.0692,0.0,1.6,ml,,,,0.6,ak,ak0249bs31fe,2024-07-21T03:35:58.685Z,"85 km SW of Delta Junction, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-07-21T03:27:47.570Z,32.5836667,-117.1158333,6.74,0.98,ml,21.0,131.0,0.02716,0.17,ci,ci40666279,2024-07-21T03:33:45.491Z,"0 km W of Imperial Beach, CA",earthquake,0.29,0.79,0.084,9.0,automatic,ci,ci
