@@ -3495,3 +3495,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-21T03:58:56.646Z,39.1278,-120.0728,10.1,1.4,ml,12.0,139.96999999999997,0.09,0.3291,nn,nn00881231,2024-07-21T04:00:57.625Z,"7 km SSE of Dollar Point, California",earthquake,,0.7,0.08,7.0,automatic,nn,nn
 2024-07-20T21:28:51.906Z,39.1271,-120.0495,11.2,0.3,ml,6.0,181.03,0.1,0.1246,nn,nn00881233,2024-07-21T04:13:19.329Z,"8 km SSE of Dollar Point, California",earthquake,,2.3,0.24,3.0,reviewed,nn,nn
 2024-07-20T05:17:54.259Z,46.959,145.7598,387.554,4.0,mb,45.0,151.0,2.054,0.55,us,us7000n0fg,2024-07-21T04:08:53.040Z,"228 km ESE of Dolinsk, Russia",earthquake,12.91,10.28,0.1,27.0,reviewed,us,us
+2024-07-21T04:33:41.230Z,63.2228,-149.7612,88.1,1.6,ml,,,,0.45,ak,ak0249bsoch7,2024-07-21T04:35:55.965Z,"44 km WSW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-07-21T04:05:15.430Z,18.3936666666667,-67.4273333333333,7.93,3.39,md,31.0,151.0,0.1774,0.44,pr,pr71455908,2024-07-21T04:41:21.820Z,"19 km WNW of Rincón, Puerto Rico",earthquake,0.77,1.51,0.10106725710727,9.0,reviewed,pr,pr
