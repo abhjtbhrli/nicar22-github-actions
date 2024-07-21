@@ -3553,3 +3553,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-21T11:20:20.890Z,39.1399,-120.0255,9.1,0.5,ml,9.0,159.41,0.103,0.1333,nn,nn00881246,2024-07-21T11:22:49.340Z,"8 km SE of Dollar Point, California",earthquake,,0.7,0.49,6.0,automatic,nn,nn
 2024-07-21T11:31:14.840Z,33.2588348,-116.416832,2.74,1.39,ml,16.0,138.0,0.009344,0.12,ci,ci40666439,2024-07-21T11:33:21.193Z,"4 km W of Borrego Springs, CA",earthquake,0.34,0.34,0.243,9.0,automatic,ci,ci
 2024-07-20T12:18:51.023Z,31.669,-104.185,6.6125,1.7,ml,33.0,67.0,0.1,0.2,tx,tx2024oeen,2024-07-21T11:32:17.071Z,"54 km NW of Toyah, Texas",earthquake,0.5596556859242532,0.645002785035089,0.2,25.0,reviewed,tx,tx
+2024-07-21T11:34:14.497Z,60.0261,-151.5941,31.5,2.1,ml,,,,0.61,ak,ak0249bwujd5,2024-07-21T11:35:58.113Z,"4 km ESE of Ninilchik, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-07-21T03:07:28.618Z,39.1336,-120.0329,9.7,0.8,ml,7.0,167.41,0.104,0.1861,nn,nn00881249,2024-07-21T11:42:42.664Z,"8 km SE of Dollar Point, California",earthquake,,2.8,0.36,7.0,reviewed,nn,nn
+2024-07-21T01:38:29.836Z,39.1363,-120.0288,9.3,0.7,ml,7.0,163.38000000000002,0.104,0.1661,nn,nn00881248,2024-07-21T11:39:36.879Z,"8 km SE of Dollar Point, California",earthquake,,2.9,0.23,6.0,reviewed,nn,nn
