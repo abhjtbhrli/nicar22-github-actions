@@ -3512,3 +3512,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-21T00:06:48.830Z,46.85233333333333,-121.75983333333332,1.45,0.39,ml,13.0,87.0,0.02487,0.07,uw,uw62026706,2024-07-21T05:56:39.400Z,"23 km ENE of Ashford, Washington",earthquake,0.21,0.65,0.0798716806786022,5.0,reviewed,uw,uw
 2024-07-21T05:53:04.360Z,33.519,-116.4648333,6.98,0.28,ml,25.0,88.0,0.03298,0.16,ci,ci40666343,2024-07-21T06:02:26.674Z,"20 km ESE of Anza, CA",earthquake,0.26,0.47,0.051,8.0,automatic,ci,ci
 2024-07-21T00:12:10.520Z,60.1309,-153.2968,146.7,1.4,ml,,,,0.42,ak,ak0249bq61ab,2024-07-21T06:12:53.948Z,"57 km E of Port Alsworth, Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2024-07-21T06:32:45.468Z,54.1767,-162.7674,35.0,3.3,ml,17.0,210.0,0.779,0.78,us,us7000n0m0,2024-07-21T06:48:35.040Z,"86 km SSE of False Pass, Alaska",earthquake,5.38,2.015,0.077,22.0,reviewed,us,us
+2024-07-21T06:20:07.743Z,5.9915,92.6483,10.0,4.6,mb,49.0,145.0,4.345,0.93,us,us7000n0lz,2024-07-21T06:39:59.040Z,"295 km W of Sabang, Indonesia",earthquake,9.58,1.899,0.078,49.0,reviewed,us,us
