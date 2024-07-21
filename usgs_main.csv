@@ -3530,3 +3530,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-21T08:01:05.390Z,38.8211669921875,-122.762832641602,2.11999988555908,1.1,md,9.0,122.0,0.01081,0.02,nc,nc75037542,2024-07-21T08:02:40.029Z,"3 km W of Cobb, CA",earthquake,0.37,0.839999974,0.15,11.0,automatic,nc,nc
 2024-07-21T07:30:17.380Z,18.0318,-68.635,84.0,3.88,md,18.0,198.0,0.5447,0.41,pr,pr2024203000,2024-07-21T08:08:30.135Z,"38 km S of Boca de Yuma, Dominican Republic",earthquake,2.79,3.83,0.09,15.0,reviewed,pr,pr
 2024-07-21T06:59:39.125Z,31.9556,49.6498,10.0,4.2,mb,35.0,79.0,4.51,0.83,us,us7000n0m8,2024-07-21T08:08:34.040Z,"32 km E of Masjed Soleymān, Iran",earthquake,8.92,1.921,0.121,19.0,reviewed,us,us
+2024-07-21T08:31:31.660Z,36.888500213623,-121.401336669922,9.60000038146973,1.36,md,17.0,90.0,0.08306,0.08,nc,nc75037552,2024-07-21T08:33:09.422Z,"5 km N of Hollister, CA",earthquake,0.28,0.75,0.19,12.0,automatic,nc,nc
