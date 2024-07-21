@@ -3531,3 +3531,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-21T07:30:17.380Z,18.0318,-68.635,84.0,3.88,md,18.0,198.0,0.5447,0.41,pr,pr2024203000,2024-07-21T08:08:30.135Z,"38 km S of Boca de Yuma, Dominican Republic",earthquake,2.79,3.83,0.09,15.0,reviewed,pr,pr
 2024-07-21T06:59:39.125Z,31.9556,49.6498,10.0,4.2,mb,35.0,79.0,4.51,0.83,us,us7000n0m8,2024-07-21T08:08:34.040Z,"32 km E of Masjed Soleymān, Iran",earthquake,8.92,1.921,0.121,19.0,reviewed,us,us
 2024-07-21T08:31:31.660Z,36.888500213623,-121.401336669922,9.60000038146973,1.36,md,17.0,90.0,0.08306,0.08,nc,nc75037552,2024-07-21T08:33:09.422Z,"5 km N of Hollister, CA",earthquake,0.28,0.75,0.19,12.0,automatic,nc,nc
+2024-07-21T08:47:00.098Z,60.3425,-151.3235,32.9,1.3,ml,,,,0.79,ak,ak0249bv4zqx,2024-07-21T08:48:46.487Z,"2 km WNW of Kasilof, Alaska",earthquake,,0.4,,,automatic,ak,ak
