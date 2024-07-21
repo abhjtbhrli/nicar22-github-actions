@@ -3477,3 +3477,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-21T03:02:12.510Z,39.1371650695801,-120.033500671387,6.26999998092651,3.38,ml,12.0,59.0,0.1007,0.06,nc,nc75037412,2024-07-21T03:18:34.155Z,"8 km SE of Dollar Point, CA",earthquake,0.29,1.13999999,0.275,30.0,automatic,nc,nc
 2024-07-21T02:58:02.392Z,60.5681,-147.6509,7.2,2.2,ml,,,,0.39,ak,ak0249brmr67,2024-07-21T02:59:48.165Z,"59 km NNE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-07-21T02:53:48.887Z,14.5566,-89.9665,260.714,6.2,mww,81.0,62.0,0.515,0.91,us,us7000n0ka,2024-07-21T03:17:36.122Z,"8 km SSE of Jalapa, Guatemala",earthquake,8.11,5.873,0.038,66.0,reviewed,us,us
+2024-07-21T03:19:17.394Z,39.1315,-120.054,8.0,2.8,ml,16.0,97.74,0.094,0.2292,nn,nn00881223,2024-07-21T03:27:48.806Z,"7 km SSE of Dollar Point, California",earthquake,,0.6,0.17,8.0,automatic,nn,nn
