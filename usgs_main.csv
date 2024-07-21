@@ -3571,3 +3571,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-21T03:24:57.637Z,39.1367,-120.0192,8.5,0.7,ml,9.0,79.50999999999999,0.109,0.1028,nn,nn00881252,2024-07-21T12:01:16.012Z,"8 km NW of Glenbrook, Nevada",earthquake,,2.7,0.21,6.0,reviewed,nn,nn
 2024-07-21T03:24:45.362Z,39.1336,-120.0176,8.2,0.3,ml,7.0,79.81,0.112,0.079,nn,nn00881251,2024-07-21T11:58:10.087Z,"8 km NW of Glenbrook, Nevada",earthquake,,3.3,0.1,4.0,reviewed,nn,nn
 2024-07-21T03:22:49.396Z,39.1385,-120.0184,8.5,0.4,ml,8.0,78.97999999999999,0.109,0.0992,nn,nn00881250,2024-07-21T11:58:08.174Z,"8 km NW of Glenbrook, Nevada",earthquake,,2.9,0.15,4.0,reviewed,nn,nn
+2024-07-21T12:34:39.140Z,19.2266674041748,-155.385833740234,30.0900001525879,2.2,ml,57.0,150.0,0.01542,0.140000001,hv,hv74349211,2024-07-21T12:37:16.290Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.43,0.50999999,0.3,9.0,automatic,hv,hv
+2024-07-21T12:31:17.657Z,60.6907,-151.9617,71.1,1.5,ml,,,,0.64,ak,ak0249bxfc2d,2024-07-21T12:33:32.014Z,"36 km WNW of Salamatof, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-07-21T12:26:23.990Z,33.6328333,-116.6853333,13.93,0.4,ml,27.0,52.0,0.03724,0.1,ci,ci40666463,2024-07-21T12:32:24.224Z,"9 km N of Anza, CA",earthquake,0.19,0.33,0.181,11.0,automatic,ci,ci
