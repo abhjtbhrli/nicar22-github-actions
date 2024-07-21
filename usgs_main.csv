@@ -3622,3 +3622,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-21T11:34:36.580Z,39.1377,-120.0415,11.3,0.2,ml,8.0,91.20000000000002,0.096,0.1538,nn,nn00881276,2024-07-21T15:39:01.975Z,"7 km SE of Dollar Point, California",earthquake,,3.5,0.43,3.0,reviewed,nn,nn
 2024-07-21T11:29:57.676Z,39.1346,-120.0303,9.5,0.3,ml,9.0,85.18000000000004,0.104,0.1418,nn,nn00881275,2024-07-21T15:38:59.936Z,"8 km SE of Dollar Point, California",earthquake,,2.1,0.5,6.0,reviewed,nn,nn
 2024-07-21T00:32:31.510Z,51.9736666666667,178.414333333333,9.67,1.52,ml,4.0,341.0,0.06232,0.14,av,av93204351,2024-07-21T15:47:05.820Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,3.47,1.11,0.32600722049184,4.0,reviewed,av,av
+2024-07-21T15:52:12.799Z,35.54559708,-96.77508545,8.959310532,1.7,ml,15.0,46.18061829,0.03186462447,0.6222314007,ok,ok2024ogha,2024-07-21T16:00:16.909Z,"8 km SSE of Sparks, Oklahoma",earthquake,2.784045568,4.598560161,0.42,11.0,automatic,ok,ok
+2024-07-21T15:51:02.125Z,62.2375,-145.8484,176.4,2.0,ml,,,,1.1,ak,ak0249bzbw04,2024-07-21T15:53:25.372Z,"20 km NE of Tolsona, Alaska",earthquake,,6.7,,,automatic,ak,ak
+2024-07-21T15:48:49.373Z,60.2246,-139.6395,0.9,2.0,ml,,,,0.55,ak,ak0249bzbci1,2024-07-21T15:51:09.116Z,"75 km N of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-07-21T15:05:50.410Z,39.3265,-120.1245,10.5,0.8,ml,7.0,199.81,0.076,0.1027,nn,nn00881280,2024-07-21T15:51:18.589Z,"5 km E of Truckee, California",earthquake,,1.7,0.38,3.0,reviewed,nn,nn
+2024-07-21T00:34:26.020Z,60.0083333333333,-152.7555,24.97,0.54,ml,3.0,335.0,0.1274,0.11,av,av93204356,2024-07-21T15:53:27.220Z,"57 km W of Happy Valley, Alaska",earthquake,3.8,2.26,0.108177345026777,4.0,reviewed,av,av
