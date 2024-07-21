@@ -3556,3 +3556,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-21T11:34:14.497Z,60.0261,-151.5941,31.5,2.1,ml,,,,0.61,ak,ak0249bwujd5,2024-07-21T11:35:58.113Z,"4 km ESE of Ninilchik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-07-21T03:07:28.618Z,39.1336,-120.0329,9.7,0.8,ml,7.0,167.41,0.104,0.1861,nn,nn00881249,2024-07-21T11:42:42.664Z,"8 km SE of Dollar Point, California",earthquake,,2.8,0.36,7.0,reviewed,nn,nn
 2024-07-21T01:38:29.836Z,39.1363,-120.0288,9.3,0.7,ml,7.0,163.38000000000002,0.104,0.1661,nn,nn00881248,2024-07-21T11:39:36.879Z,"8 km SE of Dollar Point, California",earthquake,,2.9,0.23,6.0,reviewed,nn,nn
+2024-07-21T11:44:52.560Z,33.5955,-116.6586667,15.81,0.23,ml,8.0,195.0,0.03711,0.03,ci,ci40666447,2024-07-21T11:53:04.639Z,"5 km NNE of Anza, CA",earthquake,0.92,0.39,0.123,4.0,automatic,ci,ci
+2024-07-21T11:43:56.769Z,62.2357,-150.2646,22.7,0.8,ml,,,,0.13,ak,ak0249bwwk2k,2024-07-21T11:45:51.640Z,"9 km S of Trapper Creek, Alaska",earthquake,,0.9,,,automatic,ak,ak
