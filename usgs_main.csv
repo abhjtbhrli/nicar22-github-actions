@@ -3782,3 +3782,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-22T05:04:30.168Z,-15.5442,168.0426,10.0,6.0,mb,111.0,42.0,6.128,0.78,us,us7000n0s8,2024-07-22T05:32:13.040Z,"90 km NE of Norsup, Vanuatu",earthquake,8.05,1.846,0.033,340.0,reviewed,us,us
 2024-07-22T05:04:13.040Z,-15.5116,168.092,10.0,6.0,mww,75.0,43.0,6.182,0.92,us,us7000n0s6,2024-07-22T05:28:34.425Z,"96 km NE of Norsup, Vanuatu",earthquake,8.11,1.862,0.052,35.0,reviewed,us,us
 2024-07-22T05:27:32.630Z,32.981,-116.3148333,8.69,0.77,ml,38.0,52.0,0.08105,0.21,ci,ci40667007,2024-07-22T05:37:22.545Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.26,0.7,0.209,10.0,automatic,ci,ci
+2024-07-22T05:48:18.430Z,32.6096649,-115.7386703,7.59,1.59,ml,22.0,72.0,0.04089,0.15,ci,ci40667039,2024-07-22T05:50:20.845Z,"15 km WNW of Progreso, B.C., MX",earthquake,0.35,0.6,0.329,8.0,automatic,ci,ci
+2024-07-22T05:48:00.827Z,37.2897,-115.9682,1.0,1.1,ml,13.0,282.88000000000005,0.151,0.3837,nn,nn00881316,2024-07-22T05:49:57.149Z,"44 km SSW of Rachel, Nevada",earthquake,,5.8,0.37,7.0,automatic,nn,nn
+2024-07-22T05:47:31.730Z,32.6100006,-115.7418365,7.33,2.06,ml,35.0,74.0,0.04133,0.2,ci,ci40667031,2024-07-22T05:49:59.259Z,"15 km WNW of Progreso, B.C., MX",earthquake,0.24,0.58,0.261,26.0,automatic,ci,ci
+2024-07-22T05:44:49.110Z,32.606,-115.73,9.53,1.72,ml,34.0,52.0,0.04332,0.21,ci,ci40667023,2024-07-22T05:50:54.266Z,"14 km WNW of Progreso, B.C., MX",earthquake,0.23,0.5,0.214,29.0,automatic,ci,ci
+2024-07-22T05:44:22.894Z,62.1971,-150.2503,50.5,1.1,ml,,,,0.65,ak,ak0249dgvg1d,2024-07-22T05:46:38.028Z,"13 km S of Trapper Creek, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-07-22T05:43:54.660Z,32.61,-115.729,8.73,1.41,ml,24.0,56.0,0.03928,0.16,ci,ci40667015,2024-07-22T05:50:13.530Z,"14 km WNW of Progreso, B.C., MX",earthquake,0.22,0.46,0.209,9.0,automatic,ci,ci
