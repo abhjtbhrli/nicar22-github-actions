@@ -3801,3 +3801,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-22T06:39:39.982Z,61.6806,-149.9846,33.5,0.8,ml,,,,0.62,ak,ak0249dhfudq,2024-07-22T06:41:25.559Z,"7 km SSE of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-07-22T06:33:40.750Z,34.384,-119.9,20.11,1.62,ml,26.0,98.0,0.05551,0.22,ci,ci40667055,2024-07-22T06:40:04.548Z,"5 km SW of Isla Vista, CA",earthquake,0.47,0.72,0.134,18.0,automatic,ci,ci
 2024-07-22T06:51:49.300Z,62.2949,-150.215,16.8,1.1,ml,,,,0.28,ak,ak0249dhifoy,2024-07-22T06:53:32.726Z,"2 km SSE of Trapper Creek, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-07-22T07:19:23.810Z,19.2049999237061,-155.47900390625,29.3199996948242,2.45,ml,64.0,86.0,0.0471,0.159999996,hv,hv74351821,2024-07-22T07:22:01.930Z,"0 km N of Pāhala, Hawaii",earthquake,0.47,0.620000005,0.33,38.0,automatic,hv,hv
+2024-07-22T07:06:20.840Z,32.623333,-116.5731659,1.06,2.2,ml,6.0,269.0,0.07673,0.09,ci,ci40667079,2024-07-22T07:13:36.771Z,"8 km NE of Tecate, B.C., MX",earthquake,11.8,4.21,0.176,27.0,automatic,ci,ci
+2024-07-22T07:05:54.040Z,32.4066667,-116.4898333,-0.77,1.79,ml,11.0,236.0,0.2354,0.34,ci,ci40667071,2024-07-22T07:12:32.761Z,"22 km S of Campo, CA",earthquake,5.51,2.76,0.231,29.0,automatic,ci,ci
+2024-07-22T06:53:57.933Z,-56.0139,-27.3213,57.703,5.2,mb,67.0,67.0,5.535,0.58,us,us7000n0sy,2024-07-22T07:11:31.040Z,South Sandwich Islands region,earthquake,9.41,7.097,0.059,96.0,reviewed,us,us
