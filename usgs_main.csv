@@ -3817,3 +3817,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-22T08:01:59.270Z,33.8675,-117.8623333,5.6,1.09,ml,21.0,75.0,0.01456,0.14,ci,ci40667103,2024-07-22T08:08:38.328Z,"1 km SE of Placentia, CA",earthquake,0.34,0.59,0.223,32.0,automatic,ci,ci
 2024-07-22T08:23:33.000Z,32.6096667,-115.7286667,9.34,1.63,ml,32.0,52.0,0.0396,0.2,ci,ci40667111,2024-07-22T08:29:49.207Z,"14 km WNW of Progreso, B.C., MX",earthquake,0.24,0.55,0.19,29.0,automatic,ci,ci
 2024-07-22T08:20:56.786Z,60.3223,-150.0187,34.5,0.9,ml,,,,0.82,ak,ak0249diioa6,2024-07-22T08:22:22.921Z,"21 km SSW of Cooper Landing, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-07-22T08:08:09.971Z,41.5032,45.9528,31.311,4.4,mb,89.0,40.0,0.896,0.7,us,us7000n0tf,2024-07-22T08:44:08.911Z,"13 km S of Ts’nori, Georgia",earthquake,4.02,3.929,0.066,68.0,reviewed,us,us
