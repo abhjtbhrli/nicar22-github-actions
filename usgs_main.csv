@@ -3810,3 +3810,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-22T07:27:54.760Z,40.5255012512207,-124.426666259766,17.5900001525879,2.68,md,19.0,241.0,0.08434,0.07,nc,nc75037912,2024-07-22T07:29:30.935Z,"15 km W of Ferndale, CA",earthquake,1.29,0.439999998,0.08,15.0,automatic,nc,nc
 2024-07-22T07:24:03.452Z,64.0096,-145.4328,18.5,1.2,ml,,,,1.1,ak,ak0249dhxzfd,2024-07-22T07:26:15.410Z,"10 km NE of Fort Greely, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-07-22T07:03:58.333Z,36.5182,70.3634,205.979,4.6,mb,53.0,80.0,3.165,0.7,us,us7000n0t3,2024-07-22T07:24:52.040Z,"45 km E of Farkhār, Afghanistan",earthquake,7.28,7.406,0.085,41.0,reviewed,us,us
+2024-07-22T07:39:19.899Z,63.201,-150.5035,25.6,1.0,ml,,,,0.6,ak,ak0249di18fp,2024-07-22T07:41:24.639Z,"71 km ESE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-07-22T07:39:08.220Z,19.3893337249756,-155.244659423828,1.52999997138977,2.05,ml,36.0,47.0,0.00734,0.200000003,hv,hv74351851,2024-07-22T07:41:46.050Z,"6 km S of Volcano, Hawaii",earthquake,0.21,0.150000006,0.29,17.0,automatic,hv,hv
+2024-07-22T07:35:00.000Z,33.6028333,-116.7301667,12.34,0.26,ml,30.0,69.0,0.02975,0.14,ci,ci40667095,2024-07-22T07:40:54.629Z,"8 km NW of Anza, CA",earthquake,0.21,0.41,0.198,6.0,automatic,ci,ci
