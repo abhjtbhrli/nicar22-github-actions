@@ -3755,3 +3755,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-22T03:35:09.160Z,33.7161674,-116.8238297,16.38,1.16,ml,33.0,95.0,0.08824,0.12,ci,ci40666951,2024-07-22T03:37:13.569Z,"7 km ESE of Valle Vista, CA",earthquake,0.31,0.59,0.349,11.0,automatic,ci,ci
 2024-07-22T03:31:26.245Z,60.4216,-153.355,170.7,1.2,ml,,,,0.94,ak,ak0249dflss0,2024-07-22T03:34:33.319Z,"58 km ENE of Port Alsworth, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2024-07-22T03:22:11.420Z,17.9965,-68.0811666666667,66.53,3.43,md,14.0,212.0,0.5887,0.59,pr,pr71455933,2024-07-22T03:38:38.700Z,"70 km SE of Boca de Yuma, Dominican Republic",earthquake,4.34,3.9,0.061586829345313,11.0,reviewed,pr,pr
+2024-07-22T03:55:19.445Z,57.3078,-152.8782,0.1,1.7,ml,,,,0.67,ak,ak0249dfqxfs,2024-07-22T03:57:48.215Z,"28 km ENE of Old Harbor, Alaska",earthquake,,2.1,,,automatic,ak,ak
+2024-07-22T03:53:49.616Z,37.832,-115.2989,4.3,1.3,ml,15.0,156.27,0.469,0.2857,nn,nn00881306,2024-07-22T03:56:17.207Z,"26 km NNW of Hiko, Nevada",earthquake,,3.5,0.44,5.0,automatic,nn,nn
+2024-07-22T03:49:34.650Z,33.8021667,-117.0396667,16.26,1.06,ml,55.0,33.0,0.09904,0.16,ci,ci40666959,2024-07-22T03:55:56.349Z,"8 km WNW of San Jacinto, CA",earthquake,0.16,0.39,0.108,28.0,automatic,ci,ci
