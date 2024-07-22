@@ -3899,3 +3899,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-22T15:40:28.195Z,61.7582,-149.6856,27.0,1.4,ml,,,,0.54,ak,ak0249dmsxmr,2024-07-22T15:42:29.018Z,"15 km NNW of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-07-22T14:39:22.246Z,39.6782,26.3581,9.772,4.5,mwr,102.0,33.0,0.74,0.67,us,us7000n0uq,2024-07-22T15:44:57.504Z,"9 km NNW of Ayvacık, Turkey",earthquake,5.09,3.888,0.065,23.0,reviewed,us,us
 2024-07-22T15:31:15.160Z,31.656,-104.099,4.8992,1.5,ml,15.0,86.0,0.0,0.4,tx,tx2024oibw,2024-07-22T15:51:52.771Z,"47 km W of Mentone, Texas",earthquake,0.0,1.46100440866587,0.2,11.0,automatic,tx,tx
+2024-07-22T16:14:20.910Z,19.2388324737549,-155.369171142578,33.810001373291,2.19,ml,58.0,149.0,0.0268,0.170000002,hv,hv74352701,2024-07-22T16:16:58.980Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.48,0.569999993,0.27,31.0,automatic,hv,hv
+2024-07-22T16:13:52.922Z,62.1944,-145.6079,26.0,1.2,ml,,,,0.54,ak,ak0249dn8mt8,2024-07-22T16:15:29.533Z,"10 km NNW of Glennallen, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-07-21T20:37:13.679Z,35.6725,-97.429,6.73,1.05,ml,51.0,65.0,0.05128993517,0.22,ok,ok2024ogql,2024-07-22T16:17:54.399Z,"4 km ENE of Edmond, Oklahoma",earthquake,,0.4,0.23,17.0,reviewed,ok,ok
+2024-07-21T20:13:12.609Z,36.45033333,-98.81383333,6.0,1.18,ml,37.0,105.0,0.01079788109,0.36,ok,ok2024ogpq,2024-07-22T16:24:14.982Z,"15 km SSE of Waynoka, Oklahoma",earthquake,,0.7,0.24,12.0,reviewed,ok,ok
