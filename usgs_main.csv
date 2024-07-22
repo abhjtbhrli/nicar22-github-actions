@@ -3740,3 +3740,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-22T02:28:52.766Z,61.4963,-151.3804,64.2,1.2,ml,,,,0.42,ak,ak0249dezs2k,2024-07-22T02:31:19.789Z,"42 km NNW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-07-22T02:21:41.211Z,63.3624,-151.3281,0.0,1.4,ml,,,,0.9,ak,ak0249dey961,2024-07-22T02:23:43.560Z,"28 km SE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-07-22T02:18:58.044Z,63.2744,-151.052,4.6,1.1,ml,,,,0.96,ak,ak0249dexnbi,2024-07-22T02:21:20.916Z,"44 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-07-22T02:52:09.350Z,38.8325004577637,-122.819664001465,1.75,0.77,md,9.0,82.0,0.01178,0.01,nc,nc75037847,2024-07-22T02:53:46.438Z,"8 km NNW of The Geysers, CA",earthquake,0.46,1.24000001,0.21,9.0,automatic,nc,nc
+2024-07-22T02:49:20.450Z,33.975666,-117.1511688,9.03,0.98,ml,13.0,107.0,0.1223,0.23,ci,ci40666919,2024-07-22T02:53:10.780Z,"9 km NE of Moreno Valley, CA",earthquake,0.58,2.82,0.273,11.0,automatic,ci,ci
+2024-07-22T02:48:20.460Z,19.3875007629395,-155.248001098633,1.44000005722046,2.06,ml,32.0,44.0,0.003698,0.209999993,hv,hv74351306,2024-07-22T02:51:00.400Z,"6 km SSW of Volcano, Hawaii",earthquake,0.19,0.180000007,0.33,17.0,automatic,hv,hv
