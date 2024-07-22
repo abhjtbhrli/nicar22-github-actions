@@ -3805,3 +3805,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-22T07:06:20.840Z,32.623333,-116.5731659,1.06,2.2,ml,6.0,269.0,0.07673,0.09,ci,ci40667079,2024-07-22T07:13:36.771Z,"8 km NE of Tecate, B.C., MX",earthquake,11.8,4.21,0.176,27.0,automatic,ci,ci
 2024-07-22T07:05:54.040Z,32.4066667,-116.4898333,-0.77,1.79,ml,11.0,236.0,0.2354,0.34,ci,ci40667071,2024-07-22T07:12:32.761Z,"22 km S of Campo, CA",earthquake,5.51,2.76,0.231,29.0,automatic,ci,ci
 2024-07-22T06:53:57.933Z,-56.0139,-27.3213,57.703,5.2,mb,67.0,67.0,5.535,0.58,us,us7000n0sy,2024-07-22T07:11:31.040Z,South Sandwich Islands region,earthquake,9.41,7.097,0.059,96.0,reviewed,us,us
+2024-07-22T07:31:43.109Z,63.4957,-146.3134,12.1,1.4,ml,,,,0.33,ak,ak0249dhzkhy,2024-07-22T07:33:35.415Z,"57 km NW of Paxson, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-07-22T07:28:02.670Z,38.8156661987305,-122.815002441406,2.66000008583069,0.79,md,22.0,49.0,0.008625,0.01,nc,nc75037917,2024-07-22T07:29:41.141Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.519999981,0.17,24.0,automatic,nc,nc
+2024-07-22T07:27:54.760Z,40.5255012512207,-124.426666259766,17.5900001525879,2.68,md,19.0,241.0,0.08434,0.07,nc,nc75037912,2024-07-22T07:29:30.935Z,"15 km W of Ferndale, CA",earthquake,1.29,0.439999998,0.08,15.0,automatic,nc,nc
+2024-07-22T07:24:03.452Z,64.0096,-145.4328,18.5,1.2,ml,,,,1.1,ak,ak0249dhxzfd,2024-07-22T07:26:15.410Z,"10 km NE of Fort Greely, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-07-22T07:03:58.333Z,36.5182,70.3634,205.979,4.6,mb,53.0,80.0,3.165,0.7,us,us7000n0t3,2024-07-22T07:24:52.040Z,"45 km E of Farkhār, Afghanistan",earthquake,7.28,7.406,0.085,41.0,reviewed,us,us
