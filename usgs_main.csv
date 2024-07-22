@@ -3736,3 +3736,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-22T01:36:52.590Z,19.3888339996338,-155.251007080078,1.48000001907349,1.97,ml,30.0,43.0,0.003319,0.219999999,hv,hv74351156,2024-07-22T01:39:30.100Z,"6 km SSW of Volcano, Hawaii",earthquake,0.18,0.140000001,0.3,16.0,automatic,hv,hv
 2024-07-22T01:31:29.510Z,38.8238334655762,-122.793830871582,2.50999999046326,1.08,md,19.0,39.0,0.0127,0.02,nc,nc75037812,2024-07-22T01:52:13.458Z,"6 km NNW of The Geysers, CA",earthquake,0.23,0.49000001,0.12,24.0,automatic,nc,nc
 2024-07-22T01:07:33.426Z,36.7743,140.8861,86.096,4.7,mww,73.0,98.0,2.165,0.91,us,us7000n0r5,2024-07-22T01:23:26.349Z,"12 km E of Kitaibaraki, Japan",earthquake,7.3,6.11,0.098,10.0,reviewed,us,us
+2024-07-22T02:29:11.080Z,38.8255004882812,-122.855163574219,2.34999990463257,1.33,md,25.0,57.0,0.002439,0.02,nc,nc75037837,2024-07-22T02:30:46.626Z,"10 km NW of The Geysers, CA",earthquake,0.21,0.360000014,0.15,26.0,automatic,nc,nc
+2024-07-22T02:28:52.766Z,61.4963,-151.3804,64.2,1.2,ml,,,,0.42,ak,ak0249dezs2k,2024-07-22T02:31:19.789Z,"42 km NNW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-07-22T02:21:41.211Z,63.3624,-151.3281,0.0,1.4,ml,,,,0.9,ak,ak0249dey961,2024-07-22T02:23:43.560Z,"28 km SE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-07-22T02:18:58.044Z,63.2744,-151.052,4.6,1.1,ml,,,,0.96,ak,ak0249dexnbi,2024-07-22T02:21:20.916Z,"44 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
