@@ -3752,3 +3752,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-22T03:24:35.300Z,19.3831672668457,-155.238662719727,0.589999973773956,1.91,ml,26.0,74.0,0.009724,0.209999993,hv,hv74351376,2024-07-22T03:27:12.020Z,"6 km S of Volcano, Hawaii",earthquake,0.19,0.150000006,0.24,12.0,automatic,hv,hv
 2024-07-21T21:26:07.631Z,39.1317,-120.0284,9.0,0.5,ml,9.0,84.27000000000004,0.107,0.1582,nn,nn00881300,2024-07-22T03:19:20.994Z,"8 km SE of Dollar Point, California",earthquake,,2.5,0.17,3.0,reviewed,nn,nn
 2024-07-21T21:03:57.674Z,39.1347,-120.0303,9.8,0.7,ml,11.0,85.19,0.104,0.1828,nn,nn00881299,2024-07-22T03:16:14.354Z,"8 km SE of Dollar Point, California",earthquake,,2.0,0.19,7.0,reviewed,nn,nn
+2024-07-22T03:35:09.160Z,33.7161674,-116.8238297,16.38,1.16,ml,33.0,95.0,0.08824,0.12,ci,ci40666951,2024-07-22T03:37:13.569Z,"7 km ESE of Valle Vista, CA",earthquake,0.31,0.59,0.349,11.0,automatic,ci,ci
+2024-07-22T03:31:26.245Z,60.4216,-153.355,170.7,1.2,ml,,,,0.94,ak,ak0249dflss0,2024-07-22T03:34:33.319Z,"58 km ENE of Port Alsworth, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-07-22T03:22:11.420Z,17.9965,-68.0811666666667,66.53,3.43,md,14.0,212.0,0.5887,0.59,pr,pr71455933,2024-07-22T03:38:38.700Z,"70 km SE of Boca de Yuma, Dominican Republic",earthquake,4.34,3.9,0.061586829345313,11.0,reviewed,pr,pr
