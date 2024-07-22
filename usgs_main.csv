@@ -3898,3 +3898,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-22T15:41:34.100Z,38.8193321228027,-122.804832458496,2.67000007629395,0.74,md,14.0,65.0,0.005764,0.04,nc,nc75038062,2024-07-22T15:43:10.601Z,"6 km NNW of The Geysers, CA",earthquake,0.33,0.670000017,0.36,15.0,automatic,nc,nc
 2024-07-22T15:40:28.195Z,61.7582,-149.6856,27.0,1.4,ml,,,,0.54,ak,ak0249dmsxmr,2024-07-22T15:42:29.018Z,"15 km NNW of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-07-22T14:39:22.246Z,39.6782,26.3581,9.772,4.5,mwr,102.0,33.0,0.74,0.67,us,us7000n0uq,2024-07-22T15:44:57.504Z,"9 km NNW of Ayvacık, Turkey",earthquake,5.09,3.888,0.065,23.0,reviewed,us,us
+2024-07-22T15:31:15.160Z,31.656,-104.099,4.8992,1.5,ml,15.0,86.0,0.0,0.4,tx,tx2024oibw,2024-07-22T15:51:52.771Z,"47 km W of Mentone, Texas",earthquake,0.0,1.46100440866587,0.2,11.0,automatic,tx,tx
