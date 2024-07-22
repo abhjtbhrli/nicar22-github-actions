@@ -3892,3 +3892,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-22T14:47:16.669Z,-5.3562,131.1858,61.226,5.1,mb,84.0,44.0,1.522,0.63,us,us7000n0ut,2024-07-22T15:04:46.040Z,"176 km W of Tual, Indonesia",earthquake,6.68,7.053,0.072,63.0,reviewed,us,us
 2024-07-21T18:44:18.476Z,31.676,-104.407,5.8435,1.5,ml,15.0,69.0,0.0,0.1,tx,tx2024ogmu,2024-07-22T14:58:11.929Z,"55 km S of Whites City, New Mexico",earthquake,0.9252810080392114,0.905881255078659,0.1,10.0,reviewed,tx,tx
 2024-07-21T18:13:25.507Z,31.68,-104.407,5.4846,2.0,ml,20.0,69.0,0.0,0.1,tx,tx2024oglt,2024-07-22T14:51:13.884Z,"55 km S of Whites City, New Mexico",earthquake,0.8446164306246807,0.7697917688569345,0.1,13.0,reviewed,tx,tx
+2024-07-22T15:07:55.530Z,58.667,-154.2758,6.8,1.5,ml,,,,0.48,ak,ak0249dmlx41,2024-07-22T15:09:23.841Z,"90 km SSE of Kokhanok, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-07-22T14:38:19.287Z,-15.5704,168.2145,11.027,5.1,mb,39.0,112.0,6.204,0.76,us,us7000n0ur,2024-07-22T15:22:43.040Z,"103 km ENE of Norsup, Vanuatu",earthquake,12.75,4.23,0.088,42.0,reviewed,us,us
+2024-07-22T01:27:42.295Z,31.288,-103.392,6.3306,1.5,ml,8.0,61.0,0.0,0.2,tx,tx2024ohaa,2024-07-22T15:19:46.095Z,"16 km ESE of Lindsay, Texas",earthquake,2.165638586267459,2.763746027879047,0.2,18.0,reviewed,tx,tx
