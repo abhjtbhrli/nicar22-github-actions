@@ -4165,3 +4165,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-23T04:47:34.610Z,38.7874984741211,-122.74633026123,1.78999996185303,0.82,md,8.0,140.0,0.008629,0.02,nc,nc75038297,2024-07-23T04:49:13.516Z,"1 km NE of The Geysers, CA",earthquake,0.6,1.63,0.27,9.0,automatic,nc,nc
 2024-07-23T04:47:22.820Z,19.3745002746582,-155.216827392578,1.74000000953674,2.08999991,md,26.0,114.0,0.001441,0.140000001,hv,hv74354481,2024-07-23T04:48:58.350Z,"7 km SSE of Volcano, Hawaii",earthquake,0.29,0.180000007,0.280000001,17.0,automatic,hv,hv
 2024-07-23T04:43:21.465Z,59.5542,-152.9001,99.6,1.5,ml,,,,0.3,ak,ak0249f3t53m,2024-07-23T04:45:39.740Z,"59 km WNW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-07-23T04:52:18.322Z,63.3342,-148.5186,7.6,1.1,ml,,,,0.58,ak,ak0249f3v2aw,2024-07-23T04:54:36.940Z,"22 km ESE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
