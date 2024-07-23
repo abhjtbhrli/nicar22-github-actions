@@ -4246,3 +4246,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-23T10:12:30.950Z,19.3771667480469,-155.211669921875,2.20000004768372,1.75,ml,29.0,103.0,0.004939,0.150000006,hv,hv74355376,2024-07-23T10:15:40.930Z,"7 km SSE of Volcano, Hawaii",earthquake,0.29,0.230000004,0.19,11.0,automatic,hv,hv
 2024-07-23T10:30:57.680Z,33.7113333,-116.7618333,16.06,0.57,ml,38.0,73.0,0.03973,0.14,ci,ci40668511,2024-07-23T10:37:03.558Z,"5 km SW of Idyllwild, CA",earthquake,0.2,0.32,0.124,17.0,automatic,ci,ci
 2024-07-23T10:42:00.231Z,62.7541,-149.5766,65.7,0.9,ml,,,,0.67,ak,ak0249f7dhdj,2024-07-23T10:43:47.189Z,"43 km NE of Chase, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2024-07-23T10:51:52.865Z,59.7188,-152.3487,76.3,0.7,ml,,,,0.34,ak,ak0249f7fhnx,2024-07-23T10:54:45.036Z,"29 km WSW of Anchor Point, Alaska",earthquake,,1.5,,,automatic,ak,ak
