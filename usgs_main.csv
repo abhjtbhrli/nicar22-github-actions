@@ -4436,3 +4436,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-23T13:40:05.870Z,19.371,-155.216166666667,1.56,3.1,ml,39.0,57.0,0.002841,0.1,hv,hv74355966,2024-07-23T17:23:02.450Z,"8 km SSE of Volcano, Hawaii",earthquake,0.22,0.17,0.345275285481133,25.0,reviewed,hv,hv
 2024-07-23T08:52:37.282Z,39.7671,-119.3388,12.0,0.4,ml,5.0,249.09,0.067,0.0792,nn,nn00881392,2024-07-23T17:26:34.755Z,"7 km SSE of Nixon, Nevada",earthquake,,2.2,0.55,3.0,reviewed,nn,nn
 2024-07-23T07:24:38.552Z,39.6133,-119.967,7.2,0.5,ml,5.0,157.6,0.007,0.1261,nn,nn00881391,2024-07-23T17:20:26.692Z,"7 km S of Cold Springs, Nevada",earthquake,,1.5,0.31,2.0,reviewed,nn,nn
+2024-07-23T10:15:41.721Z,32.784,-100.655,4.1748,1.6,ml,19.0,56.0,0.1,0.2,tx,tx2024ojne,2024-07-23T17:32:14.639Z,"19 km NNE of Hermleigh, Texas",earthquake,0.9906623321589378,1.7945355836665111,0.2,9.0,reviewed,tx,tx
