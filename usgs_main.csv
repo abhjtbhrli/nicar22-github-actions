@@ -4736,3 +4736,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-24T09:21:23.103Z,62.1262,-148.0679,25.2,1.5,ml,,,,0.87,ak,ak0249gu6xzq,2024-07-24T09:23:25.375Z,"41 km NNW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-07-24T09:07:45.429Z,54.2124,-162.4736,42.233,3.7,mb,14.0,192.0,0.848,1.07,us,us6000nf6p,2024-07-24T09:23:36.040Z,"93 km SE of False Pass, Alaska",earthquake,6.99,16.923,0.16,10.0,reviewed,us,us
 2024-07-24T09:37:55.091Z,62.9194,-150.3795,92.0,3.9,ml,,,,0.58,ak,ak0249guafvl,2024-07-24T09:40:06.536Z,"51 km NNE of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-07-24T09:49:04.150Z,19.3618335723877,-155.218002319336,0.230000004172325,1.78,ml,18.0,174.0,0.01212,0.140000001,hv,hv74358886,2024-07-24T09:51:41.640Z,"9 km S of Volcano, Hawaii",earthquake,0.28,0.239999995,0.21,3.0,automatic,hv,hv
+2024-07-24T09:48:55.250Z,33.9599991,-117.1613312,18.58,1.27,ml,21.0,57.0,0.1047,0.46,ci,ci40669831,2024-07-24T09:51:01.654Z,"7 km ENE of Moreno Valley, CA",earthquake,0.83,1.76,0.267,5.0,automatic,ci,ci
+2024-07-24T09:45:44.605Z,37.1241,-116.9377,3.4,1.2,ml,18.0,135.15999999999997,0.173,0.2545,nn,nn00881424,2024-07-24T09:47:40.989Z,"28 km NNW of Beatty, Nevada",earthquake,,8.6,0.42,12.0,automatic,nn,nn
+2024-07-24T09:22:20.576Z,31.558,-104.009,6.9025,1.6,ml,15.0,57.0,0.0,0.2,tx,tx2024olgr,2024-07-24T09:45:00.682Z,"33 km NW of Toyah, Texas",earthquake,0.0,2.75073509795138,0.2,13.0,automatic,tx,tx
