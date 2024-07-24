@@ -4748,3 +4748,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-24T09:54:50.740Z,19.3753337860107,-155.219497680664,1.79999995231628,2.02,ml,13.0,134.0,0.004076,0.219999999,hv,hv74358901,2024-07-24T09:57:29.100Z,"7 km SSE of Volcano, Hawaii",earthquake,0.62,0.600000024,0.25,17.0,automatic,hv,hv
 2024-07-24T09:52:24.921Z,67.2565,-154.0406,15.0,2.8,ml,,,,0.83,ak,ak0249gudl8d,2024-07-24T09:55:25.512Z,"97 km NW of Alatna, Alaska",earthquake,,454.3,,,automatic,ak,ak
 2024-07-24T09:45:46.079Z,31.687,-104.408,4.5,1.6,ml,14.0,68.0,0.0,0.7,tx,tx2024olhm,2024-07-24T10:08:50.249Z,"54 km S of Whites City, New Mexico",earthquake,0.0,1.70984604393423,0.1,12.0,automatic,tx,tx
+2024-07-24T10:08:33.000Z,19.3823337554932,-155.199661254883,2.5,2.02,ml,33.0,75.0,0.0172,0.389999986,hv,hv74358941,2024-07-24T10:11:10.420Z,"7 km SSE of Volcano, Hawaii",earthquake,0.53,0.430000007,0.22,18.0,automatic,hv,hv
+2024-07-24T10:05:32.676Z,54.1392,-169.3714,247.476,4.3,mb,59.0,73.0,1.209,0.44,us,us6000nf77,2024-07-24T10:17:41.040Z,"137 km NNW of Nikolski, Alaska",earthquake,11.12,10.856,0.061,77.0,reviewed,us,us
