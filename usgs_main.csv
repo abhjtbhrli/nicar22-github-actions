@@ -4806,3 +4806,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-24T13:17:41.490Z,19.3606662750244,-155.211837768555,0.319999992847443,2.43,ml,33.0,56.0,0.0135,0.170000002,hv,hv74359351,2024-07-24T13:20:21.330Z,"9 km SSE of Volcano, Hawaii",earthquake,0.27,0.189999998,0.24,22.0,automatic,hv,hv
 2024-07-24T03:59:37.580Z,-20.819,-69.7445,95.692,3.9,mb,14.0,130.0,0.328,0.68,us,us6000nf3x,2024-07-24T13:28:39.613Z,"54 km S of La Tirana, Chile",earthquake,4.51,4.527,0.297,3.0,reviewed,us,us
 2024-07-23T19:34:02.620Z,34.78233333,-97.80266667,15.81,1.59,ml,76.0,39.0,0.1619682163,0.48,ok,ok2024okfj,2024-07-24T13:24:30.534Z,"13 km SW of Bradley, Oklahoma",earthquake,,1.4,0.21,28.0,reviewed,ok,ok
+2024-07-24T13:32:49.931Z,63.1956,-150.5675,114.8,1.6,ml,,,,0.22,ak,ak0249gwn3cx,2024-07-24T13:35:46.419Z,"69 km SE of Denali National Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-07-24T11:40:53.341Z,32.762,-100.636,7.0068,2.4,ml,15.0,70.0,0.1,0.2,tx,tx2024ollg,2024-07-24T13:37:56.380Z,"18 km NE of Hermleigh, Texas",earthquake,1.2718896768923678,2.2849053114422957,0.1,7.0,reviewed,tx,tx
