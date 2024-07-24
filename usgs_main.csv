@@ -4731,3 +4731,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-24T09:02:27.300Z,19.3838329315186,-155.183502197266,2.04999995231628,2.12,ml,37.0,77.0,0.0141,0.319999993,hv,hv74358781,2024-07-24T09:05:09.410Z,"8 km SE of Volcano, Hawaii",earthquake,0.46,0.560000002,0.21,15.0,automatic,hv,hv
 2024-07-24T09:02:26.840Z,19.3756675720215,-155.071502685547,13.4300003051758,2.33,ml,16.0,271.0,0.02959,0.319999993,hv,hv74358776,2024-07-24T09:05:06.390Z,"12 km SE of Fern Forest, Hawaii",earthquake,2.12,0.959999979,0.33,12.0,automatic,hv,hv
 2024-07-24T08:57:08.645Z,63.4795,-151.4481,0.0,1.2,ml,,,,1.38,ak,ak0249gtt71s,2024-07-24T09:03:32.779Z,"15 km ESE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-07-24T09:28:46.265Z,64.3976,-149.5679,8.1,0.8,ml,,,,0.25,ak,ak0249gu8hsi,2024-07-24T09:30:33.588Z,"19 km WNW of Anderson, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-07-24T09:23:12.280Z,19.3718338012695,-155.198669433594,2.17000007629395,1.99,ml,30.0,66.0,0.01601,0.379999995,hv,hv74358846,2024-07-24T09:25:49.340Z,"8 km SSE of Volcano, Hawaii",earthquake,0.77,0.540000021,0.25,12.0,automatic,hv,hv
+2024-07-24T09:21:23.103Z,62.1262,-148.0679,25.2,1.5,ml,,,,0.87,ak,ak0249gu6xzq,2024-07-24T09:23:25.375Z,"41 km NNW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-07-24T09:07:45.429Z,54.2124,-162.4736,42.233,3.7,mb,14.0,192.0,0.848,1.07,us,us6000nf6p,2024-07-24T09:23:36.040Z,"93 km SE of False Pass, Alaska",earthquake,6.99,16.923,0.16,10.0,reviewed,us,us
