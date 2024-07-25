@@ -5123,3 +5123,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-25T02:40:35.360Z,33.7755,-116.931,14.03,0.77,ml,18.0,199.0,0.08839,0.18,ci,ci40670631,2024-07-25T02:47:06.685Z,"3 km ESE of San Jacinto, CA",earthquake,0.66,0.81,0.068,4.0,automatic,ci,ci
 2024-07-25T02:29:04.388Z,31.596,-103.948,5.9408,1.8,ml,16.0,75.0,0.0,0.3,tx,tx2024omor,2024-07-25T02:52:45.789Z,"34 km NNW of Toyah, Texas",earthquake,0.0,2.30530407949934,0.2,12.0,automatic,tx,tx
 2024-07-25T02:27:50.388Z,31.597,-103.954,6.4363,1.5,ml,16.0,72.0,0.0,0.3,tx,tx2024omoo,2024-07-25T02:52:40.785Z,"34 km NNW of Toyah, Texas",earthquake,0.0,2.490772575113,0.2,12.0,automatic,tx,tx
+2024-07-25T02:39:07.953Z,-20.1411,-177.7643,535.115,4.8,mb,30.0,97.0,2.607,0.81,us,us6000nfia,2024-07-25T02:59:06.040Z,"280 km WNW of Houma, Tonga",earthquake,15.78,10.279,0.111,25.0,reviewed,us,us
