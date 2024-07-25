@@ -5306,3 +5306,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-25T13:13:31.620Z,31.884,-104.313,5.6926,1.5,ml,6.0,151.0,0.0,0.7,tx,tx2024onju,2024-07-25T13:19:49.083Z,"32 km S of Whites City, New Mexico",earthquake,0.0,9.07452941178826,0.5,6.0,automatic,tx,tx
 2024-07-25T09:51:53.803Z,32.771,-100.653,6.958,2.2,ml,16.0,79.0,0.1,0.1,tx,tx2024onde,2024-07-25T13:24:10.104Z,"18 km NNE of Hermleigh, Texas",earthquake,0.7083328776642102,0.9249034335697176,0.1,23.0,reviewed,tx,tx
 2024-07-24T23:08:24.200Z,39.0323333333333,-111.529166666667,8.12,2.81,ml,38.0,41.0,0.1371,0.14,uu,uu80076406,2024-07-25T13:22:14.920Z,"18 km ESE of Mayfield, Utah",earthquake,0.27,0.71,0.128505779373449,29.0,reviewed,uu,uu
+2024-07-25T08:22:11.720Z,37.5535,-78.0503333333333,5.25,2.26,md,10.0,106.0,0.4314,0.38,se,se60587631,2024-07-25T13:29:13.330Z,"18 km ENE of Cumberland, Virginia",earthquake,0.86,5.73,0.129047947165416,9.0,reviewed,se,se
