@@ -5922,3 +5922,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-26T19:21:11.628Z,62.2458,-148.4071,39.5,1.0,ml,,,,0.26,ak,ak0249kb7y56,2024-07-26T19:23:12.560Z,"50 km N of Chickaloon, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2024-07-26T18:54:53.855Z,6.8012,-73.1109,158.806,4.3,mb,42.0,55.0,0.903,0.6,us,us6000ng7y,2024-07-26T19:25:08.040Z,"7 km NNW of Jordán, Colombia",earthquake,8.49,5.946,0.093,35.0,reviewed,us,us
 2024-07-25T23:36:34.320Z,51.906,178.346833333333,4.18,-0.14,ml,4.0,339.0,0.1103,0.12,av,av93016534,2024-07-26T19:25:28.720Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,1.51,4.49,0.227786086514072,4.0,reviewed,av,av
+2024-07-26T19:35:13.880Z,32.6136665,-115.3323364,11.71,1.55,ml,14.0,117.0,0.2231,0.13,ci,ci40672367,2024-07-26T19:37:33.071Z,"6 km NNE of Puebla, B.C., MX",earthquake,0.95,1.21,0.337,5.0,automatic,ci,ci
+2024-07-26T19:34:27.380Z,33.7628326,-116.9345016,13.35,1.1,ml,22.0,103.0,0.07608,0.17,ci,ci40672359,2024-07-26T19:36:32.767Z,"3 km SE of San Jacinto, CA",earthquake,0.44,0.78,0.175,7.0,automatic,ci,ci
+2024-07-26T19:32:00.100Z,34.844,-118.7853333,-1.23,1.24,ml,31.0,51.0,0.06761,0.31,ci,ci40672351,2024-07-26T19:38:21.076Z,"7 km E of Lebec, CA",earthquake,0.39,0.87,0.174,34.0,automatic,ci,ci
