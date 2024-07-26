@@ -5818,3 +5818,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-26T13:46:51.215Z,64.4614,-149.231,0.0,1.6,ml,,,,1.2,ak,ak0249k7sryp,2024-07-26T13:48:55.289Z,"13 km SSW of Nenana, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-07-26T13:44:11.440Z,38.8228340148926,-122.808166503906,2.58999991416931,0.8,md,15.0,64.0,0.001592,0.02,nc,nc75039762,2024-07-26T13:45:47.334Z,"7 km NNW of The Geysers, CA",earthquake,0.29,0.790000021,0.12,17.0,automatic,nc,nc
 2024-07-26T13:42:17.210Z,64.4542,-149.2418,0.0,1.7,ml,,,,0.75,ak,ak0249k7ruzd,2024-07-26T13:44:33.882Z,"12 km NNW of Anderson, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-07-26T14:04:50.670Z,38.8343315124512,-122.769165039062,15.4300003051758,0.83,md,11.0,220.0,0.003899,0.12,nc,nc75039767,2024-07-26T14:06:27.356Z,"4 km WNW of Cobb, CA",earthquake,2.82,10.7200003,0.11,13.0,automatic,nc,nc
+2024-07-26T13:46:34.730Z,35.7011667,-117.5533333,3.15,0.68,ml,18.0,59.0,0.1115,0.17,ci,ci40671991,2024-07-26T13:55:41.006Z,"14 km NE of Ridgecrest, CA",earthquake,0.26,1.12,0.158,7.0,automatic,ci,ci
