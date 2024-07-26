@@ -5925,3 +5925,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-26T19:35:13.880Z,32.6136665,-115.3323364,11.71,1.55,ml,14.0,117.0,0.2231,0.13,ci,ci40672367,2024-07-26T19:37:33.071Z,"6 km NNE of Puebla, B.C., MX",earthquake,0.95,1.21,0.337,5.0,automatic,ci,ci
 2024-07-26T19:34:27.380Z,33.7628326,-116.9345016,13.35,1.1,ml,22.0,103.0,0.07608,0.17,ci,ci40672359,2024-07-26T19:36:32.767Z,"3 km SE of San Jacinto, CA",earthquake,0.44,0.78,0.175,7.0,automatic,ci,ci
 2024-07-26T19:32:00.100Z,34.844,-118.7853333,-1.23,1.24,ml,31.0,51.0,0.06761,0.31,ci,ci40672351,2024-07-26T19:38:21.076Z,"7 km E of Lebec, CA",earthquake,0.39,0.87,0.174,34.0,automatic,ci,ci
+2024-07-26T19:40:36.437Z,32.768,-100.696,4.4678,2.9,ml,20.0,50.0,0.1,0.3,tx,tx2024opsc,2024-07-26T19:57:58.602Z,"15 km NNE of Hermleigh, Texas",earthquake,1.042884187939325,1.5856203830879614,0.1,18.0,reviewed,tx,tx
