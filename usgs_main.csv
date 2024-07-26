@@ -5778,3 +5778,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-26T09:54:50.370Z,33.7611667,-116.9325,13.32,0.68,ml,38.0,44.0,0.07425,0.19,ci,ci40671863,2024-07-26T10:01:42.646Z,"4 km SE of San Jacinto, CA",earthquake,0.24,0.5,0.117,18.0,automatic,ci,ci
 2024-07-26T09:54:10.800Z,33.7623333,-116.9393333,14.11,1.39,ml,71.0,22.0,0.05139,0.19,ci,ci40671855,2024-07-26T10:05:10.060Z,"3 km SE of San Jacinto, CA",earthquake,0.15,0.34,0.138,26.0,automatic,ci,ci
 2024-07-26T09:53:21.023Z,38.8188,-117.9639,7.0,1.8,ml,15.0,118.25,0.253,0.3396,nn,nn00881512,2024-07-26T09:56:11.792Z,"6 km SSW of Gabbs, Nevada",earthquake,,0.6,0.37,10.0,automatic,nn,nn
+2024-07-26T10:29:48.554Z,61.0219,-152.3132,14.1,1.6,ml,,,,0.83,ak,ak0249k5wu9z,2024-07-26T10:31:49.455Z,"63 km W of Tyonek, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2024-07-26T10:25:37.900Z,19.4008331298828,-155.267501831055,0.46000000834465,1.94000006,md,16.0,56.0,0.002927,0.150000006,hv,hv74366351,2024-07-26T10:27:13.220Z,"5 km SW of Volcano, Hawaii",earthquake,0.14,0.200000003,0.189999998,14.0,automatic,hv,hv
+2024-07-26T10:05:22.731Z,-20.7906,-174.1622,10.0,5.1,mww,44.0,177.0,0.944,0.84,us,us6000ng3e,2024-07-26T10:26:18.040Z,"101 km ENE of Kolonga, Tonga",earthquake,10.48,1.943,0.11,8.0,reviewed,us,us
