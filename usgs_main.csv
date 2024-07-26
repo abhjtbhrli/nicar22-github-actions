@@ -5959,3 +5959,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-26T00:04:11.000Z,52.1053333333333,-176.128333333333,7.76,0.39,ml,6.0,215.0,0.03255,0.22,av,av93210851,2024-07-26T21:59:27.900Z,"43 km NE of Adak, Alaska",earthquake,1.18,1.64,0.176309406485131,6.0,reviewed,av,av
 2024-07-26T21:48:39.172Z,31.114,-103.266,5.0399,1.6,ml,15.0,61.0,0.1,0.6,tx,tx2024opwh,2024-07-26T22:19:58.899Z,"23 km SW of Coyanosa, Texas",earthquake,0.0,2.39899549920637,0.2,13.0,automatic,tx,tx
 2024-07-26T20:48:05.354Z,53.3453,160.2027,52.47,4.3,mb,39.0,167.0,0.989,0.7,us,us6000ng8w,2024-07-26T22:19:31.040Z,"109 km ENE of Petropavlovsk-Kamchatsky, Russia",earthquake,13.05,11.375,0.099,29.0,reviewed,us,us
+2024-07-26T21:22:16.699Z,32.751,-100.662,7.2021,1.7,ml,12.0,52.0,0.1,0.1,tx,tx2024opvl,2024-07-26T22:32:14.546Z,"15 km NE of Hermleigh, Texas",earthquake,0.9746276358207806,1.917656173004223,0.1,7.0,reviewed,tx,tx
+2024-07-26T08:59:58.780Z,46.212833333333336,-122.1925,-1.75,0.84,md,6.0,198.0,0.0116,0.19,uw,uw62020767,2024-07-26T22:32:01.440Z,"38 km S of Morton, Washington",earthquake,0.55,17.78,0.1481342165952155,4.0,reviewed,uw,uw
