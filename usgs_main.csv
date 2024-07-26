@@ -5783,3 +5783,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-26T10:05:22.731Z,-20.7906,-174.1622,10.0,5.1,mww,44.0,177.0,0.944,0.84,us,us6000ng3e,2024-07-26T10:26:18.040Z,"101 km ENE of Kolonga, Tonga",earthquake,10.48,1.943,0.11,8.0,reviewed,us,us
 2024-07-26T10:38:39.780Z,19.1801662445068,-155.484497070312,30.0799999237061,1.88999999,md,19.0,200.0,0.03247,0.200000003,hv,hv74366391,2024-07-26T10:40:24.090Z,"2 km SSW of Pāhala, Hawaii",earthquake,1.69,1.24000001,0.25,3.0,automatic,hv,hv
 2024-07-26T10:32:50.573Z,65.8519,-146.4538,4.6,1.2,ml,,,,0.44,ak,ak0249k5xhkx,2024-07-26T10:34:27.303Z,"53 km SSW of Birch Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-07-26T10:42:13.760Z,34.0053333,-116.8,13.43,0.52,ml,23.0,87.0,0.03044,0.12,ci,ci40671879,2024-07-26T10:47:56.907Z,"10 km N of Cabazon, CA",earthquake,0.23,0.52,0.172,7.0,automatic,ci,ci
