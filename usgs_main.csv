@@ -5926,3 +5926,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-26T19:34:27.380Z,33.7628326,-116.9345016,13.35,1.1,ml,22.0,103.0,0.07608,0.17,ci,ci40672359,2024-07-26T19:36:32.767Z,"3 km SE of San Jacinto, CA",earthquake,0.44,0.78,0.175,7.0,automatic,ci,ci
 2024-07-26T19:32:00.100Z,34.844,-118.7853333,-1.23,1.24,ml,31.0,51.0,0.06761,0.31,ci,ci40672351,2024-07-26T19:38:21.076Z,"7 km E of Lebec, CA",earthquake,0.39,0.87,0.174,34.0,automatic,ci,ci
 2024-07-26T19:40:36.437Z,32.768,-100.696,4.4678,2.9,ml,20.0,50.0,0.1,0.3,tx,tx2024opsc,2024-07-26T19:57:58.602Z,"15 km NNE of Hermleigh, Texas",earthquake,1.042884187939325,1.5856203830879614,0.1,18.0,reviewed,tx,tx
+2024-07-26T20:17:22.325Z,57.7732,-153.6626,231.1,2.0,ml,,,,1.05,ak,ak0249kbsjpk,2024-07-26T20:19:50.137Z,"32 km NE of Larsen Bay, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-07-26T13:27:52.610Z,59.36,-153.457166666667,1.01,0.37,ml,5.0,150.0,0.002529,0.22,av,av93211631,2024-07-26T20:20:48.190Z,"60 km SE of Pedro Bay, Alaska",earthquake,0.85,31.61,0.26872957161025,5.0,reviewed,av,av
