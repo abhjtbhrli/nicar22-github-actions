@@ -5838,3 +5838,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-26T15:17:41.750Z,65.6067,-152.4761,5.4,1.3,ml,,,,0.95,ak,ak0249k8tf6n,2024-07-26T15:20:08.867Z,"51 km NNW of Tanana, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-07-26T15:04:33.279Z,32.759,-100.678,7.373,1.9,ml,12.0,68.0,0.1,0.2,tx,tx2024opjn,2024-07-26T15:26:03.763Z,"15 km NNE of Hermleigh, Texas",earthquake,0.8400422177215331,1.7996861740039924,0.1,6.0,reviewed,tx,tx
 2024-07-26T15:15:51.649Z,51.5835,-175.8173,29.4,3.4,ml,,,,0.48,ak,ak0249k8t0rn,2024-07-26T15:36:56.593Z,"65 km ESE of Adak, Alaska",earthquake,,1.8,,,reviewed,ak,ak
+2024-07-26T14:58:37.100Z,32.769,-100.685,5.835,2.0,ml,17.0,56.0,0.1,0.2,tx,tx2024opji,2024-07-26T15:41:36.204Z,"16 km NNE of Hermleigh, Texas",earthquake,0.9297936976302468,2.138561379336679,0.1,7.0,reviewed,tx,tx
