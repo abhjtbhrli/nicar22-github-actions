@@ -5793,3 +5793,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-26T11:09:05.720Z,34.0181667,-116.7086667,13.19,0.82,ml,43.0,79.0,0.05436,0.14,ci,ci40671903,2024-07-26T11:15:23.029Z,"12 km WSW of Morongo Valley, CA",earthquake,0.16,0.39,0.108,22.0,automatic,ci,ci
 2024-07-26T11:08:56.189Z,61.6604,-150.3205,15.1,0.9,ml,,,,0.41,ak,ak0249k6dsfm,2024-07-26T11:10:39.553Z,"16 km NE of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-07-26T11:08:55.165Z,63.8201,-148.5054,105.4,1.1,ml,,,,0.34,ak,ak0249k6dscs,2024-07-26T11:10:46.435Z,"22 km ENE of Denali Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-07-26T11:26:29.698Z,38.7411,-118.4886,0.0,1.4,ml,8.0,102.51999999999998,0.431,0.3916,nn,nn00881515,2024-07-26T11:29:29.318Z,"25 km ENE of Walker Lake, Nevada",earthquake,,24.1,0.13,6.0,automatic,nn,nn
+2024-07-26T11:21:09.210Z,33.7645,-116.9341667,13.29,0.95,ml,53.0,60.0,0.0777,0.17,ci,ci40671919,2024-07-26T11:27:17.129Z,"3 km SE of San Jacinto, CA",earthquake,0.17,0.38,0.114,26.0,automatic,ci,ci
+2024-07-26T10:23:31.636Z,32.287,-104.6219,8.474,2.7,ml,32.0,88.0,0.61,0.47,us,us6000ng3g,2024-07-26T11:23:27.040Z,"26 km WNW of Whites City, New Mexico",earthquake,2.32,8.421,0.055,64.0,reviewed,us,us
