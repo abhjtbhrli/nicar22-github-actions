@@ -5824,3 +5824,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-26T14:09:03.140Z,19.3893337249756,-155.237503051758,27.7399997711182,2.32,ml,63.0,38.0,0.01358,0.159999996,hv,hv74366881,2024-07-26T14:20:50.040Z,"5 km S of Volcano, Hawaii",earthquake,0.3,0.379999995,0.48,39.0,automatic,hv,hv
 2024-07-26T14:02:35.650Z,-5.4751,145.9934,87.065,4.9,mb,42.0,98.0,3.674,0.64,us,us6000ng4k,2024-07-26T14:16:55.040Z,"36 km SE of Madang, Papua New Guinea",earthquake,9.8,7.596,0.1,31.0,reviewed,us,us
 2024-07-26T06:05:29.420Z,37.7371666666667,-113.271833333333,1.35,1.06,ml,8.0,182.0,0.1428,0.11,uu,uu80076476,2024-07-26T14:24:41.710Z,"19 km WNW of Cedar City, Utah",earthquake,0.54,31.61,0.0929367211835556,6.0,reviewed,uu,uu
+2024-07-26T14:28:30.001Z,32.7457,-100.6704,1.922,4.8,mww,28.0,37.0,0.093,0.5,us,us6000ng4s,2024-07-26T14:35:53.040Z,"14 km NE of Hermleigh, Texas",earthquake,2.05,10.493,0.062,25.0,reviewed,us,us
