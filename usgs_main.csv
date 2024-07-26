@@ -5764,3 +5764,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-26T09:06:29.030Z,38.8079986572266,-122.817665100098,2.52999997138977,1.07,md,21.0,59.0,0.009037,0.03,nc,nc75039707,2024-07-26T09:08:07.255Z,"6 km NW of The Geysers, CA",earthquake,0.24,0.469999999,0.22,19.0,automatic,nc,nc
 2024-07-26T08:56:29.900Z,19.3784999847412,-155.18733215332,2.23000001907349,1.86000001,md,24.0,119.0,0.01705,0.180000007,hv,hv74366116,2024-07-26T08:58:06.100Z,"8 km SE of Volcano, Hawaii",earthquake,0.45,0.360000014,0.219999999,13.0,automatic,hv,hv
 2024-07-26T08:53:20.359Z,31.6824,-104.4659,8.258,2.8,ml,41.0,55.0,0.033,0.68,us,us6000ng2z,2024-07-26T09:05:08.040Z,"55 km S of Whites City, New Mexico",earthquake,2.16,7.974,0.048,56.0,reviewed,us,us
+2024-07-26T09:23:41.318Z,63.137,-151.4206,0.0,1.7,ml,,,,0.41,ak,ak0249k5a3tf,2024-07-26T09:25:30.288Z,"47 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-07-26T08:53:20.368Z,31.681,-104.432,4.4375,2.4,ml,16.0,50.0,0.0,0.2,tx,tx2024oows,2024-07-26T09:20:32.920Z,"55 km S of Whites City, New Mexico",earthquake,0.0,1.37309918365032,0.1,12.0,automatic,tx,tx
