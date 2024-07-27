@@ -6077,3 +6077,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-27T11:01:35.670Z,33.7648333,-116.9338333,13.47,0.74,ml,34.0,66.0,0.078,0.17,ci,ci40672895,2024-07-27T11:07:33.618Z,"3 km SE of San Jacinto, CA",earthquake,0.25,0.45,0.114,21.0,automatic,ci,ci
 2024-07-27T10:58:16.391Z,31.622,-103.958,4.675,2.0,ml,15.0,71.0,0.0,0.3,tx,tx2024oqwj,2024-07-27T11:10:04.751Z,"35 km WSW of Mentone, Texas",earthquake,0.0,1.28740437532137,0.2,12.0,automatic,tx,tx
 2024-07-27T10:20:25.816Z,-37.3197,177.3565,8.181,4.8,mb,32.0,169.0,0.794,0.92,us,us6000ngbv,2024-07-27T11:15:13.106Z,"76 km N of Opotiki, New Zealand",earthquake,4.34,6.263,0.119,23.0,reviewed,us,us
+2024-07-27T11:44:08.250Z,19.267333984375,-155.383163452148,30.1200008392334,1.99000001,md,47.0,121.0,0.03262,0.129999995,hv,hv74368631,2024-07-27T11:45:47.870Z,"12 km NE of Pāhala, Hawaii",earthquake,0.47,0.460000008,0.219999999,4.0,automatic,hv,hv
+2024-07-27T11:43:34.371Z,61.5985,-149.9605,32.9,1.2,ml,,,,0.43,ak,ak0249lu4lb1,2024-07-27T11:45:49.458Z,"8 km WSW of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-07-27T11:21:47.180Z,21.8022,121.1803,41.973,5.1,mb,85.0,59.0,1.015,0.9,us,us6000ngc7,2024-07-27T11:39:22.040Z,"50 km ESE of Hengchun, Taiwan",earthquake,7.36,5.323,0.044,164.0,reviewed,us,us
