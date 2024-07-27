@@ -6023,3 +6023,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-27T02:47:35.462Z,-33.3514,-68.9252,2.448,3.0,ml,19.0,213.0,1.012,1.02,us,usd0011its,2024-07-27T03:02:49.040Z,"51 km S of Mendoza, Argentina",earthquake,2.22,7.055,0.058,39.0,reviewed,us,us
 2024-07-27T03:43:07.312Z,60.7828,-150.6449,49.3,2.0,ml,,,,0.55,ak,ak0249lpd2dp,2024-07-27T03:46:29.025Z,"15 km S of Point Possession, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-07-27T04:07:19.990Z,38.8079986572266,-122.828834533691,3.10999989509583,0.87,md,8.0,119.0,0.0009086,0.03,nc,nc75039957,2024-07-27T04:08:58.817Z,"7 km NW of The Geysers, CA",earthquake,0.58,1.50999999,0.26,8.0,automatic,nc,nc
+2024-07-27T04:47:22.110Z,34.0788345,-118.3128357,10.25,1.42,ml,20.0,165.0,0.0406,0.19,ci,ci40672791,2024-07-27T04:49:25.363Z,"2 km SSE of Hollywood, CA",earthquake,0.69,0.92,0.274,8.0,automatic,ci,ci
