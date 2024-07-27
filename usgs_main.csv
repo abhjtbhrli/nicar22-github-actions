@@ -6205,3 +6205,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-27T22:55:28.645Z,58.8123,-154.4307,7.8,1.9,ml,,,,0.72,ak,ak0249m0qx40,2024-07-27T22:57:26.915Z,"72 km SSE of Kokhanok, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-07-27T22:54:06.231Z,61.3634,-150.6201,32.9,1.6,ml,,,,0.9,ak,ak0249m0qim6,2024-07-27T22:56:38.397Z,"20 km SSW of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-07-27T22:54:05.201Z,36.7139,-116.2768,7.3,0.7,ml,19.0,108.05,0.04,0.1993,nn,nn00881567,2024-07-27T22:56:00.574Z,"48 km ESE of Beatty, Nevada",earthquake,,0.6,0.23,13.0,automatic,nn,nn
+2024-07-27T23:22:27.226Z,60.3199,-152.3846,85.1,1.3,ml,,,,0.23,ak,ak0249m159z6,2024-07-27T23:24:33.433Z,"49 km NW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-07-27T23:20:14.210Z,38.7756652832031,-122.744331359863,1.64999997615814,0.74,md,8.0,122.0,0.009618,0.02,nc,nc75040287,2024-07-27T23:21:51.768Z,"1 km ESE of The Geysers, CA",earthquake,0.44,0.74000001,0.17,7.0,automatic,nc,nc
+2024-07-27T23:18:54.650Z,19.154333114624,-155.500671386719,30.75,2.08,ml,49.0,135.0,0.03647,0.119999997,hv,hv74369656,2024-07-27T23:21:31.600Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.59,0.74000001,0.15,5.0,automatic,hv,hv
+2024-07-27T23:15:37.850Z,38.8226661682129,-122.842666625977,1.83000004291534,0.67,md,8.0,152.0,0.005982,0.0,nc,nc75040282,2024-07-27T23:17:11.897Z,"9 km NW of The Geysers, CA",earthquake,0.54,0.980000019,0.13,9.0,automatic,nc,nc
+2024-07-27T23:14:18.442Z,65.0171,-147.4943,0.0,1.3,ml,,,,0.82,ak,ak0249m13jkk,2024-07-27T23:16:15.493Z,"8 km NE of Fox, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-07-27T23:08:30.079Z,32.7801,-100.6703,2.693,2.7,mb_lg,25.0,36.0,0.122,0.55,us,us6000ngev,2024-07-27T23:15:30.900Z,"18 km NNE of Hermleigh, Texas",earthquake,1.56,5.97,0.055,87.0,reviewed,us,us
