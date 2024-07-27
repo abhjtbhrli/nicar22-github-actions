@@ -6082,3 +6082,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-27T11:21:47.180Z,21.8022,121.1803,41.973,5.1,mb,85.0,59.0,1.015,0.9,us,us6000ngc7,2024-07-27T11:39:22.040Z,"50 km ESE of Hengchun, Taiwan",earthquake,7.36,5.323,0.044,164.0,reviewed,us,us
 2024-07-27T11:52:00.976Z,61.9742,-150.9595,68.1,1.5,ml,,,,0.48,ak,ak0249lu6g69,2024-07-27T11:54:16.784Z,"23 km E of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-07-27T11:46:24.720Z,19.1636657714844,-155.393173217773,31.6399993896484,1.84000003,md,53.0,172.0,0.06568,0.129999995,hv,hv74368636,2024-07-27T11:48:30.070Z,"9 km ESE of Pāhala, Hawaii",earthquake,0.48,0.620000005,0.189999998,11.0,automatic,hv,hv
+2024-07-27T11:59:02.140Z,33.6378333,-116.7405,16.23,0.52,ml,31.0,59.0,0.04823,0.12,ci,ci40672911,2024-07-27T12:05:11.953Z,"11 km NW of Anza, CA",earthquake,0.18,0.34,0.264,14.0,automatic,ci,ci
