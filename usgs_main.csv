@@ -6056,3 +6056,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-27T09:02:02.607Z,31.634,-104.471,3.8216,1.8,ml,15.0,116.0,0.0,0.4,tx,tx2024oqsn,2024-07-27T09:13:36.897Z,"60 km S of Whites City, New Mexico",earthquake,0.0,1.69783310791855,0.1,12.0,automatic,tx,tx
 2024-07-27T09:11:10.890Z,33.8120003,-116.9851685,25.87,0.76,ml,19.0,58.0,0.1045,0.28,ci,ci40672831,2024-07-27T09:20:53.122Z,"4 km NW of San Jacinto, CA",earthquake,0.77,1.23,0.212,5.0,automatic,ci,ci
 2024-07-27T09:27:37.381Z,64.8194,-147.4225,17.9,0.7,ml,,,,0.4,ak,ak0249lsuave,2024-07-27T09:29:31.822Z,"5 km ENE of Badger, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-07-27T09:39:04.330Z,38.7719993591309,-122.716163635254,2.1800000667572,1.15,md,11.0,102.0,0.01242,0.03,nc,nc75040032,2024-07-27T09:40:41.490Z,"2 km W of Anderson Springs, CA",earthquake,0.35,0.469999999,0.13,11.0,automatic,nc,nc
