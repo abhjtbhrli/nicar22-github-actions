@@ -6117,3 +6117,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-27T15:40:58.711Z,57.0939,-154.0398,17.5,1.7,ml,,,,0.2,ak,ak0249lwhqgf,2024-07-27T15:42:56.823Z,"18 km NNE of Akhiok, Alaska",earthquake,,5.5,,,automatic,ak,ak
 2024-07-27T15:51:35.170Z,32.9836655,-116.3181686,8.44,1.19,ml,35.0,55.0,0.07862,0.2,ci,ci40673143,2024-07-27T15:53:37.598Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.31,1.05,0.358,6.0,automatic,ci,ci
 2024-07-27T15:50:33.950Z,38.833667755127,-122.793502807617,1.60000002384186,1.02,md,12.0,60.0,0.005339,0.01,nc,nc75040112,2024-07-27T15:52:11.394Z,"6 km WNW of Cobb, CA",earthquake,0.33,0.649999976,0.35,13.0,automatic,nc,nc
+2024-07-27T16:03:25.930Z,38.7734985351562,-122.741333007812,2.85999989509583,0.88,md,7.0,130.0,0.01037,0.01,nc,nc75040127,2024-07-27T16:05:01.396Z,"1 km ESE of The Geysers, CA",earthquake,0.64,1.45000005,0.24,6.0,automatic,nc,nc
