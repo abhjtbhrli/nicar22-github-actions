@@ -6197,3 +6197,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-27T21:48:14.412Z,-24.3934,-67.2955,184.44,4.3,mb,24.0,71.0,1.647,0.68,us,us6000ngei,2024-07-27T22:09:48.040Z,"101 km W of San Antonio de los Cobres, Argentina",earthquake,9.03,10.354,0.217,6.0,reviewed,us,us
 2024-07-27T18:25:02.386Z,45.5897,-111.7475,5.134,2.6,ml,36.0,46.0,0.083,0.56,us,us6000ngdk,2024-07-27T22:12:32.040Z,"12 km SSE of Harrison, Montana",earthquake,1.38,4.193,0.045,66.0,reviewed,us,us
 2024-07-27T22:27:14.000Z,19.1916675567627,-155.491836547852,31.4099998474121,1.84000003,md,32.0,122.0,0.04572,0.129999995,hv,hv74369576,2024-07-27T22:29:00.400Z,"1 km SW of Pāhala, Hawaii",earthquake,0.71,0.959999979,0.140000001,4.0,automatic,hv,hv
+2024-07-27T22:35:43.189Z,58.8124,-154.2933,10.2,0.9,ml,,,,0.43,ak,ak0249m0mo6o,2024-07-27T22:37:54.664Z,"75 km SSE of Kokhanok, Alaska",earthquake,,0.5,,,automatic,ak,ak
