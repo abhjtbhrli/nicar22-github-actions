@@ -6048,3 +6048,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-27T07:43:21.237Z,61.8313,-149.8845,33.2,1.6,ml,,,,0.9,ak,ak0249lrqtvf,2024-07-27T07:45:47.748Z,"12 km NE of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-07-27T08:26:49.990Z,38.8484992980957,-122.806663513184,11.9799995422363,0.96,md,7.0,207.0,0.009777,0.06,nc,nc75040017,2024-07-27T08:28:24.842Z,"8 km WNW of Cobb, CA",earthquake,2.47,8.93000031,0.22,2.0,automatic,nc,nc
 2024-07-27T08:24:27.953Z,61.9303,-148.2365,30.8,1.8,ml,,,,0.68,ak,ak0249ls87e3,2024-07-27T08:26:23.338Z,"19 km NE of Chickaloon, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2024-07-27T08:36:46.552Z,36.5037,-115.1952,7.3,0.9,ml,14.0,329.85,0.636,0.1483,nn,nn00881547,2024-07-27T08:39:15.215Z,"31 km NNW of Nellis Air Force Base, Nevada",earthquake,,1.8,0.2,10.0,automatic,nn,nn
+2024-07-27T08:33:19.260Z,38.8246650695801,-122.814834594727,1.8400000333786,1.05,md,15.0,66.0,0.003929,0.01,nc,nc75040022,2024-07-27T08:34:55.102Z,"7 km NNW of The Geysers, CA",earthquake,0.25,0.5,0.3,14.0,automatic,nc,nc
+2024-07-27T08:23:46.502Z,31.68,-104.425,4.3204,1.7,ml,17.0,55.0,0.0,0.3,tx,tx2024oqrg,2024-07-27T08:38:27.672Z,"55 km S of Whites City, New Mexico",earthquake,0.0,1.3798400051553,0.1,12.0,automatic,tx,tx
