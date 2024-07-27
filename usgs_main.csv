@@ -6045,3 +6045,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-27T07:21:38.327Z,64.93,-148.9917,18.2,1.6,ml,,,,0.22,ak,ak0249lrm5fs,2024-07-27T07:22:47.100Z,"29 km SE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-07-27T07:20:09.666Z,64.9288,-149.0031,16.3,2.1,ml,,,,0.61,ak,ak0249lrlvie,2024-07-27T07:22:18.217Z,"29 km SSE of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-07-27T07:19:38.122Z,64.9304,-149.0363,19.9,1.0,ml,,,,0.42,ak,ak0249lrlpy3,2024-07-27T07:21:49.059Z,"28 km SSE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-07-27T07:43:21.237Z,61.8313,-149.8845,33.2,1.6,ml,,,,0.9,ak,ak0249lrqtvf,2024-07-27T07:45:47.748Z,"12 km NE of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
