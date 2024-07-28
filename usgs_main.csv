@@ -6298,3 +6298,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-28T07:55:48.885Z,64.4744,-146.9229,4.2,0.9,ml,,,,0.73,ak,ak0249nfct33,2024-07-28T07:58:29.377Z,"5 km S of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-07-28T08:07:28.890Z,35.4906667,-118.5193333,2.98,0.87,ml,25.0,86.0,0.1757,0.15,ci,ci40673767,2024-07-28T08:13:21.570Z,"11 km SSW of Bodfish, CA",earthquake,0.21,0.64,0.116,9.0,automatic,ci,ci
 2024-07-28T08:02:56.030Z,19.8285007476807,-155.561660766602,20.0699996948242,1.84000003,md,16.0,286.0,0.07593,0.140000001,hv,hv74370361,2024-07-28T08:04:26.370Z,"24 km SSE of Waimea, Hawaii",earthquake,1.0,0.99000001,0.180000007,4.0,automatic,hv,hv
+2024-07-28T08:21:09.062Z,58.9781,-153.2163,72.2,1.6,ml,,,,0.37,ak,ak0249nfqva2,2024-07-28T08:23:22.782Z,"85 km WSW of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
