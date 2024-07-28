@@ -6425,3 +6425,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-28T20:04:34.907Z,59.9105,-152.5655,79.4,1.1,ml,,,,0.4,ak,ak0249nmshcy,2024-07-28T20:06:47.820Z,"43 km WNW of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-07-28T19:37:43.326Z,31.654,-104.567,3.6644,1.7,ml,8.0,182.0,0.1,0.1,tx,tx2024otiz,2024-07-28T20:01:44.506Z,"60 km SSW of Whites City, New Mexico",earthquake,0.0,2.36554331065223,0.2,6.0,automatic,tx,tx
 2024-07-28T20:25:57.167Z,60.0153,-154.6727,0.0,1.6,ml,,,,0.7,ak,ak0249nmx144,2024-07-28T20:27:58.480Z,"10 km ENE of Nondalton, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-07-28T20:41:18.130Z,33.7668343,-116.9380035,15.26,1.49,ml,23.0,60.0,0.07894,0.19,ci,ci40674151,2024-07-28T20:43:30.928Z,"3 km SE of San Jacinto, CA",earthquake,0.53,1.07,0.177,12.0,automatic,ci,ci
+2024-07-28T20:41:15.560Z,33.7625008,-116.9343338,13.77,1.45,ml,37.0,37.0,0.07796,0.22,ci,ci40674143,2024-07-28T20:43:31.187Z,"3 km SE of San Jacinto, CA",earthquake,0.31,0.7,0.43,9.0,automatic,ci,ci
+2024-07-28T20:40:54.470Z,38.7794990539551,-122.745330810547,0.660000026226044,1.1,md,15.0,74.0,0.01821,0.04,nc,nc75040597,2024-07-28T20:42:30.004Z,"1 km E of The Geysers, CA",earthquake,0.27,0.610000014,0.26,14.0,automatic,nc,nc
