@@ -6438,3 +6438,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-28T21:54:26.167Z,38.1381,-117.8788,8.8,1.2,ml,10.0,125.31,0.103,0.2772,nn,nn00881596,2024-07-28T21:57:12.157Z,"34 km SE of Mina, Nevada",earthquake,,0.6,0.3,8.0,automatic,nn,nn
 2024-07-28T21:28:19.942Z,31.674,-104.404,4.0513,1.7,ml,17.0,69.0,0.0,0.5,tx,tx2024otmq,2024-07-28T21:58:13.354Z,"55 km S of Whites City, New Mexico",earthquake,0.0,1.34934131483091,0.2,13.0,automatic,tx,tx
 2024-07-28T22:19:25.600Z,38.84033203125,-122.877830505371,2.5,0.47,md,9.0,114.0,0.007199,0.03,nc,nc75040617,2024-07-28T22:20:59.622Z,"13 km NW of The Geysers, CA",earthquake,0.42,0.620000005,0.34,8.0,automatic,nc,nc
+2024-07-28T22:13:08.352Z,-37.0763,52.289,10.0,5.4,mww,71.0,41.0,9.351,0.79,us,us6000ngji,2024-07-28T22:35:24.584Z,South Indian Ocean,earthquake,9.44,1.835,0.08,15.0,reviewed,us,us
