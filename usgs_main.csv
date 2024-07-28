@@ -6408,3 +6408,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-27T18:29:57.750Z,46.85316666666667,-121.76,1.0,0.5,ml,16.0,86.0,0.02552,0.06,uw,uw62021287,2024-07-28T18:13:20.550Z,"23 km ENE of Ashford, Washington",earthquake,0.18,0.59,0.2294426107427648,9.0,reviewed,uw,uw
 2024-07-28T18:21:39.382Z,60.7302,-150.9479,46.6,1.3,ml,,,,0.34,ak,ak0249nlp9o2,2024-07-28T18:23:37.054Z,"19 km ENE of Nikiski, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2024-07-28T18:18:55.830Z,19.3724994659424,-155.181503295898,3.16000008583069,2.02,ml,33.0,69.0,0.01344,0.360000014,hv,hv74371286,2024-07-28T18:21:34.810Z,"9 km SE of Volcano, Hawaii",earthquake,0.75,1.29999995,0.23,15.0,automatic,hv,hv
+2024-07-28T18:39:31.973Z,61.5973,-146.3203,34.7,2.2,ml,,,,0.45,ak,ak0249nlt3zh,2024-07-28T18:41:00.618Z,"49 km SSE of Nelchina, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-07-28T18:31:29.691Z,61.4245,-148.1086,8.5,1.0,ml,,,,0.84,ak,ak0249nlre2x,2024-07-28T18:33:31.749Z,"43 km E of Knik River, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-07-28T18:30:07.223Z,56.9683,-159.3335,53.1,1.1,ml,,,,0.59,ak,ak0249nlr4ob,2024-07-28T18:33:07.150Z,"86 km NNW of Chignik Lake, Alaska",earthquake,,8.8,,,automatic,ak,ak
