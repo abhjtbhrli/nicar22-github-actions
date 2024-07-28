@@ -6393,3 +6393,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-28T09:41:58.320Z,37.5446666666667,-118.822166666667,5.13,0.58,md,14.0,273.0,0.04562,0.05,nc,nc75040402,2024-07-28T17:22:54.958Z,"13 km W of Toms Place, CA",earthquake,0.69,0.95,0.201,13.0,reviewed,nc,nc
 2024-07-28T17:24:17.026Z,39.3415,-120.0265,4.3,1.1,ml,11.0,124.09,0.049,0.1274,nn,nn00881591,2024-07-28T17:26:11.281Z,"5 km S of Floriston, California",earthquake,,0.8,0.2,7.0,automatic,nn,nn
 2024-07-28T10:12:56.380Z,39.453,-123.401,4.49,1.29,md,22.0,66.0,0.05174,0.12,nc,nc75040412,2024-07-28T17:27:56.894Z,"2 km NW of Brooktrails, CA",earthquake,0.19,0.57,0.23,16.0,reviewed,nc,nc
+2024-07-28T17:36:23.430Z,33.2266667,-116.041,3.31,1.08,ml,48.0,58.0,0.07054,0.23,ci,ci40673975,2024-07-28T17:42:32.577Z,"11 km SW of Salton City, CA",earthquake,0.19,0.36,0.133,27.0,automatic,ci,ci
