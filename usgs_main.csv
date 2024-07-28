@@ -6445,3 +6445,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-27T22:53:39.740Z,60.0076666666667,-153.081833333333,1.26,-0.51,ml,5.0,100.0,0.03297,0.05,av,av93212731,2024-07-28T22:47:59.960Z,"62 km ENE of Pedro Bay, Alaska",earthquake,0.24,0.85,0.262695760445676,5.0,reviewed,av,av
 2024-07-28T22:51:31.970Z,38.8358345031738,-122.806831359863,2.0699999332428,1.47,md,27.0,33.0,0.01268,0.02,nc,nc75040622,2024-07-28T22:53:10.087Z,"7 km WNW of Cobb, CA",earthquake,0.2,0.349999994,0.14,29.0,automatic,nc,nc
 2024-07-28T22:43:52.656Z,-30.1244,-177.2449,6.987,5.0,mb,55.0,127.0,1.041,0.55,us,us6000ngjw,2024-07-28T23:01:24.040Z,"Kermadec Islands, New Zealand",earthquake,7.09,4.802,0.081,49.0,reviewed,us,us
+2024-07-28T23:21:25.689Z,62.5214,-148.1277,44.0,1.3,ml,,,,0.77,ak,ak0249nooemw,2024-07-28T23:23:47.262Z,"81 km NW of Eureka Roadhouse, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-07-28T23:17:19.673Z,64.9971,-147.4896,0.0,1.5,ml,,,,0.68,ak,ak0249nonjb3,2024-07-28T23:19:14.615Z,"7 km NE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-07-28T22:51:35.960Z,31.651,-104.569,3.2462,1.6,ml,8.0,182.0,0.1,0.1,tx,tx2024otpk,2024-07-28T23:23:10.945Z,"60 km SSW of Whites City, New Mexico",earthquake,0.0,3.14737185483227,0.1,6.0,automatic,tx,tx
