@@ -6361,3 +6361,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-28T13:27:56.077Z,31.763,-104.618,1.5508,1.6,ml,7.0,227.0,0.1,0.2,tx,tx2024oswu,2024-07-28T14:01:46.958Z,"51 km SSW of Whites City, New Mexico",earthquake,0.0,4.1550988919348,0.2,6.0,automatic,tx,tx
 2024-07-28T14:24:30.880Z,38.7874984741211,-122.747329711914,1.36000001430511,0.99,md,11.0,84.0,0.009317,0.02,nc,nc75040497,2024-07-28T14:26:05.090Z,"1 km NE of The Geysers, CA",earthquake,0.26,0.629999995,0.15,12.0,automatic,nc,nc
 2024-07-28T14:23:13.867Z,38.0676,-116.2464,4.6,1.8,ml,23.0,179.96000000000004,0.859,0.3446,nn,nn00881577,2024-07-28T14:26:03.480Z,"64 km NW of Rachel, Nevada",earthquake,,1.8,0.23,15.0,automatic,nn,nn
+2024-07-28T14:30:56.645Z,38.0322,-116.2561,1.4,1.4,ml,12.0,205.17,0.824,0.2824,nn,nn00881582,2024-07-28T14:33:40.958Z,"62 km NW of Rachel, Nevada",earthquake,,27.6,0.18,9.0,automatic,nn,nn
+2024-07-28T14:25:09.109Z,31.63,-104.465,4.5618,1.7,ml,8.0,113.0,0.0,0.3,tx,tx2024osyr,2024-07-28T14:34:11.200Z,"61 km S of Whites City, New Mexico",earthquake,0.0,2.3875560134788,0.1,6.0,automatic,tx,tx
