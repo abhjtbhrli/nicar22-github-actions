@@ -6419,3 +6419,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-28T19:14:37.910Z,32.8556667,-116.2146667,11.22,1.12,ml,43.0,56.0,0.1176,0.18,ci,ci40674063,2024-07-28T19:20:54.520Z,"25 km WNW of Ocotillo, CA",earthquake,0.17,0.43,0.205,25.0,automatic,ci,ci
 2024-07-28T19:24:29.950Z,33.7631667,-116.9365,14.08,1.5,ml,59.0,31.0,0.05181,0.17,ci,ci40674079,2024-07-28T19:31:12.503Z,"3 km SE of San Jacinto, CA",earthquake,0.15,0.34,0.168,26.0,automatic,ci,ci
 2024-07-28T18:40:30.920Z,31.676,-104.409,6.4086,1.7,ml,17.0,69.0,0.0,0.3,tx,tx2024othd,2024-07-28T19:26:30.272Z,"55 km S of Whites City, New Mexico",earthquake,0.0,2.66377493908869,0.1,12.0,automatic,tx,tx
+2024-07-28T19:29:07.660Z,33.7703333,-116.9293333,14.09,0.61,ml,21.0,86.0,0.08316,0.12,ci,ci40674087,2024-07-28T19:35:05.528Z,"3 km ESE of San Jacinto, CA",earthquake,0.28,0.45,0.162,11.0,automatic,ci,ci
+2024-07-28T14:53:40.130Z,51.846,178.0627,10.0,2.6,ml,9.0,305.0,0.296,0.35,us,us6000ngit,2024-07-28T19:42:21.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,3.27,1.996,0.128,8.0,reviewed,us,us
