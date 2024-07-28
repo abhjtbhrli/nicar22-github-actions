@@ -6267,3 +6267,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-28T03:43:47.570Z,56.9006666666667,-158.087333333333,3.25,0.48,ml,6.0,224.0,0.03514,0.22,av,av93212936,2024-07-28T04:49:15.370Z,"70 km NNE of Chignik, Alaska",earthquake,0.88,2.07,0.28777378874869,6.0,reviewed,av,av
 2024-07-28T03:08:04.321Z,52.3621,-169.5723,25.7,3.3,ml,,,,0.68,ak,ak0249ncowus,2024-07-28T04:46:17.026Z,"80 km SW of Nikolski, Alaska",earthquake,,1.6,,,reviewed,ak,ak
 2024-07-28T03:56:03.210Z,52.064,-176.180333333333,4.53,0.51,ml,6.0,202.0,0.02337,0.25,av,av93212956,2024-07-28T04:53:05.320Z,"37 km NE of Adak, Alaska",earthquake,1.08,1.37,0.414109049802159,6.0,reviewed,av,av
+2024-07-28T05:16:15.671Z,61.2796,-146.8258,22.8,1.5,ml,,,,0.43,ak,ak0249ndxie7,2024-07-28T05:17:55.866Z,"30 km WNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-07-28T04:45:34.298Z,-24.2118,-176.3655,10.0,4.9,mb,17.0,147.0,3.106,0.7,us,us6000ngg0,2024-07-28T05:04:06.040Z,south of the Fiji Islands,earthquake,14.02,1.906,0.15,14.0,reviewed,us,us
+2024-07-28T03:08:05.141Z,52.3635,-169.6272,35.0,3.5,ml,38.0,209.0,0.428,0.88,us,us6000ngfz,2024-07-28T05:20:59.040Z,"82 km SW of Nikolski, Alaska",earthquake,5.36,2.015,0.091,16.0,reviewed,us,us
