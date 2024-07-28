@@ -6275,3 +6275,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-28T05:32:52.360Z,33.2511667,-116.2646667,10.47,0.95,ml,49.0,53.0,0.059,0.21,ci,ci40673727,2024-07-28T05:38:48.639Z,"10 km E of Borrego Springs, CA",earthquake,0.22,0.43,0.114,26.0,automatic,ci,ci
 2024-07-28T05:14:53.840Z,19.1281666666667,-66.3003333333333,13.37,2.96,md,15.0,262.0,0.683,0.16,pr,pr71456358,2024-07-28T05:37:16.040Z,"73 km N of Brenas, Puerto Rico",earthquake,1.65,2.55,0.0678565923196335,8.0,reviewed,pr,pr
 2024-07-28T05:40:24.650Z,33.2675,-116.4226667,5.12,0.75,ml,46.0,37.0,0.004666,0.18,ci,ci40673735,2024-07-28T05:46:36.188Z,"5 km WNW of Borrego Springs, CA",earthquake,0.15,0.32,0.13,17.0,automatic,ci,ci
+2024-07-28T06:06:08.478Z,59.9988,-154.7146,0.8,1.3,ml,,,,0.35,ak,ak0249negsa7,2024-07-28T06:07:54.189Z,"7 km ENE of Nondalton, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-07-28T05:59:19.655Z,63.9962,-150.1643,11.2,1.1,ml,,,,0.63,ak,ak0249ne6qhp,2024-07-28T06:02:05.005Z,"51 km W of Ferry, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-07-28T05:56:36.089Z,62.9877,-150.7337,99.6,2.3,ml,,,,0.53,ak,ak0249ne64lz,2024-07-28T05:58:44.419Z,"54 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-07-28T05:55:33.530Z,19.8518333435059,-155.558670043945,21.1499996185303,2.21000004,md,21.0,216.0,0.09314,0.140000001,hv,hv74370201,2024-07-28T05:57:13.490Z,"22 km SSE of Waimea, Hawaii",earthquake,0.72,0.959999979,0.0599999987,3.0,automatic,hv,hv
+2024-07-28T05:53:57.900Z,33.6966667,-117.469,6.53,1.67,ml,103.0,33.0,0.05947,0.24,ci,ci40673751,2024-07-28T06:05:04.160Z,"12 km ENE of Trabuco Canyon, CA",earthquake,0.15,0.43,0.168,29.0,automatic,ci,ci
