@@ -6380,3 +6380,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-28T15:20:10.697Z,38.9197,-119.6534,0.0,0.8,ml,8.0,166.69,0.174,0.386,nn,nn00881590,2024-07-28T15:22:40.032Z,"3 km S of Fish Springs, Nevada",earthquake,,11.5,0.39,5.0,automatic,nn,nn
 2024-07-28T15:16:47.383Z,58.9624,-152.9815,65.3,1.8,ml,,,,0.3,ak,ak0249njvww2,2024-07-28T15:18:36.802Z,"74 km SW of Nanwalek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-07-28T15:38:56.947Z,63.1983,-149.3094,88.6,1.2,ml,,,,0.52,ak,ak0249nk0ndq,2024-07-28T15:41:11.691Z,"28 km SW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-07-28T15:56:15.450Z,19.2703342437744,-155.454833984375,29.7600002288818,2.08999991,md,46.0,63.0,0.04708,0.129999995,hv,hv74371076,2024-07-28T15:57:49.740Z,"7 km NNE of Pāhala, Hawaii",earthquake,0.48,0.610000014,0.0799999982,4.0,automatic,hv,hv
