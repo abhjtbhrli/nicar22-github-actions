@@ -6415,3 +6415,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-28T18:52:19.910Z,35.7045,-117.524,2.75,0.78,ml,22.0,69.0,0.09061,0.16,ci,ci40674047,2024-07-28T19:02:02.338Z,"13 km WSW of Searles Valley, CA",earthquake,0.29,0.43,0.159,7.0,automatic,ci,ci
 2024-07-28T18:50:18.947Z,44.2355,-69.8623,8.075,2.8,mb_lg,26.0,123.0,0.359,0.27,us,us6000ngj3,2024-07-28T19:03:53.961Z,"6 km W of Gardiner, Maine",earthquake,3.72,7.395,0.069,57.0,reviewed,us,us
 2024-07-28T19:10:50.865Z,37.1676,-116.2412,10.2,0.6,ml,13.0,126.91000000000004,0.083,0.1237,nn,nn00881595,2024-07-28T19:12:52.059Z,"54 km ENE of Beatty, Nevada",earthquake,,1.5,0.31,8.0,automatic,nn,nn
+2024-07-28T19:15:45.250Z,38.8240013122559,-122.824996948242,0.28999999165535,0.44,md,7.0,91.0,0.007887,0.01,nc,nc75040562,2024-07-28T19:17:20.197Z,"8 km NW of The Geysers, CA",earthquake,0.34,0.939999998,0.3,8.0,automatic,nc,nc
+2024-07-28T19:14:37.910Z,32.8556667,-116.2146667,11.22,1.12,ml,43.0,56.0,0.1176,0.18,ci,ci40674063,2024-07-28T19:20:54.520Z,"25 km WNW of Ocotillo, CA",earthquake,0.17,0.43,0.205,25.0,automatic,ci,ci
