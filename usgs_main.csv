@@ -6411,3 +6411,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-28T18:39:31.973Z,61.5973,-146.3203,34.7,2.2,ml,,,,0.45,ak,ak0249nlt3zh,2024-07-28T18:41:00.618Z,"49 km SSE of Nelchina, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-07-28T18:31:29.691Z,61.4245,-148.1086,8.5,1.0,ml,,,,0.84,ak,ak0249nlre2x,2024-07-28T18:33:31.749Z,"43 km E of Knik River, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-07-28T18:30:07.223Z,56.9683,-159.3335,53.1,1.1,ml,,,,0.59,ak,ak0249nlr4ob,2024-07-28T18:33:07.150Z,"86 km NNW of Chignik Lake, Alaska",earthquake,,8.8,,,automatic,ak,ak
+2024-07-28T18:41:15.600Z,19.4793338775635,-155.726333618164,4.1100001335144,1.83,ml,27.0,120.0,0.03337,0.340000004,hv,hv74371311,2024-07-28T18:43:52.230Z,"14 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.57,1.00999999,0.89,3.0,automatic,hv,hv
