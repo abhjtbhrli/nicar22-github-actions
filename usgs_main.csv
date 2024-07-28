@@ -6290,3 +6290,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-28T04:00:25.280Z,40.2271666666667,-121.124666666667,5.71,1.87,md,15.0,66.0,0.02593,0.18,nc,nc75040337,2024-07-28T07:20:16.761Z,"3 km ENE of Prattville, CA",earthquake,0.47,0.64,0.208,14.0,reviewed,nc,nc
 2024-07-28T07:21:26.130Z,38.8073348999023,-122.821334838867,2.9300000667572,1.06,md,21.0,66.0,0.006316,0.02,nc,nc75040387,2024-07-28T07:23:03.927Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.629999995,0.28,24.0,automatic,nc,nc
 2024-07-28T07:14:41.240Z,33.4791667,-116.5996667,4.72,0.47,ml,23.0,71.0,0.01564,0.13,ci,ci40673759,2024-07-28T07:22:14.402Z,"11 km SE of Anza, CA",earthquake,0.18,0.21,0.099,15.0,automatic,ci,ci
+2024-07-28T07:34:42.114Z,63.1595,-149.7966,86.4,1.1,ml,,,,0.25,ak,ak0249nf8aj7,2024-07-28T07:36:17.827Z,"49 km WSW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-07-28T06:24:50.847Z,43.0902,-126.4051,10.0,2.6,ml,37.0,277.0,1.704,0.64,us,us6000nggd,2024-07-28T07:38:30.040Z,"160 km W of Langlois, Oregon",earthquake,10.15,2.023,0.042,74.0,reviewed,us,us
