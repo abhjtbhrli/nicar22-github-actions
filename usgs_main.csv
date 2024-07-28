@@ -6417,3 +6417,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-28T19:10:50.865Z,37.1676,-116.2412,10.2,0.6,ml,13.0,126.91000000000004,0.083,0.1237,nn,nn00881595,2024-07-28T19:12:52.059Z,"54 km ENE of Beatty, Nevada",earthquake,,1.5,0.31,8.0,automatic,nn,nn
 2024-07-28T19:15:45.250Z,38.8240013122559,-122.824996948242,0.28999999165535,0.44,md,7.0,91.0,0.007887,0.01,nc,nc75040562,2024-07-28T19:17:20.197Z,"8 km NW of The Geysers, CA",earthquake,0.34,0.939999998,0.3,8.0,automatic,nc,nc
 2024-07-28T19:14:37.910Z,32.8556667,-116.2146667,11.22,1.12,ml,43.0,56.0,0.1176,0.18,ci,ci40674063,2024-07-28T19:20:54.520Z,"25 km WNW of Ocotillo, CA",earthquake,0.17,0.43,0.205,25.0,automatic,ci,ci
+2024-07-28T19:24:29.950Z,33.7631667,-116.9365,14.08,1.5,ml,59.0,31.0,0.05181,0.17,ci,ci40674079,2024-07-28T19:31:12.503Z,"3 km SE of San Jacinto, CA",earthquake,0.15,0.34,0.168,26.0,automatic,ci,ci
+2024-07-28T18:40:30.920Z,31.676,-104.409,6.4086,1.7,ml,17.0,69.0,0.0,0.3,tx,tx2024othd,2024-07-28T19:26:30.272Z,"55 km S of Whites City, New Mexico",earthquake,0.0,2.66377493908869,0.1,12.0,automatic,tx,tx
