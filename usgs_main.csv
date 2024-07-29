@@ -6716,3 +6716,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-29T10:33:08.660Z,51.9601666666667,178.469,5.44,-0.57,ml,4.0,318.0,0.02876,0.27,av,av93016739,2024-07-29T23:29:41.440Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,2.36,1.14,0.31241879589028,4.0,reviewed,av,av
 2024-07-29T23:45:39.782Z,61.6555,-146.3877,34.1,2.2,ml,,,,0.53,ak,ak0249pccxei,2024-07-29T23:47:08.505Z,"42 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-07-29T11:54:23.170Z,52.105,-176.187,11.02,0.55,ml,6.0,291.0,0.01286,0.32,av,av93214636,2024-07-29T23:44:11.030Z,"40 km NE of Adak, Alaska",earthquake,1.71,1.1,0.179312702709958,6.0,reviewed,av,av
+2024-07-29T12:55:51.800Z,61.3041666666667,-152.274,3.98,0.08,ml,7.0,119.0,0.06554,0.07,av,av93214681,2024-07-29T23:56:49.150Z,"66 km WNW of Beluga, Alaska",earthquake,0.27,0.23,0.188902663294737,7.0,reviewed,av,av
