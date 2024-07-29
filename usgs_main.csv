@@ -6714,3 +6714,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-29T23:19:27.090Z,34.9408333,-116.807,1.98,2.19,ml,31.0,55.0,0.1692,0.18,ci,ci40675535,2024-07-29T23:29:56.620Z,"20 km ENE of Barstow, CA",earthquake,0.19,0.92,0.117,27.0,automatic,ci,ci
 2024-07-29T22:57:37.382Z,31.363,-104.611,2.0165,2.1,ml,7.0,168.0,0.3,0.5,tx,tx2024ovlc,2024-07-29T23:23:50.065Z,"41 km NNE of Van Horn, Texas",earthquake,0.0,4.26162632912791,0.3,6.0,automatic,tx,tx
 2024-07-29T10:33:08.660Z,51.9601666666667,178.469,5.44,-0.57,ml,4.0,318.0,0.02876,0.27,av,av93016739,2024-07-29T23:29:41.440Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,2.36,1.14,0.31241879589028,4.0,reviewed,av,av
+2024-07-29T23:45:39.782Z,61.6555,-146.3877,34.1,2.2,ml,,,,0.53,ak,ak0249pccxei,2024-07-29T23:47:08.505Z,"42 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-07-29T11:54:23.170Z,52.105,-176.187,11.02,0.55,ml,6.0,291.0,0.01286,0.32,av,av93214636,2024-07-29T23:44:11.030Z,"40 km NE of Adak, Alaska",earthquake,1.71,1.1,0.179312702709958,6.0,reviewed,av,av
