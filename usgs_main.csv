@@ -6635,3 +6635,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-29T18:23:29.490Z,38.8171653747559,-122.825332641602,2.25,0.95,md,11.0,82.0,0.008813,0.02,nc,nc75041017,2024-07-29T18:25:05.961Z,"7 km NW of The Geysers, CA",earthquake,0.33,0.629999995,0.2,11.0,automatic,nc,nc
 2024-07-29T18:36:00.056Z,61.4927,-146.5375,32.1,1.2,ml,,,,1.08,ak,ak0249p9bqv9,2024-07-29T18:37:53.755Z,"41 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-07-29T04:10:50.918Z,37.6108,-117.6602,0.0,0.5,ml,3.0,182.94,0.347,0.0581,nn,nn00881649,2024-07-29T18:43:27.264Z,"16 km S of Silver Peak, Nevada",earthquake,,0.0,0.06,2.0,reviewed,nn,nn
+2024-07-29T17:34:51.110Z,45.641333333333336,-121.66516666666666,-1.5,1.39,ml,10.0,148.0,0.09534,0.09,uw,uw62021757,2024-07-29T18:53:00.130Z,"9 km W of Odell, Oregon",explosion,0.84,31.61,0.0579182356985596,7.0,reviewed,uw,uw
