@@ -6529,3 +6529,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-29T09:13:06.630Z,33.685,-116.7178333,14.85,0.55,ml,42.0,57.0,0.02628,0.14,ci,ci40674519,2024-07-29T09:19:11.284Z,"6 km S of Idyllwild, CA",earthquake,0.18,0.27,0.151,16.0,automatic,ci,ci
 2024-07-29T09:12:50.066Z,63.3396,-145.3795,1.3,1.9,ml,,,,0.46,ak,ak0249p3tt3i,2024-07-29T09:14:41.054Z,"30 km NNE of Paxson, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-07-29T09:30:31.743Z,65.0212,-150.0753,18.3,1.2,ml,,,,0.98,ak,ak0249p3xmkm,2024-07-29T09:32:12.760Z,"26 km E of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-07-29T09:42:01.990Z,36.5101661682129,-121.088333129883,7.26000022888184,1.74,md,11.0,126.0,0.05999,0.08,nc,nc75040837,2024-07-29T09:43:39.832Z,"5 km SE of Pinnacles, CA",earthquake,0.59,1.5,0.23,6.0,automatic,nc,nc
+2024-07-29T09:38:38.700Z,38.8134994506836,-122.814002990723,2.96000003814697,1.09,md,24.0,49.0,0.01035,0.02,nc,nc75040832,2024-07-29T09:40:15.080Z,"6 km NW of The Geysers, CA",earthquake,0.21,0.430000007,0.09,25.0,automatic,nc,nc
