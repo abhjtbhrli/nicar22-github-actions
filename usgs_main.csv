@@ -6496,3 +6496,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-29T05:29:05.730Z,37.4705009460449,-112.847831726074,19.5799999237061,4.47,ml,36.0,75.0,0.1237,0.239999995,uu,uu80076711,2024-07-29T05:34:52.533Z,"24 km S of Brian Head, Utah",earthquake,0.59,0.550000012,0.33,28.0,automatic,uu,uu
 2024-07-29T05:40:31.274Z,60.0791,-152.6431,85.3,0.8,ml,,,,0.09,ak,ak0249p1m19z,2024-07-29T05:41:30.398Z,"52 km WNW of Happy Valley, Alaska",earthquake,,4.3,,,automatic,ak,ak
 2024-07-29T05:39:04.620Z,33.389,-116.4261667,12.46,0.68,ml,38.0,57.0,0.07936,0.19,ci,ci40674455,2024-07-29T05:45:11.611Z,"16 km NNW of Borrego Springs, CA",earthquake,0.22,0.66,0.143,16.0,automatic,ci,ci
+2024-07-29T05:51:41.370Z,34.1661667,-116.7516667,12.79,1.0,ml,35.0,111.0,0.1387,0.12,ci,ci40674463,2024-07-29T05:58:03.633Z,"14 km SE of Big Bear City, CA",earthquake,0.16,0.38,0.152,23.0,automatic,ci,ci
