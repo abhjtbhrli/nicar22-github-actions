@@ -6539,3 +6539,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-29T10:13:31.097Z,62.3299,-151.724,82.8,1.6,ml,,,,0.37,ak,ak0249p4feyd,2024-07-29T10:15:21.311Z,"41 km NNW of Skwentna, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2024-07-29T09:44:01.940Z,18.0156666666667,-66.5455,18.67,2.3,md,8.0,143.0,0.06378,0.05,pr,pr71456423,2024-07-29T10:20:30.730Z,"1 km W of Capitanejo, Puerto Rico",earthquake,0.38,0.29,0.104072469380594,4.0,reviewed,pr,pr
 2024-07-29T10:38:00.968Z,60.9128,-147.5204,89.9,1.9,ml,,,,0.77,ak,ak0249p4kpj4,2024-07-29T10:39:49.648Z,"46 km W of Tatitlek, Alaska",earthquake,,2.1,,,automatic,ak,ak
+2024-07-29T10:55:03.579Z,31.662,-104.403,4.5735,1.5,ml,16.0,70.0,0.0,0.4,tx,tx2024oung,2024-07-29T11:02:31.557Z,"57 km S of Whites City, New Mexico",earthquake,0.0,1.40149609972996,0.1,12.0,automatic,tx,tx
+2024-07-29T10:54:51.480Z,34.5023333,-118.1176667,10.9,1.46,ml,16.0,64.0,0.01857,0.09,ci,ci40674551,2024-07-29T11:06:23.498Z,"0 km NNW of Vincent, CA",earthquake,0.17,0.26,0.29,21.0,automatic,ci,ci
+2024-07-29T10:50:05.655Z,31.553,-104.008,6.5634,2.3,ml,16.0,55.0,0.0,0.3,tx,tx2024ounb,2024-07-29T11:02:37.474Z,"33 km NW of Toyah, Texas",earthquake,0.0,2.62857801817133,0.2,12.0,automatic,tx,tx
