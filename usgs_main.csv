@@ -6494,3 +6494,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-29T04:05:38.998Z,51.626,-175.0716,10.0,3.8,mb,38.0,195.0,0.771,0.67,us,us6000ngky,2024-07-29T05:06:45.040Z,"87 km SW of Atka, Alaska",earthquake,3.12,1.863,0.098,27.0,reviewed,us,us
 2024-07-29T05:18:45.350Z,37.6253318786621,-118.871002197266,2.83999991416931,0.88,md,10.0,114.0,0.008995,0.02,nc,nc75040767,2024-07-29T05:20:19.820Z,"10 km ESE of Mammoth Lakes, CA",earthquake,0.52,1.17999995,0.09,10.0,automatic,nc,nc
 2024-07-29T05:29:05.730Z,37.4705009460449,-112.847831726074,19.5799999237061,4.47,ml,36.0,75.0,0.1237,0.239999995,uu,uu80076711,2024-07-29T05:34:52.533Z,"24 km S of Brian Head, Utah",earthquake,0.59,0.550000012,0.33,28.0,automatic,uu,uu
+2024-07-29T05:40:31.274Z,60.0791,-152.6431,85.3,0.8,ml,,,,0.09,ak,ak0249p1m19z,2024-07-29T05:41:30.398Z,"52 km WNW of Happy Valley, Alaska",earthquake,,4.3,,,automatic,ak,ak
+2024-07-29T05:39:04.620Z,33.389,-116.4261667,12.46,0.68,ml,38.0,57.0,0.07936,0.19,ci,ci40674455,2024-07-29T05:45:11.611Z,"16 km NNW of Borrego Springs, CA",earthquake,0.22,0.66,0.143,16.0,automatic,ci,ci
