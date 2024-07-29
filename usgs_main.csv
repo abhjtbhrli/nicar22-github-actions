@@ -6582,3 +6582,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-29T12:12:51.032Z,45.1507,-73.8515,5.796,2.8,mb_lg,41.0,59.0,0.385,0.71,us,us6000ngn6,2024-07-29T13:15:56.284Z,"11 km E of Ormstown, Canada",earthquake,2.34,5.486,0.073,50.0,reviewed,us,us
 2024-07-29T11:40:52.690Z,-4.5305,142.0071,102.486,4.4,mb,38.0,68.0,2.388,0.89,us,us6000ngn2,2024-07-29T13:19:40.040Z,"96 km WSW of Ambunti, Papua New Guinea",earthquake,7.11,5.826,0.103,27.0,reviewed,us,us
 2024-07-29T02:01:05.509Z,35.345,-97.9795,5.21,0.93,ml,26.0,117.0,0.06928640364,0.25,ok,ok2024otvq,2024-07-29T13:08:08.106Z,"4 km NW of Minco, Oklahoma",earthquake,,1.1,0.32,14.0,reviewed,ok,ok
+2024-07-29T13:11:43.420Z,35.34933333,-97.965,6.04,1.4,ml,23.0,72.0,0.05758869913,0.25,ok,ok2024ourt,2024-07-29T13:28:27.336Z,"4 km NNW of Minco, Oklahoma",earthquake,,1.1,0.21,12.0,reviewed,ok,ok
+2024-07-29T13:07:12.420Z,-20.3712,-173.9642,10.0,6.0,mww,74.0,44.0,1.365,0.98,us,us6000ngng,2024-07-29T13:30:30.267Z,"73 km SSE of Pangai, Tonga",earthquake,10.52,1.83,0.073,18.0,reviewed,us,us
