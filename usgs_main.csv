@@ -6534,3 +6534,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-29T09:44:54.201Z,66.4066,-157.4871,15.0,1.9,ml,,,,1.16,ak,ak0249p40o8i,2024-07-29T09:48:09.727Z,"55 km SSW of Shungnak, Alaska",earthquake,,2.0,,,automatic,ak,ak
 2024-07-29T10:13:04.910Z,19.5130004882812,-155.554840087891,-2.84999990463257,1.78999996,md,10.0,101.0,0.03054,0.209999993,hv,hv74372176,2024-07-29T10:14:39.080Z,"33 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.3,0.469999999,0.180000007,4.0,automatic,hv,hv
 2024-07-29T10:07:14.000Z,38.7916679382324,-122.845832824707,1.28999996185303,0.81,md,11.0,123.0,0.008605,0.02,nc,nc75040847,2024-07-29T10:08:50.143Z,"8 km WNW of The Geysers, CA",earthquake,0.31,0.610000014,0.19,12.0,automatic,nc,nc
+2024-07-29T10:32:17.158Z,60.8912,-146.8451,23.9,1.5,ml,,,,0.57,ak,ak0249p4jghf,2024-07-29T10:33:37.700Z,"9 km WNW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-07-29T10:16:56.913Z,60.8908,-146.8535,24.3,3.1,ml,,,,0.38,ak,ak0249p4g43f,2024-07-29T10:18:25.513Z,"9 km WNW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-07-29T10:13:31.097Z,62.3299,-151.724,82.8,1.6,ml,,,,0.37,ak,ak0249p4feyd,2024-07-29T10:15:21.311Z,"41 km NNW of Skwentna, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-07-29T09:44:01.940Z,18.0156666666667,-66.5455,18.67,2.3,md,8.0,143.0,0.06378,0.05,pr,pr71456423,2024-07-29T10:20:30.730Z,"1 km W of Capitanejo, Puerto Rico",earthquake,0.38,0.29,0.104072469380594,4.0,reviewed,pr,pr
