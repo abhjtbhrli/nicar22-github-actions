@@ -6617,3 +6617,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-29T16:44:08.479Z,61.1996,-146.9183,10.2,1.6,ml,,,,0.19,ak,ak0249p86m1b,2024-07-29T16:46:56.330Z,"31 km WNW of Valdez, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-07-29T16:43:00.640Z,36.0175018,-118.8833313,12.81,1.19,ml,7.0,125.0,0.1299,0.1,ci,ci40674903,2024-07-29T16:45:28.040Z,"13 km ESE of Porterville, CA",earthquake,0.52,1.42,0.167,2.0,automatic,ci,ci
 2024-07-29T16:25:29.820Z,32.094,131.3951,48.962,5.2,mww,130.0,120.0,5.425,0.86,us,us6000ngq6,2024-07-29T16:45:59.040Z,"0 km SW of Tsuma, Japan",earthquake,9.03,6.494,0.083,14.0,reviewed,us,us
+2024-07-29T16:50:31.930Z,19.3741664886475,-155.173492431641,3.0,2.07,ml,41.0,127.0,0.006579,0.239999995,hv,hv74372556,2024-07-29T16:53:08.480Z,"9 km SE of Volcano, Hawaii",earthquake,0.48,0.689999998,0.21,16.0,automatic,hv,hv
