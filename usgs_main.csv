@@ -6507,3 +6507,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-29T06:47:49.158Z,60.6587,-151.7744,72.4,1.1,ml,,,,0.39,ak,ak0249p2909v,2024-07-29T06:49:52.954Z,"25 km W of Salamatof, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-07-29T06:42:43.250Z,62.5065,-150.3638,58.1,1.8,ml,,,,0.52,ak,ak0249p27x8l,2024-07-29T06:45:26.618Z,"14 km WNW of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-07-29T06:42:07.790Z,33.7201667,-116.7693333,16.24,1.09,ml,21.0,82.0,0.04685,0.12,ci,ci40674479,2024-07-29T06:48:28.463Z,"5 km WSW of Idyllwild, CA",earthquake,0.27,0.42,0.169,7.0,automatic,ci,ci
+2024-07-29T06:59:44.480Z,33.4811667,-116.4443333,12.57,0.77,ml,41.0,74.0,0.04491,0.19,ci,ci40674495,2024-07-29T07:05:47.055Z,"23 km ESE of Anza, CA",earthquake,0.22,0.48,0.134,18.0,automatic,ci,ci
+2024-07-29T06:51:54.090Z,35.5361667,-118.4115,3.11,1.97,ml,39.0,35.0,0.1362,0.15,ci,ci40674487,2024-07-29T06:58:32.522Z,"9 km SE of Bodfish, CA",earthquake,0.15,0.63,0.239,26.0,automatic,ci,ci
+2024-07-29T06:51:34.680Z,19.3840007781982,-155.152160644531,3.10999989509583,1.87,ml,43.0,77.0,0.0168,0.340000004,hv,hv74372051,2024-07-29T06:54:19.040Z,"9 km S of Fern Forest, Hawaii",earthquake,0.65,0.899999976,0.18,10.0,automatic,hv,hv
