@@ -6587,3 +6587,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-29T13:40:05.400Z,38.7949981689453,-122.728500366211,2.04999995231628,0.9,md,7.0,103.0,0.01339,0.01,nc,nc75040927,2024-07-29T13:41:39.634Z,"3 km SSW of Cobb, CA",earthquake,0.35,1.17999995,0.12,7.0,automatic,nc,nc
 2024-07-29T13:36:09.406Z,63.5122,-148.9704,10.4,0.7,ml,,,,0.5,ak,ak0249p6clkc,2024-07-29T13:38:02.818Z,"13 km N of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-07-29T03:25:06.833Z,28.915,-98.174,11.1572,1.9,ml,15.0,79.0,0.1,0.1,tx,tx2024otyk,2024-07-29T13:43:33.634Z,"17 km WSW of Falls City, Texas",earthquake,0.8317350854408605,1.217866621915708,0.2,12.0,reviewed,tx,tx
+2024-07-29T13:50:08.743Z,63.5854,-147.2809,0.0,1.4,ml,,,,0.89,ak,ak0249p6flis,2024-07-29T13:52:21.324Z,"82 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-07-29T11:05:51.894Z,31.087,-103.25,0.8704,2.3,ml,17.0,68.0,0.0,0.2,tx,tx2024ounq,2024-07-29T13:52:54.703Z,"24 km SW of Coyanosa, Texas",earthquake,0.765767677431459,0.8877777894200419,0.1,6.0,reviewed,tx,tx
