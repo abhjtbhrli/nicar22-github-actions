@@ -6510,3 +6510,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-29T06:59:44.480Z,33.4811667,-116.4443333,12.57,0.77,ml,41.0,74.0,0.04491,0.19,ci,ci40674495,2024-07-29T07:05:47.055Z,"23 km ESE of Anza, CA",earthquake,0.22,0.48,0.134,18.0,automatic,ci,ci
 2024-07-29T06:51:54.090Z,35.5361667,-118.4115,3.11,1.97,ml,39.0,35.0,0.1362,0.15,ci,ci40674487,2024-07-29T06:58:32.522Z,"9 km SE of Bodfish, CA",earthquake,0.15,0.63,0.239,26.0,automatic,ci,ci
 2024-07-29T06:51:34.680Z,19.3840007781982,-155.152160644531,3.10999989509583,1.87,ml,43.0,77.0,0.0168,0.340000004,hv,hv74372051,2024-07-29T06:54:19.040Z,"9 km S of Fern Forest, Hawaii",earthquake,0.65,0.899999976,0.18,10.0,automatic,hv,hv
+2024-07-29T07:18:13.564Z,63.1372,-150.2283,85.8,1.7,ml,,,,0.52,ak,ak0249p2o5d8,2024-07-29T07:20:36.465Z,"70 km WSW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-07-29T07:17:02.384Z,63.305,-151.752,5.0,1.4,ml,,,,0.99,ak,ak0249p2nwse,2024-07-29T07:19:03.112Z,"26 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-07-29T06:06:28.397Z,36.2477,68.4534,69.715,4.4,mb,30.0,122.0,1.816,1.37,us,us6000ngll,2024-07-29T07:10:26.040Z,"26 km WNW of Baghlān, Afghanistan",earthquake,7.69,11.108,0.203,7.0,reviewed,us,us
