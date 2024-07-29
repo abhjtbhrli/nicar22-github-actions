@@ -6702,3 +6702,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-29T22:47:53.407Z,65.4495,-148.2932,1.3,1.2,ml,,,,0.38,ak,ak0249pbrya4,2024-07-29T22:50:30.619Z,"14 km SE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-07-29T14:41:09.240Z,33.4271667,-116.3755,12.66,0.86,ml,21.0,99.0,0.08495,0.16,ci,ci37677908,2024-07-29T22:49:31.201Z,"19 km N of Borrego Springs, CA",earthquake,0.3,0.71,0.083,11.0,reviewed,ci,ci
 2024-07-29T10:24:08.670Z,38.717,-111.497833333333,12.29,0.86,ml,12.0,100.0,0.08552,0.14,uu,uu80076731,2024-07-29T22:48:54.580Z,"30 km NNE of Fremont, Utah",earthquake,0.6,1.06,0.0304144207136578,2.0,reviewed,uu,uu
+2024-07-29T20:38:50.832Z,51.9527,-170.912,27.1,3.3,ml,,,,1.06,ak,ak0249paj5gt,2024-07-29T22:53:20.791Z,"177 km SW of Nikolski, Alaska",earthquake,,2.4,,,reviewed,ak,ak
+2024-07-29T12:21:55.150Z,38.4966666666667,-112.898666666667,3.56,0.5,md,10.0,78.0,0.01063,0.06,uu,uu80076756,2024-07-29T22:51:32.420Z,"14 km NE of Milford, Utah",earthquake,0.37,0.58,0.367232158635181,4.0,reviewed,uu,uu
