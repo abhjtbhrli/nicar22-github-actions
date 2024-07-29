@@ -6639,3 +6639,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-29T18:45:27.546Z,31.662,-104.2,4.6366,2.1,ml,17.0,64.0,0.1,0.3,tx,tx2024ovcu,2024-07-29T18:59:35.177Z,"54 km NW of Toyah, Texas",earthquake,0.0,1.35018621502613,0.4,13.0,automatic,tx,tx
 2024-07-29T13:26:55.599Z,37.0314,-116.4708,4.1,0.3,ml,11.0,63.01000000000002,0.036,0.1457,nn,nn00881651,2024-07-29T19:02:00.315Z,"29 km ENE of Beatty, Nevada",earthquake,,1.6,0.41,5.0,reviewed,nn,nn
 2024-07-29T19:15:39.350Z,33.862999,-117.504837,-0.47,1.11,ml,32.0,55.0,0.06742,0.28,ci,ci40675151,2024-07-29T19:17:45.729Z,"2 km SE of Home Gardens, CA",earthquake,0.47,0.91,0.234,9.0,automatic,ci,ci
+2024-07-29T17:48:51.490Z,46.215833333333336,-122.176,7.75,0.58,ml,9.0,74.0,0.03856,0.13,uw,uw62021772,2024-07-29T19:28:45.750Z,"38 km SSE of Morton, Washington",earthquake,0.55,0.76,0.1098473114612832,3.0,reviewed,uw,uw
