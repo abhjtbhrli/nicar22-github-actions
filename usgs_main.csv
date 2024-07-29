@@ -6636,3 +6636,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-29T18:36:00.056Z,61.4927,-146.5375,32.1,1.2,ml,,,,1.08,ak,ak0249p9bqv9,2024-07-29T18:37:53.755Z,"41 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-07-29T04:10:50.918Z,37.6108,-117.6602,0.0,0.5,ml,3.0,182.94,0.347,0.0581,nn,nn00881649,2024-07-29T18:43:27.264Z,"16 km S of Silver Peak, Nevada",earthquake,,0.0,0.06,2.0,reviewed,nn,nn
 2024-07-29T17:34:51.110Z,45.641333333333336,-121.66516666666666,-1.5,1.39,ml,10.0,148.0,0.09534,0.09,uw,uw62021757,2024-07-29T18:53:00.130Z,"9 km W of Odell, Oregon",explosion,0.84,31.61,0.0579182356985596,7.0,reviewed,uw,uw
+2024-07-29T18:45:27.546Z,31.662,-104.2,4.6366,2.1,ml,17.0,64.0,0.1,0.3,tx,tx2024ovcu,2024-07-29T18:59:35.177Z,"54 km NW of Toyah, Texas",earthquake,0.0,1.35018621502613,0.4,13.0,automatic,tx,tx
+2024-07-29T13:26:55.599Z,37.0314,-116.4708,4.1,0.3,ml,11.0,63.01000000000002,0.036,0.1457,nn,nn00881651,2024-07-29T19:02:00.315Z,"29 km ENE of Beatty, Nevada",earthquake,,1.6,0.41,5.0,reviewed,nn,nn
