@@ -6912,3 +6912,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-30T18:55:19.803Z,61.4286,-149.7696,48.0,1.1,ml,,,,0.36,ak,ak0249qwz7ho,2024-07-30T18:57:38.227Z,"3 km SSW of Knik, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2024-07-30T09:33:03.160Z,46.194833333333335,-122.18333333333334,8.51,-0.06,ml,8.0,144.0,0.005575,0.11,uw,uw62022032,2024-07-30T19:11:25.050Z,"37 km NNE of Amboy, Washington",earthquake,0.7,0.55,0.1186662790031617,3.0,reviewed,uw,uw
 2024-07-30T07:08:22.730Z,48.76583333333333,-121.81183333333334,-0.7,1.24,ml,6.0,104.0,0.07966,0.25,uw,uw62022022,2024-07-30T19:03:22.250Z,"16 km SE of Glacier, Washington",earthquake,0.6,1.68,0.0928245511874562,5.0,reviewed,uw,uw
+2024-07-30T19:14:09.401Z,36.9086,-115.4977,2.1,0.5,ml,8.0,209.96,0.416,0.1349,nn,nn00881696,2024-07-30T19:16:11.773Z,"40 km NNE of Indian Springs, Nevada",earthquake,,19.7,0.33,6.0,automatic,nn,nn
+2024-07-30T19:10:53.526Z,36.9419,-115.4516,2.0,0.7,ml,9.0,209.25,0.439,0.2177,nn,nn00881695,2024-07-30T19:12:52.240Z,"45 km NNE of Indian Springs, Nevada",earthquake,,14.2,0.27,4.0,automatic,nn,nn
+2024-07-30T11:08:50.750Z,47.4625,-123.977,0.05,-0.14,md,4.0,128.0,0.04352,0.14,uw,uw62022042,2024-07-30T19:16:46.960Z,"5 km W of Amanda Park, Washington",earthquake,0.37,1.14,0.2366563611723622,4.0,reviewed,uw,uw
