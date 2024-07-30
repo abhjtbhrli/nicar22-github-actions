@@ -6867,3 +6867,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-30T15:37:34.970Z,38.816333770752,-122.822166442871,1.98000001907349,1.31,md,23.0,51.0,0.009251,0.03,nc,nc75041452,2024-07-30T15:39:10.405Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.439999998,0.2,25.0,automatic,nc,nc
 2024-07-30T02:24:08.055Z,28.918,-98.175,10.4004,2.0,ml,17.0,79.0,0.1,0.1,tx,tx2024ovrx,2024-07-30T15:42:08.887Z,"16 km WSW of Falls City, Texas",earthquake,1.0965455732015983,1.4703596909262038,0.2,19.0,reviewed,tx,tx
 2024-07-30T15:46:47.370Z,34.0715,-117.2468333,1.87,0.97,ml,47.0,27.0,0.04514,0.2,ci,ci40676207,2024-07-30T15:53:29.176Z,"3 km NNE of Loma Linda, CA",earthquake,0.15,0.27,0.175,30.0,automatic,ci,ci
+2024-07-30T16:08:18.030Z,33.1378333,-115.4703333,10.55,1.6,ml,35.0,84.0,0.09365,0.23,ci,ci40676223,2024-07-30T16:14:38.621Z,"4 km ENE of Calipatria, CA",earthquake,0.31,0.59,0.198,27.0,automatic,ci,ci
