@@ -6884,3 +6884,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-30T06:16:53.576Z,38.7684,-119.4686,7.6,1.0,ml,7.0,252.54000000000008,0.059,0.1189,nn,nn00881685,2024-07-30T17:26:02.233Z,"4 km NE of Topaz Ranch Estates, Nevada",earthquake,,1.7,0.0,1.0,reviewed,nn,nn
 2024-07-30T17:27:03.007Z,31.677,-104.198,4.4937,1.7,ml,18.0,105.0,0.1,0.3,tx,tx2024owvs,2024-07-30T17:34:03.776Z,"55 km NW of Toyah, Texas",earthquake,0.0,1.4575876600231,0.2,13.0,automatic,tx,tx
 2024-07-30T10:47:21.894Z,38.523,-119.5113,8.2,0.8,ml,4.0,332.90000000000003,0.379,0.075,nn,nn00881687,2024-07-30T17:35:13.286Z,"3 km WNW of Walker, California",earthquake,,17.8,0.0,1.0,reviewed,nn,nn
+2024-07-30T16:59:19.837Z,31.673,-104.197,6.0999,1.9,ml,21.0,70.0,0.1,0.2,tx,tx2024owuu,2024-07-30T17:46:12.862Z,"55 km NW of Toyah, Texas",earthquake,0.588704273038388,1.5139679907368038,0.2,11.0,reviewed,tx,tx
+2024-07-30T12:31:09.133Z,39.3187,-119.952,9.0,0.4,ml,4.0,175.30000000000004,0.07,0.0166,nn,nn00881690,2024-07-30T17:47:32.060Z,"7 km NNE of Incline Village, Nevada",earthquake,,3.6,0.19,3.0,reviewed,nn,nn
+2024-07-30T11:47:45.480Z,39.3263,-120.003,5.1,-0.2,ml,4.0,177.56,0.043,0.1391,nn,nn00881689,2024-07-30T17:44:27.376Z,"7 km SSE of Floriston, California",earthquake,,3.5,0.06,2.0,reviewed,nn,nn
+2024-07-30T11:01:31.712Z,39.0924,-118.0886,4.6,0.0,ml,3.0,161.23999999999998,0.045,0.0994,nn,nn00881688,2024-07-30T17:41:22.758Z,"28 km NNW of Gabbs, Nevada",earthquake,,8.1,0.22,3.0,reviewed,nn,nn
