@@ -6880,3 +6880,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-30T06:15:47.889Z,40.0042,-120.1082,6.4,0.9,ml,3.0,230.77,0.225,0.0341,nn,nn00881684,2024-07-30T17:04:38.130Z,"2 km S of Doyle, California",earthquake,,10.4,0.08,3.0,reviewed,nn,nn
 2024-07-30T05:15:19.706Z,41.7999,-120.3413,6.2,0.1,ml,3.0,320.81,0.107,0.0448,nn,nn00881683,2024-07-30T17:01:33.635Z,"17 km WSW of Fort Bidwell, California",earthquake,,11.9,0.65,2.0,reviewed,nn,nn
 2024-07-30T01:50:28.380Z,38.4915,-112.901666666667,2.7,1.14,md,14.0,96.0,0.01041,0.11,uu,uu80076796,2024-07-30T17:11:09.240Z,"14 km NE of Milford, Utah",earthquake,0.34,0.54,0.513219148949313,5.0,reviewed,uu,uu
+2024-07-30T17:22:36.110Z,61.948,-149.0566,37.3,1.6,ml,,,,0.66,ak,ak0249qw6qij,2024-07-30T17:24:22.906Z,"24 km NW of Sutton-Alpine, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-07-30T06:16:53.576Z,38.7684,-119.4686,7.6,1.0,ml,7.0,252.54000000000008,0.059,0.1189,nn,nn00881685,2024-07-30T17:26:02.233Z,"4 km NE of Topaz Ranch Estates, Nevada",earthquake,,1.7,0.0,1.0,reviewed,nn,nn
