@@ -6915,3 +6915,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-30T19:14:09.401Z,36.9086,-115.4977,2.1,0.5,ml,8.0,209.96,0.416,0.1349,nn,nn00881696,2024-07-30T19:16:11.773Z,"40 km NNE of Indian Springs, Nevada",earthquake,,19.7,0.33,6.0,automatic,nn,nn
 2024-07-30T19:10:53.526Z,36.9419,-115.4516,2.0,0.7,ml,9.0,209.25,0.439,0.2177,nn,nn00881695,2024-07-30T19:12:52.240Z,"45 km NNE of Indian Springs, Nevada",earthquake,,14.2,0.27,4.0,automatic,nn,nn
 2024-07-30T11:08:50.750Z,47.4625,-123.977,0.05,-0.14,md,4.0,128.0,0.04352,0.14,uw,uw62022042,2024-07-30T19:16:46.960Z,"5 km W of Amanda Park, Washington",earthquake,0.37,1.14,0.2366563611723622,4.0,reviewed,uw,uw
+2024-07-30T13:56:53.630Z,47.59066666666666,-123.0,16.43,0.92,ml,8.0,102.0,0.06882,0.16,uw,uw62022072,2024-07-30T19:22:33.920Z,"12 km SW of Brinnon, Washington",earthquake,0.71,1.03,0.0852552768152385,2.0,reviewed,uw,uw
