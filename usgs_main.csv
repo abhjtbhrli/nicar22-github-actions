@@ -6882,3 +6882,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-30T01:50:28.380Z,38.4915,-112.901666666667,2.7,1.14,md,14.0,96.0,0.01041,0.11,uu,uu80076796,2024-07-30T17:11:09.240Z,"14 km NE of Milford, Utah",earthquake,0.34,0.54,0.513219148949313,5.0,reviewed,uu,uu
 2024-07-30T17:22:36.110Z,61.948,-149.0566,37.3,1.6,ml,,,,0.66,ak,ak0249qw6qij,2024-07-30T17:24:22.906Z,"24 km NW of Sutton-Alpine, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-07-30T06:16:53.576Z,38.7684,-119.4686,7.6,1.0,ml,7.0,252.54000000000008,0.059,0.1189,nn,nn00881685,2024-07-30T17:26:02.233Z,"4 km NE of Topaz Ranch Estates, Nevada",earthquake,,1.7,0.0,1.0,reviewed,nn,nn
+2024-07-30T17:27:03.007Z,31.677,-104.198,4.4937,1.7,ml,18.0,105.0,0.1,0.3,tx,tx2024owvs,2024-07-30T17:34:03.776Z,"55 km NW of Toyah, Texas",earthquake,0.0,1.4575876600231,0.2,13.0,automatic,tx,tx
+2024-07-30T10:47:21.894Z,38.523,-119.5113,8.2,0.8,ml,4.0,332.90000000000003,0.379,0.075,nn,nn00881687,2024-07-30T17:35:13.286Z,"3 km WNW of Walker, California",earthquake,,17.8,0.0,1.0,reviewed,nn,nn
