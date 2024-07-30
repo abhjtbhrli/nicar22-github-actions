@@ -6858,3 +6858,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-30T15:04:31.410Z,34.0711667,-117.2485,3.13,1.51,ml,74.0,22.0,0.04449,0.2,ci,ci40676143,2024-07-30T15:15:20.240Z,"3 km NNE of Loma Linda, CA",earthquake,0.13,0.22,0.15,29.0,automatic,ci,ci
 2024-07-30T15:00:46.880Z,34.0703333,-117.2475,2.2,1.32,ml,64.0,25.0,0.04566,0.19,ci,ci40676135,2024-07-30T15:07:19.761Z,"3 km NNE of Loma Linda, CA",earthquake,0.12,0.23,0.18,26.0,automatic,ci,ci
 2024-07-29T21:52:39.039Z,28.884,-97.584,3.4424,2.6,ml,20.0,155.0,0.0,0.3,tx,tx2024oviy,2024-07-30T15:14:57.730Z,"4 km SSE of Nordheim, Texas",earthquake,1.414251804590953,1.7076695203154015,0.2,10.0,reviewed,tx,tx
+2024-07-30T15:26:43.628Z,58.2508,-152.8113,42.2,1.9,ml,,,,0.21,ak,ak0249qv0qqy,2024-07-30T15:29:13.087Z,"22 km NNE of Aleneva, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2024-07-30T15:22:17.235Z,60.832,-143.2248,25.8,0.8,ml,,,,0.45,ak,ak0249quztuj,2024-07-30T15:24:44.227Z,"68 km SSW of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-07-30T12:49:22.766Z,31.66,-104.314,6.1768,2.1,ml,46.0,68.0,0.1,0.1,tx,tx2024owmp,2024-07-30T15:28:24.786Z,"57 km S of Whites City, New Mexico",earthquake,0.4508456693582464,0.782403313025192,0.2,45.0,reviewed,tx,tx
