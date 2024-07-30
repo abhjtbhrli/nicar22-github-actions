@@ -6820,3 +6820,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-30T09:42:19.830Z,35.7,-117.5168333,3.57,0.7,ml,19.0,70.0,0.08342,0.14,ci,ci40675871,2024-07-30T09:48:01.042Z,"13 km SW of Searles Valley, CA",earthquake,0.19,0.81,0.117,7.0,automatic,ci,ci
 2024-07-30T09:39:52.110Z,19.3696670532227,-155.171661376953,1.98000001907349,1.84,ml,37.0,77.0,0.009982,0.280000001,hv,hv74374001,2024-07-30T09:42:30.760Z,"10 km SE of Volcano, Hawaii",earthquake,0.58,0.49000001,0.11,5.0,automatic,hv,hv
 2024-07-30T09:51:46.550Z,33.6745,-116.7675,14.52,0.54,ml,32.0,72.0,0.05757,0.12,ci,ci40675879,2024-07-30T09:57:50.336Z,"9 km SSW of Idyllwild, CA",earthquake,0.17,0.27,0.155,13.0,automatic,ci,ci
+2024-07-30T10:36:07.923Z,60.3314,-152.8231,116.4,1.8,ml,,,,0.39,ak,ak0249qs3n4o,2024-07-30T10:38:11.051Z,"71 km WNW of Ninilchik, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-07-30T08:30:18.428Z,-56.1646,-27.931,135.874,4.9,mb,38.0,81.0,5.248,0.7,us,us6000nguz,2024-07-30T10:42:35.040Z,South Sandwich Islands region,earthquake,10.85,4.888,0.086,42.0,reviewed,us,us
