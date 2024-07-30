@@ -6835,3 +6835,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-30T12:34:30.340Z,35.6565,-117.8623333,9.86,1.04,ml,19.0,45.0,0.09782,0.14,ci,ci40675959,2024-07-30T12:40:39.057Z,"5 km WNW of Inyokern, CA",earthquake,0.2,0.64,0.212,12.0,automatic,ci,ci
 2024-07-30T12:31:39.160Z,35.657,-117.8655,9.51,0.77,ml,16.0,55.0,0.1,0.13,ci,ci40675951,2024-07-30T12:37:24.031Z,"5 km WNW of Inyokern, CA",earthquake,0.25,0.7,0.195,7.0,automatic,ci,ci
 2024-07-29T23:34:07.879Z,35.24283333,-97.76866667,3.66,0.69,ml,16.0,103.0,0.01169770451,0.14,ok,ok2024ovmh,2024-07-30T12:33:06.305Z,"3 km WNW of Bridge Creek, Oklahoma",earthquake,,0.7,0.24,6.0,reviewed,ok,ok
+2024-07-30T13:06:53.610Z,34.0256653,-117.2243347,16.37,1.33,ml,35.0,64.0,0.09346,0.18,ci,ci40675999,2024-07-30T13:08:56.062Z,"4 km SE of Loma Linda, CA",earthquake,0.27,0.71,0.266,7.0,automatic,ci,ci
+2024-07-30T12:48:50.090Z,38.7876663208008,-122.734497070312,1.08000004291534,1.98,md,38.0,48.0,0.004753,0.06,nc,nc75041407,2024-07-30T13:07:14.346Z,"2 km ENE of The Geysers, CA",earthquake,0.2,0.360000014,0.14,44.0,automatic,nc,nc
+2024-07-30T12:25:06.159Z,-24.441,-177.117,10.0,4.9,mb,40.0,121.0,4.839,0.63,us,us6000ngvu,2024-07-30T12:52:38.040Z,south of the Fiji Islands,earthquake,6.15,1.873,0.08,49.0,reviewed,us,us
