@@ -6762,3 +6762,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-30T04:23:12.880Z,38.8296661376953,-122.817001342773,2.0,0.44,md,10.0,62.0,0.008276,0.01,nc,nc75041267,2024-07-30T04:24:47.789Z,"8 km NNW of The Geysers, CA",earthquake,0.37,0.75,0.27,10.0,automatic,nc,nc
 2024-07-30T04:18:31.716Z,36.7752,-116.2526,11.4,-0.3,ml,10.0,94.04,0.049,0.0443,nn,nn00881678,2024-07-30T04:20:18.791Z,"47 km ESE of Beatty, Nevada",earthquake,,1.7,0.24,4.0,automatic,nn,nn
 2024-07-30T04:08:09.540Z,34.9386667,-116.8121667,1.63,2.66,ml,37.0,55.0,0.1644,0.19,ci,ci40675751,2024-07-30T04:28:47.723Z,"20 km ENE of Barstow, CA",earthquake,0.2,0.57,0.105,26.0,automatic,ci,ci
+2024-07-30T04:33:00.480Z,19.4368324279785,-154.982162475586,39.439998626709,2.48000002,md,24.0,184.0,0.02127,0.109999999,hv,hv74373466,2024-07-30T04:34:48.280Z,"7 km SSW of Pāhoa, Hawaii",earthquake,1.14,0.720000029,0.400000006,3.0,automatic,hv,hv
+2024-07-30T04:27:23.925Z,63.4967,-148.4464,5.0,1.5,ml,,,,0.93,ak,ak0249qoh5ag,2024-07-30T04:29:28.362Z,"27 km ENE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
