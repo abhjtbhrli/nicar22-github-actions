@@ -6850,3 +6850,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-30T14:04:54.690Z,38.8406677246094,-122.823333740234,1.78999996185303,0.59,md,14.0,86.0,0.009715,0.02,nc,nc75041422,2024-07-30T14:06:29.238Z,"9 km WNW of Cobb, CA",earthquake,0.26,0.709999979,0.45,13.0,automatic,nc,nc
 2024-07-30T13:59:30.440Z,32.7683333,-115.8466667,6.98,1.62,ml,39.0,55.0,0.129,0.22,ci,ci40676031,2024-07-30T14:10:33.280Z,"14 km ENE of Ocotillo, CA",earthquake,0.21,0.74,0.163,29.0,automatic,ci,ci
 2024-07-30T13:59:22.530Z,63.5205,-150.1258,120.9,1.8,ml,,,,0.44,ak,ak0249qu0wjh,2024-07-30T14:01:41.927Z,"60 km WNW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-07-30T14:47:07.565Z,63.1191,-151.4038,3.0,1.6,ml,,,,0.8,ak,ak0249qujqec,2024-07-30T14:49:05.053Z,"49 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-07-30T14:40:46.760Z,35.8826667,-117.6981667,4.81,1.05,ml,20.0,58.0,0.07578,0.14,ci,ci40676103,2024-07-30T14:46:41.884Z,"20 km ESE of Little Lake, CA",earthquake,0.17,0.38,0.132,13.0,automatic,ci,ci
+2024-07-30T11:55:40.295Z,32.766,-100.664,8.1299,2.0,ml,16.0,52.0,0.1,0.1,tx,tx2024owku,2024-07-30T14:54:30.514Z,"17 km NNE of Hermleigh, Texas",earthquake,0.66466770602705,1.0641924972335135,0.1,12.0,reviewed,tx,tx
+2024-07-29T22:46:11.938Z,32.766,-100.659,7.9346,2.6,ml,16.0,79.0,0.1,0.1,tx,tx2024ovks,2024-07-30T14:42:22.463Z,"17 km NNE of Hermleigh, Texas",earthquake,0.6687538397951982,0.8475204819784126,0.1,20.0,reviewed,tx,tx
+2024-07-29T19:52:27.635Z,32.782,-100.647,7.6416,1.5,ml,12.0,78.0,0.1,0.1,tx,tx2024ovfe,2024-07-30T14:37:19.388Z,"18 km WSW of Rotan, Texas",earthquake,0.8838924789155769,1.5808438931063806,0.1,6.0,reviewed,tx,tx
