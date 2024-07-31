@@ -7065,3 +7065,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-31T08:01:22.960Z,35.3333333,-118.5505,1.66,1.28,ml,25.0,87.0,0.1141,0.13,ci,ci40677575,2024-07-31T08:10:51.863Z,"24 km NNW of Tehachapi, CA",earthquake,0.16,0.32,0.311,7.0,automatic,ci,ci
 2024-07-31T07:58:47.220Z,33.7601667,-116.9296667,13.25,0.43,ml,27.0,92.0,0.07306,0.17,ci,ci40677567,2024-07-31T08:07:06.840Z,"4 km WNW of Valle Vista, CA",earthquake,0.25,0.54,0.114,6.0,automatic,ci,ci
 2024-07-31T08:20:43.466Z,59.1053,-139.1405,0.1,4.9,ml,,,,0.93,ak,ak0249secrkx,2024-07-31T08:25:00.653Z,"59 km SE of Yakutat, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-07-31T08:27:21.820Z,35.8173333,-118.5375,7.4,1.56,ml,28.0,48.0,0.0811,0.17,ci,ci40677583,2024-07-31T08:33:51.994Z,"12 km NW of Kernville, CA",earthquake,0.19,0.7,0.242,22.0,automatic,ci,ci
