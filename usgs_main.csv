@@ -7152,3 +7152,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-31T17:18:09.290Z,32.8735,-116.2225,7.58,1.22,ml,9.0,122.0,0.2423,0.19,ci,ci40678119,2024-07-31T17:24:22.159Z,"26 km NW of Ocotillo, CA",earthquake,0.42,15.99,0.302,19.0,automatic,ci,ci
 2024-07-31T15:20:00.805Z,54.4502,-160.1061,4.8,3.4,ml,,,,0.54,ak,ak0249siipwe,2024-07-31T17:23:34.900Z,"101 km SSE of Sand Point, Alaska",earthquake,,1.1,,,reviewed,ak,ak
 2024-07-30T17:52:02.990Z,40.5805,-122.326833333333,13.26,1.35,md,9.0,87.0,0.04331,0.09,nc,nc75041492,2024-07-31T17:17:27.696Z,"4 km E of Redding, CA",earthquake,0.39,0.56,0.385,9.0,reviewed,nc,nc
+2024-07-31T17:30:13.230Z,33.3373333,-116.6661667,11.63,0.5,ml,27.0,58.0,0.1274,0.14,ci,ci40678143,2024-07-31T17:36:23.637Z,"7 km NNW of Warner Springs, CA",earthquake,0.19,0.64,0.169,12.0,automatic,ci,ci
