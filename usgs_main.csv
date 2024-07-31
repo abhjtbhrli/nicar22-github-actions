@@ -7040,3 +7040,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-31T05:18:03.420Z,38.7854995727539,-122.768669128418,0.159999996423721,0.97,md,11.0,106.0,0.01493,0.04,nc,nc75041692,2024-07-31T05:19:41.531Z,"1 km NW of The Geysers, CA",earthquake,0.29,0.680000007,0.2,10.0,automatic,nc,nc
 2024-07-31T05:17:53.256Z,61.5201,-151.2756,10.9,1.6,ml,,,,0.3,ak,ak0249scjuhp,2024-07-31T05:20:11.896Z,"40 km W of Susitna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-07-31T04:58:50.569Z,-55.2812,-29.0097,35.0,5.3,mb,39.0,54.0,4.443,0.78,us,us6000nh1h,2024-07-31T05:13:28.040Z,South Sandwich Islands region,earthquake,11.25,1.922,0.085,47.0,reviewed,us,us
+2024-07-31T05:38:33.770Z,33.3573333,-116.4306667,6.66,1.48,ml,80.0,14.0,0.06131,0.19,ci,ci40677511,2024-07-31T05:45:07.026Z,"12 km NNW of Borrego Springs, CA",earthquake,0.13,0.4,0.142,27.0,automatic,ci,ci
+2024-07-31T05:37:35.491Z,32.088,-103.73,3.6726,2.1,ml,6.0,216.0,0.1,0.2,tx,tx2024oxtu,2024-07-31T05:44:34.211Z,"35 km ESE of Malaga, New Mexico",earthquake,0.0,5.221942952762341,0.2,6.0,automatic,tx,tx
