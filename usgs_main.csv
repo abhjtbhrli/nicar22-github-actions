@@ -7056,3 +7056,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-31T06:28:03.670Z,33.2459984,-116.2871704,11.07,1.17,ml,41.0,67.0,0.06,0.22,ci,ci40677551,2024-07-31T06:30:08.075Z,"8 km E of Borrego Springs, CA",earthquake,0.32,0.71,0.282,5.0,automatic,ci,ci
 2024-07-31T06:54:21.210Z,36.8296661376953,-121.591003417969,1.87000000476837,1.62,md,20.0,53.0,0.07109,0.22,nc,nc75041712,2024-07-31T06:57:04.462Z,"5 km W of San Juan Bautista, CA",earthquake,0.46,1.95000005,0.16,18.0,automatic,nc,nc
 2024-07-31T06:49:57.254Z,36.5646,-115.485,1.8,0.5,ml,11.0,320.03000000000003,0.395,0.0884,nn,nn00881707,2024-07-31T06:52:04.059Z,"16 km E of Indian Springs, Nevada",earthquake,,36.0,0.28,8.0,automatic,nn,nn
+2024-07-31T06:58:02.460Z,33.2481667,-115.9968333,4.82,1.12,ml,48.0,83.0,0.03315,0.24,ci,ci40677559,2024-07-31T07:09:00.710Z,"7 km SW of Salton City, CA",earthquake,0.25,0.51,0.203,27.0,automatic,ci,ci
