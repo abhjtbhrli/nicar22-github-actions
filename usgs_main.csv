@@ -7125,3 +7125,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-31T14:49:32.690Z,38.8224983215332,-122.854331970215,1.88999998569489,0.76,md,15.0,94.0,0.005416,0.03,nc,nc75041852,2024-07-31T14:51:11.102Z,"10 km NW of The Geysers, CA",earthquake,0.28,0.5,0.41,15.0,automatic,nc,nc
 2024-07-31T14:45:40.810Z,32.8445,-115.4723333,12.11,1.35,ml,16.0,77.0,0.03512,0.36,ci,ci40677895,2024-07-31T14:51:45.912Z,"9 km E of Imperial, CA",earthquake,0.82,1.41,0.268,16.0,automatic,ci,ci
 2024-07-31T14:44:51.973Z,63.225,-151.1047,0.0,1.1,ml,,,,0.8,ak,ak0249si2j6l,2024-07-31T14:51:32.486Z,"46 km SE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-07-31T14:05:04.256Z,-9.9054,-75.5481,11.071,4.7,mb,30.0,114.0,2.428,0.55,us,us6000nh40,2024-07-31T15:01:53.040Z,"65 km E of Churubamba, Peru",earthquake,5.88,4.8,0.085,42.0,reviewed,us,us
+2024-07-31T00:27:43.960Z,38.6558333333333,-112.567,1.49,1.68,ml,14.0,65.0,0.1046,0.16,uu,uu80076901,2024-07-31T15:08:29.380Z,"19 km SW of Kanosh, Utah",earthquake,0.41,1.85,0.0882207700783471,6.0,reviewed,uu,uu
