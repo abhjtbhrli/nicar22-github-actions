@@ -7086,3 +7086,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-31T10:35:03.131Z,39.5635,-118.8403,9.3,1.8,ml,14.0,102.65000000000003,0.63,0.2374,nn,nn00881713,2024-07-31T10:37:26.306Z,"11 km NNW of Fallon, Nevada",earthquake,,0.9,0.18,8.0,automatic,nn,nn
 2024-07-31T11:06:29.469Z,60.0557,-140.9077,2.8,1.3,ml,,,,0.55,ak,ak0249sg21dv,2024-07-31T11:08:55.016Z,"87 km NW of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-07-31T11:03:32.130Z,60.9367,-151.5145,74.4,1.5,ml,,,,0.55,ak,ak0249sg1egt,2024-07-31T11:05:51.308Z,"25 km SW of Tyonek, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-07-31T11:23:02.747Z,38.7793,-118.7903,5.7,2.1,ml,13.0,153.32,0.666,0.2313,nn,nn00881715,2024-07-31T11:25:36.770Z,"14 km NNW of Walker Lake, Nevada",earthquake,,1.6,0.31,9.0,automatic,nn,nn
