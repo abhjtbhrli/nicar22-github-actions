@@ -7042,3 +7042,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-31T04:58:50.569Z,-55.2812,-29.0097,35.0,5.3,mb,39.0,54.0,4.443,0.78,us,us6000nh1h,2024-07-31T05:13:28.040Z,South Sandwich Islands region,earthquake,11.25,1.922,0.085,47.0,reviewed,us,us
 2024-07-31T05:38:33.770Z,33.3573333,-116.4306667,6.66,1.48,ml,80.0,14.0,0.06131,0.19,ci,ci40677511,2024-07-31T05:45:07.026Z,"12 km NNW of Borrego Springs, CA",earthquake,0.13,0.4,0.142,27.0,automatic,ci,ci
 2024-07-31T05:37:35.491Z,32.088,-103.73,3.6726,2.1,ml,6.0,216.0,0.1,0.2,tx,tx2024oxtu,2024-07-31T05:44:34.211Z,"35 km ESE of Malaga, New Mexico",earthquake,0.0,5.221942952762341,0.2,6.0,automatic,tx,tx
+2024-07-31T05:33:17.510Z,18.2236666666667,-67.3998333333333,10.1,2.87,md,15.0,280.0,0.182,0.32,pr,pr71456583,2024-07-31T05:45:54.850Z,"19 km SW of Stella, Puerto Rico",earthquake,1.07,0.84,0.101756880605077,8.0,reviewed,pr,pr
