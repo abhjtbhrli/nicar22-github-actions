@@ -7148,3 +7148,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-31T11:30:10.830Z,38.4878333333333,-112.896833333333,3.17,0.21,md,14.0,97.0,0.005175,0.12,uu,uu80076936,2024-07-31T16:28:38.430Z,"14 km NE of Milford, Utah",earthquake,0.38,0.54,0.70261544316756,5.0,reviewed,uu,uu
 2024-07-31T05:44:26.975Z,32.755,-100.636,6.9092,2.0,ml,12.0,52.0,0.1,0.2,tx,tx2024oxud,2024-07-31T16:35:50.374Z,"17 km NE of Hermleigh, Texas",earthquake,1.2933148128766545,3.212927904582253,0.0,7.0,reviewed,tx,tx
 2024-07-31T16:43:00.073Z,37.1404,-117.3824,0.0,0.9,ml,9.0,121.18,0.145,0.1997,nn,nn00881728,2024-07-31T16:45:16.634Z,"61 km WNW of Beatty, Nevada",earthquake,,8.1,0.25,5.0,automatic,nn,nn
+2024-07-31T16:58:05.600Z,35.596,-117.4041667,6.59,0.69,ml,14.0,75.0,0.04824,0.11,ci,ci40678087,2024-07-31T17:04:08.302Z,"19 km S of Trona, CA",earthquake,0.19,0.34,0.263,5.0,automatic,ci,ci
