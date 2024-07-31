@@ -7015,3 +7015,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-30T11:08:45.540Z,52.1161666666667,-176.262166666667,13.4,0.07,ml,6.0,313.0,0.05691,0.3,av,av93016854,2024-07-31T03:12:58.630Z,"37 km NE of Adak, Alaska",earthquake,3.08,1.81,0.195167445879473,6.0,reviewed,av,av
 2024-07-31T03:32:35.301Z,64.125,-147.2694,18.7,2.6,ml,,,,0.88,ak,ak0249sbg5fx,2024-07-31T03:34:20.190Z,"42 km SW of Harding-Birch Lakes, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-07-30T13:43:06.880Z,54.5196666666667,-163.533666666667,11.02,2.03,ml,6.0,300.0,0.1747,0.32,av,av93016864,2024-07-31T03:32:18.230Z,"38 km SSW of False Pass, Alaska",earthquake,2.24,1.85,0.146856825922258,6.0,reviewed,av,av
+2024-07-31T02:59:52.132Z,-56.3605,-27.6628,105.117,4.7,mb,31.0,124.0,5.452,0.56,us,us6000nh0n,2024-07-31T03:44:01.040Z,South Sandwich Islands region,earthquake,12.49,8.931,0.102,29.0,reviewed,us,us
+2024-07-30T13:37:46.640Z,52.89,-169.5865,-1.69,0.6,ml,5.0,170.0,0.1326,0.27,av,av93016874,2024-07-31T03:38:36.030Z,"49 km W of Nikolski, Alaska",earthquake,1.16,0.47,0.251854370246012,5.0,reviewed,av,av
