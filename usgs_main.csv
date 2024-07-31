@@ -7149,3 +7149,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-31T05:44:26.975Z,32.755,-100.636,6.9092,2.0,ml,12.0,52.0,0.1,0.2,tx,tx2024oxud,2024-07-31T16:35:50.374Z,"17 km NE of Hermleigh, Texas",earthquake,1.2933148128766545,3.212927904582253,0.0,7.0,reviewed,tx,tx
 2024-07-31T16:43:00.073Z,37.1404,-117.3824,0.0,0.9,ml,9.0,121.18,0.145,0.1997,nn,nn00881728,2024-07-31T16:45:16.634Z,"61 km WNW of Beatty, Nevada",earthquake,,8.1,0.25,5.0,automatic,nn,nn
 2024-07-31T16:58:05.600Z,35.596,-117.4041667,6.59,0.69,ml,14.0,75.0,0.04824,0.11,ci,ci40678087,2024-07-31T17:04:08.302Z,"19 km S of Trona, CA",earthquake,0.19,0.34,0.263,5.0,automatic,ci,ci
+2024-07-31T17:18:09.290Z,32.8735,-116.2225,7.58,1.22,ml,9.0,122.0,0.2423,0.19,ci,ci40678119,2024-07-31T17:24:22.159Z,"26 km NW of Ocotillo, CA",earthquake,0.42,15.99,0.302,19.0,automatic,ci,ci
+2024-07-31T15:20:00.805Z,54.4502,-160.1061,4.8,3.4,ml,,,,0.54,ak,ak0249siipwe,2024-07-31T17:23:34.900Z,"101 km SSE of Sand Point, Alaska",earthquake,,1.1,,,reviewed,ak,ak
+2024-07-30T17:52:02.990Z,40.5805,-122.326833333333,13.26,1.35,md,9.0,87.0,0.04331,0.09,nc,nc75041492,2024-07-31T17:17:27.696Z,"4 km E of Redding, CA",earthquake,0.39,0.56,0.385,9.0,reviewed,nc,nc
