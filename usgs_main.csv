@@ -7023,3 +7023,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-30T17:41:05.050Z,51.8598333333333,-177.84,3.55,1.4,ml,9.0,153.0,0.04818,0.06,av,av93216116,2024-07-31T04:10:45.490Z,"83 km W of Adak, Alaska",earthquake,0.32,0.31,0.246322671242548,10.0,reviewed,av,av
 2024-07-30T16:41:45.600Z,53.8731666666667,-166.901,2.67,-0.38,ml,5.0,218.0,0.06927,0.08,av,av93016889,2024-07-31T04:07:23.650Z,"23 km W of Dutch Harbor, Alaska",earthquake,0.48,1.56,0.300968158813558,5.0,reviewed,av,av
 2024-07-30T06:29:21.780Z,40.5655,-122.231166666667,14.87,1.82,md,14.0,68.0,0.08213,0.13,nc,nc75041342,2024-07-31T04:14:02.542Z,"1 km E of Palo Cedro, CA",earthquake,0.38,0.52,0.153,13.0,reviewed,nc,nc
+2024-07-31T04:16:57.521Z,60.7863,-146.1944,20.0,1.9,ml,,,,0.42,ak,ak0249sby7i0,2024-07-31T04:18:49.876Z,"27 km ESE of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-07-31T04:04:52.679Z,54.7495,167.8879,10.0,4.4,mb,45.0,128.0,5.73,0.78,us,us6000nh11,2024-07-31T04:16:56.040Z,"Komandorskiye Ostrova, Russia region",earthquake,10.18,1.928,0.06,79.0,reviewed,us,us
+2024-07-30T19:28:37.810Z,52.1036666666667,-176.141166666667,5.33,-0.52,ml,5.0,214.0,0.0246,0.08,av,av93016899,2024-07-31T04:20:22.020Z,"42 km NE of Adak, Alaska",earthquake,0.53,0.77,0.073628401785419,5.0,reviewed,av,av
