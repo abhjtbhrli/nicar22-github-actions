@@ -7275,3 +7275,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-31T22:31:03.432Z,64.8181,-151.002,12.4,1.7,ml,,,,0.83,ak,ak0249smr3yf,2024-07-31T22:32:50.276Z,"26 km SW of Manley Hot Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-07-31T22:28:02.890Z,33.2005005,-116.1435013,9.18,1.05,ml,31.0,74.0,0.04915,0.16,ci,ci40678647,2024-07-31T22:30:13.954Z,"6 km N of Ocotillo Wells, CA",earthquake,0.3,0.82,0.17,5.0,automatic,ci,ci
 2024-07-31T11:51:43.956Z,38.7513,-118.6416,6.4,1.2,ml,8.0,113.13,0.511,0.1387,nn,nn00881756,2024-07-31T22:32:24.671Z,"15 km NE of Walker Lake, Nevada",earthquake,,5.5,0.21,6.0,reviewed,nn,nn
+2024-07-31T10:30:26.050Z,61.3348333333333,-152.306,3.75,-0.09,ml,6.0,133.0,0.08245,0.05,av,av93016989,2024-07-31T22:46:34.090Z,"69 km WNW of Beluga, Alaska",earthquake,0.22,0.3,0.254050710917254,7.0,reviewed,av,av
+2024-07-31T09:53:25.540Z,54.5393333333333,-163.508666666667,10.94,1.6,ml,7.0,265.0,0.1724,0.11,av,av93016984,2024-07-31T22:42:59.130Z,"35 km S of False Pass, Alaska",earthquake,0.81,0.84,0.374803177502882,7.0,reviewed,av,av
