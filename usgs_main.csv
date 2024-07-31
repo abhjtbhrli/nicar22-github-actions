@@ -7122,3 +7122,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-31T13:56:45.830Z,33.3171667,-116.3771667,5.92,0.94,ml,48.0,59.0,0.0127,0.2,ci,ci40677815,2024-07-31T14:02:53.006Z,"7 km N of Borrego Springs, CA",earthquake,0.19,0.41,0.18,26.0,automatic,ci,ci
 2024-07-31T14:29:39.630Z,38.8246650695801,-122.765502929688,1.82000005245209,1.12,md,18.0,124.0,0.006744,0.01,nc,nc75041847,2024-07-31T14:31:16.926Z,"4 km WNW of Cobb, CA",earthquake,0.31,0.409999996,0.14,20.0,automatic,nc,nc
 2024-07-30T18:09:04.870Z,34.38466667,-96.81116667,0.0,1.11,ml,18.0,142.0,0.2285551497,0.32,ok,ok2024owxb,2024-07-31T14:37:08.747Z,"2 km SSE of Mill Creek, Oklahoma",quarry blast,,0.7,0.18,9.0,reviewed,ok,ok
+2024-07-31T14:49:32.690Z,38.8224983215332,-122.854331970215,1.88999998569489,0.76,md,15.0,94.0,0.005416,0.03,nc,nc75041852,2024-07-31T14:51:11.102Z,"10 km NW of The Geysers, CA",earthquake,0.28,0.5,0.41,15.0,automatic,nc,nc
+2024-07-31T14:45:40.810Z,32.8445,-115.4723333,12.11,1.35,ml,16.0,77.0,0.03512,0.36,ci,ci40677895,2024-07-31T14:51:45.912Z,"9 km E of Imperial, CA",earthquake,0.82,1.41,0.268,16.0,automatic,ci,ci
+2024-07-31T14:44:51.973Z,63.225,-151.1047,0.0,1.1,ml,,,,0.8,ak,ak0249si2j6l,2024-07-31T14:51:32.486Z,"46 km SE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
