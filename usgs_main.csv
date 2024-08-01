@@ -7353,3 +7353,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-01T06:23:12.270Z,34.341835,-116.4658356,2.51,1.06,ml,16.0,185.0,0.08529,0.11,ci,ci40679023,2024-08-01T06:25:16.643Z,"26 km N of Yucca Valley, CA",earthquake,0.99,0.93,0.2,3.0,automatic,ci,ci
 2024-08-01T06:04:30.230Z,32.642,-115.7303333,7.57,1.4,ml,24.0,54.0,0.008034,0.18,ci,ci40678999,2024-08-01T06:13:30.755Z,"15 km WNW of Progreso, B.C., MX",earthquake,0.26,0.42,0.338,12.0,automatic,ci,ci
 2024-08-01T05:57:15.240Z,33.9878333,-116.742,13.09,0.63,ml,37.0,83.0,0.0722,0.12,ci,ci40678983,2024-08-01T06:05:23.705Z,"9 km NNE of Cabazon, CA",earthquake,0.18,0.43,0.11,13.0,automatic,ci,ci
+2024-08-01T06:44:56.435Z,57.4253,-155.5694,3.8,2.4,ml,,,,0.54,ak,ak0249u0uf63,2024-08-01T06:46:44.534Z,"68 km WSW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-01T06:43:14.840Z,38.8311653137207,-122.817001342773,1.52999997138977,0.23,md,13.0,59.0,0.009459,0.02,nc,nc75042127,2024-08-01T06:44:50.437Z,"8 km NNW of The Geysers, CA",earthquake,0.29,0.779999971,0.13,13.0,automatic,nc,nc
