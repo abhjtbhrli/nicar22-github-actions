@@ -7335,3 +7335,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-01T03:12:37.350Z,19.3826675415039,-155.257339477539,0.629999995231628,1.96,ml,22.0,46.0,0.006356,0.140000001,hv,hv74377671,2024-08-01T03:15:16.960Z,"7 km SSW of Volcano, Hawaii",earthquake,0.14,0.140000001,0.24,15.0,automatic,hv,hv
 2024-08-01T03:11:49.870Z,37.8139991760254,-122.014663696289,9.92000007629395,1.05,md,8.0,82.0,0.03838,0.03,nc,nc75042087,2024-08-01T03:27:16.099Z,"2 km WSW of Danville, CA",earthquake,0.46,0.74000001,0.09,7.0,automatic,nc,nc
 2024-08-01T02:47:59.152Z,31.579,-104.533,3.683,1.5,ml,8.0,155.0,0.1,0.2,tx,tx2024ozjs,2024-08-01T03:20:07.861Z,"66 km NNE of Van Horn, Texas",earthquake,0.0,2.75805524670854,0.1,6.0,automatic,tx,tx
+2024-08-01T03:31:34.216Z,60.356,-146.8512,24.4,1.2,ml,,,,0.82,ak,ak0249tyzabx,2024-08-01T03:33:27.317Z,"57 km S of Tatitlek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-08-01T03:27:23.110Z,33.7665,-116.9323333,13.02,0.69,ml,34.0,60.0,0.07953,0.17,ci,ci40678951,2024-08-01T03:33:12.847Z,"3 km SE of San Jacinto, CA",earthquake,0.22,0.51,0.092,19.0,automatic,ci,ci
