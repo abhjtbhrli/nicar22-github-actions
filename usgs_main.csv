@@ -7581,3 +7581,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-01T22:36:00.938Z,64.985,-151.1285,17.7,1.5,ml,,,,0.81,ak,ak0249uabiu5,2024-08-01T22:37:42.479Z,"23 km W of Manley Hot Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-01T22:35:26.700Z,34.1758347,-116.9231644,6.82,1.01,ml,17.0,59.0,0.08275,0.12,ci,ci40858336,2024-08-01T22:37:31.130Z,"8 km S of Big Bear Lake, CA",earthquake,0.31,1.0,0.129,5.0,automatic,ci,ci
 2024-08-01T16:34:09.096Z,54.1171,-159.9021,50.0,2.0,ml,,,,0.78,ak,ak0249u6qjkx,2024-08-01T22:37:02.493Z,"141 km SSE of Sand Point, Alaska",earthquake,,0.0,,,reviewed,ak,ak
+2024-08-01T22:43:53.490Z,38.8375015258789,-122.801002502441,2.07999992370605,0.66,md,7.0,119.0,0.008373,0.02,nc,nc75042442,2024-08-01T22:45:29.893Z,"7 km WNW of Cobb, CA",earthquake,0.47,1.49000001,0.36,7.0,automatic,nc,nc
+2024-08-01T22:42:31.800Z,35.6016667,-117.4931667,6.98,1.17,ml,25.0,59.0,0.0849,0.12,ci,ci40858360,2024-08-01T22:48:48.848Z,"17 km E of Ridgecrest, CA",earthquake,0.17,0.45,0.182,16.0,automatic,ci,ci
+2024-08-01T22:41:14.410Z,33.4976667,-116.5656667,12.0,0.52,ml,22.0,64.0,0.03067,0.13,ci,ci40858352,2024-08-01T22:47:50.081Z,"12 km ESE of Anza, CA",earthquake,0.23,0.37,0.138,16.0,automatic,ci,ci
+2024-08-01T19:55:08.825Z,40.1026,-120.1652,4.4,0.8,ml,3.0,226.02000000000004,0.279,0.0096,nn,nn00881797,2024-08-01T22:40:53.050Z,"4 km SSW of Patton Village, California",earthquake,,26.0,0.19,3.0,reviewed,nn,nn
+2024-08-01T18:07:57.726Z,54.1119,-159.8539,15.6,1.8,ml,,,,0.57,ak,ak0249u7rt9u,2024-08-01T22:48:23.135Z,"142 km SSE of Sand Point, Alaska",earthquake,,6.2,,,reviewed,ak,ak
+2024-08-01T08:23:09.090Z,54.7246666666667,-163.484166666667,5.41,0.91,ml,9.0,173.0,0.1327,0.3,av,av93217531,2024-08-01T22:47:18.430Z,"15 km SSW of False Pass, Alaska",earthquake,0.95,1.14,0.298313891953215,10.0,reviewed,av,av
