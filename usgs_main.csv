@@ -7438,3 +7438,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-01T14:23:57.320Z,35.7784996,-117.6203308,10.29,2.09,ml,10.0,132.0,0.1213,0.13,ci,ci40679367,2024-08-01T14:26:02.715Z,"18 km NNE of Ridgecrest, CA",earthquake,0.65,1.32,0.722,9.0,automatic,ci,ci
 2024-08-01T14:19:44.533Z,64.5775,-149.2331,12.7,1.1,ml,,,,0.31,ak,ak0249u5gi6t,2024-08-01T14:21:21.185Z,"6 km WSW of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-01T04:18:33.180Z,44.31,-115.0805,5.81,2.51,ml,17.0,66.0,0.2642,0.19,mb,mb90058423,2024-08-01T14:26:21.520Z,"15 km NW of Stanley, Idaho",earthquake,0.48,1.01,0.181006131717114,40.0,reviewed,mb,mb
+2024-07-31T15:55:58.679Z,36.21383333,-95.87966667,0.0,1.6,ml,44.0,180.0,0.3383336074,0.48,ok,ok2024oyoe,2024-08-01T14:42:27.850Z,"6 km SSW of Owasso, Oklahoma",quarry blast,,0.6,0.18,21.0,reviewed,ok,ok
