@@ -7468,3 +7468,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-01T02:24:23.810Z,40.7341666666667,-112.044166666667,5.9,0.55,md,8.0,103.0,0.009572,0.12,uu,uu80077141,2024-08-01T16:02:44.450Z,"5 km ENE of Magna, Utah",earthquake,0.6,0.95,0.16119881270123,4.0,reviewed,uu,uu
 2024-07-31T23:44:56.679Z,34.45883333,-97.19766667,0.0,1.37,ml,45.0,86.0,0.1637678632,0.69,ok,ok2024ozdr,2024-08-01T16:08:10.619Z,"8 km SW of Davis, Oklahoma",quarry blast,,0.9,0.27,18.0,reviewed,ok,ok
 2024-07-31T22:07:51.540Z,38.4911666666667,-112.903166666667,3.22,0.06,md,11.0,99.0,0.01116,0.09,uu,uu80077116,2024-08-01T16:08:38.210Z,"14 km NE of Milford, Utah",earthquake,0.33,0.54,0.550020361843974,3.0,reviewed,uu,uu
+2024-08-01T16:35:14.269Z,61.9473,-152.8714,170.7,1.7,ml,,,,1.17,ak,ak0249u6qqiq,2024-08-01T16:38:11.150Z,"77 km W of Skwentna, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-08-01T16:28:32.341Z,62.8303,-148.8514,62.0,1.1,ml,,,,0.54,ak,ak0249u6p9wi,2024-08-01T16:30:24.393Z,"62 km S of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-08-01T16:22:47.671Z,61.6352,-150.9503,58.5,0.9,ml,,,,0.72,ak,ak0249u6o0sf,2024-08-01T16:26:58.206Z,"25 km WNW of Susitna, Alaska",earthquake,,2.3,,,automatic,ak,ak
+2024-08-01T15:48:43.662Z,31.643,-104.457,3.8799,2.2,ml,16.0,96.0,0.0,0.5,tx,tx2024pajl,2024-08-01T16:24:35.748Z,"59 km S of Whites City, New Mexico",earthquake,0.0,1.60081427238961,0.1,13.0,automatic,tx,tx
+2024-08-01T14:03:53.730Z,38.7316666666667,-111.630666666667,7.83,1.32,ml,20.0,65.0,0.1689,0.15,uu,uu80077196,2024-08-01T16:24:18.380Z,"30 km N of Fremont, Utah",earthquake,0.37,2.06,0.102176543452835,7.0,reviewed,uu,uu
+2024-08-01T11:26:18.329Z,32.198,-102.13,8.9111,1.6,ml,36.0,69.0,0.1,0.1,tx,tx2024paav,2024-08-01T16:27:30.793Z,"22 km NNW of Midland, Texas",earthquake,0.4697791645346108,1.027839786823975,0.1,17.0,reviewed,tx,tx
