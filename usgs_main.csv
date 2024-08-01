@@ -7578,3 +7578,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-01T19:44:25.840Z,38.7743,-119.6509,9.0,1.5,ml,8.0,121.43,0.105,0.1091,nn,nn00881796,2024-08-01T22:28:35.153Z,"9 km S of Carter Springs, Nevada",earthquake,,2.3,0.31,2.0,reviewed,nn,nn
 2024-08-01T07:35:24.790Z,53.874,-166.645,8.59,0.5,ml,7.0,121.0,0.02564,0.16,av,av93217466,2024-08-01T22:23:46.540Z,"6 km WSW of Dutch Harbor, Alaska",earthquake,0.45,0.88,0.296592469683,7.0,reviewed,av,av
 2024-08-01T06:08:56.630Z,61.267,-152.255166666667,5.08,-0.35,ml,7.0,104.0,0.05544,0.2,av,av93017114,2024-08-01T22:18:16.110Z,"64 km WNW of Tyonek, Alaska",earthquake,0.55,1.64,0.211033589597724,7.0,reviewed,av,av
+2024-08-01T22:36:00.938Z,64.985,-151.1285,17.7,1.5,ml,,,,0.81,ak,ak0249uabiu5,2024-08-01T22:37:42.479Z,"23 km W of Manley Hot Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-08-01T22:35:26.700Z,34.1758347,-116.9231644,6.82,1.01,ml,17.0,59.0,0.08275,0.12,ci,ci40858336,2024-08-01T22:37:31.130Z,"8 km S of Big Bear Lake, CA",earthquake,0.31,1.0,0.129,5.0,automatic,ci,ci
+2024-08-01T16:34:09.096Z,54.1171,-159.9021,50.0,2.0,ml,,,,0.78,ak,ak0249u6qjkx,2024-08-01T22:37:02.493Z,"141 km SSE of Sand Point, Alaska",earthquake,,0.0,,,reviewed,ak,ak
