@@ -7543,3 +7543,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-01T03:10:46.340Z,53.849,-166.449666666667,10.44,-0.22,ml,8.0,306.0,0.03271,0.18,av,av93017059,2024-08-01T20:27:36.420Z,"6 km ESE of Unalaska, Alaska",earthquake,0.81,0.82,0.34640824764406,8.0,reviewed,av,av
 2024-08-01T03:10:20.760Z,53.8585,-166.431833333333,10.96,0.29,ml,10.0,203.0,0.04507,0.19,av,av93217321,2024-08-01T20:23:58.300Z,"6 km ESE of Unalaska, Alaska",earthquake,0.66,0.81,0.262513587909565,9.0,reviewed,av,av
 2024-08-01T03:09:36.535Z,42.0064,-119.6116,0.0,1.8,ml,5.0,123.83,0.525,0.2103,nn,nn00881784,2024-08-01T20:17:10.260Z,"47 km ENE of Fort Bidwell, California",earthquake,,0.0,0.73,5.0,reviewed,nn,nn
+2024-08-01T20:30:31.750Z,32.757,-116.9021683,4.57,1.52,ml,21.0,94.0,0.04006,0.14,ci,ci40857960,2024-08-01T20:32:39.462Z,"3 km ENE of Rancho San Diego, CA",earthquake,0.75,1.27,0.198,9.0,automatic,ci,ci
+2024-08-01T20:29:05.425Z,60.1539,-152.0085,66.1,1.1,ml,,,,0.38,ak,ak0249u93629,2024-08-01T20:33:23.515Z,"22 km WNW of Ninilchik, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2024-08-01T06:51:07.613Z,39.3528,-119.7085,7.9,0.1,ml,3.0,271.25,0.058,0.1279,nn,nn00881786,2024-08-01T20:35:32.871Z,"6 km NW of Virginia City, Nevada",earthquake,,8.7,0.0,1.0,reviewed,nn,nn
+2024-08-01T05:36:49.051Z,38.7566,-118.6482,2.2,1.2,ml,7.0,113.24,0.516,0.1165,nn,nn00881785,2024-08-01T20:29:25.149Z,"15 km NE of Walker Lake, Nevada",earthquake,,9.0,0.26,6.0,reviewed,nn,nn
+2024-08-01T03:14:49.690Z,52.0915,-176.129833333333,10.81,0.37,ml,5.0,172.0,0.02949,0.05,av,av93217326,2024-08-01T20:33:46.920Z,"42 km NE of Adak, Alaska",earthquake,0.59,0.7,0.269033684503634,5.0,reviewed,av,av
