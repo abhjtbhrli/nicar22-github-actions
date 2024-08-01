@@ -7337,3 +7337,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-01T02:47:59.152Z,31.579,-104.533,3.683,1.5,ml,8.0,155.0,0.1,0.2,tx,tx2024ozjs,2024-08-01T03:20:07.861Z,"66 km NNE of Van Horn, Texas",earthquake,0.0,2.75805524670854,0.1,6.0,automatic,tx,tx
 2024-08-01T03:31:34.216Z,60.356,-146.8512,24.4,1.2,ml,,,,0.82,ak,ak0249tyzabx,2024-08-01T03:33:27.317Z,"57 km S of Tatitlek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-08-01T03:27:23.110Z,33.7665,-116.9323333,13.02,0.69,ml,34.0,60.0,0.07953,0.17,ci,ci40678951,2024-08-01T03:33:12.847Z,"3 km SE of San Jacinto, CA",earthquake,0.22,0.51,0.092,19.0,automatic,ci,ci
+2024-08-01T03:39:16.620Z,38.792667388916,-122.74683380127,2.39000010490417,0.8,md,9.0,91.0,0.01229,0.01,nc,nc75042092,2024-08-01T03:40:50.893Z,"2 km NE of The Geysers, CA",earthquake,0.44,0.930000007,0.23,9.0,automatic,nc,nc
