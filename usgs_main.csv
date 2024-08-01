@@ -7439,3 +7439,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-01T14:19:44.533Z,64.5775,-149.2331,12.7,1.1,ml,,,,0.31,ak,ak0249u5gi6t,2024-08-01T14:21:21.185Z,"6 km WSW of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-01T04:18:33.180Z,44.31,-115.0805,5.81,2.51,ml,17.0,66.0,0.2642,0.19,mb,mb90058423,2024-08-01T14:26:21.520Z,"15 km NW of Stanley, Idaho",earthquake,0.48,1.01,0.181006131717114,40.0,reviewed,mb,mb
 2024-07-31T15:55:58.679Z,36.21383333,-95.87966667,0.0,1.6,ml,44.0,180.0,0.3383336074,0.48,ok,ok2024oyoe,2024-08-01T14:42:27.850Z,"6 km SSW of Owasso, Oklahoma",quarry blast,,0.6,0.18,21.0,reviewed,ok,ok
+2024-08-01T09:39:37.860Z,45.3146666666667,-112.58,8.59,2.21,ml,24.0,126.0,0.04921,0.12,mb,mb90058433,2024-08-01T14:39:19.830Z,"11 km NNE of Dillon, Montana",earthquake,0.31,0.44,0.203697303821995,33.0,reviewed,mb,mb
