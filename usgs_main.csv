@@ -7587,3 +7587,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-01T19:55:08.825Z,40.1026,-120.1652,4.4,0.8,ml,3.0,226.02000000000004,0.279,0.0096,nn,nn00881797,2024-08-01T22:40:53.050Z,"4 km SSW of Patton Village, California",earthquake,,26.0,0.19,3.0,reviewed,nn,nn
 2024-08-01T18:07:57.726Z,54.1119,-159.8539,15.6,1.8,ml,,,,0.57,ak,ak0249u7rt9u,2024-08-01T22:48:23.135Z,"142 km SSE of Sand Point, Alaska",earthquake,,6.2,,,reviewed,ak,ak
 2024-08-01T08:23:09.090Z,54.7246666666667,-163.484166666667,5.41,0.91,ml,9.0,173.0,0.1327,0.3,av,av93217531,2024-08-01T22:47:18.430Z,"15 km SSW of False Pass, Alaska",earthquake,0.95,1.14,0.298313891953215,10.0,reviewed,av,av
+2024-08-01T20:52:53.481Z,36.6765,-116.2836,8.0,-0.3,ml,10.0,151.06,0.054,0.0654,nn,nn00881798,2024-08-01T22:53:09.270Z,"49 km ESE of Beatty, Nevada",earthquake,,1.4,0.01,2.0,reviewed,nn,nn
+2024-08-01T19:25:37.601Z,54.1186,-159.475,21.4,1.8,ml,,,,1.02,ak,ak0249u8gzkg,2024-08-01T22:57:47.372Z,"150 km SSE of Sand Point, Alaska",earthquake,,5.6,,,reviewed,ak,ak
+2024-08-01T08:22:48.060Z,54.7206666666667,-163.4785,1.72,0.38,ml,5.0,230.0,0.136,0.21,av,av93017129,2024-08-01T22:54:24.280Z,"15 km SSW of False Pass, Alaska",earthquake,1.08,3.45,0.236112760676821,5.0,reviewed,av,av
