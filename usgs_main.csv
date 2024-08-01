@@ -7363,3 +7363,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-01T07:06:26.181Z,66.0263,-150.2648,0.0,2.1,ml,,,,0.56,ak,ak0249u17n8a,2024-08-01T07:08:04.141Z,"53 km W of Stevens Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-01T07:06:23.001Z,31.9996,-101.3976,1.835,2.7,mb_lg,32.0,47.0,0.246,0.6,us,us6000nhau,2024-08-01T07:11:03.040Z,"12 km SSW of Forsan, Texas",earthquake,2.36,7.986,0.057,82.0,reviewed,us,us
 2024-08-01T07:04:50.175Z,68.6446,-146.036,0.6,3.3,ml,,,,1.01,ak,ak0249u179ks,2024-08-01T07:13:19.040Z,"61 km NNW of Arctic Village, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-08-01T07:27:18.830Z,33.4948349,-116.5651703,12.24,1.05,ml,13.0,196.0,0.03094,0.12,ci,ci40679039,2024-08-01T07:29:25.187Z,"12 km ESE of Anza, CA",earthquake,0.65,1.15,0.616,6.0,automatic,ci,ci
+2024-08-01T07:25:38.701Z,66.0269,-150.2707,0.0,1.9,ml,,,,0.59,ak,ak0249u1bqsu,2024-08-01T07:27:24.911Z,"53 km W of Stevens Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-01T07:24:48.469Z,65.9987,-150.0968,0.1,1.5,ml,,,,0.88,ak,ak0249u1bju6,2024-08-01T07:26:29.935Z,"45 km W of Stevens Village, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-08-01T07:16:07.710Z,33.7133333,-116.8125,15.67,0.57,ml,22.0,97.0,0.08199,0.14,ci,ci40679031,2024-08-01T07:21:58.188Z,"8 km ESE of Valle Vista, CA",earthquake,0.32,0.47,0.239,5.0,automatic,ci,ci
