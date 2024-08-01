@@ -7456,3 +7456,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-01T15:45:29.258Z,60.2704,-152.4115,98.7,1.2,ml,,,,0.28,ak,ak0249u67h8d,2024-08-01T15:47:19.636Z,"48 km WNW of Ninilchik, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2024-08-01T14:23:31.555Z,54.2605,-159.6775,28.4,2.0,ml,,,,0.76,ak,ak0249u5hdqj,2024-08-01T15:47:14.236Z,"130 km SSE of Sand Point, Alaska",earthquake,,4.4,,,reviewed,ak,ak
 2024-07-31T19:15:37.720Z,46.0088333333333,-112.4705,-2.0,1.08,ml,5.0,200.0,0.06009,0.11,mb,mb90058398,2024-08-01T15:47:39.740Z,"5 km E of Butte, Montana",quarry blast,1.17,7.93,0.247809319611902,6.0,reviewed,mb,mb
+2024-08-01T15:50:19.270Z,61.6845,-149.6652,46.7,1.8,ml,,,,0.33,ak,ak0249u68j1j,2024-08-01T15:52:03.332Z,"7 km NNW of Meadow Lakes, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2024-08-01T15:48:43.383Z,31.6152,-104.4813,5.0,2.5,mb_lg,18.0,68.0,0.056,0.69,us,us6000nhd5,2024-08-01T15:57:23.040Z,"62 km S of Whites City, New Mexico",earthquake,1.63,1.966,0.075,47.0,reviewed,us,us
