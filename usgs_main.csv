@@ -7383,3 +7383,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-31T18:32:30.040Z,37.9858333333333,-122.450166666667,-0.02,1.42,md,31.0,48.0,0.02519,0.12,nc,nc75041932,2024-08-01T08:15:25.122Z,"7 km ESE of Santa Venetia, CA",quarry blast,0.21,31.61,0.204,23.0,reviewed,nc,nc
 2024-08-01T08:27:16.850Z,38.8354988098145,-122.793663024902,1.9099999666214,1.09,md,18.0,69.0,0.01524,0.03,nc,nc75042162,2024-08-01T08:28:51.310Z,"6 km WNW of Cobb, CA",earthquake,0.23,0.419999987,0.07,20.0,automatic,nc,nc
 2024-07-31T19:08:47.960Z,39.3485,-123.1455,6.94,1.35,md,19.0,50.0,0.02847,0.08,nc,nc75041947,2024-08-01T08:35:30.514Z,"11 km NE of Redwood Valley, CA",earthquake,0.21,0.32,0.227,16.0,reviewed,nc,nc
+2024-08-01T08:44:57.891Z,61.6031,-145.9822,34.3,1.4,ml,,,,0.62,ak,ak0249u21ahp,2024-08-01T08:46:22.862Z,"43 km W of Tonsina, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-08-01T08:37:38.659Z,36.7841,-116.2426,3.1,-0.2,ml,11.0,100.12,0.086,0.162,nn,nn00881763,2024-08-01T08:39:10.033Z,"48 km ESE of Beatty, Nevada",earthquake,,0.7,0.15,9.0,automatic,nn,nn
