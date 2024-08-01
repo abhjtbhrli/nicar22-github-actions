@@ -7408,3 +7408,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-01T11:02:47.299Z,18.1869,-68.3261,111.291,4.3,mb,28.0,94.0,0.33,0.67,us,us6000nhbl,2024-08-01T11:20:50.040Z,"36 km SE of Boca de Yuma, Dominican Republic",earthquake,7.65,9.641,0.153,12.0,reviewed,us,us
 2024-08-01T11:02:48.320Z,18.1751,-68.305,106.0,4.05,md,19.0,174.0,0.3473,0.27,pr,pr2024214000,2024-08-01T11:29:15.372Z,"39 km SE of Boca de Yuma, Dominican Republic",earthquake,1.47,1.04,0.21,9.0,reviewed,pr,pr
 2024-08-01T01:34:39.010Z,36.3851666666667,-120.762666666667,12.31,1.48,md,15.0,213.0,0.04701,0.11,nc,nc75042062,2024-08-01T11:41:51.737Z,"9 km WSW of New Idria, CA",earthquake,0.59,0.26,0.361,18.0,reviewed,nc,nc
+2024-08-01T11:44:07.751Z,63.473,-150.201,114.3,0.9,ml,,,,0.19,ak,ak0249u3thfr,2024-08-01T11:46:14.082Z,"63 km W of Cantwell, Alaska",earthquake,,2.0,,,automatic,ak,ak
+2024-08-01T11:42:42.389Z,63.3884,-149.5858,11.4,1.0,ml,,,,0.35,ak,ak0249u3t4oe,2024-08-01T11:44:50.270Z,"31 km W of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-08-01T11:41:28.110Z,33.3093333,-116.25,3.55,0.65,ml,39.0,39.0,0.07271,0.24,ci,ci40679135,2024-08-01T11:47:18.192Z,"13 km ENE of Borrego Springs, CA",earthquake,0.3,0.36,0.108,12.0,automatic,ci,ci
+2024-08-01T07:52:10.330Z,39.4638333333333,-123.277666666667,9.08,1.47,md,22.0,50.0,0.04655,0.06,nc,nc75042147,2024-08-01T11:52:55.204Z,"9 km ENE of Willits, CA",earthquake,0.16,0.33,0.273,20.0,reviewed,nc,nc
