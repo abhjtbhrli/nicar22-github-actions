@@ -7590,3 +7590,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-01T20:52:53.481Z,36.6765,-116.2836,8.0,-0.3,ml,10.0,151.06,0.054,0.0654,nn,nn00881798,2024-08-01T22:53:09.270Z,"49 km ESE of Beatty, Nevada",earthquake,,1.4,0.01,2.0,reviewed,nn,nn
 2024-08-01T19:25:37.601Z,54.1186,-159.475,21.4,1.8,ml,,,,1.02,ak,ak0249u8gzkg,2024-08-01T22:57:47.372Z,"150 km SSE of Sand Point, Alaska",earthquake,,5.6,,,reviewed,ak,ak
 2024-08-01T08:22:48.060Z,54.7206666666667,-163.4785,1.72,0.38,ml,5.0,230.0,0.136,0.21,av,av93017129,2024-08-01T22:54:24.280Z,"15 km SSW of False Pass, Alaska",earthquake,1.08,3.45,0.236112760676821,5.0,reviewed,av,av
+2024-08-01T23:08:06.107Z,65.1381,-147.2672,23.9,1.2,ml,,,,1.5,ak,ak0249uaqysi,2024-08-01T23:10:16.417Z,"26 km NE of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-01T22:59:50.271Z,63.0991,-151.344,0.0,1.2,ml,,,,0.85,ak,ak0249uagk4a,2024-08-01T23:02:39.275Z,"52 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-01T22:41:42.986Z,31.558,-104.01,7.0915,1.7,ml,15.0,58.0,0.0,0.2,tx,tx2024paxc,2024-08-01T23:03:13.564Z,"33 km NW of Toyah, Texas",earthquake,0.0,2.4060097116161794,0.2,13.0,automatic,tx,tx
+2024-08-01T21:19:46.936Z,53.9956,-159.8712,20.2,2.3,ml,,,,0.6,ak,ak0249u9mo59,2024-08-01T23:03:18.627Z,"154 km SSE of Sand Point, Alaska",earthquake,,3.8,,,reviewed,ak,ak
+2024-08-01T08:59:38.950Z,61.3251666666667,-152.276833333333,1.73,0.21,ml,7.0,128.0,0.08073,0.11,av,av93217556,2024-08-01T23:20:21.970Z,"67 km WNW of Beluga, Alaska",earthquake,1.01,2.91,0.137659529657793,8.0,reviewed,av,av
+2024-08-01T08:49:01.440Z,61.2375,-152.267166666667,10.28,-0.23,ml,6.0,112.0,0.04255,0.32,av,av93217551,2024-08-01T23:12:44.970Z,"63 km WNW of Tyonek, Alaska",earthquake,1.81,1.59,0.167889763300109,6.0,reviewed,av,av
+2024-08-01T08:33:28.850Z,53.3925,-168.199833333333,3.98,0.24,ml,7.0,238.0,0.03696,0.26,av,av93217541,2024-08-01T23:00:11.850Z,"67 km NE of Nikolski, Alaska",earthquake,1.19,0.43,0.279562574760758,7.0,reviewed,av,av
