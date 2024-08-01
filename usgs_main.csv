@@ -7406,3 +7406,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-01T11:14:52.680Z,38.5378341674805,-119.549835205078,1.67999994754791,2.6,md,22.0,82.0,0.05347,0.12,nc,nc75042192,2024-08-01T11:17:12.517Z,"7 km NW of Walker, CA",earthquake,0.29,0.839999974,0.17,15.0,automatic,nc,nc
 2024-08-01T11:11:38.790Z,34.3406677,-116.8398361,1.37,1.29,ml,41.0,43.0,0.01259,0.17,ci,ci40679127,2024-08-01T11:22:11.160Z,"9 km N of Big Bear City, CA",earthquake,0.22,0.31,0.212,6.0,automatic,ci,ci
 2024-08-01T11:02:47.299Z,18.1869,-68.3261,111.291,4.3,mb,28.0,94.0,0.33,0.67,us,us6000nhbl,2024-08-01T11:20:50.040Z,"36 km SE of Boca de Yuma, Dominican Republic",earthquake,7.65,9.641,0.153,12.0,reviewed,us,us
+2024-08-01T11:02:48.320Z,18.1751,-68.305,106.0,4.05,md,19.0,174.0,0.3473,0.27,pr,pr2024214000,2024-08-01T11:29:15.372Z,"39 km SE of Boca de Yuma, Dominican Republic",earthquake,1.47,1.04,0.21,9.0,reviewed,pr,pr
