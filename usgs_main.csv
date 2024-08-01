@@ -7390,3 +7390,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-01T09:22:39.530Z,33.7671661,-116.935997,14.17,1.1,ml,16.0,198.0,0.08032,0.11,ci,ci40679087,2024-08-01T09:24:44.918Z,"3 km SE of San Jacinto, CA",earthquake,0.89,0.69,0.45,9.0,automatic,ci,ci
 2024-08-01T09:17:42.334Z,65.1486,-150.3196,8.9,1.0,ml,,,,0.43,ak,ak0249u2gwk9,2024-08-01T09:20:04.354Z,"22 km NE of Manley Hot Springs, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2024-08-01T09:30:00.170Z,35.6008333,-117.4028333,5.65,0.76,ml,21.0,78.0,0.05045,0.15,ci,ci40679095,2024-08-01T09:35:40.265Z,"18 km S of Trona, CA",earthquake,0.22,0.43,0.195,6.0,automatic,ci,ci
+2024-08-01T09:43:01.045Z,59.6547,-139.4478,11.2,2.5,ml,,,,0.77,ak,ak0249u2mdzs,2024-08-01T09:45:41.810Z,"19 km NE of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
