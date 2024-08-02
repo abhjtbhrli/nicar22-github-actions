@@ -7881,3 +7881,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-02T13:56:53.310Z,20.2696666666667,-155.754833333333,40.29,2.39,md,56.0,164.0,0.4207,0.15,hv,hv74380171,2024-08-02T21:15:07.470Z,"4 km NE of Hala‘ula, Hawaii",earthquake,0.58,1.19,0.0948459303237206,15.0,reviewed,hv,hv
 2024-08-02T07:45:58.570Z,58.3465,-154.943333333333,-2.08,-0.15,ml,9.0,181.0,0.08333,0.21,av,av93017309,2024-08-02T21:30:53.940Z,"91 km NNW of Karluk, Alaska",earthquake,0.61,1.68,0.142482651314451,9.0,reviewed,av,av
 2024-08-02T07:21:09.660Z,58.3085,-154.989333333333,1.03,0.11,ml,8.0,205.0,0.1242,0.08,av,av93218506,2024-08-02T21:30:18.640Z,"88 km NNW of Karluk, Alaska",earthquake,0.53,0.65,0.130952325912536,8.0,reviewed,av,av
+2024-08-02T19:12:20.737Z,52.5603,-166.8957,3.5,3.6,ml,,,,2.52,ak,ak0249vvxgrn,2024-08-02T21:40:45.145Z,"139 km ESE of Nikolski, Alaska",earthquake,,0.6,,,reviewed,ak,ak
+2024-08-02T17:34:04.996Z,59.0821,-151.21,19.1,2.3,ml,,,,0.78,ak,ak0249vuvb60,2024-08-02T21:36:55.484Z,"46 km SE of Port Graham, Alaska",earthquake,,2.1,,,reviewed,ak,ak
