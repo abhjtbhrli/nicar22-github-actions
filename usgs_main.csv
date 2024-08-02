@@ -7757,3 +7757,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-02T15:18:38.459Z,31.6611,-104.4141,7.112,2.9,mb_lg,25.0,63.0,0.074,0.29,us,us6000nhla,2024-08-02T15:28:06.040Z,"57 km S of Whites City, New Mexico",earthquake,1.94,5.533,0.055,88.0,reviewed,us,us
 2024-08-02T15:18:07.540Z,19.3871669769287,-155.258163452148,1.47000002861023,2.44,ml,11.0,71.0,0.006676,0.129999995,hv,hv74380266,2024-08-02T15:20:43.960Z,"6 km SSW of Volcano, Hawaii",earthquake,0.29,0.449999988,0.64,24.0,automatic,hv,hv
 2024-08-02T14:41:48.820Z,36.18916667,-95.84683333,0.0,1.08,ml,26.0,138.0,0.2816447317,0.33,ok,ok2024pcct,2024-08-02T15:25:07.785Z,"8 km S of Owasso, Oklahoma",quarry blast,,0.5,0.18,13.0,reviewed,ok,ok
+2024-08-02T15:17:59.224Z,31.679,-104.411,6.0999,1.6,ml,13.0,78.0,0.0,0.2,tx,tx2024pcdx,2024-08-02T15:34:04.936Z,"55 km S of Whites City, New Mexico",earthquake,0.9267756078475498,0.9276021498419968,0.2,8.0,reviewed,tx,tx
+2024-08-02T11:42:58.831Z,32.414,-102.089,8.1787,1.5,ml,34.0,83.0,0.0,0.1,tx,tx2024pbwy,2024-08-02T15:30:25.934Z,"37 km WSW of Ackerly, Texas",earthquake,0.4643565606075651,0.5917509841406652,0.2,27.0,reviewed,tx,tx
