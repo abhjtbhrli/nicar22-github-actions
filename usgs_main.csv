@@ -7743,3 +7743,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-02T14:04:16.600Z,32.5635,-115.6415,10.93,1.94,ml,28.0,71.0,0.05678,0.22,ci,ci40859080,2024-08-02T14:14:53.020Z,"6 km WSW of Progreso, B.C., MX",earthquake,0.29,0.51,0.252,28.0,automatic,ci,ci
 2024-08-02T14:00:19.540Z,33.7061667,-116.7431667,15.01,0.65,ml,25.0,102.0,0.02468,0.13,ci,ci40859064,2024-08-02T14:06:22.388Z,"4 km SSW of Idyllwild, CA",earthquake,0.26,0.4,0.256,13.0,automatic,ci,ci
 2024-08-02T12:17:44.539Z,31.616,-104.115,6.0999,1.8,ml,29.0,53.0,0.0,0.2,tx,tx2024pbya,2024-08-02T14:09:27.252Z,"45 km NW of Toyah, Texas",earthquake,0.5599244949876463,0.5694392169957146,0.3,23.0,reviewed,tx,tx
+2024-08-02T14:16:02.400Z,32.668,-115.765,10.79,1.58,ml,26.0,68.0,0.03752,0.26,ci,ci40859112,2024-08-02T14:22:24.823Z,"20 km WNW of Progreso, B.C., MX",earthquake,0.41,0.58,0.342,17.0,automatic,ci,ci
+2024-08-02T14:12:21.168Z,31.614,-104.467,3.0905,2.5,ml,15.0,124.0,0.1,0.4,tx,tx2024pcbu,2024-08-02T14:27:19.417Z,"62 km S of Whites City, New Mexico",earthquake,0.0,1.99653713131985,0.1,13.0,automatic,tx,tx
