@@ -7776,3 +7776,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-01T20:13:25.550Z,34.54916667,-97.25066667,0.0,1.1,ml,16.0,73.0,0.09538128294,0.38,ok,ok2024pase,2024-08-02T16:42:38.915Z,"9 km ESE of Katie, Oklahoma",quarry blast,,0.9,0.24,7.0,reviewed,ok,ok
 2024-08-01T20:10:45.310Z,34.5485,-97.48483333,0.0,1.16,ml,30.0,85.0,0.09898057663,0.72,ok,ok2024pasc,2024-08-02T16:36:12.117Z,"7 km S of Foster, Oklahoma",quarry blast,,1.2,0.15,11.0,reviewed,ok,ok
 2024-08-01T16:53:02.940Z,34.54533333,-97.26583333,0.0,1.19,ml,27.0,73.0,0.082783755,0.37,ok,ok2024palo,2024-08-02T16:29:19.426Z,"8 km ESE of Katie, Oklahoma",earthquake,,0.6,0.23,13.0,reviewed,ok,ok
+2024-08-02T16:44:06.090Z,32.3588333,-115.3479996,13.31,2.05,ml,23.0,64.0,0.1839,0.27,ci,ci40859352,2024-08-02T16:46:26.645Z,"15 km W of Delta, B.C., MX",earthquake,0.4,1.8,0.272,14.0,automatic,ci,ci
+2024-08-02T16:40:03.010Z,38.7738,-118.6145,12.3,2.0,ml,9.0,112.86,0.529,0.5026,nn,nn00881826,2024-08-02T16:42:37.131Z,"18 km NE of Walker Lake, Nevada",earthquake,,0.8,0.34,6.0,automatic,nn,nn
+2024-08-02T16:27:01.315Z,31.659,-104.346,4.0857,2.1,ml,18.0,69.0,0.1,0.3,tx,tx2024pcgf,2024-08-02T16:44:41.848Z,"57 km S of Whites City, New Mexico",earthquake,0.0,1.28203972459743,0.2,14.0,automatic,tx,tx
+2024-08-02T16:26:00.215Z,31.655,-104.345,5.3557,1.6,ml,8.0,136.0,0.1,0.3,tx,tx2024pcge,2024-08-02T16:44:36.782Z,"57 km S of Whites City, New Mexico",earthquake,0.0,4.57921912753617,0.4,6.0,automatic,tx,tx
+2024-08-02T10:17:56.220Z,40.7363333333333,-112.044666666667,7.11,1.67,ml,45.0,59.0,0.01151,0.23,uu,uu80077336,2024-08-02T16:41:19.810Z,"5 km ENE of Magna, Utah",earthquake,0.32,0.55,0.159963494763582,9.0,reviewed,uu,uu
+2024-08-01T23:28:35.009Z,35.552,-96.741,6.3,0.62,ml,30.0,45.0,0.01619682163,0.21,ok,ok2024payq,2024-08-02T16:48:31.812Z,"8 km NW of Prague, Oklahoma",earthquake,,0.4,0.31,12.0,reviewed,ok,ok
