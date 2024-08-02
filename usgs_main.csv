@@ -7901,3 +7901,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-02T22:29:11.790Z,32.555,-115.2436667,18.03,2.1,ml,24.0,50.0,0.1447,0.26,ci,ci40860160,2024-08-02T22:38:03.174Z,"10 km E of Puebla, B.C., MX",earthquake,0.36,1.36,0.25,27.0,automatic,ci,ci
 2024-08-02T22:23:05.000Z,8.3,127.1,52.0,7.0,Mi,28.0,53.999995680000346,1.678951,1.41,at,at00shm3ih,2024-08-02T22:36:12.143Z,"74 km ENE of Barcelona, Philippines",earthquake,0.0,0.0,,14.0,reviewed,at,at
 2024-08-02T09:37:10.220Z,52.1006666666667,-176.173,10.4,0.43,ml,0.0,252.0,0.007645,0.33,av,av93218606,2024-08-02T22:36:07.560Z,"40 km NE of Adak, Alaska",earthquake,1.6,1.24,0.164788947339661,6.0,reviewed,av,av
+2024-08-02T22:23:00.682Z,8.1856,126.6124,17.19,6.8,mww,110.0,32.0,1.509,1.41,us,us6000nhqc,2024-08-02T22:47:06.929Z,"19 km E of Barcelona, Philippines",earthquake,7.81,3.728,0.048,42.0,reviewed,us,us
+2024-08-02T09:58:02.830Z,54.5323333333333,-163.500833333333,10.33,0.99,ml,5.0,267.0,0.1803,0.04,av,av93017334,2024-08-02T22:41:51.320Z,"36 km S of False Pass, Alaska",earthquake,0.54,0.74,0.325958920793933,5.0,reviewed,av,av
