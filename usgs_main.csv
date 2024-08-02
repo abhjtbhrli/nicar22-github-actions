@@ -7828,3 +7828,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-02T18:42:15.350Z,33.2278328,-116.0435028,3.05,2.61,ml,94.0,24.0,0.1267,0.23,ci,ci40859592,2024-08-02T18:47:16.075Z,"11 km SW of Salton City, CA",earthquake,0.18,0.63,0.211,25.0,automatic,ci,ci
 2024-08-02T18:39:58.630Z,33.2260017,-116.043663,2.84,3.25,ml,119.0,25.0,0.1256,0.24,ci,ci40859584,2024-08-02T18:45:32.887Z,"12 km SW of Salton City, CA",earthquake,0.2,0.82,0.236,19.0,reviewed,ci,ci
 2024-08-02T18:11:46.919Z,31.714,-104.313,3.7992,2.0,ml,17.0,63.0,0.1,0.2,tx,tx2024pcjs,2024-08-02T18:42:25.664Z,"51 km S of Whites City, New Mexico",earthquake,0.0,1.2748644270531,0.2,12.0,automatic,tx,tx
+2024-08-02T18:15:58.872Z,48.8155,84.9806,47.753,4.8,mb,160.0,32.0,2.716,0.85,us,us6000nhn0,2024-08-02T18:54:29.040Z,"101 km ENE of Kurchum, Kazakhstan",earthquake,6.6,6.513,0.039,213.0,reviewed,us,us
+2024-08-02T01:15:11.990Z,46.41683333333334,-119.569,-0.05,0.5,ml,4.0,185.0,0.02773,0.04,uw,uw62031046,2024-08-02T18:49:32.950Z,"18 km NNW of Benton City, Washington",earthquake,0.51,31.61,0.1677152444833036,4.0,reviewed,uw,uw
