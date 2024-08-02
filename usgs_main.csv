@@ -7749,3 +7749,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-02T14:41:33.390Z,33.2283333,-116.0408333,3.32,0.79,ml,34.0,73.0,0.0692,0.24,ci,ci40859136,2024-08-02T14:48:00.547Z,"11 km SW of Salton City, CA",earthquake,0.25,0.49,0.165,14.0,automatic,ci,ci
 2024-08-02T14:28:11.828Z,31.636,-104.473,5.3731,1.6,ml,8.0,116.0,0.0,0.3,tx,tx2024pcci,2024-08-02T14:47:52.565Z,"60 km S of Whites City, New Mexico",earthquake,0.0,6.24733005715382,0.1,6.0,automatic,tx,tx
 2024-08-02T14:18:57.035Z,44.6833,-86.9281,10.926,2.9,mb_lg,17.0,86.0,0.639,0.38,us,us6000nhkd,2024-08-02T14:46:23.040Z,"39 km ESE of Sturgeon Bay, Wisconsin",earthquake,2.7,8.461,0.055,85.0,reviewed,us,us
+2024-08-02T15:04:46.890Z,32.5565,-115.6603333,9.06,1.74,ml,25.0,75.0,0.06914,0.26,ci,ci40859160,2024-08-02T15:11:13.099Z,"8 km WSW of Progreso, B.C., MX",earthquake,0.35,0.8,0.249,31.0,automatic,ci,ci
+2024-08-02T14:57:24.200Z,38.8235015869141,-122.806999206543,2.46000003814697,0.79,md,16.0,63.0,0.002404,0.01,nc,nc75042727,2024-08-02T15:17:15.871Z,"7 km NNW of The Geysers, CA",earthquake,0.26,0.589999974,0.23,16.0,automatic,nc,nc
+2024-08-02T12:08:30.320Z,32.114,-101.06,6.8604,1.9,ml,21.0,49.0,0.2,0.2,tx,tx2024pbxs,2024-08-02T15:07:08.725Z,"27 km S of Westbrook, Texas",earthquake,2.3276259520683875,4.948083131201,0.2,16.0,reviewed,tx,tx
