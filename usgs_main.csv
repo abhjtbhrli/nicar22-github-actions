@@ -7782,3 +7782,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-02T16:26:00.215Z,31.655,-104.345,5.3557,1.6,ml,8.0,136.0,0.1,0.3,tx,tx2024pcge,2024-08-02T16:44:36.782Z,"57 km S of Whites City, New Mexico",earthquake,0.0,4.57921912753617,0.4,6.0,automatic,tx,tx
 2024-08-02T10:17:56.220Z,40.7363333333333,-112.044666666667,7.11,1.67,ml,45.0,59.0,0.01151,0.23,uu,uu80077336,2024-08-02T16:41:19.810Z,"5 km ENE of Magna, Utah",earthquake,0.32,0.55,0.159963494763582,9.0,reviewed,uu,uu
 2024-08-01T23:28:35.009Z,35.552,-96.741,6.3,0.62,ml,30.0,45.0,0.01619682163,0.21,ok,ok2024payq,2024-08-02T16:48:31.812Z,"8 km NW of Prague, Oklahoma",earthquake,,0.4,0.31,12.0,reviewed,ok,ok
+2024-08-02T16:55:25.250Z,35.8735008,-117.7200012,7.76,2.14,ml,34.0,73.0,0.07436,0.15,ci,ci40859376,2024-08-02T16:57:36.710Z,"18 km ESE of Little Lake, CA",earthquake,0.24,0.74,0.191,25.0,automatic,ci,ci
+2024-08-02T16:55:08.980Z,38.8224983215332,-122.851997375488,2.36999988555908,0.83,md,15.0,113.0,0.006317,0.01,nc,nc75042737,2024-08-02T16:56:43.231Z,"10 km NW of The Geysers, CA",earthquake,0.31,0.529999971,0.16,17.0,automatic,nc,nc
+2024-08-02T16:48:11.490Z,65.1292,-148.5532,15.6,1.1,ml,,,,0.18,ak,ak0249vucv3x,2024-08-02T16:49:35.615Z,"37 km E of Minto, Alaska",earthquake,,0.5,,,automatic,ak,ak
