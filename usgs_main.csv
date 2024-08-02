@@ -7663,3 +7663,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-02T04:29:47.453Z,62.6299,-150.7188,29.7,1.5,ml,,,,0.64,ak,ak0249vn3o0p,2024-08-02T04:32:19.739Z,"15 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-08-01T23:59:02.600Z,51.9,179.584333333333,13.14,0.25,ml,4.0,186.0,0.01425,0.26,av,av93218236,2024-08-02T04:30:15.990Z,"260 km W of Adak, Alaska",earthquake,4.14,1.33,0.528701787883373,4.0,reviewed,av,av
 2024-08-01T21:24:20.840Z,58.238,-155.1385,4.42,-0.33,ml,5.0,209.0,0.08358,0.14,av,av93017259,2024-08-02T04:34:22.000Z,"84 km NNW of Karluk, Alaska",earthquake,0.63,1.42,0.177145556862494,5.0,reviewed,av,av
+2024-08-02T04:41:01.570Z,38.8321647644043,-122.815498352051,1.49000000953674,0.76,md,13.0,54.0,0.009728,0.02,nc,nc75042582,2024-08-02T04:42:36.433Z,"8 km NNW of The Geysers, CA",earthquake,0.32,0.709999979,0.16,14.0,automatic,nc,nc
+2024-08-01T05:54:48.271Z,33.678,141.6249,28.161,4.5,mb,50.0,151.0,4.0,0.52,us,us6000nhaj,2024-08-02T04:43:16.040Z,"202 km SE of Katsuura, Japan",earthquake,13.9,7.002,0.089,37.0,reviewed,us,us
