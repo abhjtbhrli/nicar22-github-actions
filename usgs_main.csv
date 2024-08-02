@@ -7720,3 +7720,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-02T10:05:49.393Z,43.2595,-110.8994,7.034,3.1,ml,39.0,84.0,0.227,0.42,us,us6000nhj5,2024-08-02T10:23:10.832Z,"9 km WSW of Hoback, Wyoming",earthquake,3.42,6.569,0.042,74.0,reviewed,us,us
 2024-08-02T09:54:34.537Z,67.4358,-163.997,12.023,2.5,ml,25.0,171.0,0.747,0.54,us,us6000nhj2,2024-08-02T10:26:54.040Z,"39 km SE of Kivalina, Alaska",earthquake,6.09,6.354,0.071,26.0,reviewed,us,us
 2024-08-02T10:30:10.830Z,59.1003,-152.5995,74.3,1.4,ml,,,,0.32,ak,ak0249vqoejf,2024-08-02T10:40:17.923Z,"48 km SW of Nanwalek, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2024-08-02T10:37:41.408Z,31.709,-104.321,4.5429,1.9,ml,17.0,64.0,0.1,0.2,tx,tx2024pbur,2024-08-02T10:50:20.208Z,"52 km S of Whites City, New Mexico",earthquake,0.0,1.23302849834269,0.2,13.0,automatic,tx,tx
