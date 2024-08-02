@@ -7878,3 +7878,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-02T20:50:07.320Z,33.2308333,-116.0411667,3.26,0.93,ml,37.0,74.0,0.06755,0.2,ci,ci40860016,2024-08-02T20:56:05.992Z,"11 km SW of Salton City, CA",earthquake,0.18,0.3,0.101,21.0,automatic,ci,ci
 2024-08-02T14:50:19.130Z,19.3898333333333,-155.2465,1.57,2.72,ml,39.0,43.0,0.006254,0.09,hv,hv74380211,2024-08-02T21:03:15.960Z,"6 km SSW of Volcano, Hawaii",earthquake,0.17,0.14,0.195103949914329,19.0,reviewed,hv,hv
 2024-08-02T03:08:54.873Z,54.0058,-159.6786,50.0,2.2,ml,,,,0.8,ak,ak0249vmdvjw,2024-08-02T21:07:00.060Z,"157 km SSE of Sand Point, Alaska",earthquake,,0.0,,,reviewed,ak,ak
+2024-08-02T13:56:53.310Z,20.2696666666667,-155.754833333333,40.29,2.39,md,56.0,164.0,0.4207,0.15,hv,hv74380171,2024-08-02T21:15:07.470Z,"4 km NE of Hala‘ula, Hawaii",earthquake,0.58,1.19,0.0948459303237206,15.0,reviewed,hv,hv
