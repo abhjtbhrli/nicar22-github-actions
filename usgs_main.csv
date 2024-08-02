@@ -7910,3 +7910,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-02T23:00:18.536Z,61.2927,-146.2046,28.5,1.5,ml,,,,0.55,ak,ak0249vy8mil,2024-08-02T23:02:14.666Z,"19 km NNE of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-02T22:31:14.830Z,8.1105,126.7251,81.641,5.3,mb,50.0,93.0,1.536,0.95,us,us6000nhqj,2024-08-02T23:08:52.040Z,"32 km E of Barcelona, Philippines",earthquake,9.66,5.751,0.049,138.0,reviewed,us,us
 2024-08-02T22:08:54.780Z,38.4828333333333,-112.897333333333,2.69,0.47,md,11.0,93.0,0.005139,0.09,uu,uu80077371,2024-08-02T22:59:07.530Z,"13 km NE of Milford, Utah",earthquake,0.28,0.5,0.0680678856469561,3.0,reviewed,uu,uu
+2024-08-02T23:12:00.850Z,31.672,-104.425,3.6064,1.8,ml,17.0,61.0,0.0,0.6,tx,tx2024pctq,2024-08-02T23:25:56.780Z,"56 km S of Whites City, New Mexico",earthquake,0.0,1.47573950704947,0.1,13.0,automatic,tx,tx
+2024-08-02T23:08:39.880Z,31.675,-104.406,3.8498,1.8,ml,17.0,69.0,0.0,0.3,tx,tx2024pctn,2024-08-02T23:25:50.755Z,"55 km S of Whites City, New Mexico",earthquake,0.0,1.41556380857547,0.1,12.0,automatic,tx,tx
+2024-08-02T22:49:49.362Z,31.672,-104.409,4.5186,1.5,ml,17.0,70.0,0.0,0.4,tx,tx2024pcsv,2024-08-02T23:25:36.756Z,"55 km S of Whites City, New Mexico",earthquake,0.0,1.31507239980068,0.1,12.0,automatic,tx,tx
+2024-08-02T22:46:02.306Z,7.8963,126.7067,77.659,4.9,mb,50.0,109.0,1.387,0.69,us,us6000nhr3,2024-08-02T23:21:29.040Z,"28 km NE of Kinablangan, Philippines",earthquake,11.51,7.581,0.059,90.0,reviewed,us,us
