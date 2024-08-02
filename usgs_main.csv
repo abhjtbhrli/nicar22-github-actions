@@ -7871,3 +7871,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-02T20:28:00.296Z,12.6202,146.5224,10.0,5.1,mb,106.0,42.0,2.693,0.83,us,us6000nhpc,2024-08-02T20:48:07.584Z,"204 km ESE of Yigo Village, Guam",earthquake,8.19,1.861,0.036,256.0,reviewed,us,us
 2024-08-02T15:18:42.430Z,19.3891666666667,-155.2465,1.65,2.79,ml,32.0,59.0,0.005818,0.1,hv,hv74380271,2024-08-02T20:50:39.470Z,"6 km SSW of Volcano, Hawaii",earthquake,0.16,0.14,0.191240534993745,14.0,reviewed,hv,hv
 2024-08-02T06:16:28.140Z,54.7701666666667,-163.873166666667,30.29,0.32,ml,6.0,115.0,0.08152,0.24,av,av93017299,2024-08-02T20:51:58.510Z,"31 km WSW of False Pass, Alaska",earthquake,2.26,1.65,0.475942688761485,6.0,reviewed,av,av
+2024-08-02T21:05:35.870Z,35.87,-120.42,6.38,1.06,md,9.0,140.0,0.02444,0.03,nc,nc75042842,2024-08-02T21:07:10.895Z,"3 km S of Parkfield, CA",earthquake,0.55,0.74000001,0.18,4.0,automatic,nc,nc
+2024-08-02T21:04:22.760Z,38.82,-122.81,2.52,1.35,md,30.0,38.0,0.002875,0.02,nc,nc75042837,2024-08-02T21:07:43.750Z,"7 km NNW of The Geysers, CA",earthquake,0.2,0.360000014,0.17,32.0,automatic,nc,nc
+2024-08-02T21:00:42.222Z,63.2574,-150.5777,118.3,1.4,ml,,,,0.43,ak,ak0249vx1t4u,2024-08-02T21:02:46.299Z,"65 km ESE of Denali National Park, Alaska",earthquake,,2.1,,,automatic,ak,ak
+2024-08-02T20:52:35.950Z,61.0692,-148.4965,0.6,1.6,ml,,,,0.97,ak,ak0249vwria3,2024-08-02T20:55:02.455Z,"34 km NNE of Whittier, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-08-02T20:50:07.320Z,33.2308333,-116.0411667,3.26,0.93,ml,37.0,74.0,0.06755,0.2,ci,ci40860016,2024-08-02T20:56:05.992Z,"11 km SW of Salton City, CA",earthquake,0.18,0.3,0.101,21.0,automatic,ci,ci
+2024-08-02T14:50:19.130Z,19.3898333333333,-155.2465,1.57,2.72,ml,39.0,43.0,0.006254,0.09,hv,hv74380211,2024-08-02T21:03:15.960Z,"6 km SSW of Volcano, Hawaii",earthquake,0.17,0.14,0.195103949914329,19.0,reviewed,hv,hv
+2024-08-02T03:08:54.873Z,54.0058,-159.6786,50.0,2.2,ml,,,,0.8,ak,ak0249vmdvjw,2024-08-02T21:07:00.060Z,"157 km SSE of Sand Point, Alaska",earthquake,,0.0,,,reviewed,ak,ak
