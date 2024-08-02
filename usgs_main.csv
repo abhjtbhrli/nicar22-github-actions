@@ -7678,3 +7678,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-02T06:30:12.120Z,38.8358345031738,-122.790168762207,1.92999994754791,0.97,md,12.0,59.0,0.002574,0.02,nc,nc75042612,2024-08-02T06:31:51.453Z,"6 km WNW of Cobb, CA",earthquake,0.32,0.550000012,0.27,14.0,automatic,nc,nc
 2024-08-02T06:28:49.252Z,64.823,-147.9929,62.4,0.6,ml,,,,1.27,ak,ak0249voabnh,2024-08-02T06:30:26.935Z,"2 km SSE of Ester, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2024-08-02T06:01:48.422Z,31.6341,-104.3777,10.033,2.8,ml,42.0,62.0,0.11,0.46,us,us6000nhi6,2024-08-02T06:30:29.040Z,"60 km S of Whites City, New Mexico",earthquake,1.83,8.23,0.057,44.0,reviewed,us,us
+2024-08-02T06:48:23.398Z,61.4526,-146.5654,26.0,1.4,ml,,,,0.39,ak,ak0249voejz7,2024-08-02T06:49:49.547Z,"37 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-02T06:42:44.196Z,62.9844,-150.4865,106.6,1.6,ml,,,,0.39,ak,ak0249vodbab,2024-08-02T06:44:57.661Z,"56 km NNE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-08-02T06:01:48.487Z,31.648,-104.375,4.6628,2.6,ml,17.0,71.0,0.0,0.3,tx,tx2024pblp,2024-08-02T06:44:24.343Z,"58 km S of Whites City, New Mexico",earthquake,0.0,1.40035406301698,0.1,13.0,automatic,tx,tx
