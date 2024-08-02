@@ -7759,3 +7759,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-02T14:41:48.820Z,36.18916667,-95.84683333,0.0,1.08,ml,26.0,138.0,0.2816447317,0.33,ok,ok2024pcct,2024-08-02T15:25:07.785Z,"8 km S of Owasso, Oklahoma",quarry blast,,0.5,0.18,13.0,reviewed,ok,ok
 2024-08-02T15:17:59.224Z,31.679,-104.411,6.0999,1.6,ml,13.0,78.0,0.0,0.2,tx,tx2024pcdx,2024-08-02T15:34:04.936Z,"55 km S of Whites City, New Mexico",earthquake,0.9267756078475498,0.9276021498419968,0.2,8.0,reviewed,tx,tx
 2024-08-02T11:42:58.831Z,32.414,-102.089,8.1787,1.5,ml,34.0,83.0,0.0,0.1,tx,tx2024pbwy,2024-08-02T15:30:25.934Z,"37 km WSW of Ackerly, Texas",earthquake,0.4643565606075651,0.5917509841406652,0.2,27.0,reviewed,tx,tx
+2024-08-02T15:49:34.210Z,19.1464996337891,-155.367660522461,29.3899993896484,2.22000003,md,54.0,185.0,0.08973,0.140000001,hv,hv74380301,2024-08-02T15:51:21.780Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.51,0.589999974,0.170000002,20.0,automatic,hv,hv
+2024-08-02T15:48:55.836Z,59.481,-153.0245,94.9,1.6,ml,,,,0.33,ak,ak0249vtrixb,2024-08-02T15:50:52.150Z,"64 km WNW of Nanwalek, Alaska",earthquake,,0.4,,,automatic,ak,ak
