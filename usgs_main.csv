@@ -7727,3 +7727,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-02T12:09:32.707Z,61.5723,-141.2797,12.5,1.6,ml,,,,0.19,ak,ak0249vrqtee,2024-08-02T12:10:59.278Z,"88 km E of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-02T11:56:39.641Z,62.3043,-147.8753,29.1,2.1,ml,,,,0.58,ak,ak0249vrfgzv,2024-08-02T11:58:13.990Z,"54 km NW of Eureka Roadhouse, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-02T11:38:31.868Z,31.643,-104.334,4.9,1.9,ml,18.0,70.0,0.1,0.3,tx,tx2024pbwu,2024-08-02T12:00:45.753Z,"59 km S of Whites City, New Mexico",earthquake,0.0,1.31789777798684,0.2,14.0,automatic,tx,tx
+2024-08-02T12:37:30.467Z,57.2089,-156.554,78.9,1.0,ml,,,,0.5,ak,ak0249vrwtvh,2024-08-02T12:40:57.251Z,"61 km SE of Ugashik, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-08-02T08:19:25.264Z,48.6762,-128.7582,10.0,4.1,mb,64.0,119.0,0.788,1.14,us,us6000nhir,2024-08-02T12:31:06.040Z,"215 km WSW of Tofino, Canada",earthquake,4.67,1.974,0.07,55.0,reviewed,us,us
