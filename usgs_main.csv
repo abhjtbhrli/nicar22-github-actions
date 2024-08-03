@@ -8066,3 +8066,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-03T13:18:22.450Z,46.84400177001953,-121.76983642578124,-1.3400000333786,0.769999981,md,21.0,65.0,,0.0599999987,uw,uw62031786,2024-08-03T13:20:04.450Z,"22 km ENE of Ashford, Washington",earthquake,0.24,9.68999958,,1.0,automatic,uw,uw
 2024-08-03T13:12:35.280Z,18.6563,-64.979,92.0,3.65,md,19.0,220.0,0.3034,0.24,pr,pr2024216000,2024-08-03T13:35:27.129Z,"35 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,3.26,1.53,0.22,15.0,reviewed,pr,pr
 2024-08-03T13:27:28.771Z,31.616,-104.122,4.4081,1.7,ml,16.0,57.0,0.0,0.2,tx,tx2024pdvu,2024-08-03T13:40:38.155Z,"45 km NW of Toyah, Texas",earthquake,0.0,1.3008963960655,0.2,13.0,automatic,tx,tx
+2024-08-03T13:49:09.490Z,38.83,-122.81,2.97,0.77,md,10.0,102.0,0.002998,0.01,nc,nc75043067,2024-08-03T13:50:49.550Z,"7 km NNW of The Geysers, CA",earthquake,0.5,1.5,0.14,12.0,automatic,nc,nc
+2024-08-02T21:06:04.170Z,36.419,-92.7541666666667,4.0,2.27,md,13.0,60.0,0.1017,0.18,nm,nm60502253,2024-08-03T13:47:51.691Z,"14 km E of South Lead Hill, Arkansas",earthquake,0.46,1.87,0.0821550296093125,13.0,reviewed,nm,nm
