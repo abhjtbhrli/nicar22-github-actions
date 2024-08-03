@@ -7973,3 +7973,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-03T03:39:50.045Z,62.0702,-148.6563,54.2,1.2,ml,,,,0.65,ak,ak0249xa3q9o,2024-08-03T03:42:04.070Z,"32 km NNW of Chickaloon, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-08-03T03:39:34.730Z,33.232,-116.0406667,3.13,1.05,ml,49.0,40.0,0.07866,0.23,ci,ci40860344,2024-08-03T03:45:37.704Z,"11 km SW of Salton City, CA",earthquake,0.2,0.41,0.096,26.0,automatic,ci,ci
 2024-08-03T03:37:49.990Z,62.9675,-149.3811,60.2,1.4,ml,,,,0.9,ak,ak0249xa3atx,2024-08-03T03:40:16.199Z,"52 km SSW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-08-03T03:51:28.347Z,39.4823,-119.48,0.0,1.2,ml,9.0,102.76,0.275,0.1563,nn,nn00881875,2024-08-03T03:53:58.884Z,"15 km NW of Stagecoach, Nevada",earthquake,,43.0,0.29,6.0,automatic,nn,nn
+2024-08-03T03:48:06.300Z,38.82,-122.76,1.48,1.17,md,19.0,128.0,0.01228,0.06,nc,nc75042947,2024-08-03T03:49:42.689Z,"3 km W of Cobb, CA",earthquake,0.3,0.419999987,0.18,21.0,automatic,nc,nc
