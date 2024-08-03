@@ -7986,3 +7986,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-03T04:32:09.480Z,19.4843330383301,-155.370834350586,49.5200004577637,2.70000005,md,21.0,76.0,0.01681,0.219999999,hv,hv74381331,2024-08-03T04:33:57.360Z,"15 km WNW of Volcano, Hawaii",earthquake,1.05,4.38000011,0.180000007,12.0,automatic,hv,hv
 2024-08-03T04:20:26.755Z,8.1704,126.7644,16.394,5.9,mb,110.0,32.0,1.605,0.98,us,us6000nht0,2024-08-03T04:40:34.040Z,"36 km E of Barcelona, Philippines",earthquake,7.21,4.034,0.034,327.0,reviewed,us,us
 2024-08-03T04:44:02.900Z,38.77,-122.72,2.8,1.0,md,9.0,111.0,0.004569,0.02,nc,nc75042977,2024-08-03T04:45:36.500Z,"3 km W of Anderson Springs, CA",earthquake,0.81,1.28999996,0.24,8.0,automatic,nc,nc
+2024-08-03T04:48:09.290Z,35.8706667,-117.7226667,9.11,0.63,ml,20.0,91.0,0.07083,0.12,ci,ci40860384,2024-08-03T04:53:57.965Z,"18 km ESE of Little Lake, CA",earthquake,0.17,0.48,0.137,6.0,automatic,ci,ci
