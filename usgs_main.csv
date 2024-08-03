@@ -7979,3 +7979,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-03T04:07:50.570Z,38.82,-122.82,2.36,0.83,md,15.0,61.0,0.006778,0.02,nc,nc75042957,2024-08-03T04:09:27.465Z,"7 km NW of The Geysers, CA",earthquake,0.27,0.689999998,0.23,17.0,automatic,nc,nc
 2024-08-03T04:05:43.040Z,19.3693332672119,-155.169662475586,2.25999999046326,1.92,ml,34.0,78.0,0.01007,0.239999995,hv,hv74381291,2024-08-03T04:08:20.820Z,"10 km SE of Volcano, Hawaii",earthquake,0.57,0.50999999,0.24,16.0,automatic,hv,hv
 2024-08-03T03:56:39.494Z,64.927,-148.9874,22.0,1.1,ml,,,,0.46,ak,ak0249xa7cml,2024-08-03T03:58:19.453Z,"30 km SE of Minto, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-08-03T04:18:59.050Z,40.35,-124.4,22.26,1.5,md,7.0,321.0,0.0943,0.09,nc,nc75042972,2024-08-03T04:20:37.389Z,"10 km WNW of Petrolia, CA",earthquake,3.85,1.42999995,0.15,2.0,automatic,nc,nc
+2024-08-03T04:14:36.590Z,38.81,-122.79,-0.49,1.06,md,8.0,145.0,0.005209,0.03,nc,nc75042967,2024-08-03T04:16:12.300Z,"5 km NNW of The Geysers, CA",earthquake,0.4,0.850000024,0.14,11.0,automatic,nc,nc
+2024-08-03T04:12:51.070Z,33.5813333,-117.247,15.28,0.5,ml,18.0,100.0,0.0469,0.11,ci,ci40860360,2024-08-03T04:19:13.463Z,"4 km ESE of Wildomar, CA",earthquake,0.22,0.49,0.181,11.0,automatic,ci,ci
+2024-08-03T04:00:11.333Z,31.656,-104.352,4.2556,2.0,ml,17.0,70.0,0.1,0.2,tx,tx2024pddc,2024-08-03T04:20:25.914Z,"57 km S of Whites City, New Mexico",earthquake,0.0,1.3107513859414297,0.2,13.0,automatic,tx,tx
