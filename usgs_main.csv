@@ -8154,3 +8154,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-03T20:24:49.090Z,38.84,-122.8,1.63,2.06,md,42.0,31.0,0.01106,0.05,nc,nc75043162,2024-08-03T20:28:05.590Z,"7 km WNW of Cobb, CA",earthquake,0.15,0.25,0.15,43.0,automatic,nc,nc
 2024-08-03T20:03:09.060Z,48.4016,154.6515,37.8,4.8,mb,55.0,176.0,5.093,0.61,us,us6000nhyt,2024-08-03T20:38:22.040Z,"274 km SSW of Severo-Kuril’sk, Russia",earthquake,11.69,8.922,0.06,85.0,reviewed,us,us
 2024-08-03T20:28:14.072Z,31.649,-104.339,3.8331,1.7,ml,18.0,70.0,0.1,0.5,tx,tx2024pejs,2024-08-03T20:48:16.330Z,"58 km S of Whites City, New Mexico",earthquake,0.0,1.27408920181509,0.2,14.0,automatic,tx,tx
+2024-08-03T17:28:30.872Z,-22.8616,179.0861,578.623,4.3,mb,88.0,58.0,5.182,0.88,us,us6000nhy1,2024-08-03T21:04:23.040Z,south of the Fiji Islands,earthquake,10.74,6.75,0.059,89.0,reviewed,us,us
