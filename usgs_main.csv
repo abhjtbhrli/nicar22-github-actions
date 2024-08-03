@@ -7975,3 +7975,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-03T03:37:49.990Z,62.9675,-149.3811,60.2,1.4,ml,,,,0.9,ak,ak0249xa3atx,2024-08-03T03:40:16.199Z,"52 km SSW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-08-03T03:51:28.347Z,39.4823,-119.48,0.0,1.2,ml,9.0,102.76,0.275,0.1563,nn,nn00881875,2024-08-03T03:53:58.884Z,"15 km NW of Stagecoach, Nevada",earthquake,,43.0,0.29,6.0,automatic,nn,nn
 2024-08-03T03:48:06.300Z,38.82,-122.76,1.48,1.17,md,19.0,128.0,0.01228,0.06,nc,nc75042947,2024-08-03T03:49:42.689Z,"3 km W of Cobb, CA",earthquake,0.3,0.419999987,0.18,21.0,automatic,nc,nc
+2024-08-03T04:14:22.180Z,38.83,-122.82,1.66,0.93,md,19.0,57.0,0.009736,0.01,nc,nc75042962,2024-08-03T04:15:57.469Z,"8 km NNW of The Geysers, CA",earthquake,0.24,0.430000007,0.15,20.0,automatic,nc,nc
+2024-08-03T04:07:50.570Z,38.82,-122.82,2.36,0.83,md,15.0,61.0,0.006778,0.02,nc,nc75042957,2024-08-03T04:09:27.465Z,"7 km NW of The Geysers, CA",earthquake,0.27,0.689999998,0.23,17.0,automatic,nc,nc
+2024-08-03T04:05:43.040Z,19.3693332672119,-155.169662475586,2.25999999046326,1.92,ml,34.0,78.0,0.01007,0.239999995,hv,hv74381291,2024-08-03T04:08:20.820Z,"10 km SE of Volcano, Hawaii",earthquake,0.57,0.50999999,0.24,16.0,automatic,hv,hv
+2024-08-03T03:56:39.494Z,64.927,-148.9874,22.0,1.1,ml,,,,0.46,ak,ak0249xa7cml,2024-08-03T03:58:19.453Z,"30 km SE of Minto, Alaska",earthquake,,0.7,,,automatic,ak,ak
