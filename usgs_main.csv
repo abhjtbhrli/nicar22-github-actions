@@ -8048,3 +8048,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-03T10:58:25.702Z,31.43,-103.716,2.6887,1.9,ml,7.0,124.0,0.1,1.1,tx,tx2024pdqw,2024-08-03T11:06:35.944Z,"14 km NNE of Toyah, Texas",earthquake,0.0,3.64100952737259,0.3,7.0,automatic,tx,tx
 2024-08-03T11:29:34.820Z,38.83,-122.85,2.59,1.09,md,23.0,81.0,0.002308,0.02,nc,nc75043047,2024-08-03T11:31:11.852Z,"10 km NW of The Geysers, CA",earthquake,0.25,0.409999996,0.16,25.0,automatic,nc,nc
 2024-08-03T11:24:07.215Z,64.4707,-146.9516,10.1,0.4,ml,,,,0.45,ak,ak0249xerw1p,2024-08-03T11:26:41.761Z,"6 km SSW of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-03T11:26:53.850Z,33.8456667,-117.0726667,14.43,0.58,ml,36.0,51.0,0.1297,0.12,ci,ci40860640,2024-08-03T11:33:25.730Z,"8 km NE of Nuevo, CA",earthquake,0.18,0.43,0.203,13.0,automatic,ci,ci
