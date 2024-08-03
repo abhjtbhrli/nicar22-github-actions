@@ -8170,3 +8170,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-03T21:24:57.216Z,31.657,-104.375,3.8519,1.5,ml,16.0,70.0,0.0,0.3,tx,tx2024pelo,2024-08-03T21:57:46.795Z,"57 km S of Whites City, New Mexico",earthquake,0.0,1.37606640123791,0.2,12.0,automatic,tx,tx
 2024-08-03T21:18:04.724Z,31.658,-104.373,4.2005,1.5,ml,16.0,70.0,0.1,0.3,tx,tx2024peli,2024-08-03T21:57:41.788Z,"57 km S of Whites City, New Mexico",earthquake,0.0,1.42496239127339,0.2,13.0,automatic,tx,tx
 2024-08-03T22:04:17.010Z,34.4493332,-118.7991638,-0.43,1.47,ml,11.0,99.0,0.1893,0.29,ci,ci40861216,2024-08-03T22:10:53.889Z,"4 km N of Piru, CA",earthquake,0.57,2.92,0.244,20.0,automatic,ci,ci
+2024-08-03T22:32:07.063Z,58.2655,-154.0541,72.3,2.9,ml,,,,0.35,ak,ak0249xlddfa,2024-08-03T22:33:52.153Z,"71 km WNW of Aleneva, Alaska",earthquake,,0.4,,,automatic,ak,ak
