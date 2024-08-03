@@ -8130,3 +8130,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-03T18:31:45.850Z,33.2398338,-116.0356674,2.9,1.19,ml,29.0,86.0,0.08207,0.18,ci,ci40861056,2024-08-03T18:33:48.316Z,"10 km SW of Salton City, CA",earthquake,0.33,0.61,0.097,6.0,automatic,ci,ci
 2024-08-03T16:28:42.087Z,30.1145,86.9044,10.0,4.3,mb,42.0,96.0,2.71,0.57,us,us6000nhxg,2024-08-03T18:37:37.040Z,"184 km ENE of Saga, China",earthquake,11.51,1.878,0.083,45.0,reviewed,us,us
 2024-08-02T19:18:34.054Z,-29.6139,-69.0261,10.0,4.2,mb,15.0,127.0,0.996,1.34,us,us6000nhnq,2024-08-03T18:34:47.040Z,"74 km NNW of San José de Jáchal, Argentina",earthquake,3.98,1.919,0.305,4.0,reviewed,us,us
+2024-08-03T18:35:24.286Z,31.673,-104.369,6.8689,3.2,ml,24.0,57.0,0.1,0.2,tx,tx2024pefy,2024-08-03T18:50:45.040Z,"55 km S of Whites City, New Mexico",earthquake,1.019313855039136,1.017683953986568,0.2,12.0,reviewed,tx,tx
+2024-08-03T18:34:04.300Z,33.2348333,-116.0398333,3.03,0.73,ml,31.0,73.0,0.08033,0.19,ci,ci40861072,2024-08-03T18:47:22.070Z,"10 km SW of Salton City, CA",earthquake,0.21,0.37,0.133,11.0,automatic,ci,ci
