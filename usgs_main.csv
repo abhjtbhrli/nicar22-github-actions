@@ -8179,3 +8179,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-03T22:29:54.555Z,60.403,-158.8395,6.651,2.6,ml,12.0,115.0,0.624,0.99,us,us6000nhz7,2024-08-03T22:47:33.040Z,"114 km NW of Koliganek, Alaska",earthquake,3.91,3.303,0.074,24.0,reviewed,us,us
 2024-08-03T03:28:48.210Z,51.7826666666667,-178.801166666667,7.29,0.44,ml,5.0,120.0,0.02792,0.26,av,av93219201,2024-08-03T22:45:53.420Z,"149 km W of Adak, Alaska",earthquake,1.5,1.58,0.148382955699568,5.0,reviewed,av,av
 2024-08-03T23:22:40.429Z,64.9336,-147.3022,0.0,1.4,ml,,,,1.45,ak,ak0249xlwqga,2024-08-03T23:24:37.013Z,"14 km WNW of Two Rivers, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-08-03T23:39:14.640Z,63.0259,-150.2948,61.9,1.2,ml,,,,0.66,ak,ak0249xm0bmw,2024-08-03T23:41:43.471Z,"63 km NNE of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
