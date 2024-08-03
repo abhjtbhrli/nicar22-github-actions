@@ -7969,3 +7969,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-03T02:19:15.192Z,31.639,-104.455,3.9719,1.9,ml,8.0,99.0,0.0,0.4,tx,tx2024pczt,2024-08-03T02:50:32.281Z,"59 km S of Whites City, New Mexico",earthquake,0.0,2.30361613571363,0.1,6.0,automatic,tx,tx
 2024-08-03T02:14:45.153Z,7.929,126.7506,78.852,4.5,mb,31.0,84.0,1.442,0.88,us,us6000nhsl,2024-08-03T02:47:07.040Z,"34 km NE of Kinablangan, Philippines",earthquake,6.67,7.697,0.115,22.0,reviewed,us,us
 2024-08-03T02:35:28.965Z,8.0969,126.569,91.374,4.4,mb,29.0,122.0,1.416,1.07,us,us6000nhsm,2024-08-03T03:24:08.700Z,"16 km ESE of Barcelona, Philippines",earthquake,9.64,8.057,0.117,26.0,reviewed,us,us
+2024-08-03T03:17:08.903Z,8.1111,126.9794,10.0,4.9,mb,55.0,110.0,1.731,1.11,us,us6000nhsn,2024-08-03T03:35:38.040Z,"60 km E of Barcelona, Philippines",earthquake,9.48,1.89,0.056,101.0,reviewed,us,us
