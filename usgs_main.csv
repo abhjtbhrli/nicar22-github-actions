@@ -8132,3 +8132,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-02T19:18:34.054Z,-29.6139,-69.0261,10.0,4.2,mb,15.0,127.0,0.996,1.34,us,us6000nhnq,2024-08-03T18:34:47.040Z,"74 km NNW of San José de Jáchal, Argentina",earthquake,3.98,1.919,0.305,4.0,reviewed,us,us
 2024-08-03T18:35:24.286Z,31.673,-104.369,6.8689,3.2,ml,24.0,57.0,0.1,0.2,tx,tx2024pefy,2024-08-03T18:50:45.040Z,"55 km S of Whites City, New Mexico",earthquake,1.019313855039136,1.017683953986568,0.2,12.0,reviewed,tx,tx
 2024-08-03T18:34:04.300Z,33.2348333,-116.0398333,3.03,0.73,ml,31.0,73.0,0.08033,0.19,ci,ci40861072,2024-08-03T18:47:22.070Z,"10 km SW of Salton City, CA",earthquake,0.21,0.37,0.133,11.0,automatic,ci,ci
+2024-08-03T18:53:46.440Z,61.1785,-146.8793,9.0,1.5,ml,,,,0.87,ak,ak0249xj4838,2024-08-03T18:55:36.599Z,"29 km W of Valdez, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-08-03T18:46:09.649Z,31.628,-104.461,3.3565,1.7,ml,16.0,112.0,0.0,0.5,tx,tx2024pegi,2024-08-03T18:57:24.577Z,"61 km S of Whites City, New Mexico",earthquake,0.0,1.60032717816669,0.1,12.0,automatic,tx,tx
+2024-08-03T18:43:44.094Z,31.658,-104.369,4.9228,1.7,ml,17.0,70.0,0.1,0.3,tx,tx2024pegf,2024-08-03T18:57:19.595Z,"57 km S of Whites City, New Mexico",earthquake,0.0,1.39582828501837,0.1,13.0,automatic,tx,tx
+2024-08-03T18:27:06.775Z,31.657,-104.374,4.2363,2.1,ml,17.0,70.0,0.0,0.3,tx,tx2024pefr,2024-08-03T18:57:11.581Z,"57 km S of Whites City, New Mexico",earthquake,0.0,1.7954338597114603,0.1,12.0,automatic,tx,tx
