@@ -8123,3 +8123,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-03T17:44:05.870Z,38.81,-122.82,2.67,0.78,md,13.0,75.0,0.006191,0.02,nc,nc75043127,2024-08-03T17:45:43.098Z,"7 km NW of The Geysers, CA",earthquake,0.37,0.889999986,0.4,14.0,automatic,nc,nc
 2024-08-03T17:26:45.858Z,31.663,-104.369,4.6504,1.8,ml,15.0,96.0,0.1,0.3,tx,tx2024pedr,2024-08-03T17:48:08.102Z,"56 km S of Whites City, New Mexico",earthquake,0.0,1.49780327160366,0.2,13.0,automatic,tx,tx
 2024-08-03T18:10:27.411Z,60.6589,-150.2821,44.3,1.4,ml,,,,0.46,ak,ak0249xiuytx,2024-08-03T18:12:43.635Z,"29 km ENE of Sterling, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-08-03T18:17:03.410Z,19.2556667327881,-155.501998901367,-0.379999995231628,2.63000011,md,57.0,59.0,0.007791,0.289999992,hv,hv74382951,2024-08-03T18:19:53.490Z,"6 km NNW of Pāhala, Hawaii",earthquake,0.33,0.170000002,0.360000014,40.0,automatic,hv,hv
+2024-08-03T17:49:14.431Z,31.665,-104.373,6.1422,2.1,ml,17.0,69.0,0.1,0.4,tx,tx2024peel,2024-08-03T18:22:46.348Z,"56 km S of Whites City, New Mexico",earthquake,0.0,2.82623337347243,0.1,13.0,automatic,tx,tx
+2024-08-02T19:12:21.684Z,52.6053,-166.9058,10.517,4.0,mwr,82.0,134.0,1.01,0.95,us,us6000nhnr,2024-08-03T18:18:30.040Z,"137 km ESE of Nikolski, Alaska",earthquake,4.96,4.102,0.075,17.0,reviewed,us,us
