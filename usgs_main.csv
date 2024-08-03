@@ -8138,3 +8138,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-03T18:27:06.775Z,31.657,-104.374,4.2363,2.1,ml,17.0,70.0,0.0,0.3,tx,tx2024pefr,2024-08-03T18:57:11.581Z,"57 km S of Whites City, New Mexico",earthquake,0.0,1.7954338597114603,0.1,12.0,automatic,tx,tx
 2024-08-03T19:24:15.870Z,38.81,-122.82,2.65,0.76,md,10.0,64.0,0.009047,0.01,nc,nc75043142,2024-08-03T19:25:52.868Z,"6 km NW of The Geysers, CA",earthquake,0.39,0.870000005,0.16,10.0,automatic,nc,nc
 2024-08-03T17:45:30.150Z,37.43,-119.36,9.68,1.21,md,17.0,102.0,0.3042,0.06,nc,nc75043132,2024-08-03T19:17:50.875Z,"26 km NE of North Fork, CA",earthquake,0.29,3.2,0.243,14.0,reviewed,nc,nc
+2024-08-03T17:12:59.460Z,8.0742,126.7011,78.118,4.4,mb,93.0,60.0,1.494,1.1,us,us6000nhxt,2024-08-03T19:33:11.040Z,"29 km ENE of Santa Maria, Philippines",earthquake,8.79,7.129,0.059,91.0,reviewed,us,us
+2024-08-03T16:52:05.150Z,37.47,-118.81,5.02,0.52,md,13.0,201.0,0.1059,0.03,nc,nc75043117,2024-08-03T19:26:53.826Z,"15 km WSW of Toms Place, CA",earthquake,0.78,2.28,0.116,6.0,reviewed,nc,nc
