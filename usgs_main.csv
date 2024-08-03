@@ -8145,3 +8145,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-03T19:40:00.600Z,38.83,-122.86,1.94,0.77,md,19.0,96.0,0.001245,0.03,nc,nc75043147,2024-08-03T19:41:38.000Z,"10 km NW of The Geysers, CA",earthquake,0.26,0.409999996,0.14,19.0,automatic,nc,nc
 2024-08-03T19:38:46.826Z,56.9646,-154.9356,34.6,2.1,ml,,,,0.93,ak,ak0249xjmg1q,2024-08-03T19:41:14.893Z,"46 km W of Akhiok, Alaska",earthquake,,2.9,,,automatic,ak,ak
 2024-08-03T19:35:08.547Z,60.8973,-147.5667,19.6,2.6,ml,,,,0.68,ak,ak0249xjlpvg,2024-08-03T19:36:55.292Z,"48 km W of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-03T16:52:11.560Z,37.56,-118.82,6.62,0.6,md,5.0,320.0,0.03018,0.1,nc,nc75000723,2024-08-03T19:47:59.920Z,"12 km W of Toms Place, CA",earthquake,2.81,1.64,0.131,5.0,reviewed,nc,nc
+2024-08-03T03:05:14.290Z,37.54,-118.82,5.46,0.51,md,12.0,308.0,0.05262,0.03,nc,nc75042937,2024-08-03T19:52:31.476Z,"13 km W of Toms Place, CA",earthquake,0.92,1.18,0.231,11.0,reviewed,nc,nc
