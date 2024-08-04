@@ -8221,3 +8221,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-04T03:04:50.574Z,57.78,-155.9969,16.4,1.7,ml,,,,0.28,ak,ak0249yxfkqp,2024-08-04T03:06:00.251Z,"88 km ENE of Ugashik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-04T02:30:06.318Z,31.657,-104.363,4.1299,1.8,ml,17.0,70.0,0.1,0.3,tx,tx2024pevp,2024-08-04T02:57:43.750Z,"57 km S of Whites City, New Mexico",earthquake,0.0,1.42559361725565,0.1,12.0,automatic,tx,tx
 2024-08-03T04:59:41.820Z,52.06,-176.148,3.99,0.1,ml,5.0,149.0,0.004525,0.27,av,av93017439,2024-08-04T02:59:08.340Z,"39 km ENE of Adak, Alaska",earthquake,1.02,1.47,0.356489385039904,5.0,reviewed,av,av
+2024-08-04T03:15:48.701Z,-22.0919,-67.0546,180.257,4.8,mww,77.0,30.0,1.346,1.04,us,us6000ni02,2024-08-04T03:36:11.040Z,"148 km NE of San Pedro de Atacama, Chile",earthquake,7.38,6.305,0.098,10.0,reviewed,us,us
