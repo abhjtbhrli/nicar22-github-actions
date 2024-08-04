@@ -8315,3 +8315,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-04T13:36:10.259Z,63.1886,-150.6521,116.5,1.5,ml,,,,0.28,ak,ak0249z3kold,2024-08-04T13:38:26.552Z,"66 km SE of Denali National Park, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2024-08-04T13:46:13.124Z,36.6806,-117.6319,3.8,1.0,ml,17.0,302.34,0.381,0.1861,nn,nn00881901,2024-08-04T13:48:46.425Z,"30 km NE of Keeler, California",earthquake,,13.9,0.37,10.0,automatic,nn,nn
 2024-08-04T13:44:39.880Z,32.6488342,-115.7258301,7.6,1.17,ml,22.0,122.0,0.000678,0.19,ci,ci40861712,2024-08-04T13:50:53.587Z,"15 km WNW of Progreso, B.C., MX",earthquake,0.34,0.44,0.324,3.0,automatic,ci,ci
+2024-08-04T13:58:07.260Z,19.3791675567627,-155.248504638672,0.370000004768372,2.52999997,md,23.0,75.0,0.006843,0.140000001,hv,hv74384351,2024-08-04T13:59:45.500Z,"7 km SSW of Volcano, Hawaii",earthquake,0.16,0.140000001,0.379999995,19.0,automatic,hv,hv
+2024-08-04T13:45:40.500Z,34.2863333,-118.1948333,8.27,1.0,ml,15.0,84.0,0.0652,0.09,ci,ci40861720,2024-08-04T13:51:58.984Z,"7 km NNE of La Crescenta-Montrose, CA",earthquake,0.22,0.72,0.495,26.0,automatic,ci,ci
+2024-08-04T13:19:49.496Z,43.1044,145.0968,80.183,4.9,mb,64.0,120.0,1.8,0.52,us,us6000ni1r,2024-08-04T13:54:06.040Z,"21 km ENE of Akkeshi, Japan",earthquake,8.87,6.526,0.04,203.0,reviewed,us,us
+2024-08-04T11:41:30.130Z,44.7358333333333,-112.975666666667,0.6,1.5,ml,15.0,156.0,0.1288,0.18,mb,mb90058618,2024-08-04T13:53:48.910Z,"30 km ENE of Leadore, Idaho",earthquake,0.6,1.73,0.254264673728876,11.0,reviewed,mb,mb
