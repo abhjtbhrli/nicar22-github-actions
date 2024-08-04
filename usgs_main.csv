@@ -8277,3 +8277,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-04T09:53:36.640Z,33.2318344,-116.0393295,3.13,0.95,ml,32.0,76.0,0.06577,0.26,ci,ci40861600,2024-08-04T09:55:39.072Z,"11 km SW of Salton City, CA",earthquake,0.29,0.5,0.115,4.0,automatic,ci,ci
 2024-08-04T10:16:46.450Z,38.83,-122.85,1.63,0.32,md,6.0,104.0,0.008555,0.02,nc,nc75043367,2024-08-04T10:18:25.114Z,"9 km NW of The Geysers, CA",earthquake,0.44,0.899999976,0.14,7.0,automatic,nc,nc
 2024-08-04T09:43:32.140Z,44.3594,-116.1624,5.0,2.7,ml,49.0,22.0,0.33,0.76,us,us6000ni16,2024-08-04T10:23:26.964Z,"8 km NW of Smiths Ferry, Idaho",earthquake,2.04,1.928,0.039,88.0,reviewed,us,us
+2024-08-04T10:32:41.554Z,62.1327,-149.2122,43.6,1.1,ml,,,,0.4,ak,ak0249z1rlbv,2024-08-04T10:34:31.755Z,"33 km E of Susitna North, Alaska",earthquake,,1.1,,,automatic,ak,ak
