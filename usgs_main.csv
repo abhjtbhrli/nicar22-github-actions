@@ -8263,3 +8263,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-04T08:30:21.083Z,35.8915,-116.26,12.5,1.6,ml,16.0,301.95,0.757,0.2608,nn,nn00881894,2024-08-04T08:32:45.147Z,"5 km NNW of Tecopa, California",earthquake,,1.5,0.18,13.0,automatic,nn,nn
 2024-08-04T08:29:32.430Z,33.2301674,-116.0473328,2.24,3.02,ml,121.0,19.0,0.08123,0.24,ci,ci40861552,2024-08-04T08:34:10.319Z,"11 km SW of Salton City, CA",earthquake,0.17,0.52,0.231,22.0,automatic,ci,ci
 2024-08-04T08:28:39.020Z,35.6308333,-117.563,6.95,1.06,ml,27.0,58.0,0.08256,0.13,ci,ci40861544,2024-08-04T08:34:52.953Z,"10 km E of Ridgecrest, CA",earthquake,0.17,0.39,0.179,13.0,automatic,ci,ci
+2024-08-04T08:44:39.970Z,33.2290001,-116.0393295,3.38,1.39,ml,13.0,95.0,0.06786,0.1,ci,ci40861568,2024-08-04T08:46:45.368Z,"11 km SW of Salton City, CA",earthquake,0.62,0.84,0.595,7.0,automatic,ci,ci
+2024-08-04T08:34:11.320Z,34.0423333,-117.2371667,16.44,0.7,ml,8.0,234.0,0.1038,0.13,ci,ci40861560,2024-08-04T08:40:27.585Z,"2 km ESE of Loma Linda, CA",earthquake,1.62,1.12,0.248,17.0,automatic,ci,ci
