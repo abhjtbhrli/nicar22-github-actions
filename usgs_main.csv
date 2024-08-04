@@ -8337,3 +8337,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-04T14:53:12.217Z,59.8352,-152.0651,46.1,1.3,ml,,,,0.68,ak,ak0249z49rit,2024-08-04T14:55:45.671Z,"14 km WNW of Anchor Point, Alaska",earthquake,,2.0,,,automatic,ak,ak
 2024-08-04T15:27:33.930Z,33.9855,-116.9733333,8.22,0.74,ml,36.0,54.0,0.06423,0.16,ci,ci40861816,2024-08-04T15:33:41.390Z,"6 km N of Beaumont, CA",earthquake,0.18,0.74,0.116,19.0,automatic,ci,ci
 2024-08-04T15:22:00.610Z,34.8266667,-119.0201667,11.93,1.79,ml,10.0,126.0,0.06624,0.09,ci,ci40861808,2024-08-04T15:28:17.352Z,"7 km W of Frazier Park, CA",earthquake,0.74,1.34,0.386,19.0,automatic,ci,ci
+2024-08-04T16:06:07.680Z,36.0861664,-117.8884964,4.67,1.28,ml,12.0,103.0,0.04153,0.1,ci,ci40861848,2024-08-04T16:08:10.131Z,"7 km NE of Coso Junction, CA",earthquake,0.44,0.68,0.321,4.0,automatic,ci,ci
