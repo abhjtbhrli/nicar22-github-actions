@@ -8347,3 +8347,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-04T16:54:29.560Z,38.83,-122.8,2.69,1.34,md,31.0,40.0,0.005123,0.02,nc,nc75043502,2024-08-04T16:57:34.180Z,"7 km NNW of The Geysers, CA",earthquake,0.21,0.379999995,0.2,31.0,automatic,nc,nc
 2024-08-04T16:49:30.920Z,19.3691673278809,-155.205993652344,1.8400000333786,1.9,ml,28.0,114.0,0.01008,0.230000004,hv,hv74384526,2024-08-04T16:52:09.980Z,"8 km SSE of Volcano, Hawaii",earthquake,0.42,0.310000002,0.2,8.0,automatic,hv,hv
 2024-08-04T16:51:02.270Z,17.9803333333333,-66.8393333333333,15.29,2.11,md,4.0,245.0,0.1953,0.2,pr,pr71456953,2024-08-04T17:06:53.480Z,"2 km SW of Indios, Puerto Rico",earthquake,1.75,5.28,0.0677250327472811,3.0,reviewed,pr,pr
+2024-08-04T17:20:27.749Z,61.0532,-148.481,0.0,1.3,ml,,,,0.86,ak,ak0249z5v0wm,2024-08-04T17:22:30.778Z,"32 km NNE of Whittier, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-08-04T17:00:21.371Z,44.8757,149.6014,38.962,4.5,mb,31.0,182.0,5.208,0.86,us,us6000ni2h,2024-08-04T17:17:07.040Z,"141 km ESE of Kuril’sk, Russia",earthquake,11.61,10.172,0.095,32.0,reviewed,us,us
