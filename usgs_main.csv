@@ -8311,3 +8311,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-04T12:47:31.605Z,39.1369,-120.0459,12.8,0.2,ml,6.0,137.86,0.12,0.1196,nn,nn00881900,2024-08-04T13:14:19.781Z,"7 km SE of Dollar Point, California",earthquake,,4.8,0.37,4.0,reviewed,nn,nn
 2024-08-04T06:25:14.940Z,36.4161666666667,-92.7508333333333,2.64,2.48,md,13.0,60.0,0.1021,0.17,nm,nm60502268,2024-08-04T13:18:09.390Z,"14 km E of South Lead Hill, Arkansas",earthquake,0.39,2.34,0.0409319155482,10.0,reviewed,nm,nm
 2024-08-04T13:25:22.766Z,62.5433,-149.1138,57.3,1.1,ml,,,,0.3,ak,ak0249z3icok,2024-08-04T13:27:04.827Z,"51 km E of Chase, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-08-04T13:36:27.620Z,38.82,-122.81,2.49,1.16,md,9.0,73.0,0.001259,0.05,nc,nc75043432,2024-08-04T13:38:04.510Z,"7 km NNW of The Geysers, CA",earthquake,0.53,0.930000007,0.2,10.0,automatic,nc,nc
+2024-08-04T13:36:10.259Z,63.1886,-150.6521,116.5,1.5,ml,,,,0.28,ak,ak0249z3kold,2024-08-04T13:38:26.552Z,"66 km SE of Denali National Park, Alaska",earthquake,,1.0,,,automatic,ak,ak
