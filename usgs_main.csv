@@ -8401,3 +8401,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-04T23:41:44.950Z,19.3911666870117,-155.244171142578,1.22000002861023,1.70000005,md,15.0,109.0,0.008779,0.129999995,hv,hv74385066,2024-08-04T23:43:17.190Z,"5 km S of Volcano, Hawaii",earthquake,0.23,0.200000003,0.230000004,11.0,automatic,hv,hv
 2024-08-04T23:40:01.693Z,60.4468,-141.5,14.3,1.4,ml,,,,0.66,ak,ak0249z9juuh,2024-08-04T23:41:47.844Z,"134 km SE of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-04T23:38:57.390Z,33.2388333,-116.0403333,3.24,1.03,ml,48.0,77.0,0.06146,0.24,ci,ci40862216,2024-08-04T23:45:05.499Z,"10 km SW of Salton City, CA",earthquake,0.18,0.35,0.127,26.0,automatic,ci,ci
+2024-08-04T23:50:18.180Z,33.6911667,-116.7431667,15.11,1.06,ml,56.0,29.0,0.03134,0.13,ci,ci40862224,2024-08-04T23:56:36.666Z,"6 km SSW of Idyllwild, CA",earthquake,0.14,0.23,0.166,27.0,automatic,ci,ci
+2024-08-04T23:34:43.677Z,37.1355,71.7757,144.23,4.0,mb,31.0,83.0,2.338,0.72,us,us6000ni3q,2024-08-04T23:49:45.040Z,"43 km SSE of Khorugh, Tajikistan",earthquake,7.08,12.009,0.184,8.0,reviewed,us,us
