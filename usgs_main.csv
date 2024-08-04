@@ -8360,3 +8360,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-04T18:55:41.395Z,66.2072,-157.1772,16.7,1.4,ml,,,,1.5,ak,ak0249z6nzmq,2024-08-04T18:58:31.885Z,"66 km NNW of Huslia, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-08-04T18:55:40.229Z,3.8773,63.3619,10.0,5.1,mb,106.0,67.0,10.195,1.04,us,us6000ni2p,2024-08-04T19:13:57.040Z,Carlsberg Ridge,earthquake,10.22,1.864,0.048,138.0,reviewed,us,us
 2024-08-04T19:06:19.901Z,-20.0883,-173.8977,10.0,4.8,mb,42.0,91.0,1.621,1.25,us,us6000ni2t,2024-08-04T19:26:31.040Z,"56 km ESE of Pangai, Tonga",earthquake,5.63,1.79,0.071,62.0,reviewed,us,us
+2024-08-04T19:12:08.443Z,7.8778,126.7079,78.462,4.7,mb,51.0,107.0,1.377,0.62,us,us6000ni2u,2024-08-04T19:33:26.040Z,"26 km NE of Kinablangan, Philippines",earthquake,9.39,7.256,0.072,58.0,reviewed,us,us
