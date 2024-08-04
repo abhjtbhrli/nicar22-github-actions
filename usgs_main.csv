@@ -8254,3 +8254,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-04T06:52:43.740Z,38.82,-122.83,6.33,0.4,md,7.0,123.0,0.0138,0.02,nc,nc75043317,2024-08-04T06:54:19.655Z,"7 km NW of The Geysers, CA",earthquake,1.07,2.21000004,0.21,8.0,automatic,nc,nc
 2024-08-04T07:07:39.590Z,35.7444992,-117.5548325,5.77,1.5,ml,22.0,69.0,0.1329,0.14,ci,ci40861536,2024-08-04T07:09:44.060Z,"14 km W of Searles Valley, CA",earthquake,0.32,2.01,0.19,6.0,automatic,ci,ci
 2024-08-04T07:03:55.751Z,61.2306,-150.4408,43.5,1.3,ml,,,,0.75,ak,ak0249yzt3uf,2024-08-04T07:05:53.764Z,"28 km WSW of Point MacKenzie, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-08-04T06:57:04.508Z,-3.7935,-78.5936,101.663,4.4,mb,33.0,158.0,1.865,0.74,us,us6000ni0m,2024-08-04T07:27:43.040Z,"19 km ENE of Yantzaza, Ecuador",earthquake,7.23,9.069,0.108,25.0,reviewed,us,us
