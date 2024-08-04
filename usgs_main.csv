@@ -8223,3 +8223,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-03T04:59:41.820Z,52.06,-176.148,3.99,0.1,ml,5.0,149.0,0.004525,0.27,av,av93017439,2024-08-04T02:59:08.340Z,"39 km ENE of Adak, Alaska",earthquake,1.02,1.47,0.356489385039904,5.0,reviewed,av,av
 2024-08-04T03:15:48.701Z,-22.0919,-67.0546,180.257,4.8,mww,77.0,30.0,1.346,1.04,us,us6000ni02,2024-08-04T03:36:11.040Z,"148 km NE of San Pedro de Atacama, Chile",earthquake,7.38,6.305,0.098,10.0,reviewed,us,us
 2024-08-03T05:48:06.170Z,58.3601666666667,-154.731,6.59,0.17,ml,9.0,209.0,0.04355,0.22,av,av93219271,2024-08-04T03:46:20.060Z,"89 km N of Karluk, Alaska",earthquake,0.9,0.79,0.204376976958302,9.0,reviewed,av,av
+2024-08-04T03:54:11.328Z,60.6199,-151.6803,86.1,1.4,ml,,,,0.73,ak,ak0249yxq7ik,2024-08-04T03:56:28.901Z,"19 km W of Salamatof, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-08-03T08:04:25.130Z,51.864,-177.910166666667,6.21,0.77,ml,4.0,181.0,0.05835,0.08,av,av93219336,2024-08-04T03:50:56.200Z,"87 km W of Adak, Alaska",earthquake,0.46,1.07,0.148904528156984,4.0,reviewed,av,av
