@@ -8180,3 +8180,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-03T03:28:48.210Z,51.7826666666667,-178.801166666667,7.29,0.44,ml,5.0,120.0,0.02792,0.26,av,av93219201,2024-08-03T22:45:53.420Z,"149 km W of Adak, Alaska",earthquake,1.5,1.58,0.148382955699568,5.0,reviewed,av,av
 2024-08-03T23:22:40.429Z,64.9336,-147.3022,0.0,1.4,ml,,,,1.45,ak,ak0249xlwqga,2024-08-03T23:24:37.013Z,"14 km WNW of Two Rivers, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-08-03T23:39:14.640Z,63.0259,-150.2948,61.9,1.2,ml,,,,0.66,ak,ak0249xm0bmw,2024-08-03T23:41:43.471Z,"63 km NNE of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-08-04T01:12:23.650Z,38.83,-122.81,2.13,0.96,md,15.0,68.0,0.003317,0.01,nc,nc75043222,2024-08-04T01:13:58.338Z,"7 km NNW of The Geysers, CA",earthquake,0.27,0.699999988,0.27,15.0,automatic,nc,nc
+2024-08-04T01:05:51.880Z,37.76,-122.56,12.95,1.58,md,22.0,137.0,0.07183,0.04,nc,nc75043212,2024-08-04T01:07:28.519Z,"6 km NW of San Francisco Zoo, CA",earthquake,0.42,0.670000017,0.12,13.0,automatic,nc,nc
+2024-08-04T00:59:38.353Z,31.054,-103.68,1.6552,1.5,ml,12.0,69.0,0.1,0.9,tx,tx2024pess,2024-08-04T01:10:20.063Z,"9 km NE of Balmorhea, Texas",earthquake,0.0,1.5174237618314097,0.2,9.0,automatic,tx,tx
+2024-08-04T00:52:04.446Z,64.2045,-149.8787,0.0,1.4,ml,,,,0.66,ak,ak0249yvxgqt,2024-08-04T00:54:36.141Z,"34 km W of Clear, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-04T00:41:14.970Z,33.6486667,-116.7046667,13.08,0.56,ml,16.0,126.0,0.03271,0.09,ci,ci40861328,2024-08-04T00:47:58.708Z,"10 km S of Idyllwild, CA",earthquake,0.22,0.44,0.168,10.0,automatic,ci,ci
+2024-08-04T00:27:24.610Z,33.5336667,-116.5458333,13.53,0.72,ml,31.0,35.0,0.0268,0.18,ci,ci40861320,2024-08-04T00:43:40.369Z,"12 km ESE of Anza, CA",earthquake,0.23,0.43,0.121,17.0,automatic,ci,ci
+2024-08-04T00:26:00.190Z,33.2241667,-116.0435,3.48,1.48,ml,64.0,51.0,0.07379,0.24,ci,ci40861312,2024-08-04T00:40:41.764Z,"12 km SW of Salton City, CA",earthquake,0.16,0.4,0.16,26.0,automatic,ci,ci
+2024-08-04T00:13:03.270Z,38.81,-122.79,10.59,0.86,md,6.0,122.0,0.007317,0.04,nc,nc75043192,2024-08-04T00:47:14.195Z,"5 km NNW of The Geysers, CA",earthquake,1.65,8.39000034,0.06,5.0,automatic,nc,nc
+2024-08-03T03:17:02.114Z,0.4262,30.5171,10.0,4.4,mb,14.0,99.0,6.909,0.99,us,us6000nhsp,2024-08-04T00:28:18.040Z,"25 km SSW of Kyenjojo, Uganda",earthquake,5.36,1.942,0.17,10.0,reviewed,us,us
