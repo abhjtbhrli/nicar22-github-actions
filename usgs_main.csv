@@ -8373,3 +8373,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-04T21:01:33.269Z,60.8089,-146.4695,18.1,3.1,ml,,,,0.66,ak,ak0249z84p55,2024-08-04T21:03:22.548Z,"12 km ESE of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-04T21:35:04.090Z,33.987999,-116.9753342,9.63,1.11,ml,31.0,54.0,0.1103,0.23,ci,ci40862088,2024-08-04T21:37:07.540Z,"6 km N of Beaumont, CA",earthquake,0.32,1.3,0.148,9.0,automatic,ci,ci
 2024-08-04T21:30:37.252Z,44.3278,-115.188,15.489,3.2,ml,50.0,28.0,0.331,0.63,us,us6000ni38,2024-08-04T21:43:26.040Z,"23 km WNW of Stanley, Idaho",earthquake,1.16,8.296,0.032,128.0,reviewed,us,us
+2024-08-04T21:47:17.380Z,19.1696662902832,-155.496337890625,32.189998626709,2.27999997,md,33.0,108.0,0.03532,0.189999998,hv,hv74384881,2024-08-04T21:48:57.560Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.66,1.02999997,0.170000002,4.0,automatic,hv,hv
+2024-08-04T21:38:30.278Z,-7.2994,105.1031,49.056,4.7,mb,33.0,114.0,2.531,1.39,us,us6000ni3a,2024-08-04T21:54:46.040Z,"129 km SW of Labuan, Indonesia",earthquake,6.96,7.512,0.115,23.0,reviewed,us,us
