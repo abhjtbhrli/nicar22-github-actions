@@ -8395,3 +8395,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-04T23:22:57.108Z,60.8495,-150.9374,14.8,1.5,ml,,,,0.54,ak,ak0249z9g3gt,2024-08-04T23:25:51.670Z,"15 km WSW of Point Possession, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-08-04T23:20:29.870Z,33.4881667,-117.9263333,3.5,1.92,ml,58.0,120.0,0.1159,0.24,ci,ci40862184,2024-08-04T23:28:03.661Z,"14 km S of Newport Beach, CA",earthquake,0.22,0.47,0.163,27.0,automatic,ci,ci
 2024-08-04T23:08:51.477Z,-38.8333,179.6339,10.0,4.4,mb,18.0,191.0,1.644,0.96,us,us6000ni3l,2024-08-04T23:26:36.040Z,"136 km E of Wainui, New Zealand",earthquake,3.18,1.941,0.203,7.0,reviewed,us,us
+2024-08-04T23:35:46.100Z,38.83,-122.82,1.89,1.1,md,20.0,45.0,0.007605,0.01,nc,nc75043592,2024-08-04T23:37:20.701Z,"8 km NNW of The Geysers, CA",earthquake,0.25,0.379999995,0.17,21.0,automatic,nc,nc
+2024-08-04T23:30:57.800Z,35.3216667,-118.5621667,4.25,1.13,ml,30.0,78.0,0.1375,0.18,ci,ci40862208,2024-08-04T23:37:08.586Z,"23 km NNW of Tehachapi, CA",earthquake,0.21,1.05,0.142,21.0,automatic,ci,ci
