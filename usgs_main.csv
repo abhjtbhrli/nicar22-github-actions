@@ -8247,3 +8247,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-04T00:24:39.140Z,52.095,-176.231166666667,16.14,0.4,ml,5.0,301.0,0.03313,0.27,av,av93219896,2024-08-04T04:59:19.550Z,"37 km NE of Adak, Alaska",earthquake,2.93,1.7,0.231664486004581,5.0,reviewed,av,av
 2024-08-03T23:56:26.210Z,45.32983333333333,-121.675,6.87,0.42,ml,8.0,151.0,0.02563,0.06,uw,uw62031946,2024-08-04T04:59:48.680Z,"6 km ENE of Government Camp, Oregon",earthquake,0.32,0.54,0.121020665576729,3.0,reviewed,uw,uw
 2024-08-04T05:16:48.380Z,33.7275,-116.8188333,16.76,0.38,ml,19.0,185.0,0.08875,0.12,ci,ci40861520,2024-08-04T05:22:56.456Z,"7 km ESE of Valle Vista, CA",earthquake,0.42,0.5,0.157,9.0,automatic,ci,ci
+2024-08-04T05:22:36.226Z,62.2259,-150.3616,56.4,1.1,ml,,,,0.66,ak,ak0249yyq9qe,2024-08-04T05:34:44.537Z,"12 km SSW of Trapper Creek, Alaska",earthquake,,1.1,,,automatic,ak,ak
