@@ -8367,3 +8367,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-04T20:54:13.053Z,62.0723,-149.4909,35.2,1.5,ml,,,,0.55,ak,ak0249z7ukxl,2024-08-04T20:56:33.070Z,"21 km ESE of Susitna North, Alaska",earthquake,,4.2,,,automatic,ak,ak
 2024-08-04T20:52:05.740Z,38.8,-122.84,1.8,0.77,md,8.0,217.0,0.01367,0.08,nc,nc75043552,2024-08-04T20:53:41.471Z,"7 km WNW of The Geysers, CA",earthquake,1.23,0.660000026,0.44,10.0,automatic,nc,nc
 2024-08-04T20:48:15.060Z,38.82,-122.76,1.32,1.23,md,12.0,115.0,0.01159,0.03,nc,nc75043547,2024-08-04T20:50:41.548Z,"4 km W of Cobb, CA",earthquake,0.28,0.589999974,0.12,14.0,automatic,nc,nc
+2024-08-04T21:14:46.635Z,61.1972,-148.08,3.8,0.8,ml,,,,0.95,ak,ak0249z87ie9,2024-08-04T21:17:13.656Z,"53 km ESE of Knik River, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-08-04T21:07:31.000Z,19.3928337097168,-155.250335693359,1.13999998569489,2.69,ml,23.0,53.0,0.007343,0.270000011,hv,hv74384821,2024-08-04T21:10:12.370Z,"5 km SSW of Volcano, Hawaii",earthquake,0.27,0.170000002,0.44,28.0,automatic,hv,hv
+2024-08-04T21:05:55.710Z,19.3920001983643,-155.251159667969,2.07999992370605,1.80999994,md,12.0,91.0,0.006458,0.239999995,hv,hv74384816,2024-08-04T21:07:32.220Z,"5 km SSW of Volcano, Hawaii",earthquake,0.4,0.639999986,0.200000003,8.0,automatic,hv,hv
+2024-08-04T21:01:33.269Z,60.8089,-146.4695,18.1,3.1,ml,,,,0.66,ak,ak0249z84p55,2024-08-04T21:03:22.548Z,"12 km ESE of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
