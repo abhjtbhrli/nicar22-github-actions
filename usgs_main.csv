@@ -8235,3 +8235,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-03T12:44:29.070Z,61.2566666666667,-152.159666666667,30.76,-0.21,ml,6.0,171.0,0.06156,0.2,av,av93017454,2024-08-04T04:27:06.090Z,"58 km WNW of Tyonek, Alaska",earthquake,0.93,1.26,0.202450557000633,6.0,reviewed,av,av
 2024-08-04T04:38:05.330Z,19.4514999389648,-155.408996582031,1.01999998092651,2.02,ml,42.0,47.0,0.04678,0.189999998,hv,hv74383556,2024-08-04T04:40:45.540Z,"18 km W of Volcano, Hawaii",earthquake,0.26,0.479999989,0.32,4.0,automatic,hv,hv
 2024-08-03T08:57:30.160Z,45.32716666666666,-121.6795,6.88,0.32,ml,7.0,152.0,0.03964,0.07,uw,uw62031761,2024-08-04T04:44:34.010Z,"6 km ENE of Government Camp, Oregon",earthquake,0.35,0.66,0.1203363699471911,3.0,reviewed,uw,uw
+2024-08-04T04:56:04.101Z,60.6439,-143.0211,8.1,0.7,ml,,,,0.17,ak,ak0249yyc1zu,2024-08-04T04:57:53.084Z,"88 km S of McCarthy, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-08-04T04:53:47.001Z,62.9569,-151.4015,59.3,1.5,ml,,,,1.74,ak,ak0249yybi5o,2024-08-04T04:55:49.668Z,"60 km NNW of Petersville, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2024-08-04T04:45:22.490Z,33.2335,-116.0333333,4.82,0.82,ml,34.0,94.0,0.06118,0.22,ci,ci40861496,2024-08-04T04:51:24.790Z,"10 km SW of Salton City, CA",earthquake,0.25,0.58,0.099,13.0,automatic,ci,ci
