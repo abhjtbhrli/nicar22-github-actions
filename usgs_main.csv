@@ -8282,3 +8282,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-04T10:41:43.281Z,61.8831,-149.6276,45.2,1.4,ml,,,,0.58,ak,ak0249z1tiwo,2024-08-04T10:43:38.781Z,"25 km NW of Fishhook, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-08-04T09:45:37.992Z,44.3568,-116.1516,5.0,3.0,ml,79.0,22.0,0.331,0.81,us,us6000ni17,2024-08-04T10:45:59.902Z,"7 km NW of Smiths Ferry, Idaho",earthquake,0.91,1.941,0.031,138.0,reviewed,us,us
 2024-08-04T10:48:44.440Z,33.9576667,-117.2173333,2.82,0.59,ml,10.0,241.0,0.0963,0.16,ci,ci40861616,2024-08-04T10:55:09.811Z,"4 km NNE of Moreno Valley, CA",earthquake,1.46,2.41,0.269,14.0,automatic,ci,ci
+2024-08-04T10:58:05.600Z,35.939,-117.6985,2.93,1.26,ml,26.0,63.0,0.04004,0.14,ci,ci40861624,2024-08-04T11:04:04.598Z,"19 km E of Little Lake, CA",earthquake,0.16,0.32,0.295,16.0,automatic,ci,ci
