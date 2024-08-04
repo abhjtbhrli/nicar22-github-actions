@@ -8217,3 +8217,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-03T10:16:56.103Z,39.4071,-119.9153,7.2,-0.2,ml,5.0,130.61,0.119,0.041,nn,nn00881890,2024-08-04T02:54:33.772Z,"9 km E of Floriston, California",earthquake,,3.9,0.17,2.0,reviewed,nn,nn
 2024-08-03T09:36:08.656Z,39.2175,-120.0733,6.7,0.2,ml,6.0,171.55000000000004,0.081,0.1024,nn,nn00881889,2024-08-04T02:54:31.768Z,"1 km SE of Carnelian Bay, California",earthquake,,2.2,0.22,4.0,reviewed,nn,nn
 2024-08-03T04:34:59.800Z,58.3433333333333,-154.669666666667,1.83,-0.1,ml,5.0,225.0,0.07998,0.08,av,av93017429,2024-08-04T02:48:30.880Z,"87 km N of Karluk, Alaska",earthquake,0.66,1.28,0.15944142484977,6.0,reviewed,av,av
+2024-08-04T03:10:03.610Z,33.2296677,-116.0390015,3.23,1.33,ml,35.0,55.0,0.076,0.23,ci,ci40861448,2024-08-04T03:12:09.032Z,"11 km SW of Salton City, CA",earthquake,0.33,0.6,0.199,14.0,automatic,ci,ci
+2024-08-04T03:04:50.574Z,57.78,-155.9969,16.4,1.7,ml,,,,0.28,ak,ak0249yxfkqp,2024-08-04T03:06:00.251Z,"88 km ENE of Ugashik, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-04T02:30:06.318Z,31.657,-104.363,4.1299,1.8,ml,17.0,70.0,0.1,0.3,tx,tx2024pevp,2024-08-04T02:57:43.750Z,"57 km S of Whites City, New Mexico",earthquake,0.0,1.42559361725565,0.1,12.0,automatic,tx,tx
+2024-08-03T04:59:41.820Z,52.06,-176.148,3.99,0.1,ml,5.0,149.0,0.004525,0.27,av,av93017439,2024-08-04T02:59:08.340Z,"39 km ENE of Adak, Alaska",earthquake,1.02,1.47,0.356489385039904,5.0,reviewed,av,av
