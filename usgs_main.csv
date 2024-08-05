@@ -8573,3 +8573,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-04T21:07:33.310Z,19.3918333333333,-155.246333333333,1.73,2.91,ml,30.0,58.0,0.007851,0.1,hv,hv74384826,2024-08-05T19:08:46.140Z,"5 km SSW of Volcano, Hawaii",earthquake,0.15,0.13,0.381543810667531,22.0,reviewed,hv,hv
 2024-08-05T19:25:45.640Z,38.83,-122.88,1.78,0.74,md,10.0,163.0,0.00746,0.04,nc,nc75043957,2024-08-05T19:27:22.247Z,"12 km NW of The Geysers, CA",earthquake,0.58,0.579999983,0.08,11.0,automatic,nc,nc
 2024-08-05T19:03:00.057Z,16.9087,-93.8167,145.989,5.4,mww,99.0,79.0,1.727,1.12,us,us6000ni8h,2024-08-05T19:23:42.215Z,"13 km NNW of Francisco I. Madero, Mexico",earthquake,8.24,5.045,0.043,51.0,reviewed,us,us
+2024-08-05T19:51:27.580Z,38.83,-122.82,1.74,0.35,md,8.0,85.0,0.01421,0.01,nc,nc75043967,2024-08-05T19:53:02.433Z,"8 km NNW of The Geysers, CA",earthquake,0.47,1.13,0.25,8.0,automatic,nc,nc
+2024-08-05T19:36:10.654Z,-6.3419,132.7126,10.0,4.8,mb,47.0,74.0,3.329,0.54,us,us6000ni8v,2024-08-05T19:53:16.040Z,"78 km S of Tual, Indonesia",earthquake,5.64,1.889,0.093,36.0,reviewed,us,us
+2024-08-05T16:10:36.540Z,38.4925,-112.895333333333,3.19,1.0,md,14.0,80.0,0.008165,0.08,uu,uu80077546,2024-08-05T19:52:56.280Z,"14 km NE of Milford, Utah",earthquake,0.33,0.4,0.393142104615388,3.0,reviewed,uu,uu
