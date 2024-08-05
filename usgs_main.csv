@@ -8440,3 +8440,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-05T05:06:26.789Z,61.7355,-151.1637,74.1,1.5,ml,,,,0.44,ak,ak024a0m661i,2024-08-05T05:08:46.468Z,"30 km SSE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-08-05T05:02:17.361Z,31.663,-104.363,4.5634,2.0,ml,16.0,69.0,0.1,0.2,tx,tx2024pgwc,2024-08-05T05:13:21.629Z,"56 km S of Whites City, New Mexico",earthquake,0.0,1.42329151732389,0.1,13.0,automatic,tx,tx
 2024-08-05T05:01:44.441Z,63.0149,-150.6555,108.0,1.6,ml,,,,0.53,ak,ak024a0m54to,2024-08-05T05:04:33.427Z,"58 km N of Petersville, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-08-05T05:31:28.380Z,35.632,-117.4596634,7.91,1.37,ml,20.0,67.0,0.04415,0.11,ci,ci40862488,2024-08-05T05:33:49.443Z,"16 km SSW of Searles Valley, CA",earthquake,0.41,0.97,0.185,6.0,automatic,ci,ci
