@@ -8479,3 +8479,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-05T09:13:51.820Z,33.6616667,-116.7056667,14.92,0.62,ml,33.0,56.0,0.02754,0.11,ci,ci40862584,2024-08-05T09:21:09.835Z,"9 km S of Idyllwild, CA",earthquake,0.16,0.27,0.282,15.0,automatic,ci,ci
 2024-08-05T08:59:44.733Z,31.673,-104.377,4.2238,1.9,ml,18.0,69.0,0.0,0.1,tx,tx2024phdz,2024-08-05T09:22:41.927Z,"55 km S of Whites City, New Mexico",earthquake,0.0,1.2449330152546405,0.2,13.0,automatic,tx,tx
 2024-08-05T09:27:13.500Z,35.7825,-117.6011667,7.65,1.7,ml,29.0,67.0,0.1356,0.13,ci,ci40862608,2024-08-05T09:33:43.963Z,"18 km W of Searles Valley, CA",earthquake,0.17,0.85,0.199,27.0,automatic,ci,ci
+2024-08-05T09:36:15.740Z,34.0755,-117.2911667,14.18,0.76,ml,42.0,64.0,0.1076,0.14,ci,ci40862616,2024-08-05T09:42:43.280Z,"2 km E of Colton, CA",earthquake,0.16,0.38,0.154,18.0,automatic,ci,ci
