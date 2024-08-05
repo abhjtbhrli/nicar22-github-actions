@@ -8491,3 +8491,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-05T11:09:26.087Z,61.6313,-150.9357,53.6,1.2,ml,,,,0.58,ak,ak024a0prerk,2024-08-05T11:11:34.857Z,"24 km WNW of Susitna, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-08-05T10:57:38.610Z,33.9656667,-116.9641667,9.27,0.72,ml,36.0,45.0,0.1297,0.11,ci,ci40862640,2024-08-05T11:03:41.504Z,"4 km NNE of Beaumont, CA",earthquake,0.12,0.46,0.215,14.0,automatic,ci,ci
 2024-08-05T09:10:33.756Z,1.4315,126.9603,114.615,4.6,mb,38.0,105.0,0.771,0.65,us,us6000ni5g,2024-08-05T11:17:16.040Z,"85 km NNW of Ternate, Indonesia",earthquake,5.58,6.518,0.098,31.0,reviewed,us,us
+2024-08-05T11:35:18.130Z,37.63,-119.04,2.35,0.34,md,8.0,132.0,0.0202,0.04,nc,nc75043787,2024-08-05T11:36:56.804Z,"6 km W of Mammoth Lakes, CA",earthquake,0.67,1.98000002,0.11,4.0,automatic,nc,nc
+2024-08-05T11:34:39.519Z,61.9098,-150.9818,67.3,1.5,ml,,,,0.41,ak,ak024a0pwspb,2024-08-05T11:36:58.315Z,"23 km ESE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-08-05T11:27:29.400Z,19.3751659393311,-155.184005737305,1.53999996185303,1.97,ml,38.0,120.0,0.01452,0.280000001,hv,hv74385926,2024-08-05T11:30:06.990Z,"9 km SE of Volcano, Hawaii",earthquake,0.5,0.389999986,0.18,9.0,automatic,hv,hv
