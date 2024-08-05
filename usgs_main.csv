@@ -8591,3 +8591,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-05T20:42:49.778Z,31.602,-103.953,5.4553,1.6,ml,15.0,118.0,0.0,0.4,tx,tx2024pibe,2024-08-05T20:48:56.986Z,"35 km NNW of Toyah, Texas",earthquake,0.0,2.1030142495638,0.1,13.0,automatic,tx,tx
 2024-08-05T19:27:29.450Z,38.6636666666667,-111.4245,2.35,1.68,ml,17.0,86.0,0.1161,0.15,uu,uu80077586,2024-08-05T20:48:13.130Z,"28 km NE of Fremont, Utah",earthquake,0.47,2.69,0.140617522235249,3.0,reviewed,uu,uu
 2024-08-05T06:13:40.409Z,51.7191,-176.0702,127.5,2.4,ml,,,,0.28,ak,ak024a0mt5sc,2024-08-05T20:56:04.232Z,"42 km ESE of Adak, Alaska",earthquake,,1.0,,,reviewed,ak,ak
+2024-08-05T21:16:16.400Z,38.73,-122.42,1.16,1.99,md,20.0,60.0,0.07067,0.18,nc,nc75043997,2024-08-05T21:17:52.230Z,"14 km SE of Hidden Valley Lake, CA",earthquake,0.36,2.4000001,0.08,20.0,automatic,nc,nc
+2024-08-05T21:12:49.370Z,38.82,-122.82,6.14,0.9,md,10.0,115.0,0.005168,0.08,nc,nc75043992,2024-08-05T21:14:27.124Z,"7 km NW of The Geysers, CA",earthquake,0.86,4.01000023,0.23,10.0,automatic,nc,nc
+2024-08-05T21:09:48.120Z,34.4123344,-117.8761673,14.99,1.2,ml,15.0,86.0,0.05245,0.24,ci,ci40863360,2024-08-05T21:11:53.565Z,"11 km SSE of Pearblossom, CA",earthquake,0.59,0.99,0.19,5.0,automatic,ci,ci
+2024-08-05T20:35:25.446Z,14.4313,-92.9973,65.431,4.8,mb,97.0,162.0,2.018,0.61,us,us6000ni92,2024-08-05T21:10:26.040Z,"69 km WSW of Puerto Madero, Mexico",earthquake,6.46,6.403,0.027,418.0,reviewed,us,us
+2024-08-05T16:16:05.570Z,51.3695,-179.3415,22.9,2.2,ml,,,,0.51,ak,ak024a0ss16k,2024-08-05T21:08:27.486Z,"195 km WSW of Adak, Alaska",earthquake,,0.6,,,reviewed,ak,ak
+2024-08-05T03:33:00.660Z,52.0716666666667,-176.173,1.28,0.06,ml,6.0,186.0,0.02211,0.3,av,av93220956,2024-08-05T21:09:12.020Z,"38 km NE of Adak, Alaska",earthquake,1.06,1.69,0.396711959212391,6.0,reviewed,av,av
