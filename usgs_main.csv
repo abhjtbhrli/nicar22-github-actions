@@ -8424,3 +8424,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-05T02:33:12.778Z,38.0743,-117.7037,5.6,1.2,ml,10.0,182.02,0.005,0.2198,nn,nn00881909,2024-08-05T02:35:57.911Z,"35 km N of Silver Peak, Nevada",earthquake,,0.6,0.29,7.0,automatic,nn,nn
 2024-08-05T02:29:48.818Z,-56.1584,-27.8835,143.48,5.2,mb,36.0,94.0,18.802,0.87,us,us6000ni4a,2024-08-05T02:42:32.040Z,South Sandwich Islands region,earthquake,12.58,8.521,0.088,43.0,reviewed,us,us
 2024-08-05T02:21:53.990Z,31.4916667,-115.6181667,7.58,2.75,ml,9.0,111.0,0.1734,0.16,ci,ci40862336,2024-08-05T02:30:42.111Z,"92 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.35,3.69,0.191,26.0,automatic,ci,ci
+2024-08-05T03:19:43.800Z,36.0756683,-117.9024963,4.54,1.97,ml,30.0,64.0,0.0569,0.16,ci,ci40862376,2024-08-05T03:21:52.678Z,"5 km NE of Coso Junction, CA",earthquake,0.28,0.61,0.281,21.0,automatic,ci,ci
