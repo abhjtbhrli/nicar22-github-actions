@@ -8503,3 +8503,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-05T12:01:47.040Z,19.2035007476807,-155.502838134766,30.9699993133545,2.3900001,md,30.0,120.0,0.0614,0.170000002,hv,hv74385971,2024-08-05T12:03:23.580Z,"2 km W of Pāhala, Hawaii",earthquake,0.85,1.38,0.100000001,3.0,automatic,hv,hv
 2024-08-05T12:46:06.300Z,36.0751667,-117.6383333,2.15,1.26,ml,22.0,112.0,0.1143,0.15,ci,ci40862704,2024-08-05T12:57:18.254Z,"28 km E of Coso Junction, CA",earthquake,0.23,0.31,0.238,16.0,automatic,ci,ci
 2024-08-05T12:37:03.502Z,61.3226,-150.5787,26.8,2.2,ml,,,,0.31,ak,ak024a0qisoe,2024-08-05T12:38:36.046Z,"24 km S of Susitna, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-08-05T13:05:21.610Z,38.85,-122.82,1.38,0.61,md,10.0,97.0,0.007174,0.07,nc,nc75043807,2024-08-05T13:06:56.366Z,"9 km WNW of Cobb, CA",earthquake,0.76,1.47000003,0.42,10.0,automatic,nc,nc
+2024-08-05T12:44:01.936Z,-6.5436,103.4596,21.891,5.1,mww,76.0,83.0,2.226,1.27,us,us6000ni63,2024-08-05T13:03:20.040Z,"234 km WSW of Bandar Lampung, Indonesia",earthquake,7.06,5.439,0.11,8.0,reviewed,us,us
