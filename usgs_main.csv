@@ -8441,3 +8441,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-05T05:02:17.361Z,31.663,-104.363,4.5634,2.0,ml,16.0,69.0,0.1,0.2,tx,tx2024pgwc,2024-08-05T05:13:21.629Z,"56 km S of Whites City, New Mexico",earthquake,0.0,1.42329151732389,0.1,13.0,automatic,tx,tx
 2024-08-05T05:01:44.441Z,63.0149,-150.6555,108.0,1.6,ml,,,,0.53,ak,ak024a0m54to,2024-08-05T05:04:33.427Z,"58 km N of Petersville, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2024-08-05T05:31:28.380Z,35.632,-117.4596634,7.91,1.37,ml,20.0,67.0,0.04415,0.11,ci,ci40862488,2024-08-05T05:33:49.443Z,"16 km SSW of Searles Valley, CA",earthquake,0.41,0.97,0.185,6.0,automatic,ci,ci
+2024-08-05T05:39:38.590Z,33.3404999,-116.8143311,6.84,1.37,ml,16.0,83.0,0.04251,0.13,ci,ci40862504,2024-08-05T05:41:52.481Z,"5 km ESE of Palomar Observatory, CA",earthquake,0.39,0.55,0.516,10.0,automatic,ci,ci
+2024-08-05T05:37:59.810Z,36.2016667,-117.907,2.8,1.16,ml,22.0,81.0,0.09392,0.17,ci,ci40862496,2024-08-05T05:43:50.669Z,"12 km SE of Olancha, CA",earthquake,0.25,1.26,0.142,15.0,automatic,ci,ci
+2024-08-05T05:37:59.538Z,37.0485,-116.4237,8.5,0.0,ml,8.0,125.75,0.041,0.1662,nn,nn00881914,2024-08-05T05:39:57.861Z,"33 km ENE of Beatty, Nevada",earthquake,,0.9,0.47,6.0,automatic,nn,nn
+2024-08-05T05:17:50.840Z,18.2551666666667,-66.4198333333333,38.75,2.45,md,11.0,107.0,0.09754,0.17,pr,pr71456988,2024-08-05T05:35:52.330Z,"4 km NW of Orocovis, Puerto Rico",earthquake,0.84,0.93,0.293391161060109,7.0,reviewed,pr,pr
