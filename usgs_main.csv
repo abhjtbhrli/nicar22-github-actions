@@ -8554,3 +8554,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-05T18:28:27.480Z,38.83,-122.8,2.05,1.09,md,17.0,59.0,0.008345,0.06,nc,nc75043912,2024-08-05T18:30:03.066Z,"7 km WNW of Cobb, CA",earthquake,0.28,0.550000012,0.17,18.0,automatic,nc,nc
 2024-08-05T12:04:40.260Z,31.671,-104.375,6.4459,1.7,ml,31.0,57.0,0.1,0.1,tx,tx2024phkb,2024-08-05T18:30:40.363Z,"55 km S of Whites City, New Mexico",earthquake,0.4620293715346071,0.5874032158087846,0.2,31.0,reviewed,tx,tx
 2024-08-05T04:45:10.010Z,39.2,-123.17,0.37,1.43,md,20.0,65.0,0.09879,0.08,nc,nc75043697,2024-08-05T18:35:18.770Z,"7 km NE of Ukiah, CA",earthquake,0.17,0.61,0.242,20.0,reviewed,nc,nc
+2024-08-05T11:35:26.926Z,31.629,-104.507,8.2532,2.0,ml,22.0,73.0,0.0,0.1,tx,tx2024phjc,2024-08-05T18:44:38.459Z,"61 km SSW of Whites City, New Mexico",earthquake,0.982528179716686,0.528568382713602,0.2,30.0,reviewed,tx,tx
