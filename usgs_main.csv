@@ -8445,3 +8445,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-05T05:37:59.810Z,36.2016667,-117.907,2.8,1.16,ml,22.0,81.0,0.09392,0.17,ci,ci40862496,2024-08-05T05:43:50.669Z,"12 km SE of Olancha, CA",earthquake,0.25,1.26,0.142,15.0,automatic,ci,ci
 2024-08-05T05:37:59.538Z,37.0485,-116.4237,8.5,0.0,ml,8.0,125.75,0.041,0.1662,nn,nn00881914,2024-08-05T05:39:57.861Z,"33 km ENE of Beatty, Nevada",earthquake,,0.9,0.47,6.0,automatic,nn,nn
 2024-08-05T05:17:50.840Z,18.2551666666667,-66.4198333333333,38.75,2.45,md,11.0,107.0,0.09754,0.17,pr,pr71456988,2024-08-05T05:35:52.330Z,"4 km NW of Orocovis, Puerto Rico",earthquake,0.84,0.93,0.293391161060109,7.0,reviewed,pr,pr
+2024-08-05T06:03:36.850Z,38.83,-122.77,1.87,1.1,md,16.0,125.0,0.006601,0.03,nc,nc75043707,2024-08-05T06:05:11.531Z,"4 km WNW of Cobb, CA",earthquake,0.3,0.540000021,0.14,17.0,automatic,nc,nc
