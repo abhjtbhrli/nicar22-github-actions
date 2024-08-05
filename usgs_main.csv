@@ -8597,3 +8597,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-05T20:35:25.446Z,14.4313,-92.9973,65.431,4.8,mb,97.0,162.0,2.018,0.61,us,us6000ni92,2024-08-05T21:10:26.040Z,"69 km WSW of Puerto Madero, Mexico",earthquake,6.46,6.403,0.027,418.0,reviewed,us,us
 2024-08-05T16:16:05.570Z,51.3695,-179.3415,22.9,2.2,ml,,,,0.51,ak,ak024a0ss16k,2024-08-05T21:08:27.486Z,"195 km WSW of Adak, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2024-08-05T03:33:00.660Z,52.0716666666667,-176.173,1.28,0.06,ml,6.0,186.0,0.02211,0.3,av,av93220956,2024-08-05T21:09:12.020Z,"38 km NE of Adak, Alaska",earthquake,1.06,1.69,0.396711959212391,6.0,reviewed,av,av
+2024-08-05T21:24:34.490Z,39.84,-123.51,4.02,1.53,md,9.0,99.0,0.03863,0.05,nc,nc75044007,2024-08-05T21:26:12.105Z,"17 km N of Laytonville, CA",earthquake,0.36,1.02999997,0.12,6.0,automatic,nc,nc
+2024-08-05T21:21:40.050Z,33.7018318,-116.7578354,13.87,1.04,ml,18.0,98.0,0.03757,0.13,ci,ci40863376,2024-08-05T21:23:42.509Z,"6 km SW of Idyllwild, CA",earthquake,0.5,0.86,0.176,3.0,automatic,ci,ci
