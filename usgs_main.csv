@@ -8488,3 +8488,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-05T10:58:47.810Z,33.5800018,-116.5993347,11.63,1.06,ml,15.0,71.0,0.01834,0.28,ci,ci40862648,2024-08-05T11:00:55.491Z,"7 km ENE of Anza, CA",earthquake,0.81,1.0,0.441,7.0,automatic,ci,ci
 2024-08-05T10:56:10.220Z,38.84,-122.79,2.11,0.71,md,12.0,51.0,0.002375,0.01,nc,nc75043777,2024-08-05T10:57:46.531Z,"6 km WNW of Cobb, CA",earthquake,0.33,0.569999993,0.34,12.0,automatic,nc,nc
 2024-08-05T10:52:36.260Z,38.83,-122.8,1.68,0.71,md,9.0,76.0,0.01069,0.01,nc,nc75043772,2024-08-05T10:54:11.476Z,"7 km WNW of Cobb, CA",earthquake,0.34,0.939999998,0.22,9.0,automatic,nc,nc
+2024-08-05T11:09:26.087Z,61.6313,-150.9357,53.6,1.2,ml,,,,0.58,ak,ak024a0prerk,2024-08-05T11:11:34.857Z,"24 km WNW of Susitna, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-08-05T10:57:38.610Z,33.9656667,-116.9641667,9.27,0.72,ml,36.0,45.0,0.1297,0.11,ci,ci40862640,2024-08-05T11:03:41.504Z,"4 km NNE of Beaumont, CA",earthquake,0.12,0.46,0.215,14.0,automatic,ci,ci
+2024-08-05T09:10:33.756Z,1.4315,126.9603,114.615,4.6,mb,38.0,105.0,0.771,0.65,us,us6000ni5g,2024-08-05T11:17:16.040Z,"85 km NNW of Ternate, Indonesia",earthquake,5.58,6.518,0.098,31.0,reviewed,us,us
