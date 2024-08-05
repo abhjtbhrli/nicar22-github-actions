@@ -8484,3 +8484,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-05T10:26:48.895Z,60.1705,-140.0763,5.0,1.7,ml,,,,0.98,ak,ak024a0p9o3d,2024-08-05T10:29:03.969Z,"72 km NNW of Yakutat, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2024-08-05T10:23:09.200Z,38.79,-122.77,3.3,1.1,md,23.0,76.0,0.01064,0.02,nc,nc75043767,2024-08-05T10:24:45.534Z,"3 km NNW of The Geysers, CA",earthquake,0.28,0.560000002,0.18,25.0,automatic,nc,nc
 2024-08-05T10:20:43.930Z,33.9791667,-116.9645,5.88,0.9,ml,24.0,52.0,0.05916,0.11,ci,ci40862624,2024-08-05T10:27:30.454Z,"6 km NNE of Beaumont, CA",earthquake,0.28,0.76,0.118,27.0,automatic,ci,ci
+2024-08-05T10:41:39.040Z,33.6758333,-116.697,16.03,0.64,ml,41.0,56.0,0.02055,0.15,ci,ci40862632,2024-08-05T10:47:40.003Z,"7 km SSE of Idyllwild, CA",earthquake,0.18,0.31,0.146,17.0,automatic,ci,ci
