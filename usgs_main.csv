@@ -8510,3 +8510,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-05T13:47:46.740Z,38.84,-122.84,1.77,0.76,md,18.0,73.0,0.0009604,0.03,nc,nc75043812,2024-08-05T13:49:22.829Z,"10 km NW of The Geysers, CA",earthquake,0.22,0.479999989,0.28,19.0,automatic,nc,nc
 2024-08-05T13:56:28.773Z,38.6786,-118.7321,8.6,2.1,ml,10.0,182.28000000000003,0.223,0.4798,nn,nn00881933,2024-08-05T13:59:01.128Z,"3 km NNE of Walker Lake, Nevada",earthquake,,1.9,0.21,7.0,automatic,nn,nn
 2024-08-05T13:49:24.690Z,33.227,-116.0433333,3.36,1.53,ml,58.0,58.0,0.07663,0.23,ci,ci40862744,2024-08-05T13:59:56.260Z,"11 km SW of Salton City, CA",earthquake,0.2,0.47,0.159,28.0,automatic,ci,ci
+2024-08-05T09:08:03.215Z,37.0043,-116.3812,9.1,2.1,ml,35.0,45.5,0.023,0.1523,nn,nn00881924,2024-08-05T14:13:29.479Z,"35 km ENE of Beatty, Nevada",earthquake,,1.2,0.23,14.0,reviewed,nn,nn
