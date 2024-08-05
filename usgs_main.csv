@@ -8429,3 +8429,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-05T03:24:23.900Z,19.3841667175293,-155.248001098633,1.70000004768372,1.86000001,md,19.0,81.0,0.003397,0.189999998,hv,hv74385371,2024-08-05T03:25:52.030Z,"6 km SSW of Volcano, Hawaii",earthquake,0.25,0.159999996,0.230000004,13.0,automatic,hv,hv
 2024-08-05T02:59:11.088Z,31.653,-104.462,6.552,1.6,ml,8.0,87.0,0.0,0.5,tx,tx2024pgsb,2024-08-05T03:24:47.911Z,"58 km S of Whites City, New Mexico",earthquake,0.0,7.19154177925998,0.1,7.0,automatic,tx,tx
 2024-08-05T03:49:53.800Z,38.25,-122.78,7.03,1.6,md,16.0,175.0,0.2044,0.27,nc,nc75043677,2024-08-05T03:51:31.602Z,"11 km SW of Cotati, CA",earthquake,1.51,3.75,0.14,6.0,automatic,nc,nc
+2024-08-05T04:11:49.190Z,38.84,-122.81,2.26,1.1,md,19.0,55.0,0.01237,0.01,nc,nc75043682,2024-08-05T04:13:25.890Z,"7 km WNW of Cobb, CA",earthquake,0.22,0.519999981,0.15,21.0,automatic,nc,nc
+2024-08-05T03:50:21.480Z,31.677,-104.432,7.7532,1.6,ml,17.0,53.0,0.0,0.3,tx,tx2024pgtt,2024-08-05T04:04:17.144Z,"55 km S of Whites City, New Mexico",earthquake,0.0,2.44679999888172,0.2,12.0,automatic,tx,tx
+2024-08-05T02:59:23.603Z,19.3806,-155.2587,2.556,2.5,ml,25.0,64.0,0.018,0.35,us,us6000ni4d,2024-08-05T03:54:33.040Z,"7 km SSW of Volcano, Hawaii",earthquake,0.71,3.814,0.055,44.0,reviewed,us,us
