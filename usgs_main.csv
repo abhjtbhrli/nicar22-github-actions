@@ -8501,3 +8501,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-05T12:31:00.981Z,36.8366,-117.5068,9.2,0.5,ml,8.0,299.53,0.195,0.299,nn,nn00881931,2024-08-05T12:33:09.681Z,"50 km NE of Keeler, California",earthquake,,2.7,0.42,5.0,automatic,nn,nn
 2024-08-05T12:29:12.300Z,38.82,-122.81,2.72,0.92,md,20.0,46.0,0.007702,0.01,nc,nc75043802,2024-08-05T12:30:51.384Z,"7 km NW of The Geysers, CA",earthquake,0.25,0.519999981,0.2,21.0,automatic,nc,nc
 2024-08-05T12:01:47.040Z,19.2035007476807,-155.502838134766,30.9699993133545,2.3900001,md,30.0,120.0,0.0614,0.170000002,hv,hv74385971,2024-08-05T12:03:23.580Z,"2 km W of Pāhala, Hawaii",earthquake,0.85,1.38,0.100000001,3.0,automatic,hv,hv
+2024-08-05T12:46:06.300Z,36.0751667,-117.6383333,2.15,1.26,ml,22.0,112.0,0.1143,0.15,ci,ci40862704,2024-08-05T12:57:18.254Z,"28 km E of Coso Junction, CA",earthquake,0.23,0.31,0.238,16.0,automatic,ci,ci
+2024-08-05T12:37:03.502Z,61.3226,-150.5787,26.8,2.2,ml,,,,0.31,ak,ak024a0qisoe,2024-08-05T12:38:36.046Z,"24 km S of Susitna, Alaska",earthquake,,0.2,,,automatic,ak,ak
