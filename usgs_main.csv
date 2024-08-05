@@ -8497,3 +8497,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-05T11:44:44.080Z,36.63,-121.29,7.7,1.51,md,15.0,84.0,0.0293,0.2,nc,nc75043797,2024-08-05T11:46:21.845Z,"17 km S of Tres Pinos, CA",earthquake,0.59,1.32000005,0.28,10.0,automatic,nc,nc
 2024-08-05T11:44:01.240Z,38.8,-122.85,-0.78,0.93,md,9.0,185.0,0.01096,0.24,nc,nc75043792,2024-08-05T11:45:36.716Z,"8 km WNW of The Geysers, CA",earthquake,1.33,4.73999977,0.33,8.0,automatic,nc,nc
 2024-08-05T11:37:20.773Z,61.9972,-147.4927,34.4,1.7,ml,,,,0.49,ak,ak024a0pxeel,2024-08-05T11:38:49.786Z,"18 km WNW of Eureka Roadhouse, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2024-08-05T11:52:30.334Z,36.9195,-117.456,15.1,0.6,ml,8.0,301.47,0.105,0.2014,nn,nn00881929,2024-08-05T11:54:39.788Z,"60 km NE of Keeler, California",earthquake,,1.4,0.4,5.0,automatic,nn,nn
