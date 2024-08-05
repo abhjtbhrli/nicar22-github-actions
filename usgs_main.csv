@@ -8420,3 +8420,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-04T23:42:53.793Z,-2.4142,-77.5735,26.054,4.6,mb,32.0,106.0,1.02,1.09,us,us6000ni3u,2024-08-04T23:59:27.040Z,"60 km E of Macas, Ecuador",earthquake,7.52,6.003,0.103,28.0,reviewed,us,us
 2024-08-05T02:22:04.090Z,35.0318336,-117.6736679,-0.66,1.6,ml,45.0,76.0,0.09898,0.26,ci,ci40862328,2024-08-05T02:24:11.331Z,"4 km NNW of Boron, CA",earthquake,0.4,1.04,0.145,13.0,automatic,ci,ci
 2024-08-05T02:21:46.190Z,38.81,-122.83,4.78,0.29,md,5.0,202.0,0.00328,0.01,nc,nc75043642,2024-08-05T02:23:20.839Z,"7 km NW of The Geysers, CA",earthquake,2.22,6.82000017,0.04,6.0,automatic,nc,nc
+2024-08-05T02:44:42.640Z,35.642334,-117.480835,3.83,1.19,ml,13.0,87.0,0.05178,0.1,ci,ci40862352,2024-08-05T02:46:49.040Z,"16 km SSW of Searles Valley, CA",earthquake,0.35,0.94,0.246,4.0,automatic,ci,ci
+2024-08-05T02:33:12.778Z,38.0743,-117.7037,5.6,1.2,ml,10.0,182.02,0.005,0.2198,nn,nn00881909,2024-08-05T02:35:57.911Z,"35 km N of Silver Peak, Nevada",earthquake,,0.6,0.29,7.0,automatic,nn,nn
+2024-08-05T02:29:48.818Z,-56.1584,-27.8835,143.48,5.2,mb,36.0,94.0,18.802,0.87,us,us6000ni4a,2024-08-05T02:42:32.040Z,South Sandwich Islands region,earthquake,12.58,8.521,0.088,43.0,reviewed,us,us
+2024-08-05T02:21:53.990Z,31.4916667,-115.6181667,7.58,2.75,ml,9.0,111.0,0.1734,0.16,ci,ci40862336,2024-08-05T02:30:42.111Z,"92 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.35,3.69,0.191,26.0,automatic,ci,ci
