@@ -8726,3 +8726,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-06T08:31:26.695Z,61.5264,-149.895,31.2,2.2,ml,,,,0.53,ak,ak024a2bn68t,2024-08-06T08:32:50.091Z,"3 km E of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-06T08:21:04.074Z,38.6187,-119.4791,5.5,2.0,ml,12.0,144.46000000000004,0.193,0.2443,nn,nn00881973,2024-08-06T08:23:25.937Z,"3 km E of Topaz, California",earthquake,,1.0,0.14,7.0,automatic,nn,nn
 2024-08-06T07:18:40.825Z,13.4704,-89.7276,76.037,4.7,mb,77.0,167.0,0.327,0.79,us,us6000nib4,2024-08-06T08:34:34.040Z,"17 km SE of Acajutla, El Salvador",earthquake,6.54,5.211,0.029,357.0,reviewed,us,us
+2024-08-06T08:42:13.040Z,33.1153336,-115.6241684,9.71,1.45,ml,18.0,74.0,0.03738,0.16,ci,ci40863944,2024-08-06T08:44:24.602Z,"9 km N of Westmorland, CA",earthquake,0.76,1.35,0.244,8.0,automatic,ci,ci
