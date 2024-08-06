@@ -8818,3 +8818,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-06T17:43:47.640Z,35.0521667,-118.3411667,-1.12,1.18,ml,29.0,33.0,0.06143,0.21,ci,ci40864496,2024-08-06T17:50:19.507Z,"13 km SE of Tehachapi, CA",earthquake,0.3,0.94,0.127,23.0,automatic,ci,ci
 2024-08-06T18:06:08.993Z,61.4175,-150.0787,33.6,1.5,ml,,,,0.49,ak,ak024a2hg40z,2024-08-06T18:08:11.238Z,"8 km NW of Point MacKenzie, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-05T18:50:06.900Z,38.76,-122.7,1.46,0.44,md,16.0,55.0,0.01175,0.03,nc,nc75043922,2024-08-06T18:01:35.847Z,"2 km SW of Anderson Springs, CA",earthquake,0.22,0.25,0.146,14.0,reviewed,nc,nc
+2024-08-06T18:26:30.191Z,64.6693,-147.642,11.7,1.0,ml,,,,0.58,ak,ak024a2hkfzf,2024-08-06T18:28:22.703Z,"15 km SSW of Badger, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-06T18:05:44.890Z,38.79,-122.78,1.33,1.34,md,25.0,89.0,0.008402,0.03,nc,nc75044367,2024-08-06T18:09:11.700Z,"3 km NW of The Geysers, CA",earthquake,0.24,0.330000013,0.13,24.0,automatic,nc,nc
+2024-08-06T17:48:44.358Z,-37.4355,146.3566,10.0,3.9,mb,15.0,69.0,0.702,0.52,us,us6000niec,2024-08-06T18:31:45.040Z,"32 km SSW of Mount Buller, Australia",earthquake,4.56,1.823,0.194,7.0,reviewed,us,us
+2024-08-06T00:12:50.480Z,38.69,-122.81,6.81,0.72,md,25.0,153.0,0.04261,0.05,nc,nc75044067,2024-08-06T18:25:46.076Z,"10 km SW of The Geysers, CA",earthquake,0.35,0.42,0.138,20.0,reviewed,nc,nc
+2024-08-05T21:21:29.830Z,38.75,-122.4,10.61,1.27,md,21.0,76.0,0.04921,0.13,nc,nc75044002,2024-08-06T18:16:11.304Z,"16 km SE of Hidden Valley Lake, CA",earthquake,0.57,0.59,0.117,16.0,reviewed,nc,nc
