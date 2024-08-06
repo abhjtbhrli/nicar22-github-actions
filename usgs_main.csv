@@ -8758,3 +8758,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-06T11:32:19.640Z,38.83,-122.81,2.1,0.79,md,13.0,73.0,0.008271,0.01,nc,nc75044272,2024-08-06T11:33:54.064Z,"8 km NNW of The Geysers, CA",earthquake,0.3,1.01999998,0.21,13.0,automatic,nc,nc
 2024-08-06T11:30:41.240Z,33.851,-117.7195,9.76,1.1,ml,33.0,51.0,0.06242,0.18,ci,ci40864016,2024-08-06T11:36:48.887Z,"10 km ENE of Villa Park, CA",earthquake,0.28,0.43,0.377,30.0,automatic,ci,ci
 2024-08-06T11:39:03.160Z,34.5553333,-119.1431667,0.46,1.33,ml,31.0,36.0,0.1168,0.2,ci,ci40864024,2024-08-06T11:45:19.597Z,"15 km NE of Ojai, CA",earthquake,0.2,0.45,0.161,29.0,automatic,ci,ci
+2024-08-06T12:00:41.150Z,19.179,-155.701166666667,7.53,4.01,ml,43.0,83.0,0.0475,0.24,hv,hv74387636,2024-08-06T12:30:54.101Z,"13 km NNE of Hawaiian Ocean View, Hawaii",earthquake,0.46,0.68,0.19219366330159,31.0,reviewed,hv,hv
+2024-08-06T11:33:42.260Z,-17.0639,-70.465,135.285,4.5,mb,59.0,137.0,1.076,1.46,us,us6000nic5,2024-08-06T12:39:33.040Z,"15 km NW of Pujocucho, Peru",earthquake,8.75,7.305,0.071,58.0,reviewed,us,us
