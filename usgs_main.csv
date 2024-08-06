@@ -8856,3 +8856,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-06T21:08:16.269Z,60.1376,-153.3017,145.9,2.1,ml,,,,0.5,ak,ak024a2j8uu2,2024-08-06T21:10:26.184Z,"56 km E of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-08-06T20:54:02.629Z,64.9498,-151.0508,27.4,1.1,ml,,,,0.81,ak,ak024a2ix946,2024-08-06T20:55:47.279Z,"20 km WSW of Manley Hot Springs, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-08-06T05:21:07.820Z,52.4395,-174.085,5.89,0.65,ml,4.0,325.0,0.05217,0.24,av,av93221896,2024-08-06T20:59:45.290Z,"28 km NNE of Atka, Alaska",earthquake,2.8,2.44,0.244048734269646,4.0,reviewed,av,av
+2024-08-06T21:18:40.960Z,62.0202,-148.3772,16.5,1.2,ml,,,,0.58,ak,ak024a2jb1v9,2024-08-06T21:20:58.648Z,"25 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-08-06T12:40:50.090Z,46.25,-122.18066666666668,-1.72,0.23,ml,6.0,254.0,0.04993,0.07,uw,uw62032821,2024-08-06T21:24:58.250Z,"35 km SSE of Morton, Washington",other event,1.55,31.61,0.070735655442445,2.0,reviewed,uw,uw
+2024-08-06T12:34:14.790Z,46.977,-120.90116666666668,4.92,1.41,ml,16.0,116.0,0.1236,0.21,uw,uw62032816,2024-08-06T21:22:36.370Z,"13 km ENE of Cliffdell, Washington",earthquake,0.4,1.01,0.1720874316145926,11.0,reviewed,uw,uw
+2024-08-06T10:39:40.050Z,44.430166666666665,-122.58716666666666,10.81,1.48,ml,15.0,57.0,0.1425,0.29,uw,uw62032806,2024-08-06T21:16:39.190Z,"9 km WNW of Cascadia, Oregon",earthquake,0.45,2.19,0.1366818007553345,13.0,reviewed,uw,uw
+2024-08-06T02:02:49.460Z,19.2328333333333,-155.126166666667,39.26,1.89,md,28.0,243.0,0.1048,0.07,hv,hv74386901,2024-08-06T21:23:33.410Z,"25 km S of Fern Forest, Hawaii",earthquake,2.05,0.97,0.133134410389898,11.0,reviewed,hv,hv
