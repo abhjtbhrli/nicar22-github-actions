@@ -8823,3 +8823,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-06T17:48:44.358Z,-37.4355,146.3566,10.0,3.9,mb,15.0,69.0,0.702,0.52,us,us6000niec,2024-08-06T18:31:45.040Z,"32 km SSW of Mount Buller, Australia",earthquake,4.56,1.823,0.194,7.0,reviewed,us,us
 2024-08-06T00:12:50.480Z,38.69,-122.81,6.81,0.72,md,25.0,153.0,0.04261,0.05,nc,nc75044067,2024-08-06T18:25:46.076Z,"10 km SW of The Geysers, CA",earthquake,0.35,0.42,0.138,20.0,reviewed,nc,nc
 2024-08-05T21:21:29.830Z,38.75,-122.4,10.61,1.27,md,21.0,76.0,0.04921,0.13,nc,nc75044002,2024-08-06T18:16:11.304Z,"16 km SE of Hidden Valley Lake, CA",earthquake,0.57,0.59,0.117,16.0,reviewed,nc,nc
+2024-08-06T12:34:27.140Z,38.73,-122.71,1.64,0.39,md,15.0,156.0,0.01021,0.02,nc,nc75044277,2024-08-06T18:35:20.185Z,"5 km SSW of Anderson Springs, CA",earthquake,0.48,0.33,0.203,9.0,reviewed,nc,nc
+2024-08-05T22:11:52.330Z,38.81,-122.82,2.94,0.3,md,25.0,54.0,0.006396,0.02,nc,nc75044042,2024-08-06T18:41:23.039Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.38,0.328,23.0,reviewed,nc,nc
+2024-08-05T21:59:48.480Z,38.79,-122.78,1.51,-0.15,md,11.0,92.0,0.007637,0.01,nc,nc75044027,2024-08-06T18:37:51.418Z,"3 km NW of The Geysers, CA",earthquake,0.37,0.36,0.199,11.0,reviewed,nc,nc
+2024-08-05T20:06:07.040Z,47.5785,-122.888,23.83,0.44,ml,8.0,102.0,0.04503,0.17,uw,uw62032666,2024-08-06T18:42:54.770Z,"8 km SSW of Seabeck, Washington",earthquake,0.9,0.73,0.1358215201300082,2.0,reviewed,uw,uw
