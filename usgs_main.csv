@@ -8883,3 +8883,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-06T23:30:40.908Z,60.5374,-141.258,16.0,1.4,ml,,,,0.78,ak,ak024a2kkhp6,2024-08-06T23:32:45.799Z,"134 km SE of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-06T23:30:02.280Z,35.0295,-117.6781667,-0.71,1.46,ml,38.0,51.0,0.09605,0.2,ci,ci40864992,2024-08-06T23:37:16.754Z,"4 km NW of Boron, CA",earthquake,0.28,0.68,0.134,29.0,automatic,ci,ci
 2024-08-06T23:22:13.561Z,51.6044,16.125,4.999,4.0,mb,46.0,39.0,1.262,0.93,us,us6000nifx,2024-08-06T23:36:20.040Z,"2 km WNW of Grębocice, Poland",earthquake,4.83,5.038,0.172,9.0,reviewed,us,us
+2024-08-06T15:46:39.370Z,54.122,-165.967333333333,10.84,-0.22,ml,8.0,72.0,0.03107,0.08,av,av93222246,2024-08-06T23:47:21.170Z,"12 km W of Akutan, Alaska",earthquake,0.38,0.7,0.195952077770852,9.0,reviewed,av,av
+2024-08-06T15:31:16.440Z,52.7596666666667,-169.893,9.45,1.28,ml,5.0,253.0,0.04013,0.08,av,av93222231,2024-08-06T23:39:34.190Z,"72 km WSW of Nikolski, Alaska",earthquake,1.14,0.7,0.0687719701775115,5.0,reviewed,av,av
