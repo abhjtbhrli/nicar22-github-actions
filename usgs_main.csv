@@ -8878,3 +8878,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-06T11:51:17.400Z,52.0785,-176.107333333333,8.42,0.02,ml,4.0,208.0,0.03235,0.28,av,av93017634,2024-08-06T22:43:09.860Z,"42 km ENE of Adak, Alaska",earthquake,1.49,1.74,0.244781400536987,4.0,reviewed,av,av
 2024-08-06T11:16:06.290Z,57.0225,-135.7555,8.36,-0.57,ml,4.0,239.0,0.01845,0.24,av,av93017639,2024-08-06T22:47:31.950Z,"26 km W of Sitka, Alaska",earthquake,2.16,1.32,0.082970213565942,4.0,reviewed,av,av
 2024-08-06T22:55:20.010Z,33.9241676,-117.8779984,10.32,1.77,ml,20.0,205.0,0.1621,0.32,ci,ci40864968,2024-08-06T22:57:41.329Z,"2 km ENE of Brea, CA",earthquake,1.94,1.55,0.221,8.0,automatic,ci,ci
+2024-08-06T23:15:49.360Z,64.9445,-147.2917,0.0,1.3,ml,,,,0.74,ak,ak024a2kham0,2024-08-06T23:18:06.079Z,"14 km NW of Two Rivers, Alaska",earthquake,,0.4,,,automatic,ak,ak
