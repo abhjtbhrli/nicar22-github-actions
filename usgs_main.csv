@@ -8808,3 +8808,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-06T16:32:11.470Z,35.6686667,-117.4796667,6.8,1.46,ml,29.0,59.0,0.0457,0.12,ci,ci40864312,2024-08-06T16:38:43.703Z,"13 km SSW of Searles Valley, CA",earthquake,0.16,0.37,0.113,20.0,automatic,ci,ci
 2024-08-06T16:29:32.460Z,19.291166305542,-155.37483215332,29.5900001525879,2.22,ml,58.0,109.0,0.04323,0.170000002,hv,hv74387921,2024-08-06T16:32:11.030Z,"14 km NE of Pāhala, Hawaii",earthquake,0.43,0.519999981,0.49,12.0,automatic,hv,hv
 2024-08-06T16:37:41.337Z,59.6291,-150.1205,18.8,2.2,ml,,,,0.66,ak,ak024a2gfyid,2024-08-06T16:41:14.456Z,"53 km ESE of Fox River, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-06T17:01:28.150Z,35.3838333,-118.218,6.15,1.12,ml,24.0,91.0,0.1651,0.15,ci,ci40864344,2024-08-06T17:08:58.477Z,"34 km SE of Bodfish, CA",earthquake,0.23,0.8,0.192,17.0,automatic,ci,ci
+2024-08-06T15:06:37.503Z,32.773,-100.692,9.1064,2.1,ml,15.0,77.0,0.1,0.1,tx,tx2024pjlq,2024-08-06T17:14:50.207Z,"16 km NNE of Hermleigh, Texas",earthquake,0.5111856167506821,0.914020149327672,0.1,13.0,reviewed,tx,tx
+2024-08-06T04:57:31.310Z,36.014,-91.277,4.13,1.67,md,7.0,153.0,0.1143,0.14,nm,nm60502273,2024-08-06T17:01:24.090Z,"2 km WNW of Lynn, Arkansas",earthquake,0.86,2.72,0.053476666145264,4.0,reviewed,nm,nm
