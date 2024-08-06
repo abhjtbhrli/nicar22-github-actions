@@ -8754,3 +8754,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-06T10:52:52.827Z,65.1753,-148.7198,1.0,1.1,ml,,,,0.73,ak,ak024a2cylkq,2024-08-06T10:55:19.522Z,"29 km E of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-06T11:16:11.950Z,38.84,-122.82,2.01,0.7,md,8.0,119.0,0.01298,0.01,nc,nc75044262,2024-08-06T11:17:48.897Z,"9 km WNW of Cobb, CA",earthquake,0.53,1.44000006,0.14,9.0,automatic,nc,nc
 2024-08-06T11:25:51.090Z,38.84,-122.82,1.79,0.86,md,17.0,64.0,0.01055,0.02,nc,nc75044267,2024-08-06T11:27:29.210Z,"9 km WNW of Cobb, CA",earthquake,0.25,0.589999974,0.23,19.0,automatic,nc,nc
+2024-08-06T11:38:34.320Z,62.1059,-147.454,40.2,2.3,ml,,,,0.81,ak,ak024a2dgzns,2024-08-06T11:40:01.497Z,"23 km NW of Eureka Roadhouse, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-08-06T11:32:19.640Z,38.83,-122.81,2.1,0.79,md,13.0,73.0,0.008271,0.01,nc,nc75044272,2024-08-06T11:33:54.064Z,"8 km NNW of The Geysers, CA",earthquake,0.3,1.01999998,0.21,13.0,automatic,nc,nc
+2024-08-06T11:30:41.240Z,33.851,-117.7195,9.76,1.1,ml,33.0,51.0,0.06242,0.18,ci,ci40864016,2024-08-06T11:36:48.887Z,"10 km ENE of Villa Park, CA",earthquake,0.28,0.43,0.377,30.0,automatic,ci,ci
