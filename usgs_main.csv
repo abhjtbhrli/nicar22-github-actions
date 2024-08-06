@@ -8853,3 +8853,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-06T04:09:40.760Z,53.8711666666667,-166.894166666667,5.0,-0.31,ml,6.0,156.0,0.0689,0.15,av,av93221816,2024-08-06T20:36:19.690Z,"23 km W of Dutch Harbor, Alaska",earthquake,0.54,31.61,0.290685065190544,6.0,reviewed,av,av
 2024-08-06T20:49:06.380Z,34.1483345,-117.4241638,5.33,2.47,ml,111.0,21.0,0.04424,0.23,ci,ci40864784,2024-08-06T20:52:05.428Z,"6 km NNE of Fontana, CA",earthquake,0.17,0.61,0.205,21.0,automatic,ci,ci
 2024-08-06T20:47:42.240Z,37.52,-118.78,4.25,1.78,md,16.0,158.0,0.08349,0.02,nc,nc75044412,2024-08-06T20:49:19.861Z,"10 km WSW of Toms Place, CA",earthquake,0.52,1.13,0.14,15.0,automatic,nc,nc
+2024-08-06T21:08:16.269Z,60.1376,-153.3017,145.9,2.1,ml,,,,0.5,ak,ak024a2j8uu2,2024-08-06T21:10:26.184Z,"56 km E of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-08-06T20:54:02.629Z,64.9498,-151.0508,27.4,1.1,ml,,,,0.81,ak,ak024a2ix946,2024-08-06T20:55:47.279Z,"20 km WSW of Manley Hot Springs, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-08-06T05:21:07.820Z,52.4395,-174.085,5.89,0.65,ml,4.0,325.0,0.05217,0.24,av,av93221896,2024-08-06T20:59:45.290Z,"28 km NNE of Atka, Alaska",earthquake,2.8,2.44,0.244048734269646,4.0,reviewed,av,av
