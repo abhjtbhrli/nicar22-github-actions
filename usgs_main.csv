@@ -8850,3 +8850,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-06T02:34:41.180Z,59.9758333333333,-153.075,0.34,0.36,ml,4.0,138.0,0.01904,0.08,av,av93221746,2024-08-06T20:10:23.360Z,"61 km ENE of Pedro Bay, Alaska",earthquake,0.29,1.31,0.290384701342257,4.0,reviewed,av,av
 2024-08-06T01:44:48.950Z,51.568,-177.256833333333,17.32,1.6,ml,7.0,284.0,0.1943,0.22,av,av93017604,2024-08-06T20:04:04.740Z,"54 km SW of Adak, Alaska",earthquake,1.58,2.36,0.183198694147891,6.0,reviewed,av,av
 2024-08-06T12:25:05.268Z,39.3949,-119.7122,5.7,0.5,ml,5.0,206.1,0.041,0.0764,nn,nn00881994,2024-08-06T20:18:45.793Z,"10 km NNW of Virginia City, Nevada",earthquake,,1.9,0.15,3.0,reviewed,nn,nn
+2024-08-06T04:09:40.760Z,53.8711666666667,-166.894166666667,5.0,-0.31,ml,6.0,156.0,0.0689,0.15,av,av93221816,2024-08-06T20:36:19.690Z,"23 km W of Dutch Harbor, Alaska",earthquake,0.54,31.61,0.290685065190544,6.0,reviewed,av,av
