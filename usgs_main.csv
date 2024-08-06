@@ -8866,3 +8866,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-06T17:34:40.970Z,46.221,-122.34366666666666,9.55,0.59,ml,13.0,164.0,0.03273,0.06,uw,uw62032916,2024-08-06T21:44:08.610Z,"35 km NNE of Amboy, Washington",earthquake,0.45,0.62,0.0416483005086277,5.0,reviewed,uw,uw
 2024-08-06T06:19:29.410Z,54.5471666666667,-163.520166666667,12.1,1.4,ml,8.0,263.0,0.1623,0.2,av,av93017614,2024-08-06T21:35:59.690Z,"34 km SSW of False Pass, Alaska",earthquake,1.12,0.65,0.266439766146497,8.0,reviewed,av,av
 2024-08-06T17:44:02.430Z,46.36216666666667,-123.553,-0.44,1.48,ml,7.0,93.0,0.1588,0.58,uw,uw62032921,2024-08-06T21:49:55.480Z,"4 km E of Grays River, Washington",explosion,1.9,31.61,0.1030956214938382,5.0,reviewed,uw,uw
+2024-08-06T22:06:55.699Z,62.7666,-149.0991,57.8,1.8,ml,,,,0.42,ak,ak024a2jty1t,2024-08-06T22:08:46.617Z,"62 km NE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-08-06T22:02:33.913Z,65.041,-148.6414,18.8,0.9,ml,,,,0.22,ak,ak024a2jt1i7,2024-08-06T22:03:44.840Z,"35 km ESE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-06T21:56:57.224Z,63.3565,-149.1171,85.0,1.7,ml,,,,0.44,ak,ak024a2jj8d6,2024-08-06T21:59:05.700Z,"9 km WSW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-08-06T21:19:15.883Z,52.7307,-169.4962,12.1,1.6,ml,,,,0.21,ak,ak024a2jb6pm,2024-08-06T22:01:11.299Z,"48 km WSW of Nikolski, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2024-08-06T19:02:45.780Z,45.01316666666666,-122.70533333333331,-0.4,1.49,md,6.0,98.0,0.05885,0.13,uw,uw62032986,2024-08-06T22:08:51.790Z,"4 km SW of Scotts Mills, Oregon",explosion,0.63,31.61,0.4377452100586013,4.0,reviewed,uw,uw
+2024-08-06T18:08:30.160Z,47.12116666666667,-123.093,-0.07,1.46,ml,18.0,95.0,0.07675,0.33,uw,uw62032926,2024-08-06T22:00:08.820Z,"10 km S of Shelton, Washington",explosion,0.52,31.61,0.1094935912434533,14.0,reviewed,uw,uw
