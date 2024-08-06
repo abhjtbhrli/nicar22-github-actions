@@ -8692,3 +8692,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-06T04:28:38.637Z,39.5816,-119.0713,2.3,1.7,ml,11.0,114.06,0.6,0.1689,nn,nn00881966,2024-08-06T04:31:14.806Z,"15 km E of Fernley, Nevada",earthquake,,9.9,0.17,7.0,automatic,nn,nn
 2024-08-06T04:36:01.017Z,60.1031,-150.7791,20.0,2.7,ml,,,,0.69,ak,ak024a29agf9,2024-08-06T04:37:43.845Z,"29 km NNE of Fox River, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-08-06T04:31:59.830Z,38.85,-122.78,1.02,0.72,md,11.0,150.0,0.006204,0.02,nc,nc75044137,2024-08-06T04:33:38.984Z,"6 km NW of Cobb, CA",earthquake,0.3,0.419999987,0.34,12.0,automatic,nc,nc
+2024-08-06T04:49:25.920Z,40.24,-121.15,-0.31,2.8,md,33.0,50.0,0.2354,0.18,nc,nc75044147,2024-08-06T04:51:23.876Z,"3 km NE of Almanor, CA",earthquake,0.31,3.96000004,0.12,30.0,automatic,nc,nc
+2024-08-06T04:44:56.060Z,32.9136658,-115.8724976,4.77,1.0,ml,12.0,80.0,0.06864,0.26,ci,ci40863792,2024-08-06T04:47:10.186Z,"23 km NNE of Ocotillo, CA",earthquake,0.65,1.49,0.116,3.0,automatic,ci,ci
