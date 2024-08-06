@@ -8773,3 +8773,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-06T13:23:07.670Z,32.9813333,-116.3208333,8.44,1.77,ml,73.0,36.0,0.07608,0.21,ci,ci40864120,2024-08-06T13:33:27.730Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.15,0.61,0.263,26.0,automatic,ci,ci
 2024-08-06T13:21:45.320Z,33.5075,-116.7678333,2.67,0.5,ml,31.0,32.0,0.03415,0.14,ci,ci40864112,2024-08-06T13:27:40.540Z,"10 km WSW of Anza, CA",earthquake,0.14,0.18,0.129,15.0,automatic,ci,ci
 2024-08-06T13:09:27.400Z,31.6137,-104.3304,5.0,3.1,ml,34.0,94.0,0.155,0.69,us,us6000nicf,2024-08-06T13:27:40.040Z,"60 km WNW of Toyah, Texas",earthquake,1.14,1.942,0.053,76.0,reviewed,us,us
+2024-08-06T13:36:16.650Z,36.68,-121.36,1.2,1.69,md,15.0,82.0,0.02967,0.1,nc,nc75044302,2024-08-06T13:37:55.015Z,"13 km SSW of Tres Pinos, CA",earthquake,0.33,1.75999999,0.29,15.0,automatic,nc,nc
+2024-08-05T22:51:56.020Z,36.103,-97.8365,4.63,1.14,ml,69.0,40.0,0.1169770451,0.21,ok,ok2024pifk,2024-08-06T13:44:03.308Z,"5 km E of Hennessey, Oklahoma",earthquake,,0.5,0.23,25.0,reviewed,ok,ok
