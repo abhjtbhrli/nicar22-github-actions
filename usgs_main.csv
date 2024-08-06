@@ -8865,3 +8865,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-06T21:22:49.494Z,-24.4277,-177.6308,208.894,5.6,mww,62.0,75.0,3.911,1.08,us,us6000nifm,2024-08-06T21:44:40.519Z,south of the Fiji Islands,earthquake,9.39,5.906,0.071,19.0,reviewed,us,us
 2024-08-06T17:34:40.970Z,46.221,-122.34366666666666,9.55,0.59,ml,13.0,164.0,0.03273,0.06,uw,uw62032916,2024-08-06T21:44:08.610Z,"35 km NNE of Amboy, Washington",earthquake,0.45,0.62,0.0416483005086277,5.0,reviewed,uw,uw
 2024-08-06T06:19:29.410Z,54.5471666666667,-163.520166666667,12.1,1.4,ml,8.0,263.0,0.1623,0.2,av,av93017614,2024-08-06T21:35:59.690Z,"34 km SSW of False Pass, Alaska",earthquake,1.12,0.65,0.266439766146497,8.0,reviewed,av,av
+2024-08-06T17:44:02.430Z,46.36216666666667,-123.553,-0.44,1.48,ml,7.0,93.0,0.1588,0.58,uw,uw62032921,2024-08-06T21:49:55.480Z,"4 km E of Grays River, Washington",explosion,1.9,31.61,0.1030956214938382,5.0,reviewed,uw,uw
