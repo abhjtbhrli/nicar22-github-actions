@@ -8827,3 +8827,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-05T22:11:52.330Z,38.81,-122.82,2.94,0.3,md,25.0,54.0,0.006396,0.02,nc,nc75044042,2024-08-06T18:41:23.039Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.38,0.328,23.0,reviewed,nc,nc
 2024-08-05T21:59:48.480Z,38.79,-122.78,1.51,-0.15,md,11.0,92.0,0.007637,0.01,nc,nc75044027,2024-08-06T18:37:51.418Z,"3 km NW of The Geysers, CA",earthquake,0.37,0.36,0.199,11.0,reviewed,nc,nc
 2024-08-05T20:06:07.040Z,47.5785,-122.888,23.83,0.44,ml,8.0,102.0,0.04503,0.17,uw,uw62032666,2024-08-06T18:42:54.770Z,"8 km SSW of Seabeck, Washington",earthquake,0.9,0.73,0.1358215201300082,2.0,reviewed,uw,uw
+2024-08-06T18:44:18.670Z,34.6221657,-117.1166687,-1.34,1.47,ml,35.0,92.0,0.2183,0.37,ci,ci40864592,2024-08-06T18:46:25.194Z,"15 km NNE of Apple Valley, CA",earthquake,0.48,1.84,0.197,3.0,automatic,ci,ci
+2024-08-06T18:14:56.948Z,31.655,-104.405,4.519,1.6,ml,15.0,88.0,0.0,0.4,tx,tx2024pjru,2024-08-06T18:44:40.960Z,"57 km S of Whites City, New Mexico",earthquake,0.0,1.45279616049877,0.3,10.0,automatic,tx,tx
+2024-08-06T07:27:38.500Z,40.04,-123.78,19.08,1.32,md,21.0,62.0,0.05963,0.13,nc,nc75044187,2024-08-06T18:49:25.935Z,"10 km SSE of Redway, CA",earthquake,0.35,0.65,0.25,10.0,reviewed,nc,nc
