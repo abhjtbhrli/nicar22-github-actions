@@ -8811,3 +8811,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-06T17:01:28.150Z,35.3838333,-118.218,6.15,1.12,ml,24.0,91.0,0.1651,0.15,ci,ci40864344,2024-08-06T17:08:58.477Z,"34 km SE of Bodfish, CA",earthquake,0.23,0.8,0.192,17.0,automatic,ci,ci
 2024-08-06T15:06:37.503Z,32.773,-100.692,9.1064,2.1,ml,15.0,77.0,0.1,0.1,tx,tx2024pjlq,2024-08-06T17:14:50.207Z,"16 km NNE of Hermleigh, Texas",earthquake,0.5111856167506821,0.914020149327672,0.1,13.0,reviewed,tx,tx
 2024-08-06T04:57:31.310Z,36.014,-91.277,4.13,1.67,md,7.0,153.0,0.1143,0.14,nm,nm60502273,2024-08-06T17:01:24.090Z,"2 km WNW of Lynn, Arkansas",earthquake,0.86,2.72,0.053476666145264,4.0,reviewed,nm,nm
+2024-08-06T17:25:02.583Z,60.5724,-152.2457,104.3,1.6,ml,,,,0.19,ak,ak024a2gyqj6,2024-08-06T17:26:45.086Z,"50 km W of Salamatof, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-08-06T17:23:51.480Z,61.5943,-142.4391,19.4,1.3,ml,,,,0.26,ak,ak024a2gyevg,2024-08-06T17:25:37.203Z,"31 km NE of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
