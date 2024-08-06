@@ -8815,3 +8815,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-06T17:23:51.480Z,61.5943,-142.4391,19.4,1.3,ml,,,,0.26,ak,ak024a2gyevg,2024-08-06T17:25:37.203Z,"31 km NE of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-06T17:36:52.150Z,36.1418343,-118.2060013,-1.52,1.44,ml,11.0,190.0,0.2838,0.49,ci,ci40864480,2024-08-06T17:39:18.651Z,"24 km SW of Olancha, CA",earthquake,2.08,6.33,0.235,4.0,automatic,ci,ci
 2024-08-06T17:30:02.350Z,32.9026667,-116.9468333,4.1,1.32,ml,38.0,67.0,0.06667,0.21,ci,ci40864448,2024-08-06T17:36:26.639Z,"6 km NNW of Lakeside, CA",earthquake,0.26,0.76,0.209,24.0,automatic,ci,ci
+2024-08-06T17:43:47.640Z,35.0521667,-118.3411667,-1.12,1.18,ml,29.0,33.0,0.06143,0.21,ci,ci40864496,2024-08-06T17:50:19.507Z,"13 km SE of Tehachapi, CA",earthquake,0.3,0.94,0.127,23.0,automatic,ci,ci
