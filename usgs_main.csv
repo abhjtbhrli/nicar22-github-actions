@@ -9306,3 +9306,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-07T15:29:48.714Z,60.0228,-141.0972,18.0,1.7,ml,,,,0.8,ak,ak024a43c68n,2024-08-07T15:31:29.530Z,"93 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-07T15:07:46.359Z,-15.22,-173.0928,10.0,4.9,mb,32.0,119.0,1.819,0.85,us,us6000nin2,2024-08-07T15:33:57.040Z,"110 km NE of Hihifo, Tonga",earthquake,8.1,1.892,0.102,30.0,reviewed,us,us
 2024-08-06T16:19:51.829Z,36.24083333,-95.8095,2.81,1.25,ml,39.0,120.0,0.3302351966,0.4556802619,ok,ok2024pjnz,2024-08-07T15:43:51.036Z,"5 km SE of Owasso, Oklahoma",earthquake,,1.7,0.25,18.0,reviewed,ok,ok
+2024-08-07T15:46:28.643Z,64.5805,-149.2184,0.0,1.5,ml,,,,0.97,ak,ak024a43frv4,2024-08-07T15:48:44.439Z,"5 km WSW of Four Mile Road, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-08-07T15:41:51.192Z,57.9922,-154.1719,44.9,1.6,ml,,,,0.66,ak,ak024a43er0v,2024-08-07T15:43:47.847Z,"50 km NNE of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2024-08-07T15:38:27.090Z,19.3834991455078,-155.255004882812,0.419999986886978,1.88,ml,21.0,50.0,0.004021,0.270000011,hv,hv74389686,2024-08-07T15:41:07.830Z,"6 km SSW of Volcano, Hawaii",earthquake,0.25,0.170000002,0.24,10.0,automatic,hv,hv
+2024-08-07T01:25:27.390Z,44.4245,-110.352833333333,2.05,0.19,md,5.0,152.0,0.05857,0.07,uu,uu80077701,2024-08-07T15:46:17.700Z,"65 km ESE of West Yellowstone, Montana",earthquake,0.53,31.61,0.322806101784225,3.0,reviewed,uu,uu
