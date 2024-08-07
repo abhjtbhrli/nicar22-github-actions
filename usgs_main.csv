@@ -8912,3 +8912,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-06T03:06:31.280Z,19.1578333333333,-155.494666666667,34.87,1.7,md,17.0,214.0,0.03087,0.1,hv,hv74387001,2024-08-07T02:06:52.060Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.73,0.83,0.212788658342339,10.0,reviewed,hv,hv
 2024-08-07T02:43:56.780Z,19.3784999847412,-155.245498657227,0.490000009536743,1.75,md,15.0,89.0,0.006737,0.140000001,hv,hv74388616,2024-08-07T02:45:27.660Z,"7 km S of Volcano, Hawaii",earthquake,0.16,0.129999995,0.100000001,12.0,automatic,hv,hv
 2024-08-06T08:43:05.565Z,46.6002,-68.2022,8.825,1.2,ml,8.0,114.0,0.744,0.3,us,us6000nigj,2024-08-07T02:25:51.040Z,"6 km SSW of Chapman, Maine",earthquake,1.53,7.034,0.148,6.0,reviewed,us,us
+2024-08-07T02:45:39.778Z,65.1425,-148.5053,19.4,0.7,ml,,,,0.64,ak,ak024a3voy55,2024-08-07T02:47:42.911Z,"39 km E of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-08-07T02:32:28.610Z,37.6751,35.9782,10.0,4.6,mwr,62.0,62.0,0.306,0.97,us,us6000nigk,2024-08-07T02:48:11.040Z,"16 km SSE of Feke, Turkey",earthquake,2.98,1.856,0.056,31.0,reviewed,us,us
