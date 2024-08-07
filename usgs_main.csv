@@ -9216,3 +9216,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-07T11:24:49.580Z,35.0923347,-119.1183319,12.92,1.5,ml,13.0,162.0,0.04399,0.18,ci,ci40867224,2024-08-07T11:26:59.414Z,"24 km NW of Grapevine, CA",earthquake,0.89,1.21,0.36,3.0,automatic,ci,ci
 2024-08-07T11:24:24.900Z,33.470665,-116.5001678,14.27,1.2,ml,20.0,68.0,0.08858,0.15,ci,ci40867216,2024-08-07T11:26:46.413Z,"19 km ESE of Anza, CA",earthquake,0.41,0.98,0.537,7.0,automatic,ci,ci
 2024-08-07T11:17:10.731Z,37.3858,-117.9067,5.6,1.4,ml,9.0,209.63,0.055,0.3089,nn,nn00882036,2024-08-07T11:19:41.143Z,"34 km SSE of Dyer, Nevada",earthquake,,1.1,1.08,6.0,automatic,nn,nn
+2024-08-07T10:04:15.702Z,18.295,145.2847,448.981,4.3,mb,36.0,142.0,3.075,0.38,us,us6000nilb,2024-08-07T11:33:10.040Z,"Pagan region, Northern Mariana Islands",earthquake,13.03,12.118,0.102,27.0,reviewed,us,us
