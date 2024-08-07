@@ -9340,3 +9340,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-07T17:34:08.081Z,60.0849,-152.685,101.6,1.7,ml,,,,0.27,ak,ak024a44k0w8,2024-08-07T17:35:52.087Z,"55 km WNW of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-08-07T17:50:20.170Z,35.1751671,-119.1996689,5.37,1.38,ml,12.0,220.0,0.3266,0.32,ci,ci40868120,2024-08-07T17:52:22.617Z,"22 km NE of Maricopa, CA",earthquake,2.17,5.27,0.583,5.0,automatic,ci,ci
 2024-08-07T17:48:33.890Z,35.0986671,-119.1128311,12.9,1.53,ml,21.0,84.0,0.04653,0.18,ci,ci40868096,2024-08-07T17:52:13.346Z,"24 km NW of Grapevine, CA",earthquake,0.38,0.79,0.161,28.0,automatic,ci,ci
+2024-08-07T18:05:48.320Z,35.0936661,-119.1139984,12.21,3.13,ml,77.0,24.0,0.04287,0.3,ci,ci40868176,2024-08-07T18:10:05.015Z,"24 km NW of Grapevine, CA",earthquake,0.31,0.93,0.558,24.0,automatic,ci,ci
+2024-08-07T18:03:10.170Z,33.2673333,-116.4356667,4.65,2.14,ml,90.0,19.0,0.01553,0.18,ci,ci40868144,2024-08-07T18:11:26.488Z,"6 km WNW of Borrego Springs, CA",earthquake,0.11,0.3,0.174,26.0,automatic,ci,ci
+2024-08-07T18:02:56.690Z,35.8725,-117.7241667,10.45,0.68,ml,14.0,48.0,0.07187,0.13,ci,ci40868152,2024-08-07T18:11:09.858Z,"18 km ESE of Little Lake, CA",earthquake,0.23,0.64,0.124,4.0,automatic,ci,ci
+2024-08-07T18:01:57.090Z,38.8,-122.82,3.82,0.78,md,8.0,138.0,0.00662,0.02,nc,nc75045232,2024-08-07T18:03:34.435Z,"7 km NW of The Geysers, CA",earthquake,1.01,2.53999996,0.21,8.0,automatic,nc,nc
