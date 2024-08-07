@@ -9455,3 +9455,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-07T22:50:48.760Z,35.0805,-119.0653333,12.53,1.36,ml,25.0,112.0,0.02659,0.2,ci,ci40868840,2024-08-07T22:58:02.739Z,"20 km NW of Grapevine, CA",earthquake,0.38,0.61,0.247,29.0,automatic,ci,ci
 2024-08-07T22:47:34.090Z,33.3655,-116.9608333,8.12,0.92,ml,46.0,24.0,0.06387,0.19,ci,ci40868832,2024-08-07T22:54:01.118Z,"9 km W of Palomar Observatory, CA",earthquake,0.18,0.57,0.113,26.0,automatic,ci,ci
 2024-08-07T23:10:01.960Z,35.1031667,-119.1285,1.13,1.44,ml,27.0,41.0,0.05763,0.3,ci,ci40868864,2024-08-07T23:16:33.342Z,"25 km ENE of Maricopa, CA",earthquake,0.47,1.59,0.108,26.0,automatic,ci,ci
+2024-08-07T23:35:46.330Z,35.2426682,-119.2160034,6.49,1.24,ml,10.0,113.0,0.1365,0.33,ci,ci40868888,2024-08-07T23:37:52.746Z,"17 km SSW of Rosedale, CA",earthquake,1.17,3.77,0.229,11.0,automatic,ci,ci
+2024-08-07T23:34:55.490Z,35.0963326,-119.1115036,12.9,1.78,ml,19.0,89.0,0.04397,0.18,ci,ci40868880,2024-08-07T23:37:23.470Z,"24 km NW of Grapevine, CA",earthquake,0.57,0.98,0.288,18.0,automatic,ci,ci
+2024-08-07T23:32:17.617Z,62.2708,-149.4203,0.0,2.1,ml,,,,0.54,ak,ak024a4847tt,2024-08-07T23:34:17.489Z,"25 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-07T19:08:23.340Z,35.0853333,-119.1113333,14.68,2.85,ml,29.0,83.0,0.03495,0.15,ci,ci37679004,2024-08-07T23:40:21.487Z,"23 km NW of Grapevine, CA",earthquake,0.28,0.48,0.156,2.0,reviewed,ci,ci
