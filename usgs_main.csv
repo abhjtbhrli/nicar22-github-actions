@@ -9336,3 +9336,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-06T22:50:36.480Z,47.79716666666667,-122.83433333333332,22.44,0.7000000000000001,ml,8.0,181.0,0.04028,0.17,uw,uw62033091,2024-08-07T17:02:18.220Z,"4 km SE of Quilcene, Washington",earthquake,0.96,0.76,0.0457199482990785,5.0,reviewed,uw,uw
 2024-08-07T17:23:11.770Z,34.075,-118.1778333,12.55,1.57,ml,19.0,97.0,0.03791,0.11,ci,ci40868008,2024-08-07T17:31:15.926Z,"5 km N of East Los Angeles, CA",earthquake,0.6,0.6,0.316,34.0,automatic,ci,ci
 2024-08-07T17:22:30.320Z,35.0938333,-119.1006667,1.79,1.83,ml,45.0,41.0,0.03778,0.27,ci,ci40868000,2024-08-07T17:29:16.973Z,"23 km NW of Grapevine, CA",earthquake,0.28,1.21,0.132,27.0,automatic,ci,ci
+2024-08-07T17:40:07.900Z,35.8731651,-117.7286682,8.5,1.09,ml,17.0,89.0,0.07086,0.16,ci,ci40868064,2024-08-07T17:42:19.822Z,"18 km ESE of Little Lake, CA",earthquake,0.38,1.05,0.149,3.0,automatic,ci,ci
+2024-08-07T17:34:08.081Z,60.0849,-152.685,101.6,1.7,ml,,,,0.27,ak,ak024a44k0w8,2024-08-07T17:35:52.087Z,"55 km WNW of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
