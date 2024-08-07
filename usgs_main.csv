@@ -8918,3 +8918,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-07T02:44:49.676Z,29.4181,102.0349,10.0,4.3,mb,20.0,114.0,15.191,0.78,us,us6000nign,2024-08-07T03:08:42.040Z,"65 km S of Kangding, China",earthquake,6.03,1.958,0.129,17.0,reviewed,us,us
 2024-08-07T03:22:18.119Z,63.1205,-150.8755,136.5,1.7,ml,,,,0.4,ak,ak024a3w5elv,2024-08-07T03:24:51.094Z,"63 km SE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-08-07T03:20:58.667Z,-17.7187,-179.954,606.155,4.9,mb,32.0,77.0,1.9,0.8,us,us6000nigu,2024-08-07T03:30:15.040Z,"86 km ENE of Levuka, Fiji",earthquake,13.16,12.254,0.125,20.0,reviewed,us,us
+2024-08-07T03:28:52.600Z,35.9401667,-117.6955,2.67,0.88,ml,20.0,64.0,0.03742,0.14,ci,ci40865168,2024-08-07T03:34:38.323Z,"19 km E of Little Lake, CA",earthquake,0.23,0.35,0.118,10.0,automatic,ci,ci
