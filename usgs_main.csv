@@ -9270,3 +9270,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-07T14:00:18.532Z,57.7231,-157.3879,14.3,1.8,ml,,,,0.58,ak,ak024a42kgjh,2024-08-07T14:01:53.568Z,"21 km NNE of Pilot Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-08-07T13:51:25.770Z,35.086834,-119.1135025,13.22,1.54,ml,26.0,83.0,0.03724,0.23,ci,ci40867560,2024-08-07T13:53:48.715Z,"23 km NW of Grapevine, CA",earthquake,0.44,0.81,0.373,5.0,automatic,ci,ci
 2024-08-07T09:58:26.830Z,35.103,-119.1218333,-0.04,1.83,ml,20.0,105.0,0.05418,0.32,ci,ci40866992,2024-08-07T13:55:04.164Z,"25 km NW of Grapevine, CA",earthquake,0.63,1.57,0.213,25.0,automatic,ci,ci
+2024-08-07T14:21:14.870Z,36.1521683,-118.0473328,2.45,1.35,ml,14.0,87.0,0.1596,0.12,ci,ci40867648,2024-08-07T14:23:21.712Z,"15 km NW of Coso Junction, CA",earthquake,0.51,1.69,0.161,3.0,automatic,ci,ci
+2024-08-07T14:12:58.650Z,35.0979996,-119.1051636,10.76,2.0,ml,47.0,45.0,0.2221,0.23,ci,ci40867640,2024-08-07T14:24:11.510Z,"24 km NW of Grapevine, CA",earthquake,0.25,0.83,0.254,27.0,automatic,ci,ci
+2024-08-07T14:08:43.250Z,35.1028328,-119.0868301,11.53,1.87,ml,37.0,74.0,0.0442,0.22,ci,ci40867616,2024-08-07T14:19:35.813Z,"23 km NW of Grapevine, CA",earthquake,0.29,0.81,0.246,28.0,automatic,ci,ci
+2024-08-07T14:01:48.653Z,31.56,-104.023,6.4102,1.5,ml,14.0,73.0,0.0,0.2,tx,tx2024pley,2024-08-07T14:18:02.324Z,"34 km NW of Toyah, Texas",earthquake,0.0,2.50933211920598,0.2,12.0,automatic,tx,tx
+2024-08-07T13:41:53.104Z,51.5693,-175.2487,25.6,2.2,ml,,,,0.72,ak,ak024a427v85,2024-08-07T14:20:07.582Z,"100 km SW of Atka, Alaska",earthquake,,1.1,,,reviewed,ak,ak
+2024-08-07T12:07:28.232Z,50.5619,-170.4546,12.0,3.5,ml,,,,0.86,ak,ak024a41f4ye,2024-08-07T14:21:12.100Z,"286 km SSW of Nikolski, Alaska",earthquake,,5.7,,,reviewed,ak,ak
+2024-08-07T08:30:25.588Z,66.378,-157.2413,7.8,1.1,ml,,,,0.63,ak,ak024a3z6axq,2024-08-07T14:11:26.562Z,"57 km S of Shungnak, Alaska",earthquake,,0.6,,,reviewed,ak,ak
