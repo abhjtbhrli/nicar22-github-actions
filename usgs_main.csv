@@ -9371,3 +9371,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-07T19:08:23.630Z,35.0825005,-119.1094971,12.11,3.25,ml,57.0,43.0,0.03183,0.29,ci,ci40868336,2024-08-07T19:19:19.640Z,"22 km NW of Grapevine, CA",earthquake,0.38,0.8,0.327,23.0,automatic,ci,ci
 2024-08-07T19:06:46.160Z,35.089,-119.0928333,1.49,1.51,ml,28.0,96.0,0.03122,0.21,ci,ci40868328,2024-08-07T19:19:10.584Z,"22 km NW of Grapevine, CA",earthquake,0.33,1.37,0.121,27.0,automatic,ci,ci
 2024-08-07T02:12:11.250Z,48.93533333333333,-122.10116666666669,7.46,0.96,ml,7.0,134.0,0.03281,0.09,uw,uw62033166,2024-08-07T19:13:55.490Z,"2 km NW of Maple Falls, Washington",earthquake,0.38,0.61,0.0622386787075293,6.0,reviewed,uw,uw
+2024-08-07T19:20:42.670Z,36.0895,-117.8893333,4.46,1.39,ml,26.0,70.0,0.03956,0.16,ci,ci40868360,2024-08-07T19:26:37.240Z,"7 km NE of Coso Junction, CA",earthquake,0.2,0.38,0.223,18.0,automatic,ci,ci
