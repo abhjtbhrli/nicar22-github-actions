@@ -9434,3 +9434,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-07T21:42:56.498Z,60.2768,-152.5054,91.3,1.5,ml,,,,0.81,ak,ak024a46zks1,2024-08-07T21:45:05.424Z,"52 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-08-07T21:12:47.390Z,18.7516666666667,-65.6095,21.31,2.84,md,12.0,229.0,0.534,0.2,pr,pr71457078,2024-08-07T21:40:05.340Z,"43 km NNE of Vieques, Puerto Rico",earthquake,0.95,16.43,0.143484051184496,13.0,reviewed,pr,pr
 2024-08-07T20:29:14.652Z,36.6546,-116.2691,5.9,0.1,ml,15.0,190.15,0.057,0.0751,nn,nn00882064,2024-08-07T21:46:03.461Z,"52 km ESE of Beatty, Nevada",earthquake,,1.5,0.28,3.0,reviewed,nn,nn
+2024-08-07T21:55:05.080Z,36.1450005,-118.0526657,0.5,1.73,ml,14.0,87.0,0.1625,0.11,ci,ci40868752,2024-08-07T21:57:28.533Z,"14 km NW of Coso Junction, CA",earthquake,0.36,0.79,0.252,12.0,automatic,ci,ci
+2024-08-07T21:49:17.380Z,35.0896667,-119.0576667,1.31,1.4,ml,26.0,81.0,0.03769,0.25,ci,ci40868728,2024-08-07T21:59:33.701Z,"20 km NW of Grapevine, CA",earthquake,0.35,1.57,0.178,29.0,automatic,ci,ci
+2024-08-07T03:20:05.840Z,54.5581666666667,-163.538333333333,11.82,1.28,ml,7.0,259.0,0.1472,0.2,av,av93017714,2024-08-07T21:55:52.610Z,"33 km SSW of False Pass, Alaska",earthquake,1.12,0.69,0.35398688526617,9.0,reviewed,av,av
