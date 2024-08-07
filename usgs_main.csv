@@ -9454,3 +9454,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-07T23:02:25.640Z,38.82,-122.76,1.98,1.06,md,11.0,132.0,0.01019,0.02,nc,nc75045392,2024-08-07T23:04:00.581Z,"3 km WNW of Cobb, CA",earthquake,0.36,0.829999983,0.27,12.0,automatic,nc,nc
 2024-08-07T22:50:48.760Z,35.0805,-119.0653333,12.53,1.36,ml,25.0,112.0,0.02659,0.2,ci,ci40868840,2024-08-07T22:58:02.739Z,"20 km NW of Grapevine, CA",earthquake,0.38,0.61,0.247,29.0,automatic,ci,ci
 2024-08-07T22:47:34.090Z,33.3655,-116.9608333,8.12,0.92,ml,46.0,24.0,0.06387,0.19,ci,ci40868832,2024-08-07T22:54:01.118Z,"9 km W of Palomar Observatory, CA",earthquake,0.18,0.57,0.113,26.0,automatic,ci,ci
+2024-08-07T23:10:01.960Z,35.1031667,-119.1285,1.13,1.44,ml,27.0,41.0,0.05763,0.3,ci,ci40868864,2024-08-07T23:16:33.342Z,"25 km ENE of Maricopa, CA",earthquake,0.47,1.59,0.108,26.0,automatic,ci,ci
