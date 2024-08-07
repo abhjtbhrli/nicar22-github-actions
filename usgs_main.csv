@@ -9338,3 +9338,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-07T17:22:30.320Z,35.0938333,-119.1006667,1.79,1.83,ml,45.0,41.0,0.03778,0.27,ci,ci40868000,2024-08-07T17:29:16.973Z,"23 km NW of Grapevine, CA",earthquake,0.28,1.21,0.132,27.0,automatic,ci,ci
 2024-08-07T17:40:07.900Z,35.8731651,-117.7286682,8.5,1.09,ml,17.0,89.0,0.07086,0.16,ci,ci40868064,2024-08-07T17:42:19.822Z,"18 km ESE of Little Lake, CA",earthquake,0.38,1.05,0.149,3.0,automatic,ci,ci
 2024-08-07T17:34:08.081Z,60.0849,-152.685,101.6,1.7,ml,,,,0.27,ak,ak024a44k0w8,2024-08-07T17:35:52.087Z,"55 km WNW of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-08-07T17:50:20.170Z,35.1751671,-119.1996689,5.37,1.38,ml,12.0,220.0,0.3266,0.32,ci,ci40868120,2024-08-07T17:52:22.617Z,"22 km NE of Maricopa, CA",earthquake,2.17,5.27,0.583,5.0,automatic,ci,ci
+2024-08-07T17:48:33.890Z,35.0986671,-119.1128311,12.9,1.53,ml,21.0,84.0,0.04653,0.18,ci,ci40868096,2024-08-07T17:52:13.346Z,"24 km NW of Grapevine, CA",earthquake,0.38,0.79,0.161,28.0,automatic,ci,ci
