@@ -9293,3 +9293,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-07T14:46:59.880Z,35.0839996,-119.0893326,12.32,1.45,ml,20.0,100.0,0.02574,0.19,ci,ci40867704,2024-08-07T14:49:06.873Z,"21 km NW of Grapevine, CA",earthquake,0.6,0.87,0.468,5.0,automatic,ci,ci
 2024-08-07T11:54:09.040Z,35.0883333,-119.088,0.96,1.53,ml,34.0,75.0,0.02986,0.26,ci,ci40867264,2024-08-07T14:54:07.646Z,"22 km NW of Grapevine, CA",earthquake,0.28,1.37,0.145,28.0,automatic,ci,ci
 2024-08-06T17:59:57.400Z,32.122,-101.051,3.6621,1.5,ml,10.0,72.0,0.2,0.1,tx,tx2024pjrj,2024-08-07T14:51:40.565Z,"26 km S of Westbrook, Texas",earthquake,1.1215536777359332,2.6527989399375147,0.1,16.0,reviewed,tx,tx
+2024-08-07T15:12:58.130Z,35.1151657,-119.1269989,6.49,1.67,ml,19.0,80.0,0.06663,0.23,ci,ci40867728,2024-08-07T15:16:36.757Z,"25 km SW of Lamont, CA",earthquake,0.45,1.02,0.271,14.0,automatic,ci,ci
+2024-08-07T14:56:26.495Z,63.1223,-151.3368,0.0,1.2,ml,,,,0.73,ak,ak024a42wh8f,2024-08-07T14:59:40.291Z,"50 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-08-06T21:05:16.829Z,35.54733333,-96.74666667,5.78,0.8,ml,28.0,45.0,0.01349735136,0.17,ok,ok2024pjxk,2024-08-07T15:13:43.945Z,"8 km NW of Prague, Oklahoma",earthquake,,0.4,0.21,11.0,reviewed,ok,ok
+2024-08-06T17:45:47.799Z,34.44433333,-96.84233333,0.0,1.26,ml,12.0,227.0,0.2474514416,0.27,ok,ok2024pjqv,2024-08-07T15:19:27.051Z,"4 km NNW of Mill Creek, Oklahoma",quarry blast,,1.0,0.2,6.0,reviewed,ok,ok
