@@ -9209,3 +9209,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-07T10:57:01.920Z,35.1166649,-119.1175003,12.15,1.91,ml,30.0,91.0,0.06419,0.2,ci,ci40867184,2024-08-07T10:59:26.640Z,"24 km SW of Lamont, CA",earthquake,0.45,1.04,0.263,23.0,automatic,ci,ci
 2024-08-07T10:56:04.200Z,35.0946655,-119.1080017,12.01,1.82,ml,26.0,127.0,0.04109,0.24,ci,ci40867176,2024-08-07T10:58:36.639Z,"23 km NW of Grapevine, CA",earthquake,0.58,1.13,0.216,22.0,automatic,ci,ci
 2024-08-07T10:51:24.860Z,35.0704994,-119.1368332,12.62,1.49,ml,13.0,175.0,0.04509,0.2,ci,ci40867168,2024-08-07T10:53:41.788Z,"24 km NW of Grapevine, CA",earthquake,1.06,1.89,0.314,5.0,automatic,ci,ci
+2024-08-07T11:10:19.411Z,62.747,-148.8644,4.6,1.6,ml,,,,0.63,ak,ak024a40uayd,2024-08-07T11:12:08.346Z,"71 km ENE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-07T11:06:17.340Z,35.0866661,-119.1081696,8.94,1.36,ml,11.0,139.0,0.2149,0.22,ci,ci40867208,2024-08-07T11:08:42.309Z,"23 km NW of Grapevine, CA",earthquake,0.91,5.37,0.301,5.0,automatic,ci,ci
