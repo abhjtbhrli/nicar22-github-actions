@@ -9297,3 +9297,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-07T14:56:26.495Z,63.1223,-151.3368,0.0,1.2,ml,,,,0.73,ak,ak024a42wh8f,2024-08-07T14:59:40.291Z,"50 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-08-06T21:05:16.829Z,35.54733333,-96.74666667,5.78,0.8,ml,28.0,45.0,0.01349735136,0.17,ok,ok2024pjxk,2024-08-07T15:13:43.945Z,"8 km NW of Prague, Oklahoma",earthquake,,0.4,0.21,11.0,reviewed,ok,ok
 2024-08-06T17:45:47.799Z,34.44433333,-96.84233333,0.0,1.26,ml,12.0,227.0,0.2474514416,0.27,ok,ok2024pjqv,2024-08-07T15:19:27.051Z,"4 km NNW of Mill Creek, Oklahoma",quarry blast,,1.0,0.2,6.0,reviewed,ok,ok
+2024-08-07T15:24:41.640Z,35.0946655,-119.1381683,10.52,1.71,ml,36.0,55.0,0.0573,0.28,ci,ci40867744,2024-08-07T15:27:09.810Z,"24 km E of Maricopa, CA",earthquake,0.43,0.78,0.205,20.0,automatic,ci,ci
+2024-08-07T15:19:15.540Z,35.1049995,-119.1446686,12.06,1.66,ml,17.0,135.0,0.06808,0.25,ci,ci40867736,2024-08-07T15:21:28.024Z,"24 km ENE of Maricopa, CA",earthquake,0.88,1.32,0.346,5.0,automatic,ci,ci
+2024-08-07T14:46:00.205Z,-21.8156,-178.3006,395.93,4.7,mb,76.0,90.0,3.142,0.73,us,us6000nimv,2024-08-07T15:28:19.040Z,Fiji region,earthquake,11.22,8.146,0.057,95.0,reviewed,us,us
+2024-08-06T17:24:19.489Z,36.45733333,-98.81083333,6.82,0.56,ml,16.0,109.0,0.01079788109,0.11,ok,ok2024pjqd,2024-08-07T15:32:58.907Z,"15 km SSE of Waynoka, Oklahoma",earthquake,,0.5,0.15,5.0,reviewed,ok,ok
