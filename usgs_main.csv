@@ -9680,3 +9680,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-08T15:17:00.156Z,51.7246,-174.8893,40.7,3.7,ml,,,,0.71,ak,ak024a5qsuhm,2024-08-08T15:26:51.408Z,"70 km SW of Atka, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2024-08-08T08:11:59.142Z,29.106,-97.854,7.3058,1.6,ml,19.0,79.0,0.1,0.5,tx,tx2024pmox,2024-08-08T15:17:17.708Z,"17 km SE of Stockdale, Texas",earthquake,0.0,2.1963281631469727,0.1,16.0,reviewed,tx,tx
 2024-08-08T04:00:57.761Z,53.8619,-166.9027,4.7,0.6,ml,,,,0.48,ak,ak024a5k5jmw,2024-08-08T15:15:37.054Z,"23 km W of Dutch Harbor, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2024-08-08T15:32:39.790Z,35.074501,-119.0910034,12.07,1.77,ml,33.0,47.0,0.01693,0.25,ci,ci40870104,2024-08-08T15:35:01.427Z,"21 km NW of Grapevine, CA",earthquake,0.36,0.84,0.309,16.0,automatic,ci,ci
+2024-08-08T15:31:07.580Z,34.6451683,-116.4593353,3.05,0.73,ml,9.0,99.0,0.1361,0.17,ci,ci40870096,2024-08-08T15:37:35.504Z,"29 km WSW of Ludlow, CA",earthquake,0.59,3.96,0.074,3.0,automatic,ci,ci
+2024-08-08T15:27:22.000Z,35.0743333,-119.0918333,-0.08,1.2,ml,27.0,102.0,0.01702,0.25,ci,ci40870088,2024-08-08T15:34:14.794Z,"21 km NW of Grapevine, CA",earthquake,0.35,0.87,0.238,20.0,automatic,ci,ci
+2024-08-08T01:19:17.120Z,46.20966666666666,-122.15516666666667,3.14,0.27,ml,5.0,275.0,0.01579,0.24,uw,uw62033551,2024-08-08T15:36:09.700Z,"39 km SSE of Morton, Washington",earthquake,2.67,1.35,0.0885205430169822,2.0,reviewed,uw,uw
