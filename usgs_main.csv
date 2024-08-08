@@ -9603,3 +9603,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-08T08:35:39.500Z,35.0383339,-119.1446686,6.16,1.74,ml,14.0,114.0,0.05388,0.15,ci,ci40869712,2024-08-08T08:37:58.271Z,"21 km N of Pine Mountain Club, CA",earthquake,0.45,1.16,0.153,10.0,automatic,ci,ci
 2024-08-08T08:30:24.456Z,65.111,-154.3478,0.0,2.6,ml,,,,0.41,ak,ak024a5mpncd,2024-08-08T08:32:22.851Z,"67 km NE of Ruby, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-08T08:24:52.931Z,-20.8079,-70.5193,60.738,3.9,ml,9.0,226.0,0.343,0.31,us,us6000nitm,2024-08-08T08:39:20.057Z,"71 km SW of La Tirana, Chile",earthquake,5.67,6.398,0.077,22.0,reviewed,us,us
+2024-08-08T08:58:14.760Z,35.1001667,-119.0951667,1.72,2.29,ml,63.0,23.0,0.04251,0.28,ci,ci40869720,2024-08-08T09:05:17.769Z,"23 km NW of Grapevine, CA",earthquake,0.22,1.25,0.18,25.0,automatic,ci,ci
+2024-08-08T08:55:08.670Z,19.3743324279785,-155.182006835938,2.64000010490417,1.72,ml,25.0,126.0,0.01303,0.270000011,hv,hv74391196,2024-08-08T08:57:45.420Z,"9 km SE of Volcano, Hawaii",earthquake,0.71,0.680000007,0.24,6.0,automatic,hv,hv
+2024-08-08T08:35:48.896Z,31.7336,131.6714,38.351,4.8,mb,52.0,88.0,5.745,1.17,us,us6000nitt,2024-08-08T08:56:18.040Z,"31 km SE of Miyazaki, Japan",earthquake,10.23,7.689,0.094,35.0,reviewed,us,us
