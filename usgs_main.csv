@@ -9670,3 +9670,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-08T14:35:19.430Z,35.0903333,-119.064,2.11,1.17,ml,19.0,167.0,0.03558,0.25,ci,ci40870032,2024-08-08T14:42:14.935Z,"20 km NW of Grapevine, CA",earthquake,0.58,2.05,0.159,17.0,automatic,ci,ci
 2024-08-08T14:48:05.530Z,35.113,-119.1216667,1.56,1.47,ml,31.0,57.0,0.06253,0.23,ci,ci40870048,2024-08-08T14:54:46.119Z,"25 km SW of Lamont, CA",earthquake,0.29,1.17,0.131,29.0,automatic,ci,ci
 2024-08-08T03:07:23.657Z,32.781,-100.686,4.9316,1.8,ml,19.0,56.0,0.1,0.2,tx,tx2024pmev,2024-08-08T14:47:19.492Z,"17 km NNE of Hermleigh, Texas",earthquake,0.8153256357981429,2.1165499055969943,0.1,8.0,reviewed,tx,tx
+2024-08-08T15:05:43.519Z,64.9727,-147.4318,6.0,1.5,ml,,,,0.4,ak,ak024a5qqd5b,2024-08-08T15:07:25.903Z,"8 km E of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-08T15:02:38.897Z,31.677,-104.201,5.9926,1.5,ml,17.0,106.0,0.1,0.5,tx,tx2024pnco,2024-08-08T15:09:47.653Z,"55 km NW of Toyah, Texas",earthquake,0.0,3.33154092917505,0.2,12.0,automatic,tx,tx
