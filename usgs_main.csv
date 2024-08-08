@@ -9764,3 +9764,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-08T18:47:51.160Z,1.6745,127.2236,124.957,4.4,mb,22.0,121.0,0.908,0.7,us,us6000nixy,2024-08-08T20:47:38.040Z,"87 km W of Tobelo, Indonesia",earthquake,10.11,5.283,0.135,16.0,reviewed,us,us
 2024-08-08T20:49:41.200Z,38.83,-122.85,1.52,0.25,md,10.0,133.0,0.003679,0.03,nc,nc75045927,2024-08-08T20:51:17.897Z,"10 km NW of The Geysers, CA",earthquake,0.32,0.649999976,0.08,11.0,automatic,nc,nc
 2024-08-08T04:13:06.620Z,57.0336666666667,-135.304833333333,0.09,0.72,ml,6.0,229.0,0.02563,0.11,av,av93223646,2024-08-08T20:57:29.310Z,"2 km SE of Sitka, Alaska",earthquake,0.63,3.7,0.384551504449663,6.0,reviewed,av,av
+2024-08-08T21:15:59.013Z,64.2078,-149.8883,33.9,1.2,ml,,,,0.62,ak,ak024a5ud54t,2024-08-08T21:18:00.518Z,"34 km W of Clear, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-08-08T20:59:53.370Z,34.0021667,-117.5046667,2.66,1.18,ml,36.0,53.0,0.03076,0.17,ci,ci40694575,2024-08-08T21:06:23.115Z,"2 km NE of Mira Loma, CA",earthquake,0.15,0.25,0.154,29.0,automatic,ci,ci
+2024-08-08T20:50:51.998Z,51.8731,177.9272,129.134,4.5,mb,55.0,174.0,0.408,0.58,us,us6000niz5,2024-08-08T21:06:18.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,11.44,6.505,0.043,156.0,reviewed,us,us
+2024-08-08T04:12:21.950Z,53.8665,-166.926833333333,7.45,-0.43,ml,7.0,226.0,0.05906,0.2,av,av93017834,2024-08-08T21:03:26.800Z,"25 km W of Dutch Harbor, Alaska",earthquake,0.78,1.31,0.167849906129507,7.0,reviewed,av,av
