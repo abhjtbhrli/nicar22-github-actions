@@ -9750,3 +9750,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-08T01:18:25.950Z,52.0731666666667,-176.165333333333,3.31,0.34,ml,6.0,168.0,0.02141,0.23,av,av93017814,2024-08-08T19:44:29.360Z,"39 km NE of Adak, Alaska",earthquake,0.88,1.17,0.238069490892394,6.0,reviewed,av,av
 2024-08-08T19:23:33.073Z,31.8881,131.341,19.497,5.4,mww,104.0,52.0,5.564,0.7,us,us6000niy6,2024-08-08T19:53:12.742Z,"7 km WSW of Miyazaki, Japan",earthquake,8.79,3.641,0.089,12.0,reviewed,us,us
 2024-08-08T01:25:53.710Z,51.779,-177.4755,3.03,1.05,ml,8.0,170.0,0.1503,0.16,av,av93223506,2024-08-08T19:50:56.060Z,"58 km W of Adak, Alaska",earthquake,0.99,1.49,0.305959459332834,9.0,reviewed,av,av
+2024-08-08T17:03:47.583Z,54.9393,-157.2243,12.4,2.4,ml,,,,0.47,ak,ak024a5rwxc4,2024-08-08T20:17:18.146Z,"162 km SE of Perryville, Alaska",earthquake,,1038.7,,,reviewed,ak,ak
+2024-08-08T15:59:49.082Z,51.7941,-169.8474,9.9,2.7,ml,,,,0.83,ak,ak024a5ran9x,2024-08-08T20:12:27.545Z,"144 km SSW of Nikolski, Alaska",earthquake,,3.6,,,reviewed,ak,ak
+2024-08-08T03:14:33.980Z,51.7761666666667,-177.476166666667,3.08,0.88,ml,8.0,171.0,0.1505,0.15,av,av93223591,2024-08-08T20:15:23.820Z,"59 km W of Adak, Alaska",earthquake,0.97,1.51,0.249434089157005,8.0,reviewed,av,av
