@@ -9598,3 +9598,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-08T07:59:04.570Z,35.0966667,-119.1351667,5.28,1.95,ml,48.0,41.0,0.05672,0.25,ci,ci40869696,2024-08-08T08:05:51.338Z,"24 km E of Maricopa, CA",earthquake,0.22,2.23,0.178,26.0,automatic,ci,ci
 2024-08-08T07:42:55.345Z,31.7191,131.5271,25.0,7.1,mww,151.0,20.0,5.793,1.04,us,us6000nith,2024-08-08T08:08:25.235Z,"20 km NE of Nichinan, Japan",earthquake,7.51,1.806,0.042,55.0,reviewed,us,us
 2024-08-08T07:42:00.000Z,31.8,131.7,33.0,6.9,Mi,44.0,68.39999452800043,5.760896,1.0,at,at00shw2rm,2024-08-08T08:01:13.531Z,"29 km ESE of Miyazaki, Japan",earthquake,0.0,0.0,,24.0,reviewed,at,at
+2024-08-08T08:21:35.644Z,59.1804,-148.7976,64.7,3.0,ml,,,,0.96,ak,ak024a5mnqyc,2024-08-08T08:23:58.094Z,"105 km SSE of Lowell Point, Alaska",earthquake,,6.6,,,automatic,ak,ak
+2024-08-08T08:21:18.130Z,33.6771667,-116.7776667,13.7,0.66,ml,32.0,65.0,0.06287,0.13,ci,ci40869704,2024-08-08T08:27:49.550Z,"9 km SW of Idyllwild, CA",earthquake,0.21,0.36,0.175,10.0,automatic,ci,ci
