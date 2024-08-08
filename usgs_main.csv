@@ -9710,3 +9710,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-08T16:38:07.710Z,38.82,-122.82,2.41,1.22,md,25.0,52.0,0.006045,0.02,nc,nc75045792,2024-08-08T16:39:47.112Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.419999987,0.15,26.0,automatic,nc,nc
 2024-08-08T16:20:49.558Z,-6.0329,130.5363,147.753,4.3,mb,19.0,123.0,1.627,0.75,us,us6000niwz,2024-08-08T16:40:54.040Z,"249 km W of Tual, Indonesia",earthquake,10.71,9.557,0.148,13.0,reviewed,us,us
 2024-08-08T03:08:18.088Z,32.773,-100.683,7.8857,1.7,ml,8.0,90.0,0.1,0.1,tx,tx2024pmex,2024-08-08T16:46:34.665Z,"16 km NNE of Hermleigh, Texas",earthquake,0.6578246255441449,1.3158908819365769,0.1,7.0,reviewed,tx,tx
+2024-08-08T16:43:27.852Z,63.2854,-150.6951,42.0,1.1,ml,,,,1.47,ak,ak024a5rjx1h,2024-08-08T16:49:41.300Z,"58 km ESE of Denali National Park, Alaska",earthquake,,4.8,,,automatic,ak,ak
