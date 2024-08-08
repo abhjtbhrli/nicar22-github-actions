@@ -9689,3 +9689,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-08T15:38:43.200Z,19.1924991607666,-155.49299621582,29.8099994659424,2.52,ml,60.0,77.0,0.04704,0.150000006,hv,hv74391751,2024-08-08T15:41:22.370Z,"1 km SW of Pāhala, Hawaii",earthquake,0.42,0.560000002,0.39,33.0,automatic,hv,hv
 2024-08-08T15:37:10.712Z,59.6076,-153.4535,114.6,1.5,ml,,,,0.23,ak,ak024a5qx5j3,2024-08-08T15:38:56.312Z,"41 km ESE of Pedro Bay, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2024-08-08T04:00:34.993Z,32.773,-100.681,7.7881,1.5,ml,9.0,89.0,0.1,0.1,tx,tx2024pmgq,2024-08-08T15:46:31.913Z,"16 km NNE of Hermleigh, Texas",earthquake,0.9026085541051287,2.3910007322393234,0.1,9.0,reviewed,tx,tx
+2024-08-08T15:52:25.764Z,61.8295,-150.88,65.1,1.5,ml,,,,0.58,ak,ak024a5r0e8p,2024-08-08T15:56:37.498Z,"32 km ESE of Skwentna, Alaska",earthquake,,0.6,,,reviewed,ak,ak
+2024-08-08T15:51:42.630Z,38.83,-122.86,2.15,0.86,md,16.0,114.0,0.002557,0.02,nc,nc75045767,2024-08-08T15:53:21.644Z,"10 km NW of The Geysers, CA",earthquake,0.28,0.469999999,0.19,18.0,automatic,nc,nc
+2024-08-08T15:50:10.930Z,38.83,-122.82,1.49,0.9,md,11.0,57.0,0.01142,0.03,nc,nc75045762,2024-08-08T15:51:46.494Z,"8 km NNW of The Geysers, CA",earthquake,0.31,1.17999995,0.24,13.0,automatic,nc,nc
