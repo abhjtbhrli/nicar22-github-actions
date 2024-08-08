@@ -9618,3 +9618,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-08T09:56:24.480Z,37.85,-121.97,8.79,1.75,md,25.0,88.0,0.02036,0.07,nc,nc75045637,2024-08-08T09:58:00.665Z,"2 km NW of Diablo, CA",earthquake,0.24,0.389999986,0.16,19.0,automatic,nc,nc
 2024-08-08T10:25:39.680Z,35.0921669,-119.1198349,10.56,2.09,ml,55.0,24.0,0.04467,0.3,ci,ci40869776,2024-08-08T10:27:59.842Z,"24 km NW of Grapevine, CA",earthquake,0.3,0.78,0.306,26.0,automatic,ci,ci
 2024-08-08T10:12:35.900Z,35.1126667,-119.0913333,2.21,1.11,ml,26.0,78.0,0.0543,0.22,ci,ci40869768,2024-08-08T10:19:42.050Z,"23 km SW of Lamont, CA",earthquake,0.3,1.13,0.095,20.0,automatic,ci,ci
+2024-08-08T10:39:37.100Z,35.0895,-119.0906667,1.88,1.35,ml,40.0,63.0,0.03134,0.23,ci,ci40869784,2024-08-08T10:46:02.464Z,"22 km NW of Grapevine, CA",earthquake,0.23,1.24,0.129,29.0,automatic,ci,ci
