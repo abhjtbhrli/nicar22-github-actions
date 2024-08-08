@@ -9566,3 +9566,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-08T05:20:51.050Z,35.0963333,-119.1006667,1.81,1.58,ml,38.0,55.0,0.2186,0.23,ci,ci40869528,2024-08-08T05:27:35.308Z,"23 km NW of Grapevine, CA",earthquake,0.26,1.13,0.169,26.0,automatic,ci,ci
 2024-08-08T05:19:16.533Z,62.0555,-151.3806,80.4,1.8,ml,,,,0.56,ak,ak024a5kuz1h,2024-08-08T05:22:26.399Z,"7 km N of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-08-08T05:15:43.330Z,35.1118333,-119.123,1.18,1.54,ml,32.0,66.0,0.06208,0.25,ci,ci40869520,2024-08-08T05:22:15.273Z,"25 km SW of Lamont, CA",earthquake,0.28,1.37,0.182,28.0,automatic,ci,ci
+2024-08-08T05:33:11.890Z,35.0634995,-119.0841675,13.83,2.14,ml,48.0,35.0,0.004898,0.27,ci,ci40869536,2024-08-08T05:35:17.432Z,"19 km NW of Grapevine, CA",earthquake,0.27,0.61,0.325,26.0,automatic,ci,ci
