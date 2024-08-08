@@ -9563,3 +9563,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-08T05:05:52.780Z,32.575,-115.8655,10.29,1.36,ml,22.0,66.0,0.08675,0.14,ci,ci40869496,2024-08-08T05:12:53.455Z,"21 km SE of Ocotillo, CA",earthquake,0.2,0.45,0.188,21.0,automatic,ci,ci
 2024-08-08T05:03:52.890Z,35.0438333,-119.1643333,2.07,1.33,ml,23.0,93.0,0.0677,0.23,ci,ci40869488,2024-08-08T05:10:35.204Z,"22 km E of Maricopa, CA",earthquake,0.35,0.71,0.175,29.0,automatic,ci,ci
 2024-08-08T05:01:14.970Z,17.9645,-66.9848333333333,14.73,2.49,md,12.0,190.0,0.05674,0.13,pr,pr71457113,2024-08-08T05:09:53.880Z,"6 km E of La Parguera, Puerto Rico",earthquake,0.37,0.67,0.0733352996767183,5.0,reviewed,pr,pr
+2024-08-08T05:20:51.050Z,35.0963333,-119.1006667,1.81,1.58,ml,38.0,55.0,0.2186,0.23,ci,ci40869528,2024-08-08T05:27:35.308Z,"23 km NW of Grapevine, CA",earthquake,0.26,1.13,0.169,26.0,automatic,ci,ci
+2024-08-08T05:19:16.533Z,62.0555,-151.3806,80.4,1.8,ml,,,,0.56,ak,ak024a5kuz1h,2024-08-08T05:22:26.399Z,"7 km N of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-08-08T05:15:43.330Z,35.1118333,-119.123,1.18,1.54,ml,32.0,66.0,0.06208,0.25,ci,ci40869520,2024-08-08T05:22:15.273Z,"25 km SW of Lamont, CA",earthquake,0.28,1.37,0.182,28.0,automatic,ci,ci
