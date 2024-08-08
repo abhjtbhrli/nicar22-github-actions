@@ -9625,3 +9625,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-08T11:03:14.375Z,62.7747,-150.6649,83.9,1.8,ml,,,,0.37,ak,ak024a5oc51p,2024-08-08T11:05:08.581Z,"31 km N of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-08-08T10:57:43.050Z,35.113,-119.0788333,2.59,2.65,ml,61.0,32.0,0.05443,0.24,ci,ci40869808,2024-08-08T11:08:27.660Z,"22 km SW of Lamont, CA",earthquake,0.2,1.11,0.14,25.0,automatic,ci,ci
 2024-08-08T07:54:57.850Z,41.13,-121.88,3.61,2.18,ml,11.0,103.0,0.3627,1.2,nc,nc75045607,2024-08-08T11:12:17.565Z,"13 km NNE of Big Bend, CA",earthquake,4.13,85.8399963,0.435,9.0,reviewed,nc,nc
+2024-08-08T11:24:38.120Z,38.83,-122.81,1.33,0.78,md,8.0,114.0,0.004663,0.01,nc,nc75045672,2024-08-08T11:26:14.689Z,"7 km NNW of The Geysers, CA",earthquake,0.43,1.12,0.17,9.0,automatic,nc,nc
+2024-08-08T11:23:11.460Z,35.1500015,-118.1771698,8.01,1.43,ml,25.0,32.0,0.1317,0.2,ci,ci40869832,2024-08-08T11:25:14.905Z,"11 km N of Mojave, CA",earthquake,0.27,1.18,0.154,5.0,automatic,ci,ci
