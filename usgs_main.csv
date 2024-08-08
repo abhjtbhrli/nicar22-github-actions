@@ -9559,3 +9559,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-08T04:09:11.169Z,31.612,-103.995,8.6249,2.9,ml,27.0,38.0,0.0,0.1,tx,tx2024pmgx,2024-08-08T04:26:21.919Z,"38 km NNW of Toyah, Texas",earthquake,0.528511775633058,0.4578313949348082,0.1,16.0,reviewed,tx,tx
 2024-08-08T04:42:59.945Z,59.3316,-153.8121,127.9,1.9,ml,,,,0.41,ak,ak024a5kek96,2024-08-08T04:45:11.550Z,"46 km ESE of Pope-Vannoy Landing, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-08T04:37:07.650Z,35.1053333,-119.1201667,1.8,1.78,ml,44.0,49.0,0.05535,0.25,ci,ci40869480,2024-08-08T04:45:21.955Z,"25 km NW of Grapevine, CA",earthquake,0.24,1.17,0.16,26.0,automatic,ci,ci
+2024-08-08T05:12:00.190Z,36.1563339,-118.0468369,6.01,1.58,ml,17.0,128.0,0.1601,0.13,ci,ci40869512,2024-08-08T05:14:11.029Z,"14 km SSW of Olancha, CA",earthquake,0.39,1.32,0.197,4.0,automatic,ci,ci
+2024-08-08T05:05:52.780Z,32.575,-115.8655,10.29,1.36,ml,22.0,66.0,0.08675,0.14,ci,ci40869496,2024-08-08T05:12:53.455Z,"21 km SE of Ocotillo, CA",earthquake,0.2,0.45,0.188,21.0,automatic,ci,ci
+2024-08-08T05:03:52.890Z,35.0438333,-119.1643333,2.07,1.33,ml,23.0,93.0,0.0677,0.23,ci,ci40869488,2024-08-08T05:10:35.204Z,"22 km E of Maricopa, CA",earthquake,0.35,0.71,0.175,29.0,automatic,ci,ci
+2024-08-08T05:01:14.970Z,17.9645,-66.9848333333333,14.73,2.49,md,12.0,190.0,0.05674,0.13,pr,pr71457113,2024-08-08T05:09:53.880Z,"6 km E of La Parguera, Puerto Rico",earthquake,0.37,0.67,0.0733352996767183,5.0,reviewed,pr,pr
