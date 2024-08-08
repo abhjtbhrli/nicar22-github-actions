@@ -9591,3 +9591,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-08T07:10:13.519Z,60.3545,-150.8002,39.6,1.8,ml,,,,0.37,ak,ak024a5lzwkn,2024-08-08T07:12:32.967Z,"16 km S of Funny River, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2024-08-08T07:30:38.140Z,38.83,-122.85,2.09,0.76,md,13.0,129.0,0.003561,0.02,nc,nc75045597,2024-08-08T07:32:15.048Z,"10 km NW of The Geysers, CA",earthquake,0.35,0.579999983,0.31,14.0,automatic,nc,nc
 2024-08-08T07:29:58.340Z,35.0844994,-119.086998,14.42,1.63,ml,28.0,45.0,0.02597,0.37,ci,ci40869672,2024-08-08T07:32:03.783Z,"21 km NW of Grapevine, CA",earthquake,0.56,1.09,0.234,12.0,automatic,ci,ci
+2024-08-08T07:36:59.490Z,35.1031685,-119.1028366,12.72,1.66,ml,24.0,46.0,0.04713,0.24,ci,ci40869680,2024-08-08T07:40:11.754Z,"24 km NW of Grapevine, CA",earthquake,0.43,1.31,0.183,12.0,automatic,ci,ci
+2024-08-08T07:36:58.670Z,19.3993339538574,-155.254669189453,1.0,1.92999995,md,18.0,64.0,0.01078,0.209999993,hv,hv74391096,2024-08-08T07:38:50.960Z,"5 km SSW of Volcano, Hawaii",earthquake,0.22,0.280000001,0.289999992,14.0,automatic,hv,hv
