@@ -9612,3 +9612,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-08T09:34:44.034Z,59.2585,-151.9486,74.6,1.8,ml,,,,0.34,ak,ak024a5nbzbn,2024-08-08T09:36:20.103Z,"11 km S of Nanwalek, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-08-08T09:49:54.860Z,62.6015,-152.4476,0.1,1.7,ml,,,,0.73,ak,ak024a5nf7vb,2024-08-08T09:52:45.822Z,"87 km NW of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-08T09:44:11.424Z,61.4016,-146.6434,20.0,1.6,ml,,,,0.84,ak,ak024a5ne1yu,2024-08-08T09:46:04.872Z,"34 km NNW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-08T10:06:38.520Z,35.0951653,-119.1003342,12.31,1.99,ml,21.0,92.0,0.03892,0.15,ci,ci40869760,2024-08-08T10:08:52.129Z,"23 km NW of Grapevine, CA",earthquake,0.41,0.77,0.366,7.0,automatic,ci,ci
+2024-08-08T10:05:54.350Z,35.0880013,-119.1156693,12.3,2.58,ml,65.0,34.0,0.03929,0.28,ci,ci40869752,2024-08-08T10:08:03.845Z,"23 km NW of Grapevine, CA",earthquake,0.29,0.84,0.37,25.0,automatic,ci,ci
+2024-08-08T10:04:55.120Z,35.076,-119.1005,0.95,1.2,ml,30.0,75.0,0.02211,0.23,ci,ci40869744,2024-08-08T10:11:46.466Z,"21 km NW of Grapevine, CA",earthquake,0.3,1.32,0.16,25.0,automatic,ci,ci
+2024-08-08T09:56:24.480Z,37.85,-121.97,8.79,1.75,md,25.0,88.0,0.02036,0.07,nc,nc75045637,2024-08-08T09:58:00.665Z,"2 km NW of Diablo, CA",earthquake,0.24,0.389999986,0.16,19.0,automatic,nc,nc
