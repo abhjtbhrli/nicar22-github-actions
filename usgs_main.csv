@@ -9656,3 +9656,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-08T13:33:59.457Z,64.7485,-149.1947,0.0,1.4,ml,,,,0.88,ak,ak024a5ppj7t,2024-08-08T13:35:53.103Z,"16 km NNW of Four Mile Road, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-08-08T05:45:09.240Z,39.0748333333333,-111.484166666667,7.02,0.97,md,10.0,93.0,0.1244,0.16,uu,uu80077851,2024-08-08T13:35:01.000Z,"20 km ESE of Mayfield, Utah",earthquake,0.5,1.42,0.556491263109125,7.0,reviewed,uu,uu
 2024-08-08T04:52:41.250Z,38.501,-112.899,3.45,0.68,md,12.0,91.0,0.009714,0.09,uu,uu80077846,2024-08-08T13:40:34.600Z,"15 km NE of Milford, Utah",earthquake,0.29,0.43,0.39966331328154,4.0,reviewed,uu,uu
+2024-08-08T13:44:08.030Z,35.0916672,-119.142334,12.99,1.92,ml,34.0,68.0,0.05825,0.21,ci,ci40869992,2024-08-08T13:46:21.876Z,"24 km E of Maricopa, CA",earthquake,0.29,0.79,0.291,28.0,automatic,ci,ci
+2024-08-08T04:13:58.180Z,38.5015,-112.901,3.12,0.07,md,11.0,106.0,0.01127,0.11,uu,uu80077841,2024-08-08T13:45:12.660Z,"15 km NE of Milford, Utah",earthquake,0.4,0.48,0.144221254899457,3.0,reviewed,uu,uu
