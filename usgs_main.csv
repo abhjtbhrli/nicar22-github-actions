@@ -9718,3 +9718,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-08T16:57:05.345Z,62.9376,-150.0938,74.3,1.4,ml,,,,0.48,ak,ak024a5rmv1i,2024-08-08T16:59:18.499Z,"54 km N of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-08-08T17:30:52.640Z,35.1073333,-119.097,12.66,2.93,ml,65.0,21.0,0.04981,0.23,ci,ci40694327,2024-08-08T17:38:01.056Z,"24 km SW of Lamont, CA",earthquake,0.18,0.56,0.137,25.0,automatic,ci,ci
 2024-08-08T16:40:17.010Z,46.853,-121.7655,1.74,0.7000000000000001,ml,21.0,76.0,0.02828,0.07,uw,uw62033726,2024-08-08T17:30:17.600Z,"22 km ENE of Ashford, Washington",earthquake,0.17,0.48,0.1852947727456163,10.0,reviewed,uw,uw
+2024-08-08T17:38:14.790Z,35.1013333,-119.1368333,1.18,1.6,ml,31.0,81.0,0.06091,0.27,ci,ci40694335,2024-08-08T17:45:09.091Z,"24 km E of Maricopa, CA",earthquake,0.35,1.36,0.175,28.0,automatic,ci,ci
