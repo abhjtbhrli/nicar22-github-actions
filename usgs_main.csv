@@ -9986,3 +9986,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-09T15:10:43.418Z,33.7093,140.4682,76.742,4.8,mb,61.0,123.0,3.277,0.72,us,us6000nj3a,2024-08-09T15:29:17.040Z,"151 km SSE of Tateyama, Japan",earthquake,10.31,7.101,0.059,90.0,reviewed,us,us
 2024-08-08T20:25:51.509Z,34.50416667,-97.20816667,0.0,1.23,ml,56.0,81.0,0.1367731604,0.46,ok,ok2024pnnc,2024-08-09T15:37:43.312Z,"8 km W of Davis, Oklahoma",quarry blast,,0.5,0.26,17.0,reviewed,ok,ok
 2024-08-08T19:47:53.819Z,31.9401,131.4443,33.144,4.3,mb,41.0,124.0,5.573,0.84,us,us6000niyp,2024-08-09T15:24:22.040Z,"3 km NE of Miyazaki, Japan",earthquake,12.32,7.311,0.097,30.0,reviewed,us,us
+2024-08-09T15:21:20.224Z,3.3494,127.0246,38.176,4.6,mb,36.0,110.0,2.583,0.89,us,us6000nj3c,2024-08-09T15:37:21.040Z,"210 km NNW of Tobelo, Indonesia",earthquake,5.68,8.004,0.085,41.0,reviewed,us,us
