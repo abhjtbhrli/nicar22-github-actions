@@ -9961,3 +9961,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-09T13:35:32.910Z,19.1718330383301,-155.495162963867,29.5400009155273,1.74000001,md,40.0,104.0,0.03525,0.129999995,hv,hv74392886,2024-08-09T13:37:03.780Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.53,0.670000017,0.170000002,9.0,automatic,hv,hv
 2024-08-09T13:43:29.720Z,65.7196,-145.4552,2.5,1.4,ml,,,,0.68,ak,ak024a7dayks,2024-08-09T13:45:17.097Z,"34 km WNW of Central, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-09T13:41:05.220Z,33.6995,-117.0605,10.69,0.73,ml,17.0,239.0,0.04991,0.1,ci,ci40695255,2024-08-09T13:47:37.092Z,"2 km ESE of Winchester, CA",earthquake,1.19,0.78,0.226,14.0,automatic,ci,ci
+2024-08-09T13:55:47.820Z,34.9086685,-119.6106644,8.76,1.37,ml,18.0,93.0,0.0621,0.13,ci,ci40695287,2024-08-09T13:57:50.251Z,"25 km SW of Maricopa, CA",earthquake,0.41,0.89,0.223,9.0,automatic,ci,ci
