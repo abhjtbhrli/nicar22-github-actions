@@ -10046,3 +10046,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-08T19:32:34.539Z,36.45133333,-98.8065,6.0,1.26,ml,30.0,67.0,0.00449911712,0.3788968936,ok,ok2024pnlj,2024-08-09T19:12:09.680Z,"15 km SSE of Waynoka, Oklahoma",earthquake,,0.6,0.18,12.0,reviewed,ok,ok
 2024-08-09T19:20:03.027Z,61.6381,-150.0294,64.1,1.5,ml,,,,0.8,ak,ak024a7gqkoe,2024-08-09T19:22:00.631Z,"11 km W of Houston, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2024-08-09T19:12:04.550Z,35.9651667,-117.6603333,2.42,1.28,ml,22.0,93.0,0.01903,0.15,ci,ci40695583,2024-08-09T19:18:20.567Z,"22 km E of Little Lake, CA",earthquake,0.23,0.17,0.224,16.0,automatic,ci,ci
+2024-08-09T19:29:55.260Z,35.0863342,-119.0820007,12.1,1.65,ml,18.0,80.0,0.02771,0.19,ci,ci40695607,2024-08-09T19:32:05.003Z,"21 km NW of Grapevine, CA",earthquake,0.48,0.91,0.262,10.0,automatic,ci,ci
+2024-08-09T19:29:38.758Z,65.4664,-148.2982,14.3,0.8,ml,,,,0.91,ak,ak024a7gskvn,2024-08-09T19:31:32.726Z,"13 km ESE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-09T15:59:23.014Z,52.3179,-174.089,157.0,2.8,ml,,,,0.19,ak,ak024a7el93b,2024-08-09T19:27:22.608Z,"15 km NNE of Atka, Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2024-08-09T02:52:18.290Z,58.1661666666667,-155.3445,1.73,-0.16,ml,5.0,176.0,0.08644,0.06,av,av93017939,2024-08-09T19:25:06.820Z,"84 km NW of Karluk, Alaska",earthquake,0.35,0.62,0.111944109631007,5.0,reviewed,av,av
+2024-08-09T02:47:46.720Z,54.5228333333333,-163.524,10.44,1.33,ml,13.0,212.0,0.1764,0.32,av,av93017944,2024-08-09T19:29:28.030Z,"37 km S of False Pass, Alaska",earthquake,1.13,1.53,0.290034406758523,13.0,reviewed,av,av
