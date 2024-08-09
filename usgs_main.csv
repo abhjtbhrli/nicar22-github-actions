@@ -10076,3 +10076,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-09T20:33:34.700Z,65.2094,-162.7648,8.1,2.8,ml,,,,0.86,ak,ak024a7hev1a,2024-08-09T20:36:43.229Z,"66 km NNE of White Mountain, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-09T08:01:08.580Z,19.2518333333333,-155.358666666667,29.35,1.76,md,41.0,149.0,0.03936,0.12,hv,hv74392706,2024-08-09T20:43:06.880Z,"13 km ENE of Pāhala, Hawaii",earthquake,0.47,0.57,0.158219756167431,14.0,reviewed,hv,hv
 2024-08-09T05:32:46.900Z,58.1865,-155.3035,3.53,0.16,ml,5.0,222.0,0.08456,0.09,av,av93017969,2024-08-09T20:35:17.290Z,"85 km NW of Karluk, Alaska",earthquake,0.63,1.19,0.097107324150948,5.0,reviewed,av,av
+2024-08-09T20:43:40.975Z,60.7291,-152.8728,109.0,1.9,ml,,,,1.01,ak,ak024a7hh0m5,2024-08-09T20:46:22.244Z,"85 km W of Salamatof, Alaska",earthquake,,3.3,,,automatic,ak,ak
+2024-08-09T07:20:43.080Z,58.5845,-154.705,10.65,-0.4,ml,5.0,153.0,0.08664,0.05,av,av93017979,2024-08-09T20:50:26.890Z,"95 km S of Kokhanok, Alaska",earthquake,0.35,0.8,0.106980807915126,5.0,reviewed,av,av
