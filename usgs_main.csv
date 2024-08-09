@@ -9969,3 +9969,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-09T13:07:11.114Z,-23.4272,-179.7042,531.212,4.5,mb,32.0,98.0,4.734,0.95,us,us6000nj2s,2024-08-09T14:28:36.040Z,south of the Fiji Islands,earthquake,13.58,8.329,0.104,27.0,reviewed,us,us
 2024-08-09T08:23:46.670Z,35.35466667,-97.9685,7.78,0.91,ml,23.0,86.0,0.05578905228,0.25,ok,ok2024poku,2024-08-09T14:29:27.400Z,"4 km SSW of Union City, Oklahoma",earthquake,,0.7,0.31,14.0,reviewed,ok,ok
 2024-08-09T01:11:39.677Z,31.607,-103.978,7.2406,1.6,ml,30.0,59.0,0.0,0.1,tx,tx2024pnwo,2024-08-09T14:27:07.242Z,"36 km NNW of Toyah, Texas",earthquake,0.4130932091325579,0.4694928484682127,0.2,25.0,reviewed,tx,tx
+2024-08-09T14:05:13.559Z,35.401,22.3543,41.907,4.8,mb,73.0,135.0,1.808,0.97,us,us6000nj2x,2024-08-09T14:37:53.040Z,"100 km SW of Kýthira, Greece",earthquake,6.08,6.087,0.045,152.0,reviewed,us,us
+2024-08-08T19:29:53.022Z,32.409,-102.053,7.8369,1.8,ml,27.0,58.0,0.0,0.1,tx,tx2024pnlh,2024-08-09T14:37:07.325Z,"34 km WSW of Ackerly, Texas",earthquake,0.6452940499084665,0.8931912273693058,0.2,15.0,reviewed,tx,tx
