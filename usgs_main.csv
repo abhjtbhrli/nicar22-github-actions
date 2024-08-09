@@ -9971,3 +9971,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-09T01:11:39.677Z,31.607,-103.978,7.2406,1.6,ml,30.0,59.0,0.0,0.1,tx,tx2024pnwo,2024-08-09T14:27:07.242Z,"36 km NNW of Toyah, Texas",earthquake,0.4130932091325579,0.4694928484682127,0.2,25.0,reviewed,tx,tx
 2024-08-09T14:05:13.559Z,35.401,22.3543,41.907,4.8,mb,73.0,135.0,1.808,0.97,us,us6000nj2x,2024-08-09T14:37:53.040Z,"100 km SW of Kýthira, Greece",earthquake,6.08,6.087,0.045,152.0,reviewed,us,us
 2024-08-08T19:29:53.022Z,32.409,-102.053,7.8369,1.8,ml,27.0,58.0,0.0,0.1,tx,tx2024pnlh,2024-08-09T14:37:07.325Z,"34 km WSW of Ackerly, Texas",earthquake,0.6452940499084665,0.8931912273693058,0.2,15.0,reviewed,tx,tx
+2024-08-09T14:40:12.650Z,35.0968333,-119.1125,2.35,1.58,ml,35.0,105.0,0.04482,0.23,ci,ci40695319,2024-08-09T14:46:59.309Z,"24 km NW of Grapevine, CA",earthquake,0.28,1.37,0.209,28.0,automatic,ci,ci
