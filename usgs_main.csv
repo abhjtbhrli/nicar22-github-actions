@@ -10097,3 +10097,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-09T19:58:50.720Z,8.0052,126.7866,60.546,4.5,mb,36.0,110.0,1.516,0.5,us,us6000nj6l,2024-08-09T21:42:44.040Z,"37 km E of Santa Maria, Philippines",earthquake,9.82,1.205,0.104,30.0,reviewed,us,us
 2024-08-09T21:51:17.400Z,35.7150002,-117.49617,3.04,0.97,ml,14.0,154.0,0.07718,0.12,ci,ci40695767,2024-08-09T21:53:29.844Z,"10 km SW of Searles Valley, CA",earthquake,0.49,0.72,0.16,4.0,automatic,ci,ci
 2024-08-09T21:42:43.170Z,34.0385,-116.9596667,11.63,1.1,ml,34.0,45.0,0.05835,0.15,ci,ci40695751,2024-08-09T21:48:52.770Z,"8 km E of Yucaipa, CA",earthquake,0.2,0.57,0.246,23.0,automatic,ci,ci
+2024-08-09T21:41:12.668Z,60.677,-44.0264,10.0,4.5,mb,51.0,113.0,0.835,0.64,us,us6000nj7a,2024-08-09T21:59:58.040Z,"89 km NE of Nanortalik, Greenland",earthquake,7.88,1.941,0.08,46.0,reviewed,us,us
+2024-08-09T21:17:42.863Z,64.9033,-148.797,19.6,2.9,ml,,,,0.41,ak,ak024a7hwvxi,2024-08-09T22:10:44.401Z,"36 km NNE of Four Mile Road, Alaska",earthquake,,0.6,,,reviewed,ak,ak
+2024-08-09T20:35:18.300Z,-23.729,-179.817,516.687,4.6,mb,56.0,99.0,5.065,0.8,us,us6000nj6u,2024-08-09T22:04:40.040Z,south of the Fiji Islands,earthquake,13.42,8.427,0.074,58.0,reviewed,us,us
+2024-08-09T13:18:46.600Z,53.6943333333333,-167.029666666667,11.94,0.83,ml,7.0,321.0,0.1257,0.16,av,av93017994,2024-08-09T22:11:50.270Z,"38 km WSW of Unalaska, Alaska",earthquake,1.0,1.11,0.168279390666718,7.0,reviewed,av,av
+2024-08-09T12:19:47.120Z,53.8833333333333,-166.9335,5.04,0.48,ml,6.0,195.0,0.07121,0.17,av,av93224776,2024-08-09T22:04:53.470Z,"25 km W of Dutch Harbor, Alaska",earthquake,0.58,1.54,0.206404795689082,7.0,reviewed,av,av
