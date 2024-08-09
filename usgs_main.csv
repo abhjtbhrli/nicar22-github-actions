@@ -10092,3 +10092,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-09T21:28:01.200Z,35.0915,-119.1081667,12.92,1.62,ml,35.0,64.0,0.03843,0.22,ci,ci40695743,2024-08-09T21:34:41.732Z,"23 km NW of Grapevine, CA",earthquake,0.32,0.68,0.161,26.0,automatic,ci,ci
 2024-08-09T21:24:49.218Z,64.9619,-148.5369,5.0,1.2,ml,,,,1.26,ak,ak024a7hyebd,2024-08-09T21:27:15.815Z,"27 km WNW of Ester, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-09T21:22:01.177Z,64.8977,-148.7089,8.5,1.1,ml,,,,0.69,ak,ak024a7hxv6d,2024-08-09T21:29:22.537Z,"33 km W of Ester, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-09T21:41:17.640Z,38.82,-122.82,3.02,0.85,md,20.0,65.0,0.006275,0.02,nc,nc75046382,2024-08-09T21:42:56.090Z,"7 km NW of The Geysers, CA",earthquake,0.27,0.579999983,0.25,21.0,automatic,nc,nc
+2024-08-09T21:35:00.359Z,64.9357,-148.9216,0.0,2.6,ml,,,,0.97,ak,ak024a7i0nf7,2024-08-09T21:37:30.997Z,"31 km SE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-09T19:58:50.720Z,8.0052,126.7866,60.546,4.5,mb,36.0,110.0,1.516,0.5,us,us6000nj6l,2024-08-09T21:42:44.040Z,"37 km E of Santa Maria, Philippines",earthquake,9.82,1.205,0.104,30.0,reviewed,us,us
