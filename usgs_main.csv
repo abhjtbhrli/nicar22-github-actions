@@ -9962,3 +9962,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-09T13:43:29.720Z,65.7196,-145.4552,2.5,1.4,ml,,,,0.68,ak,ak024a7dayks,2024-08-09T13:45:17.097Z,"34 km WNW of Central, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-09T13:41:05.220Z,33.6995,-117.0605,10.69,0.73,ml,17.0,239.0,0.04991,0.1,ci,ci40695255,2024-08-09T13:47:37.092Z,"2 km ESE of Winchester, CA",earthquake,1.19,0.78,0.226,14.0,automatic,ci,ci
 2024-08-09T13:55:47.820Z,34.9086685,-119.6106644,8.76,1.37,ml,18.0,93.0,0.0621,0.13,ci,ci40695287,2024-08-09T13:57:50.251Z,"25 km SW of Maricopa, CA",earthquake,0.41,0.89,0.223,9.0,automatic,ci,ci
+2024-08-09T14:14:00.520Z,38.81,-122.81,1.48,1.86,md,40.0,41.0,0.009548,0.05,nc,nc75046227,2024-08-09T14:17:15.260Z,"6 km NW of The Geysers, CA",earthquake,0.15,0.239999995,0.17,37.0,automatic,nc,nc
+2024-08-09T13:58:58.320Z,33.9053333,-116.8935,10.58,2.58,ml,114.0,29.0,0.07417,0.17,ci,ci40695295,2024-08-09T14:09:40.060Z,"3 km SW of Banning, CA",earthquake,0.1,0.22,0.198,24.0,automatic,ci,ci
+2024-08-09T03:16:15.772Z,31.682,-104.419,6.5613,2.1,ml,27.0,64.0,0.0,0.2,tx,tx2024poaq,2024-08-09T14:03:13.100Z,"54 km S of Whites City, New Mexico",earthquake,0.7005464730212557,0.6974837581902062,0.1,22.0,reviewed,tx,tx
+2024-08-09T00:32:55.710Z,36.42033333,-96.91533333,5.33,1.11,ml,41.0,65.0,0.02159576217,0.28,ok,ok2024pnvg,2024-08-09T14:08:14.905Z,"13 km NW of Pawnee, Oklahoma",earthquake,,0.5,0.24,14.0,reviewed,ok,ok
