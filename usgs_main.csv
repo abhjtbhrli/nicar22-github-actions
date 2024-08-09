@@ -9972,3 +9972,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-09T14:05:13.559Z,35.401,22.3543,41.907,4.8,mb,73.0,135.0,1.808,0.97,us,us6000nj2x,2024-08-09T14:37:53.040Z,"100 km SW of Kýthira, Greece",earthquake,6.08,6.087,0.045,152.0,reviewed,us,us
 2024-08-08T19:29:53.022Z,32.409,-102.053,7.8369,1.8,ml,27.0,58.0,0.0,0.1,tx,tx2024pnlh,2024-08-09T14:37:07.325Z,"34 km WSW of Ackerly, Texas",earthquake,0.6452940499084665,0.8931912273693058,0.2,15.0,reviewed,tx,tx
 2024-08-09T14:40:12.650Z,35.0968333,-119.1125,2.35,1.58,ml,35.0,105.0,0.04482,0.23,ci,ci40695319,2024-08-09T14:46:59.309Z,"24 km NW of Grapevine, CA",earthquake,0.28,1.37,0.209,28.0,automatic,ci,ci
+2024-08-09T14:53:27.112Z,63.117,-151.7201,22.9,1.1,ml,,,,1.07,ak,ak024a7dyj7c,2024-08-09T14:55:59.865Z,"47 km S of Denali National Park, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2024-08-09T13:11:08.801Z,32.403,-102.019,6.7139,1.6,ml,25.0,74.0,0.1,0.1,tx,tx2024poug,2024-08-09T14:50:25.421Z,"31 km WSW of Ackerly, Texas",earthquake,0.6602914702803391,1.296423541853952,0.1,11.0,reviewed,tx,tx
+2024-08-09T06:05:44.534Z,63.4076,-151.5138,5.0,0.3,ml,,,,0.17,ak,ak024a78ws47,2024-08-09T14:49:56.538Z,"18 km SE of Denali National Park, Alaska",earthquake,,0.0,,,reviewed,ak,ak
+2024-08-08T20:06:12.587Z,43.759,86.3093,10.0,4.4,mb,65.0,101.0,4.154,0.68,us,us6000niyn,2024-08-09T14:57:12.040Z,"64 km SSE of Shihezi, China",earthquake,9.74,1.898,0.068,62.0,reviewed,us,us
