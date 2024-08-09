@@ -10051,3 +10051,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-09T15:59:23.014Z,52.3179,-174.089,157.0,2.8,ml,,,,0.19,ak,ak024a7el93b,2024-08-09T19:27:22.608Z,"15 km NNE of Atka, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2024-08-09T02:52:18.290Z,58.1661666666667,-155.3445,1.73,-0.16,ml,5.0,176.0,0.08644,0.06,av,av93017939,2024-08-09T19:25:06.820Z,"84 km NW of Karluk, Alaska",earthquake,0.35,0.62,0.111944109631007,5.0,reviewed,av,av
 2024-08-09T02:47:46.720Z,54.5228333333333,-163.524,10.44,1.33,ml,13.0,212.0,0.1764,0.32,av,av93017944,2024-08-09T19:29:28.030Z,"37 km S of False Pass, Alaska",earthquake,1.13,1.53,0.290034406758523,13.0,reviewed,av,av
+2024-08-09T19:39:55.366Z,58.3182,-155.2554,76.0,1.3,ml,,,,0.73,ak,ak024a7gurbk,2024-08-09T19:41:40.197Z,"91 km ESE of King Salmon, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-08-09T19:39:53.258Z,66.1692,-147.9549,9.8,1.3,ml,,,,0.85,ak,ak024a7gur5p,2024-08-09T19:41:55.367Z,"32 km SW of Beaver, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-09T19:35:28.637Z,36.5495,-115.5453,2.7,0.6,ml,12.0,318.44000000000005,0.353,0.1891,nn,nn00882144,2024-08-09T19:37:25.746Z,"11 km ESE of Indian Springs, Nevada",earthquake,,12.6,0.24,8.0,automatic,nn,nn
+2024-08-09T19:34:07.905Z,57.2946,-154.91,40.7,2.4,ml,,,,0.34,ak,ak024a7gtl2w,2024-08-09T19:36:34.963Z,"40 km SW of Karluk, Alaska",earthquake,,3.8,,,automatic,ak,ak
+2024-08-09T19:31:15.880Z,35.0993333,-119.0755,11.93,1.28,ml,26.0,97.0,0.04121,0.21,ci,ci40695623,2024-08-09T19:38:19.317Z,"22 km NW of Grapevine, CA",earthquake,0.34,0.62,0.152,27.0,automatic,ci,ci
+2024-08-09T19:30:03.400Z,33.5363333,-116.7083333,10.48,0.76,ml,40.0,27.0,0.03776,0.13,ci,ci40695615,2024-08-09T19:37:19.030Z,"4 km WSW of Anza, CA",earthquake,0.14,0.27,0.164,23.0,automatic,ci,ci
+2024-08-09T19:17:18.629Z,35.34,-97.9665,7.58,1.24,ml,50.0,60.0,0.06478728652,0.44,ok,ok2024ppgh,2024-08-09T19:38:55.816Z,"3 km NNW of Minco, Oklahoma",earthquake,,0.7,0.26,21.0,reviewed,ok,ok
+2024-08-09T18:37:43.952Z,59.9745,-148.9632,6.0,1.2,ml,,,,0.63,ak,ak024a7g8uvn,2024-08-09T19:34:09.003Z,"28 km ESE of Lowell Point, Alaska",earthquake,,0.5,,,reviewed,ak,ak
