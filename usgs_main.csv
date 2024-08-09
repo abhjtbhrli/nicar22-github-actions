@@ -10084,3 +10084,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-09T20:56:12.543Z,62.9008,-150.3971,99.0,1.1,ml,,,,0.53,ak,ak024a7hjqsm,2024-08-09T20:58:37.609Z,"48 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-08-09T20:50:48.250Z,35.0856667,-119.0563333,0.47,1.35,ml,19.0,128.0,0.03517,0.22,ci,ci40695727,2024-08-09T21:10:06.609Z,"20 km NW of Grapevine, CA",earthquake,0.38,1.08,0.237,28.0,automatic,ci,ci
 2024-08-09T09:05:04.010Z,58.2653333333333,-155.572,1.12,-0.25,ml,5.0,153.0,0.07802,0.13,av,av93017984,2024-08-09T21:01:13.560Z,"79 km SE of King Salmon, Alaska",earthquake,0.36,3.23,0.12450020009075,6.0,reviewed,av,av
+2024-08-09T21:20:10.283Z,64.9309,-148.8867,12.7,1.6,ml,,,,0.68,ak,ak024a7hxgg4,2024-08-09T21:22:33.127Z,"32 km SE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-09T21:16:22.617Z,65.0488,-149.1417,0.0,3.2,ml,,,,1.29,ak,ak024a7hwmhn,2024-08-09T21:22:54.490Z,"14 km SE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-09T10:33:14.940Z,51.7658333333333,-177.476166666667,-1.78,1.39,ml,9.0,177.0,0.1498,0.25,av,av93224686,2024-08-09T21:12:41.390Z,"59 km WSW of Adak, Alaska",earthquake,1.7,1.18,0.330907094280558,9.0,reviewed,av,av
