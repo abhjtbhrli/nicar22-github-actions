@@ -10095,3 +10095,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-09T21:41:17.640Z,38.82,-122.82,3.02,0.85,md,20.0,65.0,0.006275,0.02,nc,nc75046382,2024-08-09T21:42:56.090Z,"7 km NW of The Geysers, CA",earthquake,0.27,0.579999983,0.25,21.0,automatic,nc,nc
 2024-08-09T21:35:00.359Z,64.9357,-148.9216,0.0,2.6,ml,,,,0.97,ak,ak024a7i0nf7,2024-08-09T21:37:30.997Z,"31 km SE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-09T19:58:50.720Z,8.0052,126.7866,60.546,4.5,mb,36.0,110.0,1.516,0.5,us,us6000nj6l,2024-08-09T21:42:44.040Z,"37 km E of Santa Maria, Philippines",earthquake,9.82,1.205,0.104,30.0,reviewed,us,us
+2024-08-09T21:51:17.400Z,35.7150002,-117.49617,3.04,0.97,ml,14.0,154.0,0.07718,0.12,ci,ci40695767,2024-08-09T21:53:29.844Z,"10 km SW of Searles Valley, CA",earthquake,0.49,0.72,0.16,4.0,automatic,ci,ci
+2024-08-09T21:42:43.170Z,34.0385,-116.9596667,11.63,1.1,ml,34.0,45.0,0.05835,0.15,ci,ci40695751,2024-08-09T21:48:52.770Z,"8 km E of Yucaipa, CA",earthquake,0.2,0.57,0.246,23.0,automatic,ci,ci
