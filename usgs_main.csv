@@ -9920,3 +9920,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-09T10:14:07.140Z,33.9951667,-116.9933333,16.37,0.82,ml,44.0,34.0,0.1091,0.14,ci,ci40695087,2024-08-09T10:20:03.736Z,"6 km E of Calimesa, CA",earthquake,0.18,0.52,0.14,20.0,automatic,ci,ci
 2024-08-09T10:38:13.840Z,38.84,-122.8,2.49,0.51,md,10.0,70.0,0.005806,0.02,nc,nc75046127,2024-08-09T10:39:51.583Z,"7 km WNW of Cobb, CA",earthquake,0.46,1.10000002,0.26,10.0,automatic,nc,nc
 2024-08-09T10:40:07.120Z,38.82,-122.77,2.16,0.81,md,9.0,123.0,0.007307,0.01,nc,nc75046132,2024-08-09T10:41:46.399Z,"4 km WNW of Cobb, CA",earthquake,0.39,0.980000019,0.12,10.0,automatic,nc,nc
+2024-08-09T10:49:40.900Z,33.7628333,-116.93,13.06,0.38,ml,24.0,47.0,0.07573,0.14,ci,ci40695103,2024-08-09T10:55:25.949Z,"4 km SE of San Jacinto, CA",earthquake,0.22,0.45,0.055,5.0,automatic,ci,ci
+2024-08-09T09:50:06.762Z,65.2107,-162.6876,8.072,2.6,ml,21.0,111.0,0.606,0.56,us,us6000nj1x,2024-08-09T10:54:00.040Z,"68 km NNE of White Mountain, Alaska",earthquake,5.59,7.745,0.06,36.0,reviewed,us,us
