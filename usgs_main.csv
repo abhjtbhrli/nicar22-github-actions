@@ -10111,3 +10111,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-09T22:52:28.360Z,19.1136665344238,-155.501159667969,34.5900001525879,1.87,md,29.0,177.0,0.05556,0.180000007,hv,hv74393491,2024-08-09T22:54:12.340Z,"9 km ENE of Naalehu, Hawaii",earthquake,0.66,0.949999988,0.119999997,3.0,automatic,hv,hv
 2024-08-09T22:48:15.250Z,38.81,-122.8,3.44,0.73,md,8.0,110.0,0.002277,0.01,nc,nc75046412,2024-08-09T22:49:51.603Z,"5 km NW of The Geysers, CA",earthquake,0.79,2.1400001,0.41,9.0,automatic,nc,nc
 2024-08-09T17:18:27.910Z,55.3656666666667,-161.997333333333,24.59,0.66,ml,8.0,139.0,0.06739,0.21,av,av93018014,2024-08-09T22:53:51.520Z,"39 km NNE of King Cove, Alaska",earthquake,0.84,1.15,0.243933671387467,9.0,reviewed,av,av
+2024-08-09T23:11:17.805Z,60.7437,-150.173,33.3,2.0,ml,,,,0.41,ak,ak024a7j2esk,2024-08-09T23:13:29.865Z,"34 km NW of Cooper Landing, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-09T23:05:25.923Z,65.7532,-147.7712,10.2,1.0,ml,,,,1.06,ak,ak024a7j154g,2024-08-09T23:07:29.297Z,"43 km NE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-09T22:54:47.524Z,31.7322,49.3794,10.0,4.3,mb,52.0,138.0,4.473,0.8,us,us6000nj8f,2024-08-09T23:12:31.040Z,"23 km SSE of Masjed Soleymān, Iran",earthquake,9.3,1.913,0.093,33.0,reviewed,us,us
+2024-08-09T17:36:55.640Z,54.0606666666667,-166.103333333333,16.0,-0.09,ml,5.0,306.0,0.06116,0.17,av,av93018029,2024-08-09T23:15:46.730Z,"22 km WSW of Akutan, Alaska",earthquake,1.51,1.32,0.230269620462172,5.0,reviewed,av,av
