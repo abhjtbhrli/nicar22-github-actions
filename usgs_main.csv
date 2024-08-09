@@ -10119,3 +10119,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-09T23:24:58.400Z,35.6575012,-118.3208313,7.53,1.08,ml,20.0,117.0,0.04524,0.14,ci,ci40695815,2024-08-09T23:27:09.415Z,"13 km ESE of Wofford Heights, CA",earthquake,0.46,0.7,0.278,5.0,automatic,ci,ci
 2024-08-09T23:24:35.784Z,36.7167,-116.1331,0.6,0.3,ml,17.0,81.61,0.033,0.1691,nn,nn00882152,2024-08-09T23:26:27.852Z,"44 km WNW of Indian Springs, Nevada",earthquake,,0.3,0.37,11.0,automatic,nn,nn
 2024-08-09T23:18:30.545Z,64.9294,-147.5375,20.3,1.0,ml,,,,1.07,ak,ak024a7j3xse,2024-08-09T23:20:22.517Z,"4 km SE of Fox, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-08-09T20:36:11.950Z,51.7278333333333,-178.793833333333,6.31,0.1,ml,4.0,296.0,0.03516,0.19,av,av93225141,2024-08-09T23:35:42.160Z,"149 km W of Adak, Alaska",earthquake,1.4,1.08,0.138962155814328,4.0,reviewed,av,av
+2024-08-09T20:10:05.440Z,56.9186666666667,-157.9025,3.46,1.01,ml,6.0,312.0,0.1163,0.12,av,av93225126,2024-08-09T23:33:16.260Z,"72 km SSW of Ugashik, Alaska",earthquake,0.69,0.53,0.248219728222134,6.0,reviewed,av,av
