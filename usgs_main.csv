@@ -10044,3 +10044,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-09T18:54:31.877Z,61.6221,-149.8769,43.9,1.2,ml,,,,0.45,ak,ak024a7gchn7,2024-08-09T18:56:42.509Z,"3 km WSW of Houston, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2024-08-09T17:09:32.940Z,61.2685,-152.176,4.3,0.9,ml,12.0,150.0,0.04515,0.17,av,av93224981,2024-08-09T18:59:44.620Z,"60 km WNW of Tyonek, Alaska",earthquake,0.35,1.59,0.237576187831808,12.0,reviewed,av,av
 2024-08-08T19:32:34.539Z,36.45133333,-98.8065,6.0,1.26,ml,30.0,67.0,0.00449911712,0.3788968936,ok,ok2024pnlj,2024-08-09T19:12:09.680Z,"15 km SSE of Waynoka, Oklahoma",earthquake,,0.6,0.18,12.0,reviewed,ok,ok
+2024-08-09T19:20:03.027Z,61.6381,-150.0294,64.1,1.5,ml,,,,0.8,ak,ak024a7gqkoe,2024-08-09T19:22:00.631Z,"11 km W of Houston, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-08-09T19:12:04.550Z,35.9651667,-117.6603333,2.42,1.28,ml,22.0,93.0,0.01903,0.15,ci,ci40695583,2024-08-09T19:18:20.567Z,"22 km E of Little Lake, CA",earthquake,0.23,0.17,0.224,16.0,automatic,ci,ci
