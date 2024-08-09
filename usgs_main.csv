@@ -9976,3 +9976,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-09T13:11:08.801Z,32.403,-102.019,6.7139,1.6,ml,25.0,74.0,0.1,0.1,tx,tx2024poug,2024-08-09T14:50:25.421Z,"31 km WSW of Ackerly, Texas",earthquake,0.6602914702803391,1.296423541853952,0.1,11.0,reviewed,tx,tx
 2024-08-09T06:05:44.534Z,63.4076,-151.5138,5.0,0.3,ml,,,,0.17,ak,ak024a78ws47,2024-08-09T14:49:56.538Z,"18 km SE of Denali National Park, Alaska",earthquake,,0.0,,,reviewed,ak,ak
 2024-08-08T20:06:12.587Z,43.759,86.3093,10.0,4.4,mb,65.0,101.0,4.154,0.68,us,us6000niyn,2024-08-09T14:57:12.040Z,"64 km SSE of Shihezi, China",earthquake,9.74,1.898,0.068,62.0,reviewed,us,us
+2024-08-09T15:10:12.033Z,35.65068054,-97.74816132,5.0,2.29,ml,10.0,160.0505066,0.2935901284,1.283694934,ok,ok2024poyf,2024-08-09T15:21:03.611Z,"0 km N of Piedmont, Oklahoma",earthquake,10.93915236,,0.27,10.0,automatic,ok,ok
+2024-08-09T15:04:39.980Z,19.4004993438721,-155.265838623047,1.49000000953674,2.00999999,md,21.0,41.0,0.002253,0.140000001,hv,hv74392946,2024-08-09T15:06:30.560Z,"5 km SW of Volcano, Hawaii",earthquake,0.18,0.140000001,0.189999998,15.0,automatic,hv,hv
+2024-08-09T11:20:20.683Z,55.1371,-158.7948,4.4,2.4,ml,,,,0.51,ak,ak024a7bz65c,2024-08-09T15:03:43.683Z,"88 km SSE of Perryville, Alaska",earthquake,,2.5,,,reviewed,ak,ak
+2024-08-09T09:44:10.240Z,35.35283333,-97.95966667,6.87,1.39,ml,62.0,66.0,0.05128993517,0.43,ok,ok2024ponk,2024-08-09T15:24:16.952Z,"4 km SSW of Union City, Oklahoma",earthquake,,0.7,0.27,28.0,reviewed,ok,ok
+2024-08-09T09:07:20.570Z,35.35133333,-97.9645,6.26,1.45,ml,81.0,50.0,0.05578905228,0.27,ok,ok2024pomd,2024-08-09T15:11:49.696Z,"4 km NNW of Minco, Oklahoma",earthquake,,0.4,0.25,42.0,reviewed,ok,ok
+2024-08-08T20:29:22.105Z,31.671,-104.378,6.4587,1.7,ml,24.0,69.0,0.0,0.2,tx,tx2024pnnm,2024-08-09T15:06:44.578Z,"55 km S of Whites City, New Mexico",earthquake,0.7225915399008942,0.7271845475356415,0.2,23.0,reviewed,tx,tx
