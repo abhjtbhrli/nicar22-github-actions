@@ -9849,3 +9849,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-09T03:08:03.695Z,-23.8194,-179.808,503.761,4.5,mb,42.0,100.0,5.008,1.0,us,us6000nj0a,2024-08-09T03:29:35.040Z,south of the Fiji Islands,earthquake,14.0,9.403,0.057,92.0,reviewed,us,us
 2024-08-09T03:42:13.140Z,32.908165,-115.5413361,9.82,1.5,ml,15.0,90.0,0.01761,0.3,ci,ci40694863,2024-08-09T03:44:31.421Z,"7 km NNE of Imperial, CA",earthquake,0.86,0.99,0.396,8.0,automatic,ci,ci
 2024-08-09T03:40:33.640Z,35.1123352,-119.0953369,11.8,1.97,ml,44.0,36.0,0.05444,0.29,ci,ci40694855,2024-08-09T03:42:39.415Z,"23 km SW of Lamont, CA",earthquake,0.36,1.01,0.239,27.0,automatic,ci,ci
+2024-08-09T03:53:07.090Z,36.31,-120.82,10.78,1.22,md,7.0,170.0,0.06407,0.04,nc,nc75046052,2024-08-09T03:54:45.792Z,"18 km WSW of New Idria, CA",earthquake,0.72,0.899999976,0.48,6.0,automatic,nc,nc
+2024-08-09T03:47:06.370Z,38.84,-122.8,1.59,0.96,md,10.0,76.0,0.007151,0.02,nc,nc75046047,2024-08-09T03:48:45.694Z,"7 km WNW of Cobb, CA",earthquake,0.34,0.699999988,0.23,11.0,automatic,nc,nc
