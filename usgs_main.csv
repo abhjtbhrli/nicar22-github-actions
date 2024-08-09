@@ -10005,3 +10005,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-09T03:04:29.660Z,35.82416667,-97.851,5.03,1.33,ml,66.0,67.0,0.1709664506,0.22,ok,ok2024poag,2024-08-09T16:47:59.248Z,"8 km ESE of Kingfisher, Oklahoma",earthquake,,0.5,0.2,30.0,reviewed,ok,ok
 2024-08-08T18:48:53.982Z,31.5417,131.6172,43.211,4.4,mb,60.0,115.0,5.906,0.92,us,us6000niy4,2024-08-09T16:33:34.040Z,"24 km ESE of Nichinan, Japan",earthquake,9.31,7.661,0.073,54.0,reviewed,us,us
 2024-08-09T16:45:59.674Z,59.8157,-152.9216,97.4,1.4,ml,,,,0.17,ak,ak024a7f3r4v,2024-08-09T16:47:53.240Z,"61 km W of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-08-09T17:05:25.043Z,58.2943,-151.6946,25.7,3.6,ml,,,,0.35,ak,ak024a7fgjga,2024-08-09T17:07:35.866Z,"63 km NE of Ouzinkie, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-08-09T16:59:11.190Z,35.0918333,-119.0935,4.57,1.51,ml,29.0,97.0,0.0341,0.22,ci,ci40695447,2024-08-09T17:05:58.112Z,"22 km NW of Grapevine, CA",earthquake,0.31,2.15,0.164,29.0,automatic,ci,ci
+2024-08-09T16:48:21.480Z,35.3535,-97.9665,6.67,1.61,ml,49.0,50.0,0.05578905228,0.4,ok,ok2024ppbl,2024-08-09T17:05:51.128Z,"4 km SSW of Union City, Oklahoma",earthquake,,0.7,0.27,22.0,reviewed,ok,ok
+2024-08-09T16:40:38.688Z,-9.1276,120.5767,88.047,5.0,mww,65.0,45.0,1.712,0.94,us,us6000nj4n,2024-08-09T16:57:09.040Z,"58 km SSE of Ruteng, Indonesia",earthquake,8.24,6.243,0.086,13.0,reviewed,us,us
+2024-08-09T07:17:04.609Z,32.773,-100.651,7.8857,1.7,ml,15.0,51.0,0.1,0.1,tx,tx2024poip,2024-08-09T17:07:17.980Z,"18 km NNE of Hermleigh, Texas",earthquake,0.7572378391680106,1.513839300132335,0.2,7.0,reviewed,tx,tx
