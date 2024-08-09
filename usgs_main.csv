@@ -10087,3 +10087,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-09T21:20:10.283Z,64.9309,-148.8867,12.7,1.6,ml,,,,0.68,ak,ak024a7hxgg4,2024-08-09T21:22:33.127Z,"32 km SE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-09T21:16:22.617Z,65.0488,-149.1417,0.0,3.2,ml,,,,1.29,ak,ak024a7hwmhn,2024-08-09T21:22:54.490Z,"14 km SE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-09T10:33:14.940Z,51.7658333333333,-177.476166666667,-1.78,1.39,ml,9.0,177.0,0.1498,0.25,av,av93224686,2024-08-09T21:12:41.390Z,"59 km WSW of Adak, Alaska",earthquake,1.7,1.18,0.330907094280558,9.0,reviewed,av,av
+2024-08-09T21:30:51.661Z,64.9295,-148.886,2.9,0.8,ml,,,,1.33,ak,ak024a7hzosu,2024-08-09T21:32:47.605Z,"32 km SE of Minto, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-08-09T21:29:00.115Z,64.9454,-148.8157,19.6,0.9,ml,,,,0.73,ak,ak024a7hz9xw,2024-08-09T21:31:14.780Z,"33 km SE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-09T21:28:01.200Z,35.0915,-119.1081667,12.92,1.62,ml,35.0,64.0,0.03843,0.22,ci,ci40695743,2024-08-09T21:34:41.732Z,"23 km NW of Grapevine, CA",earthquake,0.32,0.68,0.161,26.0,automatic,ci,ci
+2024-08-09T21:24:49.218Z,64.9619,-148.5369,5.0,1.2,ml,,,,1.26,ak,ak024a7hyebd,2024-08-09T21:27:15.815Z,"27 km WNW of Ester, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-09T21:22:01.177Z,64.8977,-148.7089,8.5,1.1,ml,,,,0.69,ak,ak024a7hxv6d,2024-08-09T21:29:22.537Z,"33 km W of Ester, Alaska",earthquake,,0.3,,,automatic,ak,ak
