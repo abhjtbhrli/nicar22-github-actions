@@ -9944,3 +9944,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-09T11:59:02.988Z,63.7246,-149.5694,119.8,1.3,ml,,,,0.3,ak,ak024a7c7gre,2024-08-09T12:01:22.535Z,"32 km W of Denali Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-08-09T11:57:49.750Z,35.5838333,-117.5986667,7.01,0.6,ml,17.0,106.0,0.1113,0.14,ci,ci40695159,2024-08-09T12:03:39.607Z,"8 km ESE of Ridgecrest, CA",earthquake,0.22,0.66,0.137,6.0,automatic,ci,ci
 2024-08-09T11:56:11.270Z,35.0898333,-119.1023333,10.2,1.38,ml,31.0,54.0,0.03467,0.25,ci,ci40695151,2024-08-09T12:02:36.717Z,"23 km NW of Grapevine, CA",earthquake,0.35,0.66,0.209,28.0,automatic,ci,ci
+2024-08-09T12:41:05.520Z,35.1043333,-119.1185,1.69,1.93,ml,42.0,66.0,0.05378,0.22,ci,ci40695191,2024-08-09T12:47:53.622Z,"25 km NW of Grapevine, CA",earthquake,0.22,1.17,0.217,27.0,automatic,ci,ci
+2024-08-09T12:38:30.850Z,19.3775005340576,-155.13883972168,1.37999999523163,1.86,ml,27.0,142.0,0.01462,0.270000011,hv,hv74392856,2024-08-09T12:41:08.000Z,"9 km S of Fern Forest, Hawaii",earthquake,0.88,0.370000005,0.27,3.0,automatic,hv,hv
+2024-08-09T12:30:30.570Z,35.6611667,-117.5318333,6.98,1.59,ml,32.0,46.0,0.08813,0.12,ci,ci40695183,2024-08-09T12:41:09.270Z,"14 km ENE of Ridgecrest, CA",earthquake,0.15,0.43,0.161,24.0,automatic,ci,ci
+2024-08-09T12:23:01.617Z,-30.3877,-177.5593,31.153,5.9,mww,113.0,41.0,1.165,1.21,us,us6000nj2k,2024-08-09T12:54:33.841Z,"Kermadec Islands, New Zealand",earthquake,8.77,3.37,0.051,37.0,reviewed,us,us
+2024-08-09T07:41:38.969Z,35.352,-97.9645,7.48,0.87,ml,27.0,65.0,0.05488922886,0.28,ok,ok2024pojk,2024-08-09T12:49:51.347Z,"4 km NNW of Minco, Oklahoma",earthquake,,0.7,0.22,11.0,reviewed,ok,ok
