@@ -10010,3 +10010,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-09T16:48:21.480Z,35.3535,-97.9665,6.67,1.61,ml,49.0,50.0,0.05578905228,0.4,ok,ok2024ppbl,2024-08-09T17:05:51.128Z,"4 km SSW of Union City, Oklahoma",earthquake,,0.7,0.27,22.0,reviewed,ok,ok
 2024-08-09T16:40:38.688Z,-9.1276,120.5767,88.047,5.0,mww,65.0,45.0,1.712,0.94,us,us6000nj4n,2024-08-09T16:57:09.040Z,"58 km SSE of Ruteng, Indonesia",earthquake,8.24,6.243,0.086,13.0,reviewed,us,us
 2024-08-09T07:17:04.609Z,32.773,-100.651,7.8857,1.7,ml,15.0,51.0,0.1,0.1,tx,tx2024poip,2024-08-09T17:07:17.980Z,"18 km NNE of Hermleigh, Texas",earthquake,0.7572378391680106,1.513839300132335,0.2,7.0,reviewed,tx,tx
+2024-08-09T17:08:51.270Z,19.3320007324219,-155.176330566406,1.44000005722046,1.9,ml,48.0,88.0,0.04766,0.230000004,hv,hv74393091,2024-08-09T17:11:35.690Z,"13 km SSE of Volcano, Hawaii",earthquake,0.26,0.349999994,0.68,12.0,automatic,hv,hv
