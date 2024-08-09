@@ -9955,3 +9955,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-09T12:59:33.312Z,59.0438,-152.7952,68.7,1.8,ml,,,,0.38,ak,ak024a7csypf,2024-08-09T13:02:20.690Z,"60 km SW of Nanwalek, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2024-08-09T04:10:53.187Z,32.403,-102.053,10.2295,1.8,ml,20.0,82.0,0.0,0.1,tx,tx2024pocl,2024-08-09T13:15:24.538Z,"34 km WSW of Ackerly, Texas",earthquake,0.4635977264031072,1.4358308136338054,0.2,22.0,reviewed,tx,tx
 2024-08-08T19:09:50.350Z,36.317,-83.4451666666667,12.35,2.14,md,17.0,85.0,0.02682,0.07,se,se60588741,2024-08-09T12:55:50.490Z,"7 km ENE of Rutledge, Tennessee",earthquake,0.42,0.48,0.0424409328938342,13.0,reviewed,se,se
+2024-08-09T13:25:32.010Z,38.79,-122.75,1.92,1.05,md,17.0,89.0,0.01147,0.03,nc,nc75046207,2024-08-09T13:27:06.693Z,"2 km NNE of The Geysers, CA",earthquake,0.26,0.529999971,0.19,18.0,automatic,nc,nc
+2024-08-09T13:18:18.770Z,35.1143333,-119.0818333,1.67,1.65,ml,38.0,38.0,0.05563,0.22,ci,ci40695231,2024-08-09T13:24:57.843Z,"22 km SW of Lamont, CA",earthquake,0.23,1.02,0.145,27.0,automatic,ci,ci
+2024-08-09T08:56:34.213Z,31.684,-104.422,6.0999,2.1,ml,19.0,73.0,0.0,0.3,tx,tx2024poly,2024-08-09T13:23:57.609Z,"54 km S of Whites City, New Mexico",earthquake,0.6958299592787527,0.7134186108623497,0.1,10.0,reviewed,tx,tx
