@@ -9966,3 +9966,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-09T13:58:58.320Z,33.9053333,-116.8935,10.58,2.58,ml,114.0,29.0,0.07417,0.17,ci,ci40695295,2024-08-09T14:09:40.060Z,"3 km SW of Banning, CA",earthquake,0.1,0.22,0.198,24.0,automatic,ci,ci
 2024-08-09T03:16:15.772Z,31.682,-104.419,6.5613,2.1,ml,27.0,64.0,0.0,0.2,tx,tx2024poaq,2024-08-09T14:03:13.100Z,"54 km S of Whites City, New Mexico",earthquake,0.7005464730212557,0.6974837581902062,0.1,22.0,reviewed,tx,tx
 2024-08-09T00:32:55.710Z,36.42033333,-96.91533333,5.33,1.11,ml,41.0,65.0,0.02159576217,0.28,ok,ok2024pnvg,2024-08-09T14:08:14.905Z,"13 km NW of Pawnee, Oklahoma",earthquake,,0.5,0.24,14.0,reviewed,ok,ok
+2024-08-09T13:07:11.114Z,-23.4272,-179.7042,531.212,4.5,mb,32.0,98.0,4.734,0.95,us,us6000nj2s,2024-08-09T14:28:36.040Z,south of the Fiji Islands,earthquake,13.58,8.329,0.104,27.0,reviewed,us,us
+2024-08-09T08:23:46.670Z,35.35466667,-97.9685,7.78,0.91,ml,23.0,86.0,0.05578905228,0.25,ok,ok2024poku,2024-08-09T14:29:27.400Z,"4 km SSW of Union City, Oklahoma",earthquake,,0.7,0.31,14.0,reviewed,ok,ok
+2024-08-09T01:11:39.677Z,31.607,-103.978,7.2406,1.6,ml,30.0,59.0,0.0,0.1,tx,tx2024pnwo,2024-08-09T14:27:07.242Z,"36 km NNW of Toyah, Texas",earthquake,0.4130932091325579,0.4694928484682127,0.2,25.0,reviewed,tx,tx
