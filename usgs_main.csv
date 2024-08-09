@@ -9859,3 +9859,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-09T04:21:32.460Z,35.1191667,-119.053,2.87,1.05,ml,22.0,83.0,0.06549,0.23,ci,ci40694879,2024-08-09T04:27:56.678Z,"20 km SW of Lamont, CA",earthquake,0.41,1.35,0.113,12.0,automatic,ci,ci
 2024-08-09T03:57:42.760Z,18.005,-66.8105,13.99,2.16,md,8.0,174.0,0.198,0.21,pr,pr71457138,2024-08-09T04:17:24.520Z,"1 km NE of Indios, Puerto Rico",earthquake,0.85,6.22,0.155028500413048,5.0,reviewed,pr,pr
 2024-08-08T23:09:27.940Z,37.57,-118.82,5.36,0.52,md,7.0,228.0,0.01818,0.02,nc,nc75045977,2024-08-09T04:31:00.437Z,"12 km WNW of Toms Place, CA",earthquake,1.98,0.79,0.104,7.0,reviewed,nc,nc
+2024-08-08T19:00:48.590Z,37.92,-121.96,-0.28,1.28,md,10.0,116.0,0.03034,0.09,nc,nc75045902,2024-08-09T04:39:59.084Z,"3 km SW of Clayton, CA",quarry blast,0.38,31.61,0.236,8.0,reviewed,nc,nc
+2024-08-08T15:39:09.170Z,37.62,-121.67,6.13,0.94,md,17.0,75.0,0.08026,0.1,nc,nc75045757,2024-08-09T04:35:27.183Z,"11 km SE of Livermore, CA",earthquake,0.21,2.66,0.273,13.0,reviewed,nc,nc
