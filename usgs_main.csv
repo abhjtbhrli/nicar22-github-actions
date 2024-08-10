@@ -10222,3 +10222,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-10T10:04:36.910Z,33.3648338,-116.8323364,8.29,0.79,ml,35.0,46.0,0.02773,0.17,ci,ci40696167,2024-08-10T10:08:06.746Z,"3 km ENE of Palomar Observatory, CA",earthquake,0.3,0.72,0.144,25.0,automatic,ci,ci
 2024-08-10T10:01:21.691Z,36.5975,-115.6206,4.5,0.5,ml,17.0,312.13,0.282,0.2325,nn,nn00882177,2024-08-10T10:03:39.182Z,"5 km NE of Indian Springs, Nevada",earthquake,,1.7,0.4,11.0,automatic,nn,nn
 2024-08-10T09:55:34.021Z,64.7718,-149.0049,21.5,1.5,ml,,,,0.47,ak,ak024a8yj5kq,2024-08-10T09:57:58.056Z,"19 km NNE of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-10T10:22:00.000Z,38.83,-122.88,1.96,0.78,md,11.0,139.0,0.007785,0.05,nc,nc75046637,2024-08-10T10:23:37.286Z,"12 km E of Cloverdale, CA",earthquake,0.56,0.579999983,0.22,13.0,automatic,nc,nc
+2024-08-10T09:50:13.782Z,-24.4004,-66.9328,164.915,4.2,mb,31.0,52.0,1.839,1.1,us,us6000njbs,2024-08-10T10:30:59.040Z,"65 km WSW of San Antonio de los Cobres, Argentina",earthquake,9.31,6.951,0.115,21.0,reviewed,us,us
