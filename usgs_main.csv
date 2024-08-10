@@ -10346,3 +10346,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-10T22:39:24.910Z,33.5805,-116.8075,9.17,0.96,ml,50.0,34.0,0.03854,0.15,ci,ci40696791,2024-08-10T22:45:45.924Z,"13 km WNW of Anza, CA",earthquake,0.14,0.31,0.186,29.0,automatic,ci,ci
 2024-08-10T22:36:27.800Z,34.0298333,-117.2425,16.69,0.94,ml,20.0,88.0,0.0903,0.12,ci,ci40696775,2024-08-10T22:42:54.837Z,"3 km SE of Loma Linda, CA",earthquake,0.4,0.67,0.173,3.0,automatic,ci,ci
 2024-08-10T22:52:01.750Z,32.8633347,-116.1539993,8.34,1.16,ml,33.0,56.0,0.08586,0.19,ci,ci40696799,2024-08-10T22:54:05.150Z,"21 km NW of Ocotillo, CA",earthquake,0.33,1.1,0.325,6.0,automatic,ci,ci
+2024-08-10T22:42:43.474Z,31.8274,131.5768,46.188,4.8,mb,72.0,56.0,1.01,1.23,us,us6000njf2,2024-08-10T23:01:53.040Z,"18 km ESE of Miyazaki, Japan",earthquake,6.49,7.129,0.054,107.0,reviewed,us,us
