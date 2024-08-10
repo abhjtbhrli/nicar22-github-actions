@@ -10342,3 +10342,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-10T22:34:10.863Z,60.4141,-152.507,104.7,1.6,ml,,,,0.6,ak,ak024a9658m6,2024-08-10T22:36:07.092Z,"61 km NW of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-08-10T22:28:49.660Z,35.9433333,-117.6846667,4.52,1.51,ml,25.0,68.0,0.02819,0.14,ci,ci40696767,2024-08-10T22:34:56.885Z,"20 km E of Little Lake, CA",earthquake,0.16,0.32,0.184,18.0,automatic,ci,ci
 2024-08-10T22:27:11.558Z,62.5249,-151.934,100.4,1.6,ml,,,,0.32,ak,ak024a963qnn,2024-08-10T22:29:51.360Z,"60 km W of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2024-08-10T22:39:37.280Z,19.2811660766602,-155.204666137695,-0.340000003576279,1.83,ml,45.0,157.0,0.01887,0.159999996,hv,hv74394456,2024-08-10T22:42:15.380Z,"18 km S of Volcano, Hawaii",earthquake,0.39,0.150000006,0.32,6.0,automatic,hv,hv
+2024-08-10T22:39:24.910Z,33.5805,-116.8075,9.17,0.96,ml,50.0,34.0,0.03854,0.15,ci,ci40696791,2024-08-10T22:45:45.924Z,"13 km WNW of Anza, CA",earthquake,0.14,0.31,0.186,29.0,automatic,ci,ci
+2024-08-10T22:36:27.800Z,34.0298333,-117.2425,16.69,0.94,ml,20.0,88.0,0.0903,0.12,ci,ci40696775,2024-08-10T22:42:54.837Z,"3 km SE of Loma Linda, CA",earthquake,0.4,0.67,0.173,3.0,automatic,ci,ci
