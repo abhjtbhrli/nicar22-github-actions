@@ -10187,3 +10187,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-10T06:59:45.410Z,33.0345,-116.4131667,9.41,1.1,ml,58.0,30.0,0.04758,0.19,ci,ci40696047,2024-08-10T07:10:43.710Z,"18 km ESE of Julian, CA",earthquake,0.18,0.39,0.2,27.0,automatic,ci,ci
 2024-08-10T06:31:36.358Z,17.442,119.3674,10.0,4.8,mb,49.0,119.0,5.585,0.88,us,us6000njb4,2024-08-10T07:09:11.040Z,"106 km W of Cabittaogan, Philippines",earthquake,11.19,1.89,0.1,31.0,reviewed,us,us
 2024-08-09T11:22:18.955Z,10.7448,-69.2069,10.0,4.6,mb,60.0,46.0,1.915,1.01,us,us6000nj29,2024-08-10T07:05:55.040Z,"48 km NW of Aroa, Venezuela",earthquake,3.34,1.884,0.087,39.0,reviewed,us,us
+2024-08-10T07:30:49.540Z,34.5356674,-118.1621704,15.84,0.95,ml,15.0,68.0,0.01573,0.1,ci,ci40696063,2024-08-10T07:32:51.974Z,"6 km NW of Vincent, CA",earthquake,0.47,0.69,0.198,8.0,automatic,ci,ci
+2024-08-10T07:23:50.479Z,55.7541,-154.19,13.5,4.0,ml,,,,0.57,ak,ak024a8x5gr0,2024-08-10T07:26:51.817Z,"132 km S of Akhiok, Alaska",earthquake,,0.6,,,automatic,ak,ak
