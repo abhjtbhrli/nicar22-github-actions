@@ -10245,3 +10245,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-10T12:11:16.633Z,64.9221,-148.7006,17.3,0.8,ml,,,,0.29,ak,ak024a901zjj,2024-08-10T12:12:54.634Z,"33 km WNW of Ester, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-09T21:54:51.591Z,31.685,-104.403,6.6382,1.6,ml,17.0,78.0,0.1,0.2,tx,tx2024pplo,2024-08-10T12:20:42.167Z,"54 km S of Whites City, New Mexico",earthquake,1.1703299056649024,1.295999522898082,0.1,16.0,reviewed,tx,tx
 2024-08-10T12:41:59.747Z,58.1916,-155.3739,0.0,1.4,ml,,,,0.37,ak,ak024a908icm,2024-08-10T12:43:49.069Z,"88 km NW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-08-10T13:05:44.690Z,35.1871667,-119.0305,11.95,1.56,ml,34.0,68.0,0.1355,0.2,ci,ci40696263,2024-08-10T13:13:37.988Z,"13 km SW of Lamont, CA",earthquake,0.28,1.04,0.141,26.0,automatic,ci,ci
+2024-08-10T13:03:36.470Z,35.097,-119.0915,2.19,1.42,ml,28.0,77.0,0.03883,0.24,ci,ci40696255,2024-08-10T13:13:35.879Z,"22 km NW of Grapevine, CA",earthquake,0.31,1.52,0.232,28.0,automatic,ci,ci
+2024-08-10T13:00:49.880Z,35.0938333,-119.0695,1.41,1.72,ml,47.0,39.0,0.03706,0.23,ci,ci40696247,2024-08-10T13:13:33.457Z,"21 km NW of Grapevine, CA",earthquake,0.21,1.02,0.158,26.0,automatic,ci,ci
+2024-08-10T12:51:52.530Z,33.5216667,-116.524,12.58,0.82,ml,31.0,43.0,0.03621,0.14,ci,ci40696239,2024-08-10T13:02:02.400Z,"14 km ESE of Anza, CA",earthquake,0.18,0.35,0.32,4.0,automatic,ci,ci
