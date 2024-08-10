@@ -10289,3 +10289,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-10T16:37:48.550Z,35.0843315,-119.1401672,9.93,1.7,ml,21.0,74.0,0.05288,0.21,ci,ci40696407,2024-08-10T16:40:01.692Z,"24 km E of Maricopa, CA",earthquake,0.34,0.83,0.163,15.0,automatic,ci,ci
 2024-08-10T16:42:53.300Z,35.0911667,-119.0855,2.18,1.58,ml,40.0,63.0,0.03252,0.25,ci,ci40696423,2024-08-10T16:49:26.741Z,"22 km NW of Grapevine, CA",earthquake,0.27,1.28,0.319,7.0,automatic,ci,ci
 2024-08-10T16:41:28.880Z,35.9441667,-117.6863333,4.67,0.62,ml,15.0,69.0,0.02941,0.1,ci,ci40696415,2024-08-10T16:47:13.783Z,"20 km E of Little Lake, CA",earthquake,0.15,0.26,0.072,5.0,automatic,ci,ci
+2024-08-10T16:53:43.100Z,33.8226667,-117.0305,14.32,0.82,ml,41.0,34.0,0.1506,0.16,ci,ci40696431,2024-08-10T16:59:53.318Z,"8 km WNW of San Jacinto, CA",earthquake,0.2,0.56,0.186,26.0,automatic,ci,ci
+2024-08-10T16:52:21.169Z,37.1993,-114.5322,9.5,2.9,ml,29.0,112.91,0.486,0.4173,nn,nn00882193,2024-08-10T16:56:05.509Z,"46 km S of Caliente, Nevada",earthquake,,0.7,0.34,19.0,automatic,nn,nn
