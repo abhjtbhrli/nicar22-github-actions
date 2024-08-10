@@ -10331,3 +10331,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-10T21:36:55.660Z,36.95,-121.62,4.47,1.59,md,6.0,128.0,0.02972,0.07,nc,nc75046842,2024-08-10T21:38:34.045Z,"7 km NNE of Aromas, CA",earthquake,0.47,1.04999995,0.26,9.0,automatic,nc,nc
 2024-08-10T20:23:33.272Z,31.9135,-103.4132,10.0,2.6,ml,24.0,39.0,0.181,0.44,us,us6000njeg,2024-08-10T21:42:51.040Z,"29 km NE of Mentone, Texas",earthquake,2.04,2.011,0.085,18.0,reviewed,us,us
 2024-08-10T15:16:45.376Z,41.4314,83.7859,16.304,4.1,mb,14.0,129.0,3.707,0.48,us,us6000njd8,2024-08-10T21:41:53.040Z,"78 km ESE of Kuqa, China",earthquake,12.16,6.365,0.262,5.0,reviewed,us,us
+2024-08-10T21:51:53.780Z,35.1106682,-119.090332,10.21,3.2,ml,92.0,22.0,0.05222,0.27,ci,ci40696751,2024-08-10T21:54:16.642Z,"23 km SW of Lamont, CA",earthquake,0.22,0.62,0.34,23.0,automatic,ci,ci
+2024-08-10T21:44:05.670Z,35.116,-119.0975,0.93,1.63,ml,38.0,59.0,0.05836,0.27,ci,ci40696743,2024-08-10T21:50:47.566Z,"23 km SW of Lamont, CA",earthquake,0.27,1.15,0.138,27.0,automatic,ci,ci
