@@ -10323,3 +10323,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-10T20:40:12.930Z,34.5686667,-118.6281667,3.76,1.69,ml,48.0,40.0,0.07265,0.2,ci,ci40696687,2024-08-10T20:46:57.274Z,"9 km N of Castaic, CA",earthquake,0.15,0.54,0.11,27.0,automatic,ci,ci
 2024-08-10T19:06:17.547Z,13.4706,-90.2233,67.449,4.3,mb,43.0,130.0,0.775,0.98,us,us6000nje1,2024-08-10T21:15:07.040Z,"44 km WSW of Acajutla, El Salvador",earthquake,7.82,8.477,0.066,66.0,reviewed,us,us
 2024-08-10T21:18:52.690Z,38.8,-122.78,3.44,1.09,md,19.0,59.0,0.005075,0.02,nc,nc75046827,2024-08-10T21:20:29.371Z,"3 km NW of The Geysers, CA",earthquake,0.3,0.610000014,0.23,21.0,automatic,nc,nc
+2024-08-10T21:32:22.762Z,36.65183258,-97.94151306,5.0,2.34,ml,9.0,214.5651627,0.642125845,1.307122442,ok,ok2024prgi,2024-08-10T21:40:23.686Z,"9 km E of Nash, Oklahoma",earthquake,12.68643505,,0.57,5.0,automatic,ok,ok
+2024-08-10T21:29:07.400Z,33.532,-116.9286667,13.25,2.36,ml,107.0,20.0,0.0521,0.22,ci,ci40696727,2024-08-10T21:36:15.527Z,"12 km NNW of Aguanga, CA",earthquake,0.12,0.34,0.233,26.0,automatic,ci,ci
+2024-08-10T21:26:42.320Z,33.2236667,-116.0436667,3.34,0.94,ml,41.0,84.0,0.07456,0.23,ci,ci40696719,2024-08-10T21:32:50.510Z,"12 km SW of Salton City, CA",earthquake,0.25,0.51,0.124,21.0,automatic,ci,ci
+2024-08-10T20:03:16.676Z,0.5831,98.7843,71.703,4.5,mb,17.0,199.0,2.101,0.59,us,us6000njed,2024-08-10T21:35:22.040Z,"103 km SSW of Padangsidempuan, Indonesia",earthquake,8.08,10.998,0.22,6.0,reviewed,us,us
