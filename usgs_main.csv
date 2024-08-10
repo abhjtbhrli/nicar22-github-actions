@@ -10225,3 +10225,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-10T10:22:00.000Z,38.83,-122.88,1.96,0.78,md,11.0,139.0,0.007785,0.05,nc,nc75046637,2024-08-10T10:23:37.286Z,"12 km E of Cloverdale, CA",earthquake,0.56,0.579999983,0.22,13.0,automatic,nc,nc
 2024-08-10T09:50:13.782Z,-24.4004,-66.9328,164.915,4.2,mb,31.0,52.0,1.839,1.1,us,us6000njbs,2024-08-10T10:30:59.040Z,"65 km WSW of San Antonio de los Cobres, Argentina",earthquake,9.31,6.951,0.115,21.0,reviewed,us,us
 2024-08-10T10:33:14.113Z,37.0115,-116.3819,10.3,0.9,ml,19.0,63.55000000000001,0.024,0.1529,nn,nn00882179,2024-08-10T10:34:59.714Z,"35 km ENE of Beatty, Nevada",earthquake,,0.7,0.24,14.0,automatic,nn,nn
+2024-08-10T10:43:36.719Z,64.4988,-146.8873,9.7,0.6,ml,,,,0.29,ak,ak024a8z20sn,2024-08-10T10:45:26.459Z,"2 km SSE of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-10T10:39:58.890Z,33.4695,-116.48,13.58,0.53,ml,34.0,63.0,0.07035,0.16,ci,ci40696199,2024-08-10T10:46:12.791Z,"20 km ESE of Anza, CA",earthquake,0.19,0.48,0.136,14.0,automatic,ci,ci
