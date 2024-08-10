@@ -10292,3 +10292,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-10T16:53:43.100Z,33.8226667,-117.0305,14.32,0.82,ml,41.0,34.0,0.1506,0.16,ci,ci40696431,2024-08-10T16:59:53.318Z,"8 km WNW of San Jacinto, CA",earthquake,0.2,0.56,0.186,26.0,automatic,ci,ci
 2024-08-10T16:52:21.169Z,37.1993,-114.5322,9.5,2.9,ml,29.0,112.91,0.486,0.4173,nn,nn00882193,2024-08-10T16:56:05.509Z,"46 km S of Caliente, Nevada",earthquake,,0.7,0.34,19.0,automatic,nn,nn
 2024-08-10T17:01:17.540Z,35.0798333,-119.099,12.82,1.72,ml,44.0,40.0,0.02458,0.27,ci,ci40696439,2024-08-10T17:11:40.970Z,"22 km NW of Grapevine, CA",earthquake,0.33,0.67,0.182,26.0,automatic,ci,ci
+2024-08-10T17:20:07.320Z,35.9459991,-117.680336,5.01,2.01,ml,24.0,73.0,0.02438,0.18,ci,ci40696463,2024-08-10T17:22:17.930Z,"20 km E of Little Lake, CA",earthquake,0.33,0.67,0.137,8.0,automatic,ci,ci
+2024-08-10T17:18:39.140Z,35.9451667,-117.6838333,4.87,2.79,ml,28.0,72.0,0.02728,0.13,ci,ci40696455,2024-08-10T17:25:54.311Z,"20 km E of Little Lake, CA",earthquake,0.16,0.32,0.204,25.0,automatic,ci,ci
