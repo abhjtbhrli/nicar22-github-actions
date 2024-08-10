@@ -10162,3 +10162,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-10T03:44:43.690Z,38.82,-122.84,2.17,1.08,md,16.0,104.0,0.007064,0.03,nc,nc75046507,2024-08-10T03:46:20.408Z,"9 km NW of The Geysers, CA",earthquake,0.28,0.430000007,0.17,17.0,automatic,nc,nc
 2024-08-10T03:42:05.420Z,35.1118333,-119.0981667,1.93,1.63,ml,36.0,43.0,0.0544,0.22,ci,ci40695943,2024-08-10T03:48:50.153Z,"23 km SW of Lamont, CA",earthquake,0.25,1.04,0.195,31.0,automatic,ci,ci
 2024-08-10T03:28:32.905Z,47.1777,144.763,406.523,6.5,mww,142.0,32.0,1.386,0.93,us,us6000nj9s,2024-08-10T03:51:14.050Z,"150 km E of Dolinsk, Russia",earthquake,8.86,4.91,0.061,26.0,reviewed,us,us
+2024-08-10T03:39:45.249Z,56.8504,-157.6586,250.0,2.8,ml,,,,0.51,ak,ak024a8uv42v,2024-08-10T03:58:07.416Z,"75 km SSW of Ugashik, Alaska",earthquake,,15.9,,,automatic,ak,ak
