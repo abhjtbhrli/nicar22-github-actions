@@ -10257,3 +10257,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-10T13:42:20.894Z,60.5052,-141.6762,1.8,2.0,ml,,,,0.22,ak,ak024a90u2o9,2024-08-10T13:43:25.756Z,"123 km SSE of McCarthy, Alaska",earthquake,,12.6,,,automatic,ak,ak
 2024-08-10T13:40:49.641Z,38.1486,-117.8605,6.2,1.7,ml,14.0,126.85999999999996,0.11,0.3034,nn,nn00882188,2024-08-10T13:43:31.205Z,"34 km SE of Mina, Nevada",earthquake,,0.4,0.5,10.0,automatic,nn,nn
 2024-08-10T13:34:46.742Z,31.7045,-101.7115,0.739,3.6,mb_lg,25.0,44.0,0.283,0.09,us,us6000njce,2024-08-10T13:44:16.198Z,"28 km SW of Garden City, Texas",earthquake,1.21,4.368,0.043,139.0,reviewed,us,us
+2024-08-10T13:48:28.240Z,19.2598323822021,-155.383666992188,32.0699996948242,1.75999999,md,48.0,128.0,0.02577,0.140000001,hv,hv74394096,2024-08-10T13:50:21.150Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.49,0.610000014,0.0199999996,10.0,automatic,hv,hv
+2024-08-10T13:34:46.280Z,31.704,-101.708,9.9365,3.6,ml,30.0,62.0,0.1,0.1,tx,tx2024pqqp,2024-08-10T13:53:02.199Z,"27 km SW of Garden City, Texas",earthquake,0.893353611635832,1.0586258687271888,0.1,18.0,reviewed,tx,tx
