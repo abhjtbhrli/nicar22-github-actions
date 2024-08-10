@@ -10237,3 +10237,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-10T10:58:58.630Z,19.0376666666667,-65.3538333333333,25.19,3.24,md,14.0,239.0,0.7295,0.28,pr,pr71457208,2024-08-10T11:25:03.460Z,"81 km N of Culebra, Puerto Rico",earthquake,1.96,20.53,0.106062200400493,10.0,reviewed,pr,pr
 2024-08-10T11:34:22.665Z,37.3678,-117.2177,1.0,0.7,ml,12.0,253.38,0.076,0.3659,nn,nn00882186,2024-08-10T11:36:48.831Z,"37 km S of Goldfield, Nevada",earthquake,,23.2,0.46,7.0,automatic,nn,nn
 2024-08-10T11:45:25.895Z,36.9749,-116.4238,7.9,-0.1,ml,8.0,159.98,0.03,0.3372,nn,nn00882187,2024-08-10T11:47:08.257Z,"30 km ENE of Beatty, Nevada",earthquake,,0.8,0.37,6.0,automatic,nn,nn
+2024-08-10T11:52:00.427Z,60.1503,-153.2088,125.1,1.6,ml,,,,0.3,ak,ak024a8zpb1m,2024-08-10T11:54:05.646Z,"61 km E of Port Alsworth, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-10T11:49:54.320Z,33.2243333,-116.041,3.53,0.95,ml,52.0,59.0,0.07231,0.23,ci,ci40696223,2024-08-10T11:56:11.342Z,"11 km SW of Salton City, CA",earthquake,0.17,0.41,0.108,25.0,automatic,ci,ci
+2024-08-09T22:28:07.476Z,32.308,-101.232,8.0322,1.7,ml,29.0,61.0,0.1,0.1,tx,tx2024ppms,2024-08-10T11:50:06.929Z,"7 km E of Coahoma, Texas",earthquake,0.7152525455845232,1.0606996901497765,0.2,27.0,reviewed,tx,tx
