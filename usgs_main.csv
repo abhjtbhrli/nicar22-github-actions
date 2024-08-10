@@ -10275,3 +10275,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-10T14:35:32.807Z,63.0857,-151.4735,0.1,1.6,ml,,,,0.33,ak,ak024a91e16o,2024-08-10T14:37:31.036Z,"52 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-10T14:49:01.060Z,35.0783333,-119.089,0.6,1.53,ml,37.0,63.0,0.02014,0.25,ci,ci40696335,2024-08-10T14:55:22.060Z,"21 km NW of Grapevine, CA",earthquake,0.27,0.93,0.156,28.0,automatic,ci,ci
 2024-08-10T14:34:02.416Z,-23.0608,170.5584,10.0,5.2,mb,51.0,106.0,2.905,0.84,us,us6000njcy,2024-08-10T14:52:37.040Z,southeast of the Loyalty Islands,earthquake,10.37,1.895,0.043,176.0,reviewed,us,us
+2024-08-10T15:10:40.886Z,37.3269,-116.9687,4.4,0.5,ml,8.0,196.5,0.234,0.0656,nn,nn00882192,2024-08-10T15:13:09.515Z,"48 km SSE of Goldfield, Nevada",earthquake,,2.5,0.66,5.0,automatic,nn,nn
