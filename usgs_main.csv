@@ -10322,3 +10322,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-10T20:43:26.958Z,65.815,-148.0892,7.0,2.4,ml,,,,0.42,ak,ak024a950c3b,2024-08-10T20:45:06.810Z,"38 km NNE of Livengood, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-10T20:40:12.930Z,34.5686667,-118.6281667,3.76,1.69,ml,48.0,40.0,0.07265,0.2,ci,ci40696687,2024-08-10T20:46:57.274Z,"9 km N of Castaic, CA",earthquake,0.15,0.54,0.11,27.0,automatic,ci,ci
 2024-08-10T19:06:17.547Z,13.4706,-90.2233,67.449,4.3,mb,43.0,130.0,0.775,0.98,us,us6000nje1,2024-08-10T21:15:07.040Z,"44 km WSW of Acajutla, El Salvador",earthquake,7.82,8.477,0.066,66.0,reviewed,us,us
+2024-08-10T21:18:52.690Z,38.8,-122.78,3.44,1.09,md,19.0,59.0,0.005075,0.02,nc,nc75046827,2024-08-10T21:20:29.371Z,"3 km NW of The Geysers, CA",earthquake,0.3,0.610000014,0.23,21.0,automatic,nc,nc
