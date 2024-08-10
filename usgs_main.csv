@@ -10314,3 +10314,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-10T19:33:59.550Z,35.0923347,-119.0749969,12.48,1.78,ml,35.0,47.0,0.03442,0.23,ci,ci40696631,2024-08-10T19:36:24.696Z,"21 km NW of Grapevine, CA",earthquake,0.33,0.82,0.24,15.0,automatic,ci,ci
 2024-08-10T19:29:05.663Z,68.0219,-151.0496,4.8,1.8,ml,,,,1.16,ak,ak024a94buti,2024-08-10T19:31:19.536Z,"31 km ESE of Anaktuvuk Pass, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-08-10T19:28:44.070Z,33.2215,-116.048,3.38,1.5,ml,62.0,51.0,0.07591,0.22,ci,ci40696623,2024-08-10T19:36:00.907Z,"12 km NE of Ocotillo Wells, CA",earthquake,0.15,0.3,0.145,26.0,automatic,ci,ci
+2024-08-10T19:48:03.400Z,38.79,-122.76,3.06,1.1,md,17.0,63.0,0.006692,0.02,nc,nc75046812,2024-08-10T19:49:39.619Z,"2 km  of The Geysers, CA",earthquake,0.31,0.620000005,0.15,18.0,automatic,nc,nc
