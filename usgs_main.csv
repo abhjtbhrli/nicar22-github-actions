@@ -10196,3 +10196,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-10T07:58:46.140Z,35.1096667,-119.1231667,3.49,1.26,ml,25.0,87.0,0.2404,0.2,ci,ci40696079,2024-08-10T08:05:16.294Z,"25 km SW of Lamont, CA",earthquake,0.3,1.4,0.102,22.0,automatic,ci,ci
 2024-08-10T07:57:01.764Z,65.4483,-148.2523,1.0,1.3,ml,,,,0.54,ak,ak024a8xcnb4,2024-08-10T07:59:27.310Z,"15 km ESE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-10T07:59:50.999Z,-58.8343,158.2806,10.0,5.0,mb,33.0,124.0,4.362,0.55,us,us6000njbe,2024-08-10T08:16:58.040Z,Macquarie Island region,earthquake,10.45,1.853,0.107,28.0,reviewed,us,us
+2024-08-10T08:28:09.220Z,35.1066667,-119.1226667,2.24,1.27,ml,25.0,80.0,0.05758,0.27,ci,ci40696087,2024-08-10T08:34:29.222Z,"25 km NW of Grapevine, CA",earthquake,0.38,1.86,0.196,27.0,automatic,ci,ci
