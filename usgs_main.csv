@@ -10270,3 +10270,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-10T14:25:18.893Z,36.0788002,-96.92141724,5.0,2.35,ml,12.0,220.753418,0.3224160969,1.06549486,ok,ok2024pqsf,2024-08-10T14:32:21.825Z,"6 km NNW of Ripley, Oklahoma",earthquake,22.1306288,,0.32,8.0,automatic,ok,ok
 2024-08-10T14:13:02.119Z,36.0994606,-97.61830139,17.87527657,2.24,ml,15.0,126.8587189,0.3490207493,1.379636455,ok,ok2024pqru,2024-08-10T14:21:48.737Z,"6 km S of Marshall, Oklahoma",earthquake,9.960423716,11.38586426,0.36,13.0,automatic,ok,ok
 2024-08-10T14:28:17.498Z,35.71551132,-97.71398163,5.0,1.85,ml,9.0,158.0070496,0.3879589438,1.140538885,ok,ok2024pqsi,2024-08-10T14:35:28.305Z,"8 km NNE of Piedmont, Oklahoma",earthquake,9.763020153,,0.27,7.0,automatic,ok,ok
+2024-08-10T14:42:49.557Z,63.0445,-151.4007,0.9,1.9,ml,,,,0.58,ak,ak024a91fkhn,2024-08-10T14:45:22.408Z,"57 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-10T14:38:23.280Z,35.0813333,-119.0861667,1.29,2.17,ml,53.0,21.0,0.1995,0.25,ci,ci40696319,2024-08-10T14:45:12.004Z,"21 km NW of Grapevine, CA",earthquake,0.2,1.12,0.158,26.0,automatic,ci,ci
+2024-08-10T14:35:32.807Z,63.0857,-151.4735,0.1,1.6,ml,,,,0.33,ak,ak024a91e16o,2024-08-10T14:37:31.036Z,"52 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
