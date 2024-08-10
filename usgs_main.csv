@@ -10311,3 +10311,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-10T19:08:57.880Z,33.4083333,-116.3951667,13.03,0.55,ml,24.0,82.0,0.0847,0.14,ci,ci40696567,2024-08-10T19:15:19.138Z,"17 km N of Borrego Springs, CA",earthquake,0.21,0.62,0.119,12.0,automatic,ci,ci
 2024-08-10T19:19:10.210Z,33.5215,-116.5278333,11.8,0.95,ml,49.0,37.0,0.036,0.19,ci,ci40696615,2024-08-10T19:28:11.316Z,"14 km ESE of Anza, CA",earthquake,0.18,0.32,0.173,26.0,automatic,ci,ci
 2024-08-10T19:18:12.710Z,35.0901667,-119.1015,2.97,1.47,ml,44.0,54.0,0.03468,0.26,ci,ci40696607,2024-08-10T19:27:01.309Z,"23 km NW of Grapevine, CA",earthquake,0.26,1.11,0.33,8.0,automatic,ci,ci
+2024-08-10T19:33:59.550Z,35.0923347,-119.0749969,12.48,1.78,ml,35.0,47.0,0.03442,0.23,ci,ci40696631,2024-08-10T19:36:24.696Z,"21 km NW of Grapevine, CA",earthquake,0.33,0.82,0.24,15.0,automatic,ci,ci
+2024-08-10T19:29:05.663Z,68.0219,-151.0496,4.8,1.8,ml,,,,1.16,ak,ak024a94buti,2024-08-10T19:31:19.536Z,"31 km ESE of Anaktuvuk Pass, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-08-10T19:28:44.070Z,33.2215,-116.048,3.38,1.5,ml,62.0,51.0,0.07591,0.22,ci,ci40696623,2024-08-10T19:36:00.907Z,"12 km NE of Ocotillo Wells, CA",earthquake,0.15,0.3,0.145,26.0,automatic,ci,ci
