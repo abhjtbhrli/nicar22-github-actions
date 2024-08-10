@@ -10154,3 +10154,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-10T02:24:05.570Z,35.106,-119.085,3.53,1.87,ml,43.0,45.0,0.0473,0.25,ci,ci40695919,2024-08-10T02:31:08.855Z,"23 km NW of Grapevine, CA",earthquake,0.26,1.23,0.244,27.0,automatic,ci,ci
 2024-08-10T02:21:46.842Z,38.188,-117.8739,5.2,1.8,ml,12.0,130.53000000000003,0.088,0.3092,nn,nn00882160,2024-08-10T02:24:37.683Z,"30 km SE of Mina, Nevada",earthquake,,0.6,0.41,7.0,automatic,nn,nn
 2024-08-10T03:08:01.400Z,35.0811667,-119.091,2.21,1.71,ml,44.0,41.0,0.02328,0.25,ci,ci40695927,2024-08-10T03:15:28.092Z,"21 km NW of Grapevine, CA",earthquake,0.23,1.08,0.232,26.0,automatic,ci,ci
+2024-08-10T03:31:04.203Z,60.8271,-149.7452,50.2,1.7,ml,,,,0.41,ak,ak024a8utcgk,2024-08-10T03:32:58.761Z,"11 km SSW of Hope, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-08-10T03:19:46.529Z,60.1912,-152.7967,14.3,1.8,ml,,,,0.56,ak,ak024a8uqv4s,2024-08-10T03:21:26.033Z,"64 km WNW of Ninilchik, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-10T03:15:22.420Z,34.4195,-119.1923333,3.7,1.91,ml,43.0,63.0,0.04854,0.25,ci,ci40695935,2024-08-10T03:22:36.442Z,"6 km SE of Ojai, CA",earthquake,0.21,0.68,0.15,27.0,automatic,ci,ci
