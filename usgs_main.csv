@@ -10327,3 +10327,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-10T21:29:07.400Z,33.532,-116.9286667,13.25,2.36,ml,107.0,20.0,0.0521,0.22,ci,ci40696727,2024-08-10T21:36:15.527Z,"12 km NNW of Aguanga, CA",earthquake,0.12,0.34,0.233,26.0,automatic,ci,ci
 2024-08-10T21:26:42.320Z,33.2236667,-116.0436667,3.34,0.94,ml,41.0,84.0,0.07456,0.23,ci,ci40696719,2024-08-10T21:32:50.510Z,"12 km SW of Salton City, CA",earthquake,0.25,0.51,0.124,21.0,automatic,ci,ci
 2024-08-10T20:03:16.676Z,0.5831,98.7843,71.703,4.5,mb,17.0,199.0,2.101,0.59,us,us6000njed,2024-08-10T21:35:22.040Z,"103 km SSW of Padangsidempuan, Indonesia",earthquake,8.08,10.998,0.22,6.0,reviewed,us,us
+2024-08-10T21:37:51.990Z,33.4041667,-116.3961667,3.16,1.56,ml,76.0,30.0,0.08096,0.2,ci,ci40696735,2024-08-10T21:44:35.577Z,"17 km N of Borrego Springs, CA",earthquake,0.15,0.34,0.167,25.0,automatic,ci,ci
+2024-08-10T21:36:55.660Z,36.95,-121.62,4.47,1.59,md,6.0,128.0,0.02972,0.07,nc,nc75046842,2024-08-10T21:38:34.045Z,"7 km NNE of Aromas, CA",earthquake,0.47,1.04999995,0.26,9.0,automatic,nc,nc
+2024-08-10T20:23:33.272Z,31.9135,-103.4132,10.0,2.6,ml,24.0,39.0,0.181,0.44,us,us6000njeg,2024-08-10T21:42:51.040Z,"29 km NE of Mentone, Texas",earthquake,2.04,2.011,0.085,18.0,reviewed,us,us
+2024-08-10T15:16:45.376Z,41.4314,83.7859,16.304,4.1,mb,14.0,129.0,3.707,0.48,us,us6000njd8,2024-08-10T21:41:53.040Z,"78 km ESE of Kuqa, China",earthquake,12.16,6.365,0.262,5.0,reviewed,us,us
