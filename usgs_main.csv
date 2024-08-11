@@ -10549,3 +10549,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-11T21:28:56.209Z,60.3601,-152.9265,127.2,1.6,ml,,,,0.41,ak,ak024aat1yn8,2024-08-11T21:32:01.357Z,"77 km WNW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-08-11T21:33:02.580Z,33.6716667,-116.7098333,15.24,0.78,ml,25.0,62.0,0.03018,0.11,ci,ci40697911,2024-08-11T21:38:51.841Z,"8 km S of Idyllwild, CA",earthquake,0.25,0.31,0.286,8.0,automatic,ci,ci
 2024-08-11T21:51:10.880Z,35.0201683,-119.0634995,14.08,1.14,ml,10.0,82.0,0.04181,0.18,ci,ci40697919,2024-08-11T21:53:29.719Z,"15 km NW of Grapevine, CA",earthquake,0.93,1.74,0.329,3.0,automatic,ci,ci
+2024-08-11T22:10:35.850Z,35.0764999,-119.0573349,13.8,2.43,ml,52.0,26.0,0.02811,0.28,ci,ci40697935,2024-08-11T22:12:39.273Z,"19 km NW of Grapevine, CA",earthquake,0.29,0.71,0.398,26.0,automatic,ci,ci
+2024-08-11T22:06:14.344Z,66.9917,-154.7888,0.0,1.5,ml,,,,0.6,ak,ak024aatilbu,2024-08-11T22:09:12.392Z,"91 km E of Kobuk, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-08-11T22:00:20.270Z,35.1075,-119.0856667,7.66,2.74,ml,66.0,21.0,0.04881,0.29,ci,ci40697927,2024-08-11T22:11:35.300Z,"23 km SW of Lamont, CA",earthquake,0.23,1.03,0.132,26.0,automatic,ci,ci
+2024-08-11T21:45:58.343Z,-19.0765,-177.644,569.598,4.5,mb,49.0,75.0,3.097,0.69,us,us6000njiv,2024-08-11T22:03:56.040Z,Fiji region,earthquake,10.94,6.267,0.07,59.0,reviewed,us,us
+2024-08-11T19:45:41.210Z,59.9129,-152.5129,74.2,1.5,ml,,,,0.29,ak,ak024aaryotm,2024-08-11T22:06:04.195Z,"41 km WNW of Anchor Point, Alaska",earthquake,,1.2,,,reviewed,ak,ak
+2024-08-11T16:33:16.067Z,51.2838,178.6537,1.6,1.9,ml,,,,0.73,ak,ak024aaq3sq7,2024-08-11T22:01:45.434Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,0.2,,,reviewed,ak,ak
