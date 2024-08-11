@@ -10420,3 +10420,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-11T07:47:52.390Z,38.84,-122.83,2.07,0.57,md,7.0,156.0,0.007407,0.01,nc,nc75047097,2024-08-11T07:49:29.350Z,"9 km WNW of Cobb, CA",earthquake,0.56,1.08000004,0.28,9.0,automatic,nc,nc
 2024-08-11T08:00:31.080Z,38.78,-122.73,1.81,1.86,md,32.0,56.0,0.005146,0.1,nc,nc75047107,2024-08-11T08:02:09.860Z,"2 km E of The Geysers, CA",earthquake,0.28,0.439999998,0.15,31.0,automatic,nc,nc
 2024-08-11T07:55:10.570Z,38.84,-122.84,1.8,0.79,md,15.0,96.0,0.006961,0.01,nc,nc75047102,2024-08-11T07:56:49.467Z,"10 km NNW of The Geysers, CA",earthquake,0.28,0.569999993,0.43,17.0,automatic,nc,nc
+2024-08-11T08:11:48.230Z,36.2205,-118.0286667,0.56,1.01,ml,22.0,95.0,0.1741,0.18,ci,ci40697119,2024-08-11T08:17:34.337Z,"7 km SSW of Olancha, CA",earthquake,0.35,0.58,0.185,11.0,automatic,ci,ci
