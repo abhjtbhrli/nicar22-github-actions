@@ -10426,3 +10426,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-11T08:27:39.230Z,33.3131667,-116.2383333,4.54,0.67,ml,42.0,101.0,0.07725,0.2,ci,ci40697127,2024-08-11T08:33:35.518Z,"14 km ENE of Borrego Springs, CA",earthquake,0.24,0.59,0.169,13.0,automatic,ci,ci
 2024-08-11T08:44:11.670Z,38.84,-122.81,2.26,0.78,md,14.0,55.0,0.01238,0.01,nc,nc75047112,2024-08-11T08:45:49.849Z,"7 km WNW of Cobb, CA",earthquake,0.34,0.730000019,0.16,14.0,automatic,nc,nc
 2024-08-11T08:39:49.999Z,59.9104,-152.7761,104.0,2.1,ml,,,,0.36,ak,ak024aaldo96,2024-08-11T08:42:12.486Z,"55 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-08-11T08:50:46.900Z,38.82,-122.85,1.77,0.4,md,6.0,140.0,0.0147,0.01,nc,nc75047117,2024-08-11T08:52:23.844Z,"10 km NW of The Geysers, CA",earthquake,0.46,1.11000001,0.17,8.0,automatic,nc,nc
+2024-08-11T08:48:14.560Z,35.0986667,-119.0728333,2.24,1.32,ml,34.0,75.0,0.04097,0.24,ci,ci40697159,2024-08-11T08:55:03.805Z,"22 km NW of Grapevine, CA",earthquake,0.3,1.26,0.166,31.0,automatic,ci,ci
