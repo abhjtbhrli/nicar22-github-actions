@@ -10459,3 +10459,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-11T11:04:52.958Z,58.7767,-153.2159,52.3,2.2,ml,,,,0.48,ak,ak024aamyh7z,2024-08-11T11:07:59.304Z,"81 km NNW of Aleneva, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-08-11T11:21:11.450Z,33.3898333,-116.6091667,11.65,0.84,ml,65.0,37.0,0.1048,0.19,ci,ci40697343,2024-08-11T11:27:17.208Z,"12 km N of Warner Springs, CA",earthquake,0.15,0.47,0.142,26.0,automatic,ci,ci
 2024-08-11T11:18:46.160Z,35.1051667,-119.0865,5.55,1.12,ml,26.0,84.0,0.04651,0.2,ci,ci40697335,2024-08-11T11:24:58.115Z,"23 km NW of Grapevine, CA",earthquake,0.31,1.44,0.113,19.0,automatic,ci,ci
+2024-08-11T11:32:40.820Z,38.78,-122.73,0.15,0.23,md,6.0,155.0,0.01049,0.06,nc,nc75047157,2024-08-11T11:34:44.607Z,"3 km ESE of The Geysers, CA",earthquake,0.51,1.80999994,0.08,5.0,automatic,nc,nc
