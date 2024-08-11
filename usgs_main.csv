@@ -10395,3 +10395,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-10T11:47:37.650Z,51.7363333333333,-179.0235,10.85,1.49,ml,6.0,274.0,0.1117,0.16,av,av93225886,2024-08-11T04:00:37.510Z,"165 km W of Adak, Alaska",earthquake,0.99,2.18,0.282900035162555,6.0,reviewed,av,av
 2024-08-10T08:44:32.890Z,36.5689,71.2096,90.462,4.1,mb,36.0,108.0,2.657,0.82,us,us6000njbj,2024-08-11T04:21:35.040Z,"31 km WSW of Ashkāsham, Afghanistan",earthquake,7.86,8.437,0.14,14.0,reviewed,us,us
 2024-08-11T04:50:28.990Z,37.5124,-117.9497,5.8,1.2,ml,8.0,274.35,0.146,0.472,nn,nn00882201,2024-08-11T04:53:05.012Z,"20 km SSE of Dyer, Nevada",earthquake,,1.4,0.46,5.0,automatic,nn,nn
+2024-08-11T04:35:55.540Z,19.0791,-65.978,35.0,3.4,md,16.0,235.0,0.7773,0.39,pr,pr2024224000,2024-08-11T05:10:41.883Z,"69 km N of San Juan, Puerto Rico",earthquake,1.92,10.16,0.07,10.0,reviewed,pr,pr
+2024-08-11T04:03:40.225Z,-21.1087,-177.8049,421.584,4.2,mb,21.0,121.0,2.429,0.63,us,us6000njg5,2024-08-11T05:11:37.040Z,"260 km W of Houma, Tonga",earthquake,15.74,12.333,0.158,14.0,reviewed,us,us
