@@ -10443,3 +10443,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-11T09:51:25.780Z,35.9441667,-117.6811667,5.11,1.4,ml,25.0,69.0,0.02526,0.13,ci,ci40697231,2024-08-11T09:57:29.916Z,"20 km E of Little Lake, CA",earthquake,0.17,0.46,0.131,17.0,automatic,ci,ci
 2024-08-11T09:50:47.214Z,56.0346,-159.1309,7.5,1.4,ml,,,,0.99,ak,ak024aam1gi9,2024-08-11T09:52:50.128Z,"13 km N of Perryville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-08-11T10:04:31.370Z,35.1276667,-119.071,7.52,1.51,ml,42.0,59.0,0.0697,0.23,ci,ci40697247,2024-08-11T10:11:15.991Z,"20 km SW of Lamont, CA",earthquake,0.25,0.82,0.191,28.0,automatic,ci,ci
+2024-08-11T10:27:24.710Z,19.3233337402344,-155.16667175293,2.26999998092651,2.39,ml,58.0,97.0,0.05147,0.219999999,hv,hv74394986,2024-08-11T10:30:02.110Z,"14 km SSE of Volcano, Hawaii",earthquake,0.3,0.5,0.36,39.0,automatic,hv,hv
