@@ -10504,3 +10504,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-11T14:40:43.404Z,64.4123,-149.496,1.0,0.7,ml,,,,0.41,ak,ak024aaoyfdg,2024-08-11T15:31:08.358Z,"16 km WNW of Anderson, Alaska",earthquake,,0.0,,,reviewed,ak,ak
 2024-08-11T15:46:33.790Z,64.9823,-148.8142,7.7,1.1,ml,,,,0.52,ak,ak024aapl68j,2024-08-11T15:48:19.984Z,"31 km SE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-11T15:36:23.510Z,34.0,-117.067,14.15,0.89,ml,42.0,38.0,0.05171,0.16,ci,ci40697559,2024-08-11T15:42:41.980Z,"2 km NW of Calimesa, CA",earthquake,0.18,0.47,0.151,31.0,automatic,ci,ci
+2024-08-11T15:56:34.060Z,38.84,-122.81,1.9,1.02,md,17.0,54.0,0.01511,0.02,nc,nc75047272,2024-08-11T15:58:39.727Z,"8 km WNW of Cobb, CA",earthquake,0.26,0.469999999,0.21,17.0,automatic,nc,nc
+2024-08-11T15:51:00.710Z,35.1128333,-119.1076667,3.02,1.42,ml,41.0,44.0,0.05754,0.26,ci,ci40697567,2024-08-11T15:57:18.712Z,"24 km SW of Lamont, CA",earthquake,0.27,1.06,0.203,28.0,automatic,ci,ci
