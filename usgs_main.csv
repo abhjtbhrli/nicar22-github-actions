@@ -10558,3 +10558,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-11T22:27:42.869Z,63.172,-150.267,12.4,2.4,ml,,,,0.98,ak,ak024aatn5ke,2024-08-11T22:30:11.307Z,"70 km WSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-08-11T22:22:46.636Z,62.4115,-151.0022,77.6,1.9,ml,,,,0.73,ak,ak024aatm39z,2024-08-11T22:24:58.805Z,"15 km SW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-08-11T22:02:40.943Z,40.2342,45.1891,1.452,4.2,mb,46.0,37.0,0.354,0.86,us,us6000njix,2024-08-11T22:27:29.594Z,"3 km N of Yeranos, Armenia",earthquake,2.53,6.025,0.092,34.0,reviewed,us,us
+2024-08-11T22:56:53.831Z,65.2078,-152.5426,13.8,1.2,ml,,,,0.56,ak,ak024aatte6f,2024-08-11T22:58:56.221Z,"22 km W of Tanana, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-11T22:55:49.990Z,38.8,-122.78,3.5,1.07,md,18.0,67.0,0.0101,0.02,nc,nc75047407,2024-08-11T22:57:55.764Z,"3 km NNW of The Geysers, CA",earthquake,0.29,0.569999993,0.26,20.0,automatic,nc,nc
