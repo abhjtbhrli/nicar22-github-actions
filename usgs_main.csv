@@ -10372,3 +10372,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-11T01:53:36.900Z,38.83,-122.79,1.76,0.74,md,11.0,84.0,0.003578,0.02,nc,nc75046937,2024-08-11T02:31:01.909Z,"6 km WNW of Cobb, CA",earthquake,0.41,1.13,0.19,13.0,automatic,nc,nc
 2024-08-11T01:41:29.320Z,33.9491667,-117.1805,13.98,0.93,ml,38.0,99.0,0.0897,0.19,ci,ci40696919,2024-08-11T01:47:53.846Z,"5 km ENE of Moreno Valley, CA",earthquake,0.24,0.59,0.276,25.0,automatic,ci,ci
 2024-08-11T01:26:41.102Z,-5.3472,154.1023,132.25,4.7,mb,58.0,123.0,7.977,0.98,us,us6000njfm,2024-08-11T01:45:08.040Z,"186 km NW of Panguna, Papua New Guinea",earthquake,11.14,7.567,0.057,94.0,reviewed,us,us
+2024-08-11T02:49:00.301Z,61.8243,-148.5723,6.9,2.1,ml,,,,0.56,ak,ak024aahv3xq,2024-08-11T02:50:47.509Z,"6 km WNW of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-11T02:31:49.170Z,35.0958333,-119.0853333,2.35,1.73,ml,44.0,43.0,0.03717,0.29,ci,ci40696959,2024-08-11T02:38:28.533Z,"22 km NW of Grapevine, CA",earthquake,0.28,1.33,0.179,28.0,automatic,ci,ci
