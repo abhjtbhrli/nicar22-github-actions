@@ -10394,3 +10394,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-11T03:59:56.584Z,61.5367,-149.9361,46.3,2.0,ml,,,,0.25,ak,ak024aaiit1m,2024-08-11T04:01:36.457Z,"1 km NNE of Big Lake, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-08-10T11:47:37.650Z,51.7363333333333,-179.0235,10.85,1.49,ml,6.0,274.0,0.1117,0.16,av,av93225886,2024-08-11T04:00:37.510Z,"165 km W of Adak, Alaska",earthquake,0.99,2.18,0.282900035162555,6.0,reviewed,av,av
 2024-08-10T08:44:32.890Z,36.5689,71.2096,90.462,4.1,mb,36.0,108.0,2.657,0.82,us,us6000njbj,2024-08-11T04:21:35.040Z,"31 km WSW of Ashkāsham, Afghanistan",earthquake,7.86,8.437,0.14,14.0,reviewed,us,us
+2024-08-11T04:50:28.990Z,37.5124,-117.9497,5.8,1.2,ml,8.0,274.35,0.146,0.472,nn,nn00882201,2024-08-11T04:53:05.012Z,"20 km SSE of Dyer, Nevada",earthquake,,1.4,0.46,5.0,automatic,nn,nn
