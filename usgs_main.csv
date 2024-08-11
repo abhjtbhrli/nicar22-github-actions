@@ -10397,3 +10397,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-11T04:50:28.990Z,37.5124,-117.9497,5.8,1.2,ml,8.0,274.35,0.146,0.472,nn,nn00882201,2024-08-11T04:53:05.012Z,"20 km SSE of Dyer, Nevada",earthquake,,1.4,0.46,5.0,automatic,nn,nn
 2024-08-11T04:35:55.540Z,19.0791,-65.978,35.0,3.4,md,16.0,235.0,0.7773,0.39,pr,pr2024224000,2024-08-11T05:10:41.883Z,"69 km N of San Juan, Puerto Rico",earthquake,1.92,10.16,0.07,10.0,reviewed,pr,pr
 2024-08-11T04:03:40.225Z,-21.1087,-177.8049,421.584,4.2,mb,21.0,121.0,2.429,0.63,us,us6000njg5,2024-08-11T05:11:37.040Z,"260 km W of Houma, Tonga",earthquake,15.74,12.333,0.158,14.0,reviewed,us,us
+2024-08-11T05:11:26.773Z,60.4875,-143.3639,16.9,1.4,ml,,,,0.21,ak,ak024aajfbl1,2024-08-11T05:13:33.740Z,"108 km SSW of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
