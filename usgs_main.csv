@@ -10548,3 +10548,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-11T21:20:11.780Z,33.9821667,-116.6135,14.17,1.13,ml,48.0,31.0,0.05474,0.16,ci,ci40697895,2024-08-11T21:26:45.137Z,"8 km SSW of Morongo Valley, CA",earthquake,0.16,0.37,0.17,27.0,automatic,ci,ci
 2024-08-11T21:28:56.209Z,60.3601,-152.9265,127.2,1.6,ml,,,,0.41,ak,ak024aat1yn8,2024-08-11T21:32:01.357Z,"77 km WNW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-08-11T21:33:02.580Z,33.6716667,-116.7098333,15.24,0.78,ml,25.0,62.0,0.03018,0.11,ci,ci40697911,2024-08-11T21:38:51.841Z,"8 km S of Idyllwild, CA",earthquake,0.25,0.31,0.286,8.0,automatic,ci,ci
+2024-08-11T21:51:10.880Z,35.0201683,-119.0634995,14.08,1.14,ml,10.0,82.0,0.04181,0.18,ci,ci40697919,2024-08-11T21:53:29.719Z,"15 km NW of Grapevine, CA",earthquake,0.93,1.74,0.329,3.0,automatic,ci,ci
