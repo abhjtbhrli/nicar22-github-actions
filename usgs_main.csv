@@ -10555,3 +10555,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-11T21:45:58.343Z,-19.0765,-177.644,569.598,4.5,mb,49.0,75.0,3.097,0.69,us,us6000njiv,2024-08-11T22:03:56.040Z,Fiji region,earthquake,10.94,6.267,0.07,59.0,reviewed,us,us
 2024-08-11T19:45:41.210Z,59.9129,-152.5129,74.2,1.5,ml,,,,0.29,ak,ak024aaryotm,2024-08-11T22:06:04.195Z,"41 km WNW of Anchor Point, Alaska",earthquake,,1.2,,,reviewed,ak,ak
 2024-08-11T16:33:16.067Z,51.2838,178.6537,1.6,1.9,ml,,,,0.73,ak,ak024aaq3sq7,2024-08-11T22:01:45.434Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2024-08-11T22:27:42.869Z,63.172,-150.267,12.4,2.4,ml,,,,0.98,ak,ak024aatn5ke,2024-08-11T22:30:11.307Z,"70 km WSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-08-11T22:22:46.636Z,62.4115,-151.0022,77.6,1.9,ml,,,,0.73,ak,ak024aatm39z,2024-08-11T22:24:58.805Z,"15 km SW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-08-11T22:02:40.943Z,40.2342,45.1891,1.452,4.2,mb,46.0,37.0,0.354,0.86,us,us6000njix,2024-08-11T22:27:29.594Z,"3 km N of Yeranos, Armenia",earthquake,2.53,6.025,0.092,34.0,reviewed,us,us
