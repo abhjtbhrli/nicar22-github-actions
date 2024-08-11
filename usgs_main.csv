@@ -10398,3 +10398,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-11T04:35:55.540Z,19.0791,-65.978,35.0,3.4,md,16.0,235.0,0.7773,0.39,pr,pr2024224000,2024-08-11T05:10:41.883Z,"69 km N of San Juan, Puerto Rico",earthquake,1.92,10.16,0.07,10.0,reviewed,pr,pr
 2024-08-11T04:03:40.225Z,-21.1087,-177.8049,421.584,4.2,mb,21.0,121.0,2.429,0.63,us,us6000njg5,2024-08-11T05:11:37.040Z,"260 km W of Houma, Tonga",earthquake,15.74,12.333,0.158,14.0,reviewed,us,us
 2024-08-11T05:11:26.773Z,60.4875,-143.3639,16.9,1.4,ml,,,,0.21,ak,ak024aajfbl1,2024-08-11T05:13:33.740Z,"108 km SSW of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-11T05:36:14.060Z,38.73,-122.42,0.32,1.65,md,15.0,59.0,0.07035,0.15,nc,nc75047062,2024-08-11T05:37:49.597Z,"15 km SE of Hidden Valley Lake, CA",earthquake,0.37,2.22000003,0.08,11.0,automatic,nc,nc
+2024-08-11T05:32:43.000Z,35.140667,-119.0838318,9.66,1.4,ml,9.0,151.0,0.08188,0.07,ci,ci40697063,2024-08-11T05:35:06.347Z,"20 km SW of Lamont, CA",earthquake,0.71,1.08,0.224,4.0,automatic,ci,ci
+2024-08-11T04:37:14.290Z,19.1055,-65.9315,31.64,3.12,md,10.0,265.0,0.8052,0.2,pr,pr71457238,2024-08-11T05:35:07.900Z,"73 km NNE of San Juan, Puerto Rico",earthquake,1.26,8.62,0.0680400885865564,6.0,reviewed,pr,pr
