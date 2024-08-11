@@ -10389,3 +10389,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-11T03:41:45.620Z,33.2024994,-116.7919998,22.09,1.51,ml,14.0,110.0,0.04349,0.12,ci,ci40697031,2024-08-11T03:48:07.704Z,"5 km SSW of Lake Henshaw, CA",earthquake,0.63,1.21,0.383,11.0,automatic,ci,ci
 2024-08-11T03:39:51.680Z,37.55,-118.88,3.53,1.64,md,19.0,201.0,0.05851,0.02,nc,nc75047012,2024-08-11T03:41:30.726Z,"13 km SSE of Mammoth Lakes, CA",earthquake,0.61,0.790000021,0.11,18.0,automatic,nc,nc
 2024-08-11T03:38:32.983Z,61.265,-151.0607,68.7,2.0,ml,,,,0.12,ak,ak024aaie96q,2024-08-11T03:39:38.462Z,"13 km N of Beluga, Alaska",earthquake,,1.8,,,automatic,ak,ak
+2024-08-11T04:17:06.770Z,19.2724990844727,-155.379501342773,27.7000007629395,1.82000005,md,35.0,120.0,0.03874,0.280000001,hv,hv74394751,2024-08-11T04:19:12.040Z,"12 km NE of Pāhala, Hawaii",earthquake,0.61,1.10000002,0.0399999991,3.0,automatic,hv,hv
+2024-08-11T04:10:54.190Z,38.82,-122.81,1.7,0.68,md,12.0,81.0,0.002671,0.02,nc,nc75047032,2024-08-11T04:12:28.788Z,"7 km NNW of The Geysers, CA",earthquake,0.31,0.790000021,0.24,12.0,automatic,nc,nc
+2024-08-11T03:59:56.584Z,61.5367,-149.9361,46.3,2.0,ml,,,,0.25,ak,ak024aaiit1m,2024-08-11T04:01:36.457Z,"1 km NNE of Big Lake, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-08-10T11:47:37.650Z,51.7363333333333,-179.0235,10.85,1.49,ml,6.0,274.0,0.1117,0.16,av,av93225886,2024-08-11T04:00:37.510Z,"165 km W of Adak, Alaska",earthquake,0.99,2.18,0.282900035162555,6.0,reviewed,av,av
+2024-08-10T08:44:32.890Z,36.5689,71.2096,90.462,4.1,mb,36.0,108.0,2.657,0.82,us,us6000njbj,2024-08-11T04:21:35.040Z,"31 km WSW of Ashkāsham, Afghanistan",earthquake,7.86,8.437,0.14,14.0,reviewed,us,us
