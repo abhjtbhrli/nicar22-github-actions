@@ -10499,3 +10499,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-11T15:03:42.380Z,19.1671657562256,-155.395492553711,31.4699993133545,2.06,ml,59.0,171.0,0.06405,0.129999995,hv,hv74395121,2024-08-11T15:06:22.010Z,"9 km ESE of Pāhala, Hawaii",earthquake,0.52,0.560000002,0.46,11.0,automatic,hv,hv
 2024-08-11T14:58:42.602Z,61.8128,-148.5457,13.5,1.6,ml,,,,0.16,ak,ak024aap2bwk,2024-08-11T14:59:45.261Z,"4 km WNW of Chickaloon, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-08-11T15:28:30.860Z,38.79,-122.78,1.6,0.69,md,8.0,101.0,0.007753,0.02,nc,nc75047257,2024-08-11T15:30:03.150Z,"3 km NW of The Geysers, CA",earthquake,0.39,1.03999996,0.11,9.0,automatic,nc,nc
+2024-08-11T15:32:17.864Z,64.6274,-146.9033,12.4,2.0,ml,,,,0.43,ak,ak024aapi4ze,2024-08-11T15:37:48.125Z,"8 km ESE of Eielson Air Force Base, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-08-11T15:30:56.503Z,63.0951,-151.3479,0.0,1.4,ml,,,,0.51,ak,ak024aaphsj6,2024-08-11T15:32:34.225Z,"53 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-08-11T14:40:43.404Z,64.4123,-149.496,1.0,0.7,ml,,,,0.41,ak,ak024aaoyfdg,2024-08-11T15:31:08.358Z,"16 km WNW of Anderson, Alaska",earthquake,,0.0,,,reviewed,ak,ak
