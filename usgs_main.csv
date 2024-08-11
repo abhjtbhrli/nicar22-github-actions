@@ -10520,3 +10520,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-11T17:33:38.460Z,37.38,-118.4,4.05,2.22,md,24.0,228.0,0.05026,0.06,nc,nc75047307,2024-08-11T17:36:41.523Z,"1 km ESE of Dixon Lane-Meadow Creek, CA",earthquake,1.62,0.720000029,0.2,24.0,automatic,nc,nc
 2024-08-11T17:30:22.560Z,35.9413333,-117.6878333,4.34,0.69,ml,17.0,64.0,0.03109,0.11,ci,ci40697615,2024-08-11T17:39:45.639Z,"20 km E of Little Lake, CA",earthquake,0.17,0.3,0.087,7.0,automatic,ci,ci
 2024-08-11T16:55:08.170Z,-20.7057,-178.4904,556.247,4.3,mb,21.0,80.0,3.107,0.75,us,us6000nji3,2024-08-11T17:42:47.040Z,Fiji region,earthquake,11.93,9.192,0.137,15.0,reviewed,us,us
+2024-08-11T18:08:25.209Z,65.4429,-148.1898,8.9,0.8,ml,,,,0.29,ak,ak024aar5b6g,2024-08-11T18:09:55.425Z,"18 km ESE of Livengood, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-08-11T18:02:05.920Z,35.0978333,-119.1275,2.86,1.51,ml,39.0,79.0,0.05307,0.27,ci,ci40697671,2024-08-11T18:09:25.937Z,"25 km NW of Grapevine, CA",earthquake,0.29,1.17,0.178,27.0,automatic,ci,ci
+2024-08-11T18:01:20.760Z,35.947,-117.6835,4.68,1.61,ml,28.0,76.0,0.02689,0.15,ci,ci40697655,2024-08-11T18:08:22.912Z,"20 km E of Little Lake, CA",earthquake,0.16,0.31,0.148,17.0,automatic,ci,ci
+2024-08-11T18:00:39.120Z,35.0978333,-119.1268333,1.96,2.01,ml,54.0,24.0,0.05271,0.29,ci,ci40697647,2024-08-11T18:21:20.092Z,"25 km NW of Grapevine, CA",earthquake,0.23,1.21,0.146,26.0,automatic,ci,ci
