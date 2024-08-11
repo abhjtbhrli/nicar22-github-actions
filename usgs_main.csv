@@ -10493,3 +10493,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-11T14:52:33.240Z,33.2736667,-116.4325,4.4,0.89,ml,49.0,55.0,0.01396,0.2,ci,ci40697487,2024-08-11T14:58:32.162Z,"6 km WNW of Borrego Springs, CA",earthquake,0.17,0.36,0.137,23.0,automatic,ci,ci
 2024-08-11T14:49:45.150Z,33.9238319,-118.4526672,12.99,1.6,ml,8.0,225.0,0.1717,0.16,ci,ci40697479,2024-08-11T14:56:16.699Z,"3 km W of El Segundo, CA",earthquake,2.41,3.05,0.394,24.0,automatic,ci,ci
 2024-08-11T14:48:39.880Z,38.82,-122.81,2.25,1.08,md,19.0,48.0,0.0002004,0.02,nc,nc75047242,2024-08-11T14:50:44.304Z,"7 km NNW of The Geysers, CA",earthquake,0.21,0.419999987,0.2,21.0,automatic,nc,nc
+2024-08-11T15:16:48.498Z,64.9665,-147.4828,0.0,1.3,ml,,,,0.83,ak,ak024aapervu,2024-08-11T15:19:46.845Z,"6 km E of Fox, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-08-11T15:11:41.300Z,33.703,-116.7573333,14.34,0.94,ml,20.0,173.0,0.05567,0.11,ci,ci40697535,2024-08-11T15:18:16.776Z,"5 km SW of Idyllwild, CA",earthquake,0.68,0.57,0.188,30.0,automatic,ci,ci
+2024-08-11T15:04:21.990Z,35.8698333,-117.7165,9.38,0.78,ml,21.0,94.0,0.07269,0.11,ci,ci40697511,2024-08-11T15:10:11.329Z,"19 km ESE of Little Lake, CA",earthquake,0.18,0.43,0.134,10.0,automatic,ci,ci
+2024-08-11T15:03:42.380Z,19.1671657562256,-155.395492553711,31.4699993133545,2.06,ml,59.0,171.0,0.06405,0.129999995,hv,hv74395121,2024-08-11T15:06:22.010Z,"9 km ESE of Pāhala, Hawaii",earthquake,0.52,0.560000002,0.46,11.0,automatic,hv,hv
+2024-08-11T14:58:42.602Z,61.8128,-148.5457,13.5,1.6,ml,,,,0.16,ak,ak024aap2bwk,2024-08-11T14:59:45.261Z,"4 km WNW of Chickaloon, Alaska",earthquake,,0.7,,,automatic,ak,ak
