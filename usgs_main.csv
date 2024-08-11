@@ -10529,3 +10529,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-11T18:21:46.643Z,56.4659,-156.5502,71.3,3.5,ml,,,,0.38,ak,ak024aar8573,2024-08-11T18:35:12.040Z,"116 km E of Chignik, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-08-11T18:46:05.298Z,63.3138,-151.4983,0.0,2.6,ml,,,,0.86,ak,ak024aardevj,2024-08-11T18:47:58.526Z,"27 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-11T18:47:45.391Z,63.178,-149.4537,10.7,2.5,ml,,,,0.59,ak,ak024aardpnv,2024-08-11T18:49:35.520Z,"34 km SW of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-08-11T19:07:15.230Z,35.098,-119.1241667,2.99,1.76,ml,45.0,24.0,0.05139,0.3,ci,ci40697743,2024-08-11T19:14:10.191Z,"25 km NW of Grapevine, CA",earthquake,0.27,1.33,0.147,26.0,automatic,ci,ci
+2024-08-11T18:55:55.030Z,38.83,-122.81,2.31,0.76,md,13.0,73.0,0.005234,0.01,nc,nc75047337,2024-08-11T18:58:00.734Z,"8 km NNW of The Geysers, CA",earthquake,0.29,0.810000002,0.29,14.0,automatic,nc,nc
+2024-08-11T18:55:15.270Z,35.9443333,-117.6766667,4.88,1.08,ml,21.0,69.0,0.02162,0.13,ci,ci40697735,2024-08-11T19:01:05.338Z,"21 km E of Little Lake, CA",earthquake,0.16,0.28,0.24,14.0,automatic,ci,ci
