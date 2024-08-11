@@ -10374,3 +10374,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-11T01:26:41.102Z,-5.3472,154.1023,132.25,4.7,mb,58.0,123.0,7.977,0.98,us,us6000njfm,2024-08-11T01:45:08.040Z,"186 km NW of Panguna, Papua New Guinea",earthquake,11.14,7.567,0.057,94.0,reviewed,us,us
 2024-08-11T02:49:00.301Z,61.8243,-148.5723,6.9,2.1,ml,,,,0.56,ak,ak024aahv3xq,2024-08-11T02:50:47.509Z,"6 km WNW of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-11T02:31:49.170Z,35.0958333,-119.0853333,2.35,1.73,ml,44.0,43.0,0.03717,0.29,ci,ci40696959,2024-08-11T02:38:28.533Z,"22 km NW of Grapevine, CA",earthquake,0.28,1.33,0.179,28.0,automatic,ci,ci
+2024-08-11T02:55:29.590Z,35.097,-119.0626667,1.35,2.11,ml,54.0,38.0,0.04205,0.23,ci,ci40696975,2024-08-11T03:02:25.495Z,"21 km NW of Grapevine, CA",earthquake,0.19,1.07,0.178,25.0,automatic,ci,ci
