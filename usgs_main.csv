@@ -10704,3 +10704,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-12T14:00:56.590Z,59.8274,-152.9975,93.2,1.1,ml,,,,0.39,ak,ak024acc99y3,2024-08-12T14:02:38.304Z,"62 km E of Pedro Bay, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-08-12T13:59:06.660Z,19.3896675109863,-155.417327880859,6.82000017166138,1.93,ml,50.0,34.0,0.04154,0.170000002,hv,hv74396241,2024-08-12T14:01:43.040Z,"20 km WSW of Volcano, Hawaii",earthquake,0.27,0.649999976,0.17,7.0,automatic,hv,hv
 2024-08-12T03:01:28.570Z,33.469,-116.4013333,13.24,0.57,ml,23.0,90.0,0.1311,0.14,ci,ci37679836,2024-08-12T14:14:25.944Z,"23 km SSW of La Quinta, CA",earthquake,0.29,0.7,0.182,9.0,reviewed,ci,ci
+2024-08-12T14:24:38.569Z,63.2521,-150.585,99.3,1.6,ml,,,,0.42,ak,ak024accedqo,2024-08-12T14:28:07.987Z,"65 km ESE of Denali National Park, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-08-12T13:25:00.926Z,40.056,24.2032,10.0,4.5,mb,19.0,120.0,1.776,0.99,us,us6000njla,2024-08-12T14:33:34.015Z,"19 km ESE of Sárti, Greece",earthquake,7.06,1.941,0.205,7.0,reviewed,us,us
