@@ -10644,3 +10644,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-12T09:06:25.400Z,35.1211662,-119.1296692,3.54,1.76,ml,37.0,56.0,0.2527,0.22,ci,ci40698455,2024-08-12T09:08:30.091Z,"25 km SW of Lamont, CA",earthquake,0.34,1.61,0.197,25.0,automatic,ci,ci
 2024-08-12T09:03:05.940Z,35.1,-119.1038333,1.78,1.48,ml,33.0,56.0,0.04445,0.25,ci,ci40698447,2024-08-12T09:09:34.098Z,"24 km NW of Grapevine, CA",earthquake,0.3,1.57,0.369,5.0,automatic,ci,ci
 2024-08-12T08:57:02.850Z,33.2421667,-116.3205,6.81,1.13,ml,66.0,31.0,0.07445,0.21,ci,ci40698439,2024-08-12T09:08:05.070Z,"5 km ESE of Borrego Springs, CA",earthquake,0.17,0.45,0.16,26.0,automatic,ci,ci
+2024-08-12T06:12:36.835Z,28.8029,53.5583,10.0,4.3,mb,46.0,60.0,4.51,0.69,us,us6000njjz,2024-08-12T09:16:06.040Z,"17 km SSW of Fasā, Iran",earthquake,9.23,1.893,0.094,32.0,reviewed,us,us
