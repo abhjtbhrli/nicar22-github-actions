@@ -10832,3 +10832,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-12T22:52:31.485Z,62.8863,-150.9775,92.9,1.4,ml,,,,1.15,ak,ak024achbu30,2024-08-12T22:54:56.310Z,"44 km NNW of Petersville, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2024-08-12T21:55:47.530Z,19.2163,-64.1405,22.0,3.7,md,16.0,304.0,0.9331,0.17,pr,pr2024225000,2024-08-12T22:56:21.847Z,"119 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,0.94,15.84,0.17,9.0,reviewed,pr,pr
 2024-08-12T00:09:27.730Z,34.0918333,-118.1748333,12.51,1.11,ml,18.0,73.0,0.05477,0.2,ci,ci40698031,2024-08-12T22:52:46.445Z,"4 km SW of South Pasadena, CA",earthquake,0.37,0.63,0.162,10.0,reviewed,ci,ci
+2024-08-12T23:21:14.790Z,34.0978317,-118.1940002,9.69,1.58,ml,27.0,47.0,0.06206,0.14,ci,ci40699551,2024-08-12T23:23:38.627Z,"2 km S of Highland Park, CA",earthquake,0.33,0.58,0.3,12.0,automatic,ci,ci
+2024-08-12T07:52:33.190Z,52.2885,-173.983333333333,4.83,0.91,ml,5.0,273.0,0.06978,0.25,av,av93018184,2024-08-12T23:17:02.440Z,"18 km NE of Atka, Alaska",earthquake,1.48,1.97,0.181859094061693,4.0,reviewed,av,av
