@@ -10758,3 +10758,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-12T18:49:27.609Z,29.118,-97.758,7.4463,2.3,ml,13.0,89.0,0.1,0.1,tx,tx2024purz,2024-08-12T19:17:40.197Z,"16 km S of Nixon, Texas",earthquake,0.6978558199279637,1.6141252093488905,0.2,18.0,reviewed,tx,tx
 2024-08-12T18:47:05.687Z,43.142,146.8461,68.07,4.5,mb,54.0,135.0,2.948,0.55,us,us6000njnt,2024-08-12T19:10:46.040Z,"73 km S of Shikotan, Russia",earthquake,4.44,7.382,0.076,51.0,reviewed,us,us
 2024-08-12T18:39:42.460Z,51.936,173.4884,10.0,3.7,ml,18.0,288.0,0.879,0.44,us,us6000njnw,2024-08-12T19:14:54.040Z,"103 km SSE of Attu Station, Alaska",earthquake,4.0,1.999,0.128,14.0,reviewed,us,us
+2024-08-12T19:23:19.181Z,61.8586,-150.5966,57.2,1.3,ml,,,,0.24,ak,ak024acfdajy,2024-08-12T19:25:17.059Z,"31 km WNW of Willow, Alaska",earthquake,,2.2,,,automatic,ak,ak
+2024-08-12T19:20:24.700Z,34.0843315,-118.1845016,12.12,4.37,mw,107.0,30.0,0.02894,0.27,ci,ci40699207,2024-08-12T19:27:06.835Z,"4 km SSE of Highland Park, CA",earthquake,0.31,0.65,,4.0,reviewed,ci,ci
