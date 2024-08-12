@@ -10712,3 +10712,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-12T15:10:16.550Z,37.98,-122.25,4.74,2.43,md,7.0,214.0,0.1668,0.18,nc,nc75047697,2024-08-12T15:11:52.646Z,"4 km ESE of El Sobrante, CA",earthquake,15.84,16.8799992,,1.0,automatic,nc,nc
 2024-08-12T15:07:49.350Z,35.6451683,-117.5611649,8.66,1.98,ml,26.0,55.0,0.08211,0.11,ci,ci40698791,2024-08-12T15:10:10.540Z,"11 km ENE of Ridgecrest, CA",earthquake,0.26,0.86,0.238,26.0,automatic,ci,ci
 2024-08-12T15:05:57.560Z,34.2750015,-116.947998,5.06,1.52,ml,53.0,57.0,0.02588,0.18,ci,ci40698775,2024-08-12T15:08:21.531Z,"5 km NW of Big Bear Lake, CA",earthquake,0.27,0.5,0.206,14.0,automatic,ci,ci
+2024-08-11T22:19:36.100Z,36.45133333,-98.805,7.0,1.27,ml,30.0,67.0,0.003599293696,0.18,ok,ok2024ptdj,2024-08-12T15:20:01.519Z,"16 km SSE of Waynoka, Oklahoma",earthquake,,0.4,0.26,11.0,reviewed,ok,ok
