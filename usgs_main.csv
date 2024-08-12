@@ -10790,3 +10790,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-12T06:36:20.860Z,44.7723333333333,-110.784,4.03,0.1,md,6.0,198.0,0.04999,0.07,uu,uu80078251,2024-08-12T20:44:08.960Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.88,2.58,0.309215669094196,6.0,reviewed,uu,uu
 2024-08-12T20:53:42.140Z,33.0320015,-116.4181671,9.3,1.97,ml,73.0,40.0,0.04821,0.21,ci,ci40699351,2024-08-12T20:55:48.774Z,"18 km ESE of Julian, CA",earthquake,0.21,0.62,0.311,25.0,automatic,ci,ci
 2024-08-12T20:12:59.215Z,-11.9086,-74.245,35.0,4.7,mb,44.0,77.0,2.543,0.8,us,us6000njpn,2024-08-12T20:54:37.040Z,"63 km ESE of Andamarca, Peru",earthquake,9.71,1.929,0.051,116.0,reviewed,us,us
+2024-08-12T21:17:56.832Z,60.5263,-143.042,0.0,2.0,ml,,,,0.59,ak,ak024acgiydf,2024-08-12T21:19:43.490Z,"101 km S of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-12T21:00:23.546Z,36.0123,-115.605,1.8,2.2,ml,10.0,332.92,0.71,0.4158,nn,nn00882277,2024-08-12T21:03:03.516Z,"18 km WSW of Blue Diamond, Nevada",earthquake,,40.9,0.14,8.0,automatic,nn,nn
+2024-08-12T20:56:00.320Z,35.1265,37.0148,10.0,5.0,mb,104.0,53.0,2.047,0.86,us,us6000njq1,2024-08-12T21:11:18.040Z,"13 km NNW of As Salamīyah, Syria",earthquake,1.92,1.849,0.061,85.0,reviewed,us,us
+2024-08-12T00:43:41.050Z,55.4605,-161.8835,26.45,0.76,ml,4.0,139.0,0.07049,0.07,av,av93018144,2024-08-12T21:06:34.110Z,"52 km NNE of King Cove, Alaska",earthquake,0.82,1.0,0.218655294692922,4.0,reviewed,av,av
+2024-08-12T00:38:26.910Z,51.7443333333333,-178.817166666667,8.92,-0.11,ml,5.0,266.0,0.03159,0.08,av,av93227516,2024-08-12T20:58:25.820Z,"151 km W of Adak, Alaska",earthquake,0.69,0.47,0.260739299644723,5.0,reviewed,av,av
