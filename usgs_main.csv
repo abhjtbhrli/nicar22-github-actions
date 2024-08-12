@@ -10586,3 +10586,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-12T01:43:16.580Z,33.915,-117.9005,8.1,1.71,ml,66.0,46.0,0.03594,0.24,ci,ci40698103,2024-08-12T01:50:01.526Z,"0 km S of Brea, CA",earthquake,0.22,0.51,0.15,29.0,automatic,ci,ci
 2024-08-12T01:38:54.846Z,67.1686,-150.286,0.0,1.3,ml,,,,0.59,ak,ak024ac4qs5o,2024-08-12T01:40:29.649Z,"10 km SSW of Coldfoot, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-12T02:39:27.843Z,64.9615,-148.0536,11.5,1.0,ml,,,,0.61,ak,ak024ac5cde8,2024-08-12T02:41:25.991Z,"12 km N of Ester, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-08-12T03:03:41.583Z,37.9639,-117.4051,2.8,1.2,ml,8.0,192.28,0.983,0.1719,nn,nn00882228,2024-08-12T03:06:19.281Z,"19 km SW of Tonopah, Nevada",earthquake,,3.5,0.53,6.0,automatic,nn,nn
+2024-08-12T03:01:27.540Z,33.488,-116.5595,5.99,0.38,ml,8.0,214.0,0.0363,0.08,ci,ci40698143,2024-08-12T03:07:11.976Z,"13 km SE of Anza, CA",earthquake,1.0,0.42,0.428,7.0,automatic,ci,ci
+2024-08-12T02:58:12.949Z,60.5033,-145.1878,16.4,1.9,ml,,,,1.11,ak,ak024ac5geum,2024-08-12T03:00:00.858Z,"31 km E of Cordova, Alaska",earthquake,,0.3,,,automatic,ak,ak
