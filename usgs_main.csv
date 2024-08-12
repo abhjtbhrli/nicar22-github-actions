@@ -10754,3 +10754,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-12T18:53:53.984Z,62.2298,-148.784,26.8,2.6,ml,,,,0.48,ak,ak024aceyd39,2024-08-12T18:55:11.162Z,"50 km N of Sutton-Alpine, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-12T18:53:12.660Z,35.0708333,-119.1456667,11.38,1.7,ml,34.0,100.0,0.0522,0.21,ci,ci40699127,2024-08-12T19:04:08.640Z,"23 km E of Maricopa, CA",earthquake,0.28,0.65,0.19,27.0,automatic,ci,ci
 2024-08-12T18:39:44.443Z,52.004,173.3571,55.5,3.6,ml,,,,0.38,ak,ak024acevirm,2024-08-12T19:03:48.634Z,"94 km S of Attu Station, Alaska",earthquake,,3.9,,,reviewed,ak,ak
+2024-08-12T19:10:38.610Z,34.114,-117.3246667,16.26,1.53,ml,63.0,31.0,0.1274,0.17,ci,ci40699183,2024-08-12T19:18:22.290Z,"3 km WSW of San Bernardino, CA",earthquake,0.16,0.35,0.215,29.0,automatic,ci,ci
+2024-08-12T18:49:27.609Z,29.118,-97.758,7.4463,2.3,ml,13.0,89.0,0.1,0.1,tx,tx2024purz,2024-08-12T19:17:40.197Z,"16 km S of Nixon, Texas",earthquake,0.6978558199279637,1.6141252093488905,0.2,18.0,reviewed,tx,tx
+2024-08-12T18:47:05.687Z,43.142,146.8461,68.07,4.5,mb,54.0,135.0,2.948,0.55,us,us6000njnt,2024-08-12T19:10:46.040Z,"73 km S of Shikotan, Russia",earthquake,4.44,7.382,0.076,51.0,reviewed,us,us
+2024-08-12T18:39:42.460Z,51.936,173.4884,10.0,3.7,ml,18.0,288.0,0.879,0.44,us,us6000njnw,2024-08-12T19:14:54.040Z,"103 km SSE of Attu Station, Alaska",earthquake,4.0,1.999,0.128,14.0,reviewed,us,us
