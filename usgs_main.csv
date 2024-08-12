@@ -10665,3 +10665,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-12T10:58:45.830Z,33.4721667,-116.49,12.97,0.44,ml,32.0,60.0,0.09174,0.13,ci,ci40698527,2024-08-12T11:05:16.496Z,"19 km ESE of Anza, CA",earthquake,0.19,0.46,0.047,10.0,automatic,ci,ci
 2024-08-12T10:57:21.329Z,60.4715,-149.5736,13.1,1.7,ml,,,,0.35,ak,ak024aca7omc,2024-08-12T10:59:20.947Z,"11 km W of Moose Pass, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-12T11:21:17.810Z,35.1018333,-119.0906677,12.38,1.98,ml,54.0,41.0,0.0435,0.28,ci,ci40698543,2024-08-12T11:23:26.881Z,"23 km NW of Grapevine, CA",earthquake,0.29,0.78,0.254,26.0,automatic,ci,ci
+2024-08-12T11:30:55.670Z,36.55,-121.18,0.2,1.49,md,9.0,97.0,0.1171,0.35,nc,nc75047607,2024-08-12T11:32:31.982Z,"4 km NW of Pinnacles, CA",earthquake,1.2,21.6900005,0.2,5.0,automatic,nc,nc
