@@ -10732,3 +10732,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-11T21:12:25.260Z,44.68,-110.0405,12.57,1.98,ml,15.0,94.0,0.09915,0.17,uu,uu80078156,2024-08-12T17:08:03.870Z,"36 km S of Silver Gate, Montana",earthquake,0.47,0.68,0.169573160177469,2.0,reviewed,uu,uu
 2024-08-12T17:20:48.702Z,60.0277,-152.0505,49.0,1.4,ml,,,,0.14,ak,ak024ace5uh2,2024-08-12T17:22:07.609Z,"19 km WNW of Happy Valley, Alaska",earthquake,,3.2,,,automatic,ak,ak
 2024-08-12T17:02:03.580Z,35.34483333,-97.96833333,7.28,1.15,ml,32.0,76.0,0.06208781625,0.21,ok,ok2024puok,2024-08-12T17:26:42.534Z,"4 km NNW of Minco, Oklahoma",earthquake,,0.5,0.25,16.0,reviewed,ok,ok
+2024-08-12T17:45:59.340Z,32.6381683,-115.7235031,6.72,1.27,ml,23.0,113.0,0.01139,0.22,ci,ci40699007,2024-08-12T17:48:06.585Z,"15 km WNW of Progreso, B.C., MX",earthquake,0.44,0.62,0.356,6.0,automatic,ci,ci
+2024-08-12T17:45:19.850Z,38.83,-122.82,1.59,0.82,md,13.0,55.0,0.01074,0.01,nc,nc75047762,2024-08-12T17:46:58.984Z,"8 km NNW of The Geysers, CA",earthquake,0.32,0.75,0.19,16.0,automatic,nc,nc
+2024-08-12T17:23:46.286Z,31.63,-104.499,8.0225,1.5,ml,21.0,69.0,0.0,0.2,tx,tx2024pupd,2024-08-12T17:43:52.540Z,"61 km S of Whites City, New Mexico",earthquake,0.7612301874193045,0.5126714024716542,0.2,19.0,reviewed,tx,tx
+2024-08-11T18:29:39.110Z,46.9166666666667,-112.814833333333,6.04,1.49,ml,12.0,73.0,0.1155,0.1,mb,mb90059173,2024-08-12T17:41:38.180Z,"10 km WSW of Lincoln, Montana",earthquake,0.41,2.34,0.143023738339796,10.0,reviewed,mb,mb
