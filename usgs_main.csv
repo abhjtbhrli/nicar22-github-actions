@@ -10750,3 +10750,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-12T18:48:48.760Z,34.6308327,-117.0861664,-1.29,1.36,ml,32.0,69.0,0.201,0.26,ci,ci40699119,2024-08-12T18:51:12.133Z,"17 km NNE of Apple Valley, CA",earthquake,0.42,1.24,0.102,3.0,automatic,ci,ci
 2024-08-12T18:45:18.800Z,34.8648338,-117.8051682,9.07,1.61,ml,13.0,79.0,0.1132,0.14,ci,ci40699111,2024-08-12T18:51:57.136Z,"12 km ESE of Edwards Air Force Base, CA",earthquake,0.45,1.44,0.248,4.0,automatic,ci,ci
 2024-08-12T18:44:03.673Z,35.46482849,-97.9053421,9.863428116,1.52,ml,10.0,103.9082642,0.07482532412,0.9112767086,ok,ok2024purt,2024-08-12T18:52:43.162Z,"8 km SSE of El Reno, Oklahoma",earthquake,6.605241057,5.52696209,0.31,5.0,automatic,ok,ok
+2024-08-12T18:57:51.640Z,38.78,-122.84,6.84,0.45,md,10.0,208.0,0.02379,0.11,nc,nc75047812,2024-08-12T18:59:31.227Z,"7 km WNW of The Geysers, CA",earthquake,2.08,3.54999995,0.2,10.0,automatic,nc,nc
+2024-08-12T18:53:53.984Z,62.2298,-148.784,26.8,2.6,ml,,,,0.48,ak,ak024aceyd39,2024-08-12T18:55:11.162Z,"50 km N of Sutton-Alpine, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-08-12T18:53:12.660Z,35.0708333,-119.1456667,11.38,1.7,ml,34.0,100.0,0.0522,0.21,ci,ci40699127,2024-08-12T19:04:08.640Z,"23 km E of Maricopa, CA",earthquake,0.28,0.65,0.19,27.0,automatic,ci,ci
+2024-08-12T18:39:44.443Z,52.004,173.3571,55.5,3.6,ml,,,,0.38,ak,ak024acevirm,2024-08-12T19:03:48.634Z,"94 km S of Attu Station, Alaska",earthquake,,3.9,,,reviewed,ak,ak
