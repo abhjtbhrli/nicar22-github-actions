@@ -10730,3 +10730,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-12T17:11:56.050Z,19.2049999237061,-155.376007080078,31.1599998474121,1.94000006,md,47.0,161.0,0.03818,0.109999999,hv,hv74396431,2024-08-12T17:13:44.570Z,"10 km E of Pāhala, Hawaii",earthquake,0.48,0.620000005,0.189999998,14.0,automatic,hv,hv
 2024-08-12T17:10:53.270Z,33.9666667,-116.5591667,7.9,0.91,ml,38.0,69.0,0.03437,0.15,ci,ci40698967,2024-08-12T17:17:19.258Z,"5 km W of Desert Hot Springs, CA",earthquake,0.16,0.53,0.186,27.0,automatic,ci,ci
 2024-08-11T21:12:25.260Z,44.68,-110.0405,12.57,1.98,ml,15.0,94.0,0.09915,0.17,uu,uu80078156,2024-08-12T17:08:03.870Z,"36 km S of Silver Gate, Montana",earthquake,0.47,0.68,0.169573160177469,2.0,reviewed,uu,uu
+2024-08-12T17:20:48.702Z,60.0277,-152.0505,49.0,1.4,ml,,,,0.14,ak,ak024ace5uh2,2024-08-12T17:22:07.609Z,"19 km WNW of Happy Valley, Alaska",earthquake,,3.2,,,automatic,ak,ak
+2024-08-12T17:02:03.580Z,35.34483333,-97.96833333,7.28,1.15,ml,32.0,76.0,0.06208781625,0.21,ok,ok2024puok,2024-08-12T17:26:42.534Z,"4 km NNW of Minco, Oklahoma",earthquake,,0.5,0.25,16.0,reviewed,ok,ok
