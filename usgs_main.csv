@@ -10788,3 +10788,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-12T15:27:10.810Z,54.543,-163.511,11.11,1.74,ml,7.0,265.0,0.169,0.14,av,av93228281,2024-08-12T20:39:46.090Z,"35 km S of False Pass, Alaska",earthquake,0.79,0.67,0.327141586099505,7.0,reviewed,av,av
 2024-08-12T06:56:01.600Z,46.12133333333333,-120.487,15.39,1.27,ml,18.0,88.0,0.1309,0.14,uw,uw62034951,2024-08-12T20:44:45.210Z,"19 km NW of Bickleton, Washington",earthquake,0.36,0.73,0.2140260378240426,18.0,reviewed,uw,uw
 2024-08-12T06:36:20.860Z,44.7723333333333,-110.784,4.03,0.1,md,6.0,198.0,0.04999,0.07,uu,uu80078251,2024-08-12T20:44:08.960Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.88,2.58,0.309215669094196,6.0,reviewed,uu,uu
+2024-08-12T20:53:42.140Z,33.0320015,-116.4181671,9.3,1.97,ml,73.0,40.0,0.04821,0.21,ci,ci40699351,2024-08-12T20:55:48.774Z,"18 km ESE of Julian, CA",earthquake,0.21,0.62,0.311,25.0,automatic,ci,ci
+2024-08-12T20:12:59.215Z,-11.9086,-74.245,35.0,4.7,mb,44.0,77.0,2.543,0.8,us,us6000njpn,2024-08-12T20:54:37.040Z,"63 km ESE of Andamarca, Peru",earthquake,9.71,1.929,0.051,116.0,reviewed,us,us
