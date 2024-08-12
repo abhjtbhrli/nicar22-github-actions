@@ -10645,3 +10645,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-12T09:03:05.940Z,35.1,-119.1038333,1.78,1.48,ml,33.0,56.0,0.04445,0.25,ci,ci40698447,2024-08-12T09:09:34.098Z,"24 km NW of Grapevine, CA",earthquake,0.3,1.57,0.369,5.0,automatic,ci,ci
 2024-08-12T08:57:02.850Z,33.2421667,-116.3205,6.81,1.13,ml,66.0,31.0,0.07445,0.21,ci,ci40698439,2024-08-12T09:08:05.070Z,"5 km ESE of Borrego Springs, CA",earthquake,0.17,0.45,0.16,26.0,automatic,ci,ci
 2024-08-12T06:12:36.835Z,28.8029,53.5583,10.0,4.3,mb,46.0,60.0,4.51,0.69,us,us6000njjz,2024-08-12T09:16:06.040Z,"17 km SSW of Fasā, Iran",earthquake,9.23,1.893,0.094,32.0,reviewed,us,us
+2024-08-12T09:27:57.690Z,34.2748333,-116.9466667,5.56,1.77,ml,92.0,24.0,0.02484,0.14,ci,ci40698463,2024-08-12T09:34:41.241Z,"5 km NW of Big Bear Lake, CA",earthquake,0.1,0.25,0.149,26.0,automatic,ci,ci
