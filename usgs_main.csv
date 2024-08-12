@@ -10777,3 +10777,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-12T20:05:19.734Z,60.4108,-147.7632,15.1,1.6,ml,,,,0.76,ak,ak024acfuvb9,2024-08-12T20:07:15.431Z,"40 km NNE of Chenega, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-12T19:55:34.460Z,52.0047,173.9294,10.0,4.5,mb,66.0,206.0,0.733,0.77,us,us6000njpf,2024-08-12T20:13:10.040Z,"106 km SSE of Attu Station, Alaska",earthquake,13.3,1.941,0.062,75.0,reviewed,us,us
 2024-08-12T19:22:43.320Z,34.0853333,-118.1838333,10.46,2.05,ml,22.0,69.0,0.02979,0.16,ci,ci40699215,2024-08-12T20:02:47.222Z,"4 km SSE of Highland Park, CA",earthquake,0.3,0.54,0.161,19.0,reviewed,ci,ci
+2024-08-12T20:25:53.480Z,39.7,-123.18,14.26,1.77,md,6.0,170.0,0.1411,0.09,nc,nc75047867,2024-08-12T20:27:27.752Z,"12 km SSE of Covelo, CA",earthquake,0.93,0.720000029,0.08,3.0,automatic,nc,nc
+2024-08-12T20:19:47.520Z,38.84,-122.8,2.15,0.8,md,15.0,69.0,0.006718,0.01,nc,nc75047862,2024-08-12T20:21:22.677Z,"7 km WNW of Cobb, CA",earthquake,0.24,0.730000019,0.16,15.0,automatic,nc,nc
