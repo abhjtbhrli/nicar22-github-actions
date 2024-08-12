@@ -10602,3 +10602,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-12T04:27:31.030Z,58.7886,-153.1335,48.8,2.0,ml,,,,0.82,ak,ak024ac6go9b,2024-08-12T04:29:19.994Z,"82 km N of Aleneva, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2024-08-12T04:26:38.230Z,35.9473333,-117.6856667,4.59,1.42,ml,24.0,75.0,0.02864,0.14,ci,ci40698207,2024-08-12T04:32:57.030Z,"20 km E of Little Lake, CA",earthquake,0.17,0.34,0.138,16.0,automatic,ci,ci
 2024-08-12T04:39:42.710Z,35.092,-119.1075,-0.24,1.59,ml,20.0,87.0,0.2187,0.22,ci,ci40698215,2024-08-12T04:46:27.571Z,"23 km NW of Grapevine, CA",earthquake,0.43,2.08,0.186,27.0,automatic,ci,ci
+2024-08-12T04:50:58.470Z,35.9394989,-117.6883316,3.51,1.19,ml,14.0,73.0,0.03192,0.07,ci,ci40698223,2024-08-12T04:53:01.602Z,"20 km E of Little Lake, CA",earthquake,0.27,0.66,0.25,4.0,automatic,ci,ci
+2024-08-12T04:50:47.111Z,63.0771,-151.3486,0.0,1.7,ml,,,,0.87,ak,ak024ac6lmyv,2024-08-12T04:52:47.762Z,"54 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
