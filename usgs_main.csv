@@ -10660,3 +10660,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-12T09:43:10.170Z,37.7566666666667,-113.2125,-3.23,2.25,ml,18.0,86.0,0.1333,0.4,uu,uu80078266,2024-08-12T10:04:28.780Z,"15 km WNW of Cedar City, Utah",earthquake,0.98,4.81,0.124183469669905,19.0,reviewed,uu,uu
 2024-08-12T10:18:08.730Z,36.57,-121.17,5.13,2.54,md,42.0,55.0,0.1047,0.12,nc,nc75047587,2024-08-12T10:31:00.517Z,"5 km NNW of Pinnacles, CA",earthquake,0.24,1.34000003,0.12,46.0,automatic,nc,nc
 2024-08-12T10:14:16.160Z,33.2745,-116.4326667,4.81,0.78,ml,46.0,55.0,0.01443,0.21,ci,ci40698519,2024-08-12T10:20:13.083Z,"6 km WNW of Borrego Springs, CA",earthquake,0.17,0.4,0.106,19.0,automatic,ci,ci
+2024-08-12T10:35:35.507Z,62.3564,-149.1352,0.0,1.8,ml,,,,0.54,ak,ak024aca2zym,2024-08-12T10:37:38.496Z,"43 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
