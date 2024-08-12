@@ -10607,3 +10607,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-12T05:06:15.460Z,35.0615,-119.1455,-0.51,1.28,ml,30.0,76.0,0.0507,0.24,ci,ci40698239,2024-08-12T05:12:37.342Z,"23 km E of Maricopa, CA",earthquake,0.24,0.54,0.156,28.0,automatic,ci,ci
 2024-08-12T04:54:12.440Z,35.0956667,-119.138,1.06,1.92,ml,52.0,48.0,0.05783,0.24,ci,ci40698231,2024-08-12T05:04:32.150Z,"24 km E of Maricopa, CA",earthquake,0.2,1.17,0.224,26.0,automatic,ci,ci
 2024-08-12T04:36:15.776Z,61.1691,-139.0077,2.457,2.9,ml,28.0,116.0,0.808,0.93,us,us6000njjq,2024-08-12T05:03:05.040Z,"185 km NNE of Yakutat, Alaska",earthquake,2.93,7.047,0.047,60.0,reviewed,us,us
+2024-08-12T05:24:55.190Z,33.5075,-116.4446667,6.14,0.52,ml,26.0,73.0,0.08768,0.14,ci,ci40698247,2024-08-12T05:30:47.844Z,"21 km SW of La Quinta, CA",earthquake,0.19,0.58,0.13,9.0,automatic,ci,ci
+2024-08-12T05:06:43.720Z,18.0343333333333,-66.7828333333333,16.3,2.78,md,22.0,116.0,0.01648,0.22,pr,pr71457288,2024-08-12T05:17:50.620Z,"1 km NNE of Guayanilla, Puerto Rico",earthquake,0.38,0.58,0.0907401269323871,7.0,reviewed,pr,pr
