@@ -10658,3 +10658,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-12T09:58:01.878Z,64.7287,-149.2465,15.6,1.2,ml,,,,0.98,ak,ak024ac9mf8b,2024-08-12T10:00:58.269Z,"15 km NNW of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-12T09:55:42.410Z,32.9301667,-115.5225,8.17,1.38,ml,34.0,42.0,0.04303,0.28,ci,ci40698503,2024-08-12T10:02:00.666Z,"5 km S of Brawley, CA",earthquake,0.29,0.72,0.237,24.0,automatic,ci,ci
 2024-08-12T09:43:10.170Z,37.7566666666667,-113.2125,-3.23,2.25,ml,18.0,86.0,0.1333,0.4,uu,uu80078266,2024-08-12T10:04:28.780Z,"15 km WNW of Cedar City, Utah",earthquake,0.98,4.81,0.124183469669905,19.0,reviewed,uu,uu
+2024-08-12T10:18:08.730Z,36.57,-121.17,5.13,2.54,md,42.0,55.0,0.1047,0.12,nc,nc75047587,2024-08-12T10:31:00.517Z,"5 km NNW of Pinnacles, CA",earthquake,0.24,1.34000003,0.12,46.0,automatic,nc,nc
+2024-08-12T10:14:16.160Z,33.2745,-116.4326667,4.81,0.78,ml,46.0,55.0,0.01443,0.21,ci,ci40698519,2024-08-12T10:20:13.083Z,"6 km WNW of Borrego Springs, CA",earthquake,0.17,0.4,0.106,19.0,automatic,ci,ci
