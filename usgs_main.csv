@@ -11074,3 +11074,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-13T00:44:11.780Z,58.41,-154.7735,5.96,-0.37,ml,4.0,155.0,0.03078,0.21,av,av93018274,2024-08-13T21:26:47.300Z,"95 km NNW of Karluk, Alaska",earthquake,1.38,1.3,0.103215500029624,4.0,reviewed,av,av
 2024-08-13T21:32:01.020Z,33.260334,-116.3096695,10.76,1.06,ml,33.0,63.0,0.08203,0.17,ci,ci40700871,2024-08-13T21:34:07.412Z,"6 km E of Borrego Springs, CA",earthquake,0.35,0.58,0.311,5.0,automatic,ci,ci
 2024-08-13T20:25:37.306Z,54.6844,-161.1613,35.0,3.5,ml,14.0,195.0,0.774,0.4,us,us6000njx4,2024-08-13T21:35:55.040Z,"83 km SSW of Sand Point, Alaska",earthquake,2.61,2.008,0.074,24.0,reviewed,us,us
+2024-08-13T21:27:50.626Z,-2.1137,100.6928,70.689,4.6,mb,36.0,180.0,4.608,0.51,us,us6000njxr,2024-08-13T21:45:07.040Z,"77 km W of Sungai Penuh, Indonesia",earthquake,9.31,8.947,0.119,21.0,reviewed,us,us
+2024-08-13T14:45:55.160Z,61.2403333333333,-152.147,10.37,-0.28,ml,6.0,187.0,0.0245,0.17,av,av93018279,2024-08-13T21:44:41.590Z,"57 km WNW of Tyonek, Alaska",earthquake,1.12,1.33,0.108690572396264,5.0,reviewed,av,av
