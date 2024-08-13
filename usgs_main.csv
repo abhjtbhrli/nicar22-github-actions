@@ -10930,3 +10930,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-13T08:01:36.180Z,34.271,-116.9495,5.63,0.69,ml,38.0,111.0,0.02534,0.12,ci,ci40699903,2024-08-13T08:11:12.711Z,"5 km NW of Big Bear Lake, CA",earthquake,0.19,0.24,0.321,4.0,automatic,ci,ci
 2024-08-13T08:16:13.460Z,35.0811667,-119.0455,13.84,1.26,ml,27.0,73.0,0.03865,0.2,ci,ci40699911,2024-08-13T08:23:02.914Z,"19 km NW of Grapevine, CA",earthquake,0.29,0.53,0.14,21.0,automatic,ci,ci
 2024-08-13T06:36:24.388Z,-13.695,-71.7211,57.946,4.7,mb,59.0,109.0,4.322,0.84,us,us6000njtb,2024-08-13T08:29:45.040Z,"10 km W of Urcos, Peru",earthquake,4.34,8.225,0.06,84.0,reviewed,us,us
+2024-08-13T08:40:48.959Z,59.6197,-150.4992,35.3,1.5,ml,,,,0.43,ak,ak024adwgkv3,2024-08-13T08:43:08.979Z,"37 km SE of Fox River, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-08-13T08:33:32.640Z,19.3748340606689,-155.174667358398,2.47000002861023,1.98,ml,36.0,125.0,0.006838,0.270000011,hv,hv74397621,2024-08-13T08:36:08.410Z,"9 km SE of Volcano, Hawaii",earthquake,0.64,0.49000001,0.2,15.0,automatic,hv,hv
