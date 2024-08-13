@@ -10934,3 +10934,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-13T08:33:32.640Z,19.3748340606689,-155.174667358398,2.47000002861023,1.98,ml,36.0,125.0,0.006838,0.270000011,hv,hv74397621,2024-08-13T08:36:08.410Z,"9 km SE of Volcano, Hawaii",earthquake,0.64,0.49000001,0.2,15.0,automatic,hv,hv
 2024-08-13T08:44:02.840Z,19.0305,-64.7636,30.0,3.5,md,10.0,279.0,0.6323,0.3,pr,pr2024226000,2024-08-13T09:04:57.490Z,"77 km N of Cruz Bay, U.S. Virgin Islands",earthquake,4.11,18.9,0.09,9.0,reviewed,pr,pr
 2024-08-13T06:43:05.334Z,46.1981,16.6575,10.0,4.5,mb,74.0,24.0,1.31,1.07,us,us6000njt6,2024-08-13T08:58:25.854Z,"4 km WNW of Rasinja, Croatia",earthquake,3.42,1.876,0.119,22.0,reviewed,us,us
+2024-08-13T09:35:36.033Z,61.2481,-151.1975,67.2,3.3,ml,,,,0.58,ak,ak024adx0ww8,2024-08-13T09:37:24.771Z,"13 km NNW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-08-13T09:31:17.570Z,38.79,-122.78,0.93,0.91,md,11.0,99.0,0.009052,0.03,nc,nc75047666,2024-08-13T09:32:51.311Z,"2 km NNW of The Geysers, CA",earthquake,0.28,0.699999988,0.17,14.0,automatic,nc,nc
