@@ -10938,3 +10938,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-13T09:31:17.570Z,38.79,-122.78,0.93,0.91,md,11.0,99.0,0.009052,0.03,nc,nc75047666,2024-08-13T09:32:51.311Z,"2 km NNW of The Geysers, CA",earthquake,0.28,0.699999988,0.17,14.0,automatic,nc,nc
 2024-08-13T09:43:27.190Z,38.83,-122.8,2.47,0.73,md,10.0,72.0,0.01003,0.02,nc,nc75047671,2024-08-13T09:45:05.432Z,"7 km WNW of Cobb, CA",earthquake,0.37,1.13,0.31,11.0,automatic,nc,nc
 2024-08-13T09:37:42.030Z,33.1541672,-116.1008301,9.78,1.0,ml,24.0,104.0,0.05628,0.13,ci,ci40699927,2024-08-13T09:40:05.257Z,"3 km ENE of Ocotillo Wells, CA",earthquake,0.36,0.66,0.471,5.0,automatic,ci,ci
+2024-08-13T09:55:42.540Z,38.81,-122.82,2.37,0.28,md,11.0,62.0,0.006763,0.03,nc,nc75047676,2024-08-13T09:57:20.594Z,"7 km NW of The Geysers, CA",earthquake,0.4,1.08000004,0.07,12.0,automatic,nc,nc
+2024-08-13T09:35:13.640Z,33.9691667,-116.8216667,18.25,0.48,ml,34.0,55.0,0.06682,0.15,ci,ci40699919,2024-08-13T09:49:35.659Z,"7 km NNW of Cabazon, CA",earthquake,0.28,0.45,0.184,12.0,automatic,ci,ci
