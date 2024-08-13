@@ -10936,3 +10936,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-13T06:43:05.334Z,46.1981,16.6575,10.0,4.5,mb,74.0,24.0,1.31,1.07,us,us6000njt6,2024-08-13T08:58:25.854Z,"4 km WNW of Rasinja, Croatia",earthquake,3.42,1.876,0.119,22.0,reviewed,us,us
 2024-08-13T09:35:36.033Z,61.2481,-151.1975,67.2,3.3,ml,,,,0.58,ak,ak024adx0ww8,2024-08-13T09:37:24.771Z,"13 km NNW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-08-13T09:31:17.570Z,38.79,-122.78,0.93,0.91,md,11.0,99.0,0.009052,0.03,nc,nc75047666,2024-08-13T09:32:51.311Z,"2 km NNW of The Geysers, CA",earthquake,0.28,0.699999988,0.17,14.0,automatic,nc,nc
+2024-08-13T09:43:27.190Z,38.83,-122.8,2.47,0.73,md,10.0,72.0,0.01003,0.02,nc,nc75047671,2024-08-13T09:45:05.432Z,"7 km WNW of Cobb, CA",earthquake,0.37,1.13,0.31,11.0,automatic,nc,nc
+2024-08-13T09:37:42.030Z,33.1541672,-116.1008301,9.78,1.0,ml,24.0,104.0,0.05628,0.13,ci,ci40699927,2024-08-13T09:40:05.257Z,"3 km ENE of Ocotillo Wells, CA",earthquake,0.36,0.66,0.471,5.0,automatic,ci,ci
