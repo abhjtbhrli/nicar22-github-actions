@@ -10877,3 +10877,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-13T02:48:47.640Z,33.5425,-116.611,11.38,1.05,ml,60.0,41.0,0.009509,0.18,ci,ci40699687,2024-08-13T02:55:17.710Z,"6 km ESE of Anza, CA",earthquake,0.14,0.27,0.194,29.0,automatic,ci,ci
 2024-08-13T02:34:18.388Z,39.3298,-120.0094,5.5,0.1,ml,4.0,151.08,0.043,0.0994,nn,nn00882289,2024-08-13T02:51:52.082Z,"7 km S of Floriston, California",earthquake,,2.8,0.27,4.0,reviewed,nn,nn
 2024-08-12T14:22:41.620Z,54.538,-163.512833333333,10.01,1.47,ml,9.0,217.0,0.1713,0.08,av,av93018219,2024-08-13T02:48:30.570Z,"35 km S of False Pass, Alaska",earthquake,0.6,0.91,0.401968609109534,9.0,reviewed,av,av
+2024-08-13T03:08:26.420Z,35.1091667,-119.108,12.06,1.33,ml,23.0,78.0,0.05421,0.21,ci,ci40699711,2024-08-13T03:14:47.030Z,"24 km SW of Lamont, CA",earthquake,0.31,0.78,0.185,23.0,automatic,ci,ci
+2024-08-13T03:01:10.008Z,62.2965,-151.0661,85.2,2.0,ml,,,,0.59,ak,ak024adt8ywe,2024-08-13T03:02:53.633Z,"27 km SW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-08-13T02:55:59.420Z,35.6936667,-117.5453333,8.02,1.53,ml,29.0,109.0,0.103,0.15,ci,ci40699703,2024-08-13T03:06:53.130Z,"14 km NE of Ridgecrest, CA",earthquake,0.2,0.67,0.107,24.0,automatic,ci,ci
+2024-08-13T02:54:07.615Z,62.3537,-150.0868,44.5,1.0,ml,,,,0.66,ak,ak024adsyw2h,2024-08-13T02:56:13.475Z,"3 km NNE of Talkeetna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-08-12T15:27:10.720Z,54.5316666666667,-163.5165,10.72,1.65,ml,13.0,219.0,0.1737,0.31,av,av93018234,2024-08-13T03:15:02.290Z,"36 km S of False Pass, Alaska",earthquake,1.22,1.51,0.403941300681186,13.0,reviewed,av,av
+2024-08-12T15:24:21.970Z,54.528,-163.514666666667,11.21,1.75,ml,13.0,219.0,0.1769,0.31,av,av93018229,2024-08-13T03:09:50.830Z,"36 km S of False Pass, Alaska",earthquake,1.21,1.09,0.383456250320573,13.0,reviewed,av,av
