@@ -10983,3 +10983,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-13T14:29:48.370Z,34.1823349,-116.94767,8.84,1.87,ml,73.0,23.0,0.08283,0.15,ci,ci40700239,2024-08-13T14:31:56.870Z,"8 km SSW of Big Bear Lake, CA",earthquake,0.18,0.4,0.237,25.0,automatic,ci,ci
 2024-08-13T14:18:15.450Z,19.3873329162598,-155.123001098633,2.42000007629395,1.72000003,md,27.0,124.0,0.003363,0.230000004,hv,hv74398141,2024-08-13T14:19:44.270Z,"8 km S of Fern Forest, Hawaii",earthquake,0.93,0.270000011,0.469999999,15.0,automatic,hv,hv
 2024-08-13T12:28:42.196Z,40.6958,-74.7752,5.6,1.6,ml,6.0,169.0,0.016,0.14,us,us6000njuj,2024-08-13T14:30:09.840Z,"5 km ESE of Califon, New Jersey",earthquake,2.6,4.062,0.148,6.0,reviewed,us,us
+2024-08-13T14:32:10.090Z,33.0353333,-116.3908333,12.09,0.93,ml,8.0,192.0,0.05774,0.08,ci,ci40700255,2024-08-13T14:38:14.565Z,"20 km ESE of Julian, CA",earthquake,0.59,0.9,0.248,15.0,automatic,ci,ci
