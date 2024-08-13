@@ -10897,3 +10897,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-13T03:49:33.800Z,37.59,-119.01,2.48,1.16,md,12.0,199.0,0.02006,0.01,nc,nc75047611,2024-08-13T03:51:09.495Z,"6 km SW of Mammoth Lakes, CA",earthquake,0.5,0.899999976,0.13,13.0,automatic,nc,nc
 2024-08-13T03:03:53.377Z,-8.8103,112.7745,83.344,4.5,mb,25.0,110.0,1.403,0.61,us,us6000njsa,2024-08-13T04:01:23.040Z,"66 km S of Dampit, Indonesia",earthquake,8.5,3.673,0.132,17.0,reviewed,us,us
 2024-08-12T19:21:14.140Z,54.5278333333333,-163.509333333333,12.01,1.25,ml,5.0,294.0,0.1794,0.28,av,av93018244,2024-08-13T03:59:40.400Z,"36 km S of False Pass, Alaska",earthquake,1.41,1.09,0.493062773843789,5.0,reviewed,av,av
+2024-08-13T04:30:29.788Z,65.8141,-149.6084,0.0,1.0,ml,,,,0.73,ak,ak024adu0nsy,2024-08-13T04:32:36.283Z,"31 km SW of Stevens Village, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-08-13T03:00:27.752Z,32.4248,-104.4585,7.784,2.5,ml,28.0,92.0,0.514,0.24,us,us6000njs8,2024-08-13T04:28:46.040Z,"21 km W of Carlsbad, New Mexico",earthquake,1.68,5.829,0.077,22.0,reviewed,us,us
