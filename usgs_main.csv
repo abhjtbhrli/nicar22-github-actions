@@ -10922,3 +10922,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-13T06:13:35.700Z,34.276,-116.9475,5.54,2.09,ml,95.0,22.0,0.02603,0.14,ci,ci40699871,2024-08-13T06:24:17.300Z,"5 km NW of Big Bear Lake, CA",earthquake,0.1,0.26,0.16,26.0,automatic,ci,ci
 2024-08-13T06:07:52.900Z,34.0836667,-118.1896667,9.35,1.46,ml,18.0,95.0,0.06705,0.15,ci,ci40699863,2024-08-13T06:14:13.995Z,"4 km S of Highland Park, CA",earthquake,0.39,0.47,0.45,32.0,automatic,ci,ci
 2024-08-13T06:06:49.663Z,61.6717,-151.2936,32.2,1.3,ml,,,,0.69,ak,ak024adv2eqq,2024-08-13T06:14:30.939Z,"35 km S of Skwentna, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-08-13T06:37:05.900Z,38.79,-122.78,1.8,0.55,md,6.0,191.0,0.006596,0.01,nc,nc75047646,2024-08-13T06:38:40.173Z,"3 km NW of The Geysers, CA",earthquake,0.97,1.46000004,0.23,8.0,automatic,nc,nc
