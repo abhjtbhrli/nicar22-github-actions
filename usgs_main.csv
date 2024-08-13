@@ -11056,3 +11056,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-13T15:02:24.440Z,39.37,-122.95,-0.35,1.63,md,29.0,42.0,0.1368,0.16,nc,nc75047766,2024-08-13T19:48:03.271Z,"4 km S of Lake Pillsbury, CA",earthquake,0.26,1.09,0.214,25.0,reviewed,nc,nc
 2024-08-13T14:57:55.990Z,36.2,-120.79,2.42,1.16,md,26.0,136.0,0.01478,0.12,nc,nc75047761,2024-08-13T19:52:34.510Z,"22 km E of San Lucas, CA",earthquake,0.38,0.27,0.179,16.0,reviewed,nc,nc
 2024-08-13T20:11:23.170Z,19.386833190918,-155.150329589844,2.24000000953674,1.91,ml,15.0,140.0,0.01935,0.159999996,hv,hv74398561,2024-08-13T20:14:02.240Z,"8 km S of Fern Forest, Hawaii",earthquake,0.83,0.430000007,0.55,4.0,automatic,hv,hv
+2024-08-13T20:32:47.400Z,38.83,-122.81,8.47,0.26,md,8.0,126.0,0.02048,0.02,nc,nc75047866,2024-08-13T20:34:23.700Z,"7 km NNW of The Geysers, CA",earthquake,1.16,0.790000021,0.03,5.0,automatic,nc,nc
