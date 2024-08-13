@@ -10963,3 +10963,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-13T11:39:31.220Z,18.2251666666667,-66.4075,39.92,2.32,md,6.0,156.0,0.1023,0.2,pr,pr71457423,2024-08-13T11:58:49.420Z,"1 km W of Orocovis, Puerto Rico",earthquake,1.37,1.56,0.120068964359007,6.0,reviewed,pr,pr
 2024-08-13T11:37:07.280Z,18.2575,-66.4171666666667,36.84,2.88,md,17.0,69.0,0.07982,0.15,pr,pr71457408,2024-08-13T12:00:17.340Z,"4 km NW of Orocovis, Puerto Rico",earthquake,0.57,0.69,0.0717437306299571,10.0,reviewed,pr,pr
 2024-08-13T05:40:46.732Z,31.606,-103.959,8.8812,2.2,ml,23.0,54.0,0.0,0.1,tx,tx2024pvnl,2024-08-13T12:10:13.302Z,"35 km WSW of Mentone, Texas",earthquake,0.4138869694491027,0.4584220440609728,0.2,34.0,reviewed,tx,tx
+2024-08-13T08:36:35.210Z,35.34283333,-97.97033333,6.43,1.08,ml,36.0,55.0,0.06478728652,0.28,ok,ok2024pvtf,2024-08-13T12:46:10.483Z,"4 km NW of Minco, Oklahoma",earthquake,,0.7,0.18,17.0,reviewed,ok,ok
