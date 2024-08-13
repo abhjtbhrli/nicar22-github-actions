@@ -11045,3 +11045,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-13T18:52:00.045Z,-6.4376,132.6953,10.0,4.3,mb,20.0,74.0,3.523,1.16,us,us6000njwf,2024-08-13T19:21:13.040Z,"89 km S of Tual, Indonesia",earthquake,6.55,1.911,0.161,11.0,reviewed,us,us
 2024-08-13T18:01:49.330Z,40.74,-122.31,-0.58,1.85,md,11.0,85.0,0.139,0.06,nc,nc75047811,2024-08-13T19:23:27.025Z,"9 km NE of Shasta Lake, CA",quarry blast,0.29,31.61,0.286,15.0,reviewed,nc,nc
 2024-08-13T19:24:54.600Z,35.0746667,-119.0818333,12.07,2.08,ml,49.0,41.0,0.01611,0.24,ci,ci40700703,2024-08-13T19:32:16.331Z,"20 km NW of Grapevine, CA",earthquake,0.25,0.61,0.139,27.0,automatic,ci,ci
+2024-08-13T19:36:18.611Z,60.3263,-150.6694,44.3,2.5,ml,,,,0.27,ak,ak024ae2zfb9,2024-08-13T19:37:59.020Z,"20 km SSE of Funny River, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2024-08-13T19:35:14.490Z,36.087,-117.8858333,5.09,1.09,ml,19.0,70.0,0.0395,0.16,ci,ci40700719,2024-08-13T19:41:16.106Z,"7 km NE of Coso Junction, CA",earthquake,0.24,0.55,0.215,15.0,automatic,ci,ci
+2024-08-13T19:16:56.246Z,-4.2723,143.1705,88.093,4.8,mb,92.0,88.0,3.019,0.67,us,us6000njwl,2024-08-13T19:43:36.069Z,"39 km E of Ambunti, Papua New Guinea",earthquake,9.17,7.249,0.059,88.0,reviewed,us,us
+2024-08-13T18:43:23.233Z,31.667,-104.179,6.2408,1.7,ml,33.0,61.0,0.1,0.1,tx,tx2024pwng,2024-08-13T19:42:17.012Z,"53 km NW of Toyah, Texas",earthquake,0.4225383813729386,0.5391982105990583,0.2,24.0,reviewed,tx,tx
+2024-08-13T15:14:32.230Z,37.23,-118.29,9.26,1.45,md,22.0,171.0,0.1865,0.06,nc,nc75047776,2024-08-13T19:40:31.824Z,"8 km N of Big Pine, CA",earthquake,0.43,0.69,0.315,15.0,reviewed,nc,nc
