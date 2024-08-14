@@ -11459,3 +11459,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T22:12:44.990Z,31.604,-103.974,4.9699,1.7,ml,13.0,64.0,0.0,0.2,tx,tx2024pypt,2024-08-14T22:28:17.080Z,"36 km NNW of Toyah, Texas",earthquake,0.0,1.4857084751129197,0.2,11.0,automatic,tx,tx
 2024-08-14T22:10:22.320Z,35.0886667,-119.129,12.36,1.64,ml,39.0,73.0,0.04769,0.23,ci,ci40702311,2024-08-14T22:17:03.611Z,"24 km NW of Grapevine, CA",earthquake,0.29,0.77,0.182,26.0,automatic,ci,ci
 2024-08-14T09:55:05.349Z,36.5874,-115.7817,5.5,0.2,ml,9.0,342.35,0.163,0.0577,nn,nn00882446,2024-08-14T22:44:18.050Z,"10 km W of Indian Springs, Nevada",earthquake,,15.3,0.0,1.0,reviewed,nn,nn
+2024-08-14T10:35:38.863Z,39.7215,-120.1878,10.9,0.1,ml,3.0,194.63,0.196,0.0598,nn,nn00882448,2024-08-14T22:53:28.952Z,"6 km NE of Loyalton, California",earthquake,,8.1,0.37,3.0,reviewed,nn,nn
