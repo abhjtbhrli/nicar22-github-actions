@@ -11230,3 +11230,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T07:12:30.046Z,32.7843,-100.6671,5.0,3.6,mb_lg,47.0,32.0,0.127,0.69,us,us6000nk0u,2024-08-14T07:31:10.275Z,"18 km NNE of Hermleigh, Texas",earthquake,3.17,1.985,0.042,148.0,reviewed,us,us
 2024-08-14T07:37:21.330Z,38.83,-122.81,2.14,1.07,md,16.0,62.0,0.006859,0.01,nc,nc75048111,2024-08-14T07:39:00.662Z,"8 km NNW of The Geysers, CA",earthquake,0.26,0.579999983,0.22,19.0,automatic,nc,nc
 2024-08-14T07:12:29.698Z,32.781,-100.703,3.3691,3.5,ml,12.0,60.0,0.1,0.1,tx,tx2024pxly,2024-08-14T07:37:06.177Z,"17 km NNE of Hermleigh, Texas",earthquake,0.7170165402181042,1.827548948500304,0.2,9.0,reviewed,tx,tx
+2024-08-14T06:36:12.675Z,31.635,-103.991,5.1477,2.2,ml,14.0,65.0,0.0,0.2,tx,tx2024pxku,2024-08-14T07:51:09.472Z,"37 km WSW of Mentone, Texas",earthquake,0.0,2.14194107055664,0.2,12.0,automatic,tx,tx
