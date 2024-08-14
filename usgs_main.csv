@@ -11346,3 +11346,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T15:52:25.659Z,31.649,-104.299,6.665,3.1,ml,29.0,68.0,0.0,0.1,tx,tx2024pydc,2024-08-14T16:03:16.040Z,"58 km S of Whites City, New Mexico",earthquake,0.5166160898106726,0.6974212796475138,0.1,30.0,reviewed,tx,tx
 2024-08-14T09:15:19.153Z,28.734,-98.286,2.6611,1.8,ml,20.0,46.0,0.1,0.3,tx,tx2024pxqa,2024-08-14T16:05:44.643Z,"21 km ESE of Christine, Texas",earthquake,1.0690510787311411,1.8643619700385643,0.1,9.0,reviewed,tx,tx
 2024-08-13T19:07:37.342Z,53.5137,-162.3761,10.0,2.5,ml,21.0,235.0,1.39,0.38,us,us6000njzf,2024-08-14T16:27:24.040Z,"163 km SSE of False Pass, Alaska",earthquake,3.61,2.015,0.097,14.0,reviewed,us,us
+2024-08-14T16:29:34.449Z,36.5968,-115.6382,4.5,0.6,ml,12.0,304.36,0.268,0.0794,nn,nn00882416,2024-08-14T16:31:35.696Z,"4 km NE of Indian Springs, Nevada",earthquake,,3.1,0.11,9.0,automatic,nn,nn
+2024-08-14T16:26:57.640Z,19.380500793457,-155.120666503906,2.11999988555908,1.83,ml,38.0,147.0,0.006247,0.25999999,hv,hv74400221,2024-08-14T16:29:34.510Z,"9 km S of Fern Forest, Hawaii",earthquake,0.84,0.310000002,0.29,7.0,automatic,hv,hv
+2024-08-14T16:26:57.430Z,37.78,-121.99,7.33,1.38,md,8.0,99.0,0.04515,0.04,nc,nc75048286,2024-08-14T16:28:33.160Z,"1 km WSW of San Ramon, CA",earthquake,0.32,0.899999976,0.13,7.0,automatic,nc,nc
+2024-08-13T17:37:50.671Z,50.2648,-173.4718,17.84,4.0,mb,38.0,257.0,1.992,1.02,us,us6000njz2,2024-08-14T16:32:28.040Z,"220 km SSE of Atka, Alaska",earthquake,10.75,8.689,0.096,29.0,reviewed,us,us
