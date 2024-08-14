@@ -11310,3 +11310,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T12:58:24.050Z,19.1698341369629,-155.491668701172,29.1700000762939,2.02,ml,58.0,105.0,0.03141,0.150000006,hv,hv74399866,2024-08-14T13:01:02.320Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.49,0.649999976,0.62,8.0,automatic,hv,hv
 2024-08-14T12:39:29.020Z,39.166,-111.253333333333,2.28,0.64,ml,6.0,101.0,0.135,0.08,uu,uu80078491,2024-08-14T13:05:26.790Z,"13 km NW of Ferron, Utah",earthquake,0.46,31.61,0.032565962053745,3.0,reviewed,uu,uu
 2024-08-14T03:23:34.350Z,35.35083333,-97.96016667,6.43,0.98,ml,32.0,61.0,0.05308958201,0.28,ok,ok2024pxek,2024-08-14T13:18:08.050Z,"4 km NNW of Minco, Oklahoma",earthquake,,0.7,0.21,15.0,reviewed,ok,ok
+2024-08-14T13:32:16.090Z,35.9603348,-117.6633301,2.29,1.44,ml,16.0,129.0,0.01626,0.14,ci,ci40701567,2024-08-14T13:34:32.344Z,"22 km E of Little Lake, CA",earthquake,0.56,0.33,0.277,4.0,automatic,ci,ci
+2024-08-14T13:27:04.437Z,61.7112,-149.749,34.5,2.4,ml,,,,0.27,ak,ak024afmw7mz,2024-08-14T13:28:23.903Z,"9 km NNE of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-08-14T10:35:58.299Z,35.35533333,-97.966,7.01,1.01,ml,45.0,50.0,0.05398940544,0.38,ok,ok2024pxsr,2024-08-14T13:32:23.688Z,"4 km SSW of Union City, Oklahoma",earthquake,,0.7,0.25,20.0,reviewed,ok,ok
+2024-08-14T02:26:53.761Z,41.6984,-81.4986,5.0,1.8,mb_lg,12.0,137.0,0.19,0.48,us,us6000njyv,2024-08-14T13:32:43.784Z,"5 km NW of Lakeline, Ohio",earthquake,1.54,1.89,0.208,6.0,reviewed,us,us
