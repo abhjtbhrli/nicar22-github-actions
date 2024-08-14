@@ -11199,3 +11199,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T04:41:08.803Z,36.4932,-115.4802,2.1,0.6,ml,12.0,326.0,0.422,0.1158,nn,nn00882355,2024-08-14T04:43:29.211Z,"19 km ESE of Indian Springs, Nevada",earthquake,,9.4,0.32,8.0,automatic,nn,nn
 2024-08-14T04:40:49.660Z,19.1518325805664,-155.477828979492,32.310001373291,2.01999998,md,36.0,151.0,0.01528,0.150000006,hv,hv74399226,2024-08-14T04:42:33.580Z,"5 km S of Pāhala, Hawaii",earthquake,0.79,0.949999988,0.239999995,3.0,automatic,hv,hv
 2024-08-14T03:12:27.887Z,36.6098,-115.7365,11.8,3.1,ml,14.0,112.13,0.189,0.1207,nn,nn00882329,2024-08-14T04:45:19.267Z,"7 km NW of Indian Springs, Nevada",earthquake,,6.5,0.34,6.0,reviewed,nn,nn
+2024-08-14T04:54:02.598Z,36.5386,-115.5652,12.3,0.5,ml,13.0,318.33000000000004,0.342,0.1791,nn,nn00882357,2024-08-14T04:56:09.512Z,"10 km ESE of Indian Springs, Nevada",earthquake,,3.9,0.2,7.0,automatic,nn,nn
+2024-08-14T04:52:31.777Z,59.8969,-149.0134,30.2,1.8,ml,,,,0.35,ak,ak024afhoq7d,2024-08-14T04:55:50.706Z,"30 km SE of Lowell Point, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2024-08-14T04:52:31.095Z,60.0571,-149.0286,26.7,1.7,ml,,,,0.4,ak,ak024afhoq5h,2024-08-14T04:53:54.399Z,"23 km E of Lowell Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-14T04:52:26.386Z,36.4036,-115.3155,3.3,0.5,ml,9.0,330.5199999999999,0.58,0.1711,nn,nn00882356,2024-08-14T04:54:58.826Z,"28 km NW of North Las Vegas, Nevada",earthquake,,10.3,0.29,5.0,automatic,nn,nn
