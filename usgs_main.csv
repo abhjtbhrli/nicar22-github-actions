@@ -11196,3 +11196,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T04:10:37.384Z,36.7013,-115.7754,2.0,0.0,ml,10.0,278.23999999999995,0.155,0.2587,nn,nn00882346,2024-08-14T04:12:48.532Z,"17 km NNW of Indian Springs, Nevada",earthquake,,7.9,0.7,6.0,automatic,nn,nn
 2024-08-14T04:07:02.640Z,33.6571667,-116.7343333,14.54,0.48,ml,31.0,61.0,0.05183,0.1,ci,ci40701247,2024-08-14T04:13:16.944Z,"9 km S of Idyllwild, CA",earthquake,0.15,0.24,0.171,11.0,automatic,ci,ci
 2024-08-14T04:28:26.596Z,36.6036,-115.6332,0.0,1.6,ml,22.0,304.3500000000001,0.27,0.2361,nn,nn00882351,2024-08-14T04:30:30.849Z,"5 km NE of Indian Springs, Nevada",earthquake,,24.7,0.21,15.0,automatic,nn,nn
+2024-08-14T04:41:08.803Z,36.4932,-115.4802,2.1,0.6,ml,12.0,326.0,0.422,0.1158,nn,nn00882355,2024-08-14T04:43:29.211Z,"19 km ESE of Indian Springs, Nevada",earthquake,,9.4,0.32,8.0,automatic,nn,nn
+2024-08-14T04:40:49.660Z,19.1518325805664,-155.477828979492,32.310001373291,2.01999998,md,36.0,151.0,0.01528,0.150000006,hv,hv74399226,2024-08-14T04:42:33.580Z,"5 km S of Pāhala, Hawaii",earthquake,0.79,0.949999988,0.239999995,3.0,automatic,hv,hv
+2024-08-14T03:12:27.887Z,36.6098,-115.7365,11.8,3.1,ml,14.0,112.13,0.189,0.1207,nn,nn00882329,2024-08-14T04:45:19.267Z,"7 km NW of Indian Springs, Nevada",earthquake,,6.5,0.34,6.0,reviewed,nn,nn
