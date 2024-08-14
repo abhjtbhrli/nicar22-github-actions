@@ -11286,3 +11286,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T11:18:33.698Z,62.2255,-147.9499,24.7,0.7,ml,,,,0.91,ak,ak024aflnh8p,2024-08-14T11:21:59.219Z,"49 km NNW of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-14T11:31:30.530Z,19.3793334960938,-155.119827270508,1.75999999046326,1.76,ml,20.0,112.0,0.007629,0.170000002,hv,hv74399736,2024-08-14T11:34:09.880Z,"9 km S of Fern Forest, Hawaii",earthquake,0.69,0.189999998,0.19,3.0,automatic,hv,hv
 2024-08-14T11:30:54.310Z,19.5629997253418,-155.188171386719,5.92000007629395,2.62,ml,8.0,337.0,0.1796,0.119999997,hv,hv74399731,2024-08-14T11:33:32.260Z,"8 km W of Mountain View, Hawaii",earthquake,15.46,15.0600004,0.19,3.0,automatic,hv,hv
+2024-08-14T11:42:48.384Z,66.3639,-157.4602,1.4,2.4,ml,,,,0.98,ak,ak024aflsnk9,2024-08-14T11:45:49.758Z,"60 km SSW of Shungnak, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-08-14T11:28:57.279Z,31.752,-104.597,3.036,1.8,ml,8.0,221.0,0.1,0.3,tx,tx2024pxuk,2024-08-14T11:47:50.175Z,"51 km SSW of Whites City, New Mexico",earthquake,0.0,3.26896595954895,0.2,6.0,automatic,tx,tx
+2024-08-14T11:19:25.061Z,-23.7435,-179.9779,511.864,4.1,mb,33.0,104.0,5.204,0.81,us,us6000nk29,2024-08-14T11:39:48.040Z,south of the Fiji Islands,earthquake,12.87,8.601,0.096,30.0,reviewed,us,us
+2024-08-14T03:36:15.930Z,36.6422,-115.74,9.0,1.4,ml,23.0,191.79,0.18,0.0688,nn,nn00882338,2024-08-14T11:39:53.467Z,"10 km NW of Indian Springs, Nevada",earthquake,,5.0,0.41,6.0,reviewed,nn,nn
