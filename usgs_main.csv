@@ -11215,3 +11215,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T06:01:11.210Z,38.76,-122.73,1.13,1.19,md,7.0,138.0,0.006711,0.02,nc,nc75048086,2024-08-14T06:02:45.930Z,"3 km SSE of The Geysers, CA",earthquake,0.39,0.589999974,0.3,7.0,automatic,nc,nc
 2024-08-14T05:56:29.469Z,61.996,-148.2802,33.0,0.8,ml,,,,0.38,ak,ak024afib0hu,2024-08-14T05:58:25.631Z,"24 km NNE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-14T05:51:56.410Z,60.4857,-142.8989,4.1,0.9,ml,,,,0.31,ak,ak024afi9zzt,2024-08-14T05:53:45.728Z,"105 km S of McCarthy, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-08-14T06:25:19.210Z,38.82,-122.81,2.25,0.76,md,14.0,101.0,0.002912,0.03,nc,nc75048091,2024-08-14T06:26:54.721Z,"7 km NNW of The Geysers, CA",earthquake,0.34,0.579999983,0.16,15.0,automatic,nc,nc
+2024-08-14T06:24:53.840Z,34.092,-118.1878333,9.69,1.4,ml,52.0,78.0,0.05543,0.2,ci,ci40701303,2024-08-14T06:33:23.398Z,"3 km SSE of Highland Park, CA",earthquake,0.22,0.32,0.188,28.0,automatic,ci,ci
+2024-08-14T06:20:09.360Z,37.0041,-116.1057,0.8,0.6,ml,13.0,60.34,0.126,0.1744,nn,nn00882365,2024-08-14T06:21:50.376Z,"59 km E of Beatty, Nevada",earthquake,,7.0,0.33,9.0,automatic,nn,nn
+2024-08-14T06:20:07.282Z,60.7735,-150.8826,35.3,1.4,ml,,,,0.32,ak,ak024afioom0,2024-08-14T06:22:06.366Z,"19 km SSW of Point Possession, Alaska",earthquake,,5.4,,,automatic,ak,ak
