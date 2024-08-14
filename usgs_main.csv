@@ -11443,3 +11443,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T20:26:05.750Z,16.0407,-92.4676,209.362,4.3,mb,60.0,139.0,0.398,0.95,us,us7000n718,2024-08-14T21:29:20.040Z,"7 km NNE of Rizo de Oro, Mexico",earthquake,11.16,8.513,0.081,43.0,reviewed,us,us
 2024-08-14T15:54:22.306Z,-9.3575,107.7615,16.904,4.3,mb,21.0,110.0,1.886,0.74,us,us6000nk3y,2024-08-14T21:23:27.040Z,"223 km SSW of Kawalu, Indonesia",earthquake,6.63,4.399,0.143,14.0,reviewed,us,us
 2024-08-14T05:51:18.620Z,52.0708333333333,-176.1665,3.22,0.4,ml,6.0,173.0,0.02005,0.23,av,av93230366,2024-08-14T21:29:34.290Z,"38 km NE of Adak, Alaska",earthquake,1.08,1.19,0.231641638426194,6.0,reviewed,av,av
+2024-08-14T21:19:01.246Z,-17.4009,166.7567,10.0,4.9,mb,60.0,109.0,3.909,0.59,us,us7000n71x,2024-08-14T21:39:57.040Z,"160 km SSW of Lakatoro, Vanuatu",earthquake,6.2,1.884,0.062,82.0,reviewed,us,us
+2024-08-14T06:15:51.070Z,56.3403333333333,-159.147833333333,10.44,0.53,ml,5.0,300.0,0.04914,0.25,av,av93230396,2024-08-14T21:41:51.340Z,"25 km WNW of Chignik Lake, Alaska",earthquake,1.08,1.1,0.189516474158652,5.0,reviewed,av,av
