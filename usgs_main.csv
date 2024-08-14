@@ -11439,3 +11439,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T04:31:32.670Z,61.242,-152.1595,11.62,-0.03,ml,7.0,179.0,0.02189,0.18,av,av93230291,2024-08-14T21:14:54.490Z,"58 km WNW of Tyonek, Alaska",earthquake,1.0,1.18,0.213668660096654,6.0,reviewed,av,av
 2024-08-14T04:21:32.540Z,58.3125,-154.913666666667,5.0,-0.47,ml,6.0,212.0,0.09226,0.16,av,av93018434,2024-08-14T21:11:19.510Z,"87 km NNW of Karluk, Alaska",earthquake,0.74,1.75,0.192971962781013,6.0,reviewed,av,av
 2024-08-14T03:36:38.629Z,36.6361,-115.7599,10.2,1.4,ml,19.0,312.49000000000007,0.165,0.1194,nn,nn00882440,2024-08-14T21:18:46.443Z,"10 km NW of Indian Springs, Nevada",earthquake,,4.5,0.17,3.0,reviewed,nn,nn
+2024-08-14T21:30:58.057Z,59.6765,-152.4152,250.0,1.5,ml,,,,0.58,ak,ak024afrofrh,2024-08-14T21:33:07.359Z,"34 km WSW of Anchor Point, Alaska",earthquake,,17.1,,,automatic,ak,ak
+2024-08-14T20:26:05.750Z,16.0407,-92.4676,209.362,4.3,mb,60.0,139.0,0.398,0.95,us,us7000n718,2024-08-14T21:29:20.040Z,"7 km NNE of Rizo de Oro, Mexico",earthquake,11.16,8.513,0.081,43.0,reviewed,us,us
+2024-08-14T15:54:22.306Z,-9.3575,107.7615,16.904,4.3,mb,21.0,110.0,1.886,0.74,us,us6000nk3y,2024-08-14T21:23:27.040Z,"223 km SSW of Kawalu, Indonesia",earthquake,6.63,4.399,0.143,14.0,reviewed,us,us
+2024-08-14T05:51:18.620Z,52.0708333333333,-176.1665,3.22,0.4,ml,6.0,173.0,0.02005,0.23,av,av93230366,2024-08-14T21:29:34.290Z,"38 km NE of Adak, Alaska",earthquake,1.08,1.19,0.231641638426194,6.0,reviewed,av,av
