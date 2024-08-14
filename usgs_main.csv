@@ -11195,3 +11195,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T04:11:18.410Z,34.29,-117.0255,7.75,0.92,ml,51.0,75.0,0.03702,0.15,ci,ci40701255,2024-08-14T04:22:12.456Z,"12 km WNW of Big Bear Lake, CA",earthquake,0.19,0.29,0.104,15.0,automatic,ci,ci
 2024-08-14T04:10:37.384Z,36.7013,-115.7754,2.0,0.0,ml,10.0,278.23999999999995,0.155,0.2587,nn,nn00882346,2024-08-14T04:12:48.532Z,"17 km NNW of Indian Springs, Nevada",earthquake,,7.9,0.7,6.0,automatic,nn,nn
 2024-08-14T04:07:02.640Z,33.6571667,-116.7343333,14.54,0.48,ml,31.0,61.0,0.05183,0.1,ci,ci40701247,2024-08-14T04:13:16.944Z,"9 km S of Idyllwild, CA",earthquake,0.15,0.24,0.171,11.0,automatic,ci,ci
+2024-08-14T04:28:26.596Z,36.6036,-115.6332,0.0,1.6,ml,22.0,304.3500000000001,0.27,0.2361,nn,nn00882351,2024-08-14T04:30:30.849Z,"5 km NE of Indian Springs, Nevada",earthquake,,24.7,0.21,15.0,automatic,nn,nn
