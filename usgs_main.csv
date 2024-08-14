@@ -11180,3 +11180,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T03:38:58.730Z,33.3064995,-116.2454987,4.2,2.12,ml,84.0,25.0,0.07736,0.21,ci,ci40701223,2024-08-14T03:41:06.210Z,"13 km ENE of Borrego Springs, CA",earthquake,0.2,0.8,0.246,25.0,automatic,ci,ci
 2024-08-14T03:38:33.433Z,63.1262,-151.8458,5.2,1.7,ml,,,,0.67,ak,ak024afh0apb,2024-08-14T03:40:32.115Z,"46 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-14T03:35:46.932Z,36.3596,-115.2602,1.2,1.8,ml,8.0,335.05,0.64,0.1857,nn,nn00882337,2024-08-14T03:38:18.061Z,"21 km NW of North Las Vegas, Nevada",earthquake,,24.6,0.26,7.0,automatic,nn,nn
+2024-08-14T03:43:38.325Z,36.435,-115.3655,6.9,1.0,ml,13.0,328.53000000000003,0.53,0.1405,nn,nn00882340,2024-08-14T03:45:59.202Z,"31 km ESE of Indian Springs, Nevada",earthquake,,8.7,0.33,10.0,automatic,nn,nn
+2024-08-14T03:39:29.939Z,61.5885,-146.4936,32.3,1.4,ml,,,,0.58,ak,ak024afh0i5d,2024-08-14T03:42:07.887Z,"47 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
