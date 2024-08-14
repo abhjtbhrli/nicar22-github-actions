@@ -11222,3 +11222,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T06:38:02.039Z,36.641,-115.6799,1.9,0.4,ml,9.0,305.23,0.26,0.288,nn,nn00882371,2024-08-14T06:39:49.565Z,"7 km N of Indian Springs, Nevada",earthquake,,38.4,0.52,5.0,automatic,nn,nn
 2024-08-14T06:35:14.180Z,38.78,-122.76,1.5,1.31,md,21.0,87.0,0.01254,0.04,nc,nc75048096,2024-08-14T06:36:49.731Z,"0 km NNE of The Geysers, CA",earthquake,0.27,0.379999995,0.2,21.0,automatic,nc,nc
 2024-08-14T06:33:50.183Z,36.4535,-115.2746,6.4,0.8,ml,13.0,324.76000000000005,0.59,0.2797,nn,nn00882369,2024-08-14T06:36:10.270Z,"30 km NW of Nellis Air Force Base, Nevada",earthquake,,8.9,0.17,8.0,automatic,nn,nn
+2024-08-14T06:46:40.720Z,38.83,-122.8,1.55,0.85,md,17.0,39.0,0.006161,0.02,nc,nc75048101,2024-08-14T06:48:16.157Z,"7 km NNW of The Geysers, CA",earthquake,0.22,0.680000007,0.22,18.0,automatic,nc,nc
