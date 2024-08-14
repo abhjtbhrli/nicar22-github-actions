@@ -11274,3 +11274,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T07:31:49.500Z,37.38,-121.73,7.49,0.98,md,28.0,48.0,0.0773,0.07,nc,nc75048106,2024-08-14T10:21:02.934Z,"9 km E of Alum Rock, CA",earthquake,0.22,0.55,0.254,22.0,reviewed,nc,nc
 2024-08-14T10:48:33.030Z,33.7454987,-117.5400009,9.19,1.36,ml,14.0,88.0,0.076,0.14,ci,ci40701423,2024-08-14T10:50:39.424Z,"10 km NNE of Trabuco Canyon, CA",earthquake,0.42,1.26,0.167,5.0,automatic,ci,ci
 2024-08-14T10:40:54.990Z,36.6158,-115.6424,0.0,0.5,ml,14.0,303.13,0.261,0.1689,nn,nn00882388,2024-08-14T10:43:02.396Z,"5 km NNE of Indian Springs, Nevada",earthquake,,69.8,0.31,11.0,automatic,nn,nn
+2024-08-14T11:00:56.399Z,36.5674,-115.5693,7.9,0.6,ml,16.0,316.4599999999999,0.329,0.2298,nn,nn00882392,2024-08-14T11:03:03.062Z,"9 km E of Indian Springs, Nevada",earthquake,,3.0,0.29,11.0,automatic,nn,nn
+2024-08-14T10:59:42.810Z,33.2456667,-115.9975,4.52,0.85,ml,50.0,86.0,0.0357,0.25,ci,ci40701431,2024-08-14T11:05:42.860Z,"7 km SSW of Salton City, CA",earthquake,0.23,0.49,0.112,14.0,automatic,ci,ci
+2024-08-14T10:55:27.716Z,36.6482,-115.7797,7.5,0.8,ml,20.0,232.54,0.147,0.1749,nn,nn00882390,2024-08-14T10:57:43.828Z,"13 km NW of Indian Springs, Nevada",earthquake,,2.3,0.34,15.0,automatic,nn,nn
+2024-08-14T10:50:37.270Z,39.71,-123.46,7.73,1.67,md,11.0,142.0,0.07321,0.09,nc,nc75048186,2024-08-14T10:52:16.745Z,"3 km NE of Laytonville, CA",earthquake,0.47,0.870000005,0.2,7.0,automatic,nc,nc
