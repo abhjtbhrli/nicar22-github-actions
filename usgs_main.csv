@@ -11255,3 +11255,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T09:18:18.818Z,67.7174,-142.6218,75.4,2.6,ml,,,,0.98,ak,ak024afkgkvt,2024-08-14T09:21:14.168Z,"127 km NNE of Chalkyitsik, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2024-08-14T09:16:24.540Z,35.0895,-119.1391667,10.7,1.72,ml,44.0,48.0,0.05489,0.26,ci,ci40701375,2024-08-14T09:26:42.530Z,"24 km E of Maricopa, CA",earthquake,0.25,0.56,0.221,27.0,automatic,ci,ci
 2024-08-14T09:10:33.376Z,36.5862,-115.6424,2.0,0.7,ml,18.0,304.62,0.268,0.1034,nn,nn00882377,2024-08-14T09:12:32.640Z,"3 km NE of Indian Springs, Nevada",earthquake,,20.1,0.2,14.0,automatic,nn,nn
+2024-08-14T09:29:29.110Z,38.83,-122.82,1.49,0.21,md,8.0,80.0,0.01586,0.01,nc,nc75048156,2024-08-14T09:31:07.194Z,"8 km NNW of The Geysers, CA",earthquake,0.4,1.09000003,0.11,10.0,automatic,nc,nc
+2024-08-14T09:15:07.000Z,-6.6178,104.3956,34.156,5.0,mb,52.0,78.0,3.337,0.71,us,us6000nk1m,2024-08-14T09:33:36.040Z,"160 km W of Labuan, Indonesia",earthquake,8.51,2.055,0.079,51.0,reviewed,us,us
