@@ -11314,3 +11314,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T13:27:04.437Z,61.7112,-149.749,34.5,2.4,ml,,,,0.27,ak,ak024afmw7mz,2024-08-14T13:28:23.903Z,"9 km NNE of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-14T10:35:58.299Z,35.35533333,-97.966,7.01,1.01,ml,45.0,50.0,0.05398940544,0.38,ok,ok2024pxsr,2024-08-14T13:32:23.688Z,"4 km SSW of Union City, Oklahoma",earthquake,,0.7,0.25,20.0,reviewed,ok,ok
 2024-08-14T02:26:53.761Z,41.6984,-81.4986,5.0,1.8,mb_lg,12.0,137.0,0.19,0.48,us,us6000njyv,2024-08-14T13:32:43.784Z,"5 km NW of Lakeline, Ohio",earthquake,1.54,1.89,0.208,6.0,reviewed,us,us
+2024-08-14T13:41:15.226Z,61.486,-149.9082,40.7,1.2,ml,,,,0.65,ak,ak024afmz8hu,2024-08-14T13:43:27.401Z,"4 km SSE of Big Lake, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-08-14T13:41:10.480Z,33.2391663,-116.0393295,3.25,1.23,ml,42.0,77.0,0.06062,0.26,ci,ci40701575,2024-08-14T13:43:29.390Z,"10 km SW of Salton City, CA",earthquake,0.33,0.64,0.139,7.0,automatic,ci,ci
