@@ -11177,3 +11177,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-13T17:32:11.700Z,57.0715,-135.739333333333,7.4,-0.47,ml,4.0,198.0,0.02101,0.09,av,av93018384,2024-08-14T03:28:49.220Z,"24 km W of Sitka, Alaska",earthquake,0.96,0.7,0.112740665530373,4.0,reviewed,av,av
 2024-08-13T17:31:16.990Z,57.0655,-135.740166666667,6.0,-0.61,ml,4.0,168.0,0.02233,0.17,av,av93229786,2024-08-14T03:23:17.350Z,"24 km W of Sitka, Alaska",earthquake,1.15,1.07,0.116946556030844,4.0,reviewed,av,av
 2024-08-13T17:30:53.420Z,57.073,-135.748,6.73,-0.06,ml,4.0,210.0,0.02198,0.18,av,av93018379,2024-08-14T03:25:43.200Z,"25 km W of Sitka, Alaska",earthquake,1.09,0.94,0.445693218027704,4.0,reviewed,av,av
+2024-08-14T03:38:58.730Z,33.3064995,-116.2454987,4.2,2.12,ml,84.0,25.0,0.07736,0.21,ci,ci40701223,2024-08-14T03:41:06.210Z,"13 km ENE of Borrego Springs, CA",earthquake,0.2,0.8,0.246,25.0,automatic,ci,ci
+2024-08-14T03:38:33.433Z,63.1262,-151.8458,5.2,1.7,ml,,,,0.67,ak,ak024afh0apb,2024-08-14T03:40:32.115Z,"46 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-14T03:35:46.932Z,36.3596,-115.2602,1.2,1.8,ml,8.0,335.05,0.64,0.1857,nn,nn00882337,2024-08-14T03:38:18.061Z,"21 km NW of North Las Vegas, Nevada",earthquake,,24.6,0.26,7.0,automatic,nn,nn
