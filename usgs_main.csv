@@ -11326,3 +11326,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T13:56:14.099Z,31.59,-103.979,4.888,1.5,ml,15.0,60.0,0.0,0.4,tx,tx2024pxzh,2024-08-14T14:18:44.740Z,"35 km NNW of Toyah, Texas",earthquake,0.0,1.33707249164581,0.1,13.0,automatic,tx,tx
 2024-08-14T00:30:19.230Z,46.348,-122.81533333333331,-0.47,1.7,ml,41.0,39.0,0.1068,0.22,uw,uw62027587,2024-08-14T14:20:05.580Z,"10 km SSE of Toledo, Washington",explosion,0.35,31.61,0.1796676817297886,17.0,reviewed,uw,uw
 2024-08-14T00:18:44.890Z,46.22133333333333,-122.35083333333333,10.15,0.68,ml,15.0,176.0,0.03207,0.09,uw,uw62027577,2024-08-14T14:10:18.280Z,"35 km NNE of Amboy, Washington",earthquake,0.53,0.64,0.0623145773025798,4.0,reviewed,uw,uw
+2024-08-14T14:40:57.200Z,34.0871667,-118.1845,9.99,1.55,ml,50.0,35.0,0.02995,0.18,ci,ci40701687,2024-08-14T14:47:35.539Z,"4 km SSE of Highland Park, CA",earthquake,0.16,0.3,0.15,29.0,automatic,ci,ci
