@@ -11414,3 +11414,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T07:49:50.753Z,36.6363,-115.7406,7.4,0.2,ml,14.0,318.69,0.18,0.0741,nn,nn00882435,2024-08-14T19:27:53.306Z,"9 km NW of Indian Springs, Nevada",earthquake,,6.6,0.12,2.0,reviewed,nn,nn
 2024-08-14T13:34:04.330Z,28.846,-97.507,19.8242,1.7,ml,10.0,219.0,0.1,0.2,tx,tx2024pxyo,2024-08-14T19:35:42.040Z,"13 km SE of Nordheim, Texas",earthquake,3.129304722412052,1.4820047418405455,0.2,5.0,reviewed,tx,tx
 2024-08-14T10:04:18.314Z,36.8626,-115.9832,6.2,-0.4,ml,10.0,108.12,0.009,0.1055,nn,nn00882436,2024-08-14T19:40:15.924Z,"42 km NW of Indian Springs, Nevada",earthquake,,2.2,0.32,3.0,reviewed,nn,nn
+2024-08-14T19:43:16.999Z,63.1794,-150.6292,114.1,1.0,ml,,,,0.23,ak,ak024afqk9oz,2024-08-14T19:45:16.615Z,"67 km SE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-08-14T03:07:14.630Z,56.8581666666667,-158.126166666667,14.59,0.33,ml,6.0,179.0,0.01736,0.26,av,av93230251,2024-08-14T19:48:57.950Z,"65 km NNE of Chignik, Alaska",earthquake,1.9,1.36,0.305419928055196,6.0,reviewed,av,av
