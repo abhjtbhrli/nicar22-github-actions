@@ -11290,3 +11290,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T11:28:57.279Z,31.752,-104.597,3.036,1.8,ml,8.0,221.0,0.1,0.3,tx,tx2024pxuk,2024-08-14T11:47:50.175Z,"51 km SSW of Whites City, New Mexico",earthquake,0.0,3.26896595954895,0.2,6.0,automatic,tx,tx
 2024-08-14T11:19:25.061Z,-23.7435,-179.9779,511.864,4.1,mb,33.0,104.0,5.204,0.81,us,us6000nk29,2024-08-14T11:39:48.040Z,south of the Fiji Islands,earthquake,12.87,8.601,0.096,30.0,reviewed,us,us
 2024-08-14T03:36:15.930Z,36.6422,-115.74,9.0,1.4,ml,23.0,191.79,0.18,0.0688,nn,nn00882338,2024-08-14T11:39:53.467Z,"10 km NW of Indian Springs, Nevada",earthquake,,5.0,0.41,6.0,reviewed,nn,nn
+2024-08-14T11:48:43.000Z,35.9441667,-117.68,5.36,1.15,ml,23.0,69.0,0.02432,0.14,ci,ci40701463,2024-08-14T11:54:41.537Z,"20 km E of Little Lake, CA",earthquake,0.18,0.45,0.133,15.0,automatic,ci,ci
