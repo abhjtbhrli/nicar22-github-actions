@@ -11720,3 +11720,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-15T16:54:17.729Z,-20.3946,-173.8046,25.618,4.7,mb,32.0,129.0,1.455,0.83,us,us7000n77w,2024-08-15T18:26:54.040Z,"86 km SE of Pangai, Tonga",earthquake,11.68,6.033,0.07,62.0,reviewed,us,us
 2024-08-15T18:41:24.990Z,38.81,-122.82,2.61,0.78,md,12.0,90.0,0.0073,0.03,nc,nc75048821,2024-08-15T18:43:02.892Z,"6 km NW of The Geysers, CA",earthquake,0.4,0.899999976,0.15,13.0,automatic,nc,nc
 2024-08-15T18:40:13.791Z,61.6136,-148.807,41.7,0.6,ml,,,,0.11,ak,ak024ahdhj62,2024-08-15T18:42:47.486Z,"7 km E of Lazy Mountain, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-08-15T18:51:23.100Z,35.2116661,-120.3411636,1.96,1.42,ml,13.0,111.0,0.1611,0.29,ci,ci40703423,2024-08-15T18:53:27.469Z,"22 km NNE of Nipomo, CA",earthquake,0.86,1.52,0.151,6.0,automatic,ci,ci
+2024-08-15T03:20:05.820Z,60.0503333333333,-153.084333333333,-0.06,-0.83,ml,6.0,126.0,0.01256,0.06,av,av93231141,2024-08-15T18:54:24.190Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.19,0.57,0.309402738171541,6.0,reviewed,av,av
