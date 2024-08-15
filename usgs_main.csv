@@ -11615,3 +11615,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-15T11:30:02.200Z,33.3153343,-116.4095001,4.65,1.24,ml,44.0,61.0,0.03724,0.21,ci,ci40702895,2024-08-15T11:32:07.616Z,"7 km NNW of Borrego Springs, CA",earthquake,0.28,0.69,0.202,12.0,automatic,ci,ci
 2024-08-15T11:28:47.550Z,35.6834984,-117.5203323,6.59,1.54,ml,25.0,108.0,0.08078,0.09,ci,ci40702887,2024-08-15T11:30:53.930Z,"14 km SW of Searles Valley, CA",earthquake,0.3,0.95,0.282,7.0,automatic,ci,ci
 2024-08-15T11:40:55.823Z,59.7762,-152.0428,75.3,1.2,ml,,,,0.57,ak,ak024ah9bl72,2024-08-15T11:43:59.410Z,"11 km W of Anchor Point, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-08-15T11:43:28.639Z,63.4713,-148.571,9.4,1.1,ml,,,,0.64,ak,ak024ah9c68v,2024-08-15T11:46:31.186Z,"20 km ENE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
