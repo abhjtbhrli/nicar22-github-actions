@@ -11650,3 +11650,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-15T13:25:34.530Z,40.732,-112.033,6.59,0.7,ml,12.0,72.0,0.005499,0.14,uu,uu80078566,2024-08-15T13:41:10.840Z,"5 km NNW of West Valley City, Utah",earthquake,0.38,0.6,0.183031234417722,2.0,reviewed,uu,uu
 2024-08-15T05:44:50.800Z,47.3016666666667,-113.152666666667,21.07,0.92,ml,13.0,95.0,0.2397,0.08,mb,mb90059408,2024-08-15T13:47:34.170Z,"28 km ENE of Seeley Lake, Montana",earthquake,0.3,1.13,0.0730196291471761,6.0,reviewed,mb,mb
 2024-08-14T15:16:40.030Z,47.2971666666667,-113.194333333333,16.91,1.43,ml,17.0,97.0,0.2111,0.09,mb,mb90059368,2024-08-15T13:42:13.890Z,"25 km ENE of Seeley Lake, Montana",earthquake,0.32,1.23,0.0650540868918417,6.0,reviewed,mb,mb
+2024-08-15T13:47:17.420Z,35.963,-117.6603333,2.56,1.27,ml,18.0,93.0,0.0171,0.13,ci,ci40703015,2024-08-15T13:53:29.595Z,"22 km E of Little Lake, CA",earthquake,0.2,0.15,0.207,14.0,automatic,ci,ci
+2024-08-15T06:20:30.906Z,10.0138,-83.9325,10.0,3.2,ml,7.0,159.0,0.177,0.56,us,us7000n75q,2024-08-15T13:53:28.966Z,"10 km ENE of Ipís, Costa Rica",earthquake,1.61,1.933,0.097,14.0,reviewed,us,us
