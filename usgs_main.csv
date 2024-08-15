@@ -11684,3 +11684,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-15T16:30:00.345Z,61.8185,-151.088,58.0,1.5,ml,,,,0.76,ak,ak024ahc8hs2,2024-08-15T16:32:16.360Z,"25 km SE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-08-15T07:30:58.043Z,28.957,-97.626,2.5146,1.5,ml,17.0,92.0,0.1,0.3,tx,tx2024pzib,2024-08-15T16:33:33.120Z,"4 km NNW of Nordheim, Texas",earthquake,1.6776629626543622,2.000867969100732,0.2,10.0,reviewed,tx,tx
 2024-08-14T22:36:00.510Z,35.3475,-97.95366667,6.13,0.97,ml,38.0,71.0,0.05308958201,0.3,ok,ok2024pyql,2024-08-15T16:36:13.897Z,"3 km NNW of Minco, Oklahoma",earthquake,,0.6,0.22,15.0,reviewed,ok,ok
+2024-08-15T16:40:24.710Z,33.6786652,-117.3983307,7.23,3.0,ml,90.0,32.0,0.03749,0.24,ci,ci40703167,2024-08-15T16:45:57.320Z,"7 km W of Lake Elsinore, CA",earthquake,0.23,0.52,0.432,5.0,automatic,ci,ci
+2024-08-15T16:39:31.890Z,33.6776657,-117.3913345,8.84,3.9,mlr,82.0,39.0,0.04064,0.28,ci,ci40703159,2024-08-15T16:47:44.477Z,"6 km W of Lake Elsinore, CA",earthquake,0.31,0.91,0.311,16.0,automatic,ci,ci
+2024-08-15T16:38:04.150Z,63.5298,-151.0843,0.1,1.2,ml,,,,0.8,ak,ak024ahca7s7,2024-08-15T16:40:34.374Z,"31 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-15T16:37:03.410Z,19.3821659088135,-155.257827758789,1.55999994277954,2.68,ml,50.0,45.0,0.006995,0.379999995,hv,hv74402766,2024-08-15T16:39:40.300Z,"7 km SSW of Volcano, Hawaii",earthquake,0.31,0.239999995,0.44,35.0,automatic,hv,hv
+2024-08-14T18:32:54.600Z,35.08733333,-95.5135,6.93,1.41,ml,50.0,89.0,0.1205763388,0.31,ok,ok2024pyik,2024-08-15T16:46:47.430Z,"13 km WSW of Quinton, Oklahoma",earthquake,,0.9,0.23,15.0,reviewed,ok,ok
+2024-08-14T18:17:25.769Z,35.08683333,-95.523,5.22,1.22,ml,30.0,91.0,0.1232758091,0.25,ok,ok2024pyhx,2024-08-15T16:52:20.723Z,"14 km ESE of Crowder, Oklahoma",earthquake,,1.4,0.25,13.0,reviewed,ok,ok
