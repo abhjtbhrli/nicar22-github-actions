@@ -11658,3 +11658,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T22:32:24.940Z,35.34216667,-98.0005,6.96,1.19,ml,60.0,63.0,0.08458340185,0.23,ok,ok2024pyqf,2024-08-15T14:05:17.105Z,"6 km WNW of Minco, Oklahoma",earthquake,,0.4,0.23,28.0,reviewed,ok,ok
 2024-08-15T13:15:32.042Z,31.674,-104.395,6.9202,1.6,ml,21.0,56.0,0.0,0.2,tx,tx2024pztl,2024-08-15T14:26:25.165Z,"55 km S of Whites City, New Mexico",earthquake,0.7768275037433424,0.774211188594885,0.1,17.0,reviewed,tx,tx
 2024-08-15T01:30:25.475Z,31.655,-104.308,5.5615,1.8,ml,32.0,58.0,0.0,0.1,tx,tx2024pywe,2024-08-15T14:19:52.127Z,"58 km S of Whites City, New Mexico",earthquake,0.7111210818330426,0.8990564749978894,0.2,19.0,reviewed,tx,tx
+2024-08-15T14:24:37.407Z,31.661,-104.309,6.9202,1.9,ml,19.0,68.0,0.0,0.1,tx,tx2024pzvt,2024-08-15T14:54:02.386Z,"57 km S of Whites City, New Mexico",earthquake,1.04500400490714,0.6551165450790334,0.2,27.0,reviewed,tx,tx
