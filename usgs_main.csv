@@ -11750,3 +11750,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-15T19:22:27.880Z,-26.566,-176.625,24.391,4.9,mb,51.0,115.0,2.908,0.46,us,us7000n794,2024-08-15T20:21:09.040Z,south of the Fiji Islands,earthquake,10.34,5.186,0.074,58.0,reviewed,us,us
 2024-08-15T14:53:00.335Z,39.4195,-119.9222,7.3,0.5,ml,5.0,136.81,0.14,0.0746,nn,nn00882506,2024-08-15T20:22:30.874Z,"8 km ENE of Floriston, California",earthquake,,3.5,0.36,3.0,reviewed,nn,nn
 2024-08-15T08:22:20.448Z,36.6372,-115.7774,7.5,-0.2,ml,6.0,310.41,0.15,0.1317,nn,nn00882505,2024-08-15T20:13:13.329Z,"12 km NW of Indian Springs, Nevada",earthquake,,10.8,0.28,2.0,reviewed,nn,nn
+2024-08-15T20:32:23.840Z,34.2374992,-117.6415024,4.53,1.1,ml,17.0,99.0,0.01417,0.13,ci,ci40703583,2024-08-15T20:34:30.247Z,"13 km W of Lytle Creek, CA",earthquake,0.34,0.42,0.356,6.0,automatic,ci,ci
+2024-08-15T20:17:02.250Z,44.7793333333333,-110.505,4.63,1.67,ml,14.0,89.0,0.06181,0.2,uu,uu80078606,2024-08-15T20:26:37.060Z,"26 km SE of Mammoth, Wyoming",earthquake,0.4,0.67,0.693026623280637,3.0,reviewed,uu,uu
+2024-08-15T10:25:58.110Z,60.016,-153.0945,1.09,-1.15,ml,5.0,116.0,0.03817,0.03,av,av93231331,2024-08-15T20:32:48.170Z,"62 km ENE of Pedro Bay, Alaska",earthquake,0.22,0.85,0.173397781941567,5.0,reviewed,av,av
