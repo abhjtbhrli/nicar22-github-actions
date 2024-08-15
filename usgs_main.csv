@@ -11677,3 +11677,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-15T15:49:20.714Z,62.9196,-151.264,101.1,1.4,ml,,,,0.23,ak,ak024ahbr6cn,2024-08-15T15:51:49.386Z,"53 km NNW of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-08-15T15:46:44.798Z,64.4196,-146.6786,0.0,1.0,ml,,,,0.4,ak,ak024ahbql0y,2024-08-15T15:48:55.665Z,"6 km NW of Harding-Birch Lakes, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-15T15:17:51.854Z,23.9788,123.1573,35.314,4.5,mb,40.0,76.0,0.504,1.16,us,us7000n763,2024-08-15T15:56:49.040Z,"56 km SSE of Yonakuni, Japan",earthquake,4.34,7.65,0.085,41.0,reviewed,us,us
+2024-08-15T15:50:03.816Z,31.703,-104.48,4.8974,2.5,ml,8.0,83.0,0.0,0.3,tx,tx2024pzyn,2024-08-15T16:07:34.939Z,"53 km S of Whites City, New Mexico",earthquake,0.0,2.21451902389526,0.2,6.0,automatic,tx,tx
+2024-08-15T10:41:48.306Z,28.763,-98.271,10.8154,1.8,ml,19.0,52.0,0.1,0.3,tx,tx2024pzoj,2024-08-15T16:07:43.937Z,"22 km E of Christine, Texas",earthquake,1.0952388423569677,2.012969493227488,0.1,14.0,reviewed,tx,tx
+2024-08-15T10:32:29.989Z,31.61,-104.104,5.6769,1.6,ml,31.0,52.0,0.0,0.1,tx,tx2024pzob,2024-08-15T16:11:00.971Z,"44 km NW of Toyah, Texas",earthquake,0.5010875846943248,0.5147126981381286,0.1,19.0,reviewed,tx,tx
