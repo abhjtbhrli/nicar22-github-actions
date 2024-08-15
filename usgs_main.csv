@@ -11614,3 +11614,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-15T10:58:50.197Z,-9.3456,122.6856,84.529,4.4,mb,21.0,83.0,0.833,0.83,us,us7000n74w,2024-08-15T11:22:00.040Z,"95 km SSE of Maumere, Indonesia",earthquake,7.42,7.787,0.12,20.0,reviewed,us,us
 2024-08-15T11:30:02.200Z,33.3153343,-116.4095001,4.65,1.24,ml,44.0,61.0,0.03724,0.21,ci,ci40702895,2024-08-15T11:32:07.616Z,"7 km NNW of Borrego Springs, CA",earthquake,0.28,0.69,0.202,12.0,automatic,ci,ci
 2024-08-15T11:28:47.550Z,35.6834984,-117.5203323,6.59,1.54,ml,25.0,108.0,0.08078,0.09,ci,ci40702887,2024-08-15T11:30:53.930Z,"14 km SW of Searles Valley, CA",earthquake,0.3,0.95,0.282,7.0,automatic,ci,ci
+2024-08-15T11:40:55.823Z,59.7762,-152.0428,75.3,1.2,ml,,,,0.57,ak,ak024ah9bl72,2024-08-15T11:43:59.410Z,"11 km W of Anchor Point, Alaska",earthquake,,0.9,,,automatic,ak,ak
