@@ -11798,3 +11798,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-15T23:04:27.802Z,63.0982,-149.7672,70.0,1.5,ml,,,,0.74,ak,ak024ahg90ik,2024-08-15T23:06:48.982Z,"52 km SW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-08-15T22:59:30.296Z,31.691,-101.701,7.2998,3.8,ml,10.0,63.0,0.1,0.1,tx,tx2024qamq,2024-08-15T23:26:40.040Z,"28 km SW of Garden City, Texas",earthquake,0.9958854195161868,2.0335353590919705,0.2,19.0,reviewed,tx,tx
 2024-08-15T23:43:39.339Z,60.6194,-141.5917,3.1,1.5,ml,,,,0.62,ak,ak024ahghebx,2024-08-15T23:45:40.195Z,"115 km SE of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-15T23:35:54.972Z,23.784,121.7595,15.414,6.1,mww,85.0,32.0,0.416,1.11,us,us7000n7b8,2024-08-15T23:55:41.750Z,"26 km SE of Hualien City, Taiwan",earthquake,3.36,3.564,0.059,28.0,reviewed,us,us
+2024-08-15T23:14:06.130Z,18.954,-67.3846666666667,21.36,3.38,md,14.0,201.0,0.549,0.37,pr,pr71457483,2024-08-15T23:53:21.380Z,"59 km NNW of San Antonio, Puerto Rico",earthquake,1.37,26.65,0.204361442887758,10.0,reviewed,pr,pr
