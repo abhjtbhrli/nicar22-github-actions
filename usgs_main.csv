@@ -11558,3 +11558,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-15T06:04:38.700Z,33.6711667,-116.7278333,15.57,0.99,ml,63.0,30.0,0.04149,0.15,ci,ci40702735,2024-08-15T06:11:10.042Z,"8 km S of Idyllwild, CA",earthquake,0.13,0.24,0.156,26.0,automatic,ci,ci
 2024-08-15T06:01:27.150Z,33.6911667,-116.7251667,17.2,0.28,ml,17.0,115.0,0.02196,0.15,ci,ci40702727,2024-08-15T06:07:51.211Z,"6 km S of Idyllwild, CA",earthquake,0.4,0.59,0.158,6.0,automatic,ci,ci
 2024-08-15T05:55:36.000Z,33.6763333,-116.7246667,15.6,0.65,ml,37.0,60.0,0.03583,0.11,ci,ci40702719,2024-08-15T06:01:48.843Z,"7 km S of Idyllwild, CA",earthquake,0.16,0.27,0.189,14.0,automatic,ci,ci
+2024-08-15T06:08:25.008Z,-7.5446,128.1906,136.73,4.4,mb,25.0,106.0,3.452,0.58,us,us7000n73x,2024-08-15T06:32:30.040Z,"170 km NE of Lospalos, Timor Leste",earthquake,12.64,9.388,0.123,19.0,reviewed,us,us
