@@ -11702,3 +11702,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-15T17:28:51.870Z,38.78,-122.76,1.06,0.8,md,8.0,129.0,0.01754,0.02,nc,nc75048771,2024-08-15T17:30:28.333Z,"0 km NNW of The Geysers, CA",earthquake,0.38,0.709999979,0.21,8.0,automatic,nc,nc
 2024-08-15T17:26:57.021Z,60.4529,-143.0416,1.1,0.8,ml,,,,0.92,ak,ak024ahct6w6,2024-08-15T17:28:00.661Z,"109 km S of McCarthy, Alaska",earthquake,,3.0,,,automatic,ak,ak
 2024-08-15T10:05:42.153Z,28.737,-98.277,3.9795,1.4,ml,14.0,45.0,0.1,0.2,tx,tx2024pzne,2024-08-15T17:34:42.788Z,"22 km ESE of Christine, Texas",earthquake,1.397810979932664,2.931232783953902,0.1,7.0,reviewed,tx,tx
+2024-08-15T17:20:53.850Z,37.5626666666667,-113.067,14.12,1.19,ml,12.0,74.0,0.03653,0.11,uu,uu80078586,2024-08-15T17:38:37.300Z,"10 km ENE of Kanarraville, Utah",earthquake,0.35,0.55,0.228489087512739,5.0,reviewed,uu,uu
