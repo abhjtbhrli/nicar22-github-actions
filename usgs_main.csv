@@ -11646,3 +11646,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-15T07:45:37.323Z,36.6918,-116.0694,0.0,-0.1,ml,9.0,322.64,0.024,0.05,nn,nn00882483,2024-08-15T13:32:08.189Z,"38 km WNW of Indian Springs, Nevada",earthquake,,0.0,0.21,2.0,reviewed,nn,nn
 2024-08-15T01:59:58.679Z,35.35116667,-97.96266667,8.18,0.33,ml,18.0,109.0,0.05488922886,0.16,ok,ok2024pyxd,2024-08-15T13:38:52.767Z,"4 km NNW of Minco, Oklahoma",earthquake,,1.4,0.23,9.0,reviewed,ok,ok
 2024-08-14T21:59:22.827Z,28.94,-97.633,7.959,1.8,ml,14.0,92.0,0.1,0.2,tx,tx2024pypg,2024-08-15T13:30:04.729Z,"3 km NW of Nordheim, Texas",earthquake,1.0542621279390512,2.338190996892678,0.1,13.0,reviewed,tx,tx
+2024-08-15T13:43:05.651Z,64.2012,-150.5808,11.6,2.3,ml,,,,0.88,ak,ak024ahaizol,2024-08-15T13:45:14.383Z,"67 km W of Clear, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-08-15T13:25:34.530Z,40.732,-112.033,6.59,0.7,ml,12.0,72.0,0.005499,0.14,uu,uu80078566,2024-08-15T13:41:10.840Z,"5 km NNW of West Valley City, Utah",earthquake,0.38,0.6,0.183031234417722,2.0,reviewed,uu,uu
+2024-08-15T05:44:50.800Z,47.3016666666667,-113.152666666667,21.07,0.92,ml,13.0,95.0,0.2397,0.08,mb,mb90059408,2024-08-15T13:47:34.170Z,"28 km ENE of Seeley Lake, Montana",earthquake,0.3,1.13,0.0730196291471761,6.0,reviewed,mb,mb
+2024-08-14T15:16:40.030Z,47.2971666666667,-113.194333333333,16.91,1.43,ml,17.0,97.0,0.2111,0.09,mb,mb90059368,2024-08-15T13:42:13.890Z,"25 km ENE of Seeley Lake, Montana",earthquake,0.32,1.23,0.0650540868918417,6.0,reviewed,mb,mb
