@@ -11521,3 +11521,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-15T03:21:51.590Z,33.25,-116.0308304,4.61,1.05,ml,13.0,98.0,0.04818,0.08,ci,ci40702615,2024-08-15T03:23:55.960Z,"9 km SW of Salton City, CA",earthquake,0.33,0.76,0.564,6.0,automatic,ci,ci
 2024-08-15T03:18:16.980Z,33.0335,-116.4118333,9.6,0.99,ml,43.0,43.0,0.04897,0.17,ci,ci40702607,2024-08-15T03:24:19.318Z,"18 km ESE of Julian, CA",earthquake,0.22,0.4,0.135,22.0,automatic,ci,ci
 2024-08-15T01:13:36.985Z,-31.705,-69.6187,119.077,4.5,mb,64.0,131.0,1.202,1.09,us,us7000n72w,2024-08-15T03:17:11.040Z,"45 km SSW of Calingasta, Argentina",earthquake,6.67,7.488,0.081,45.0,reviewed,us,us
+2024-08-15T02:44:40.240Z,19.1718333333333,-155.488333333333,31.55,1.7,md,22.0,146.0,0.02968,0.12,hv,hv74401111,2024-08-15T03:29:36.090Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.57,0.79,0.0620307978076882,10.0,reviewed,hv,hv
