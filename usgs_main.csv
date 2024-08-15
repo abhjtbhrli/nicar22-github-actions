@@ -11542,3 +11542,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-15T04:38:28.960Z,19.3891666666667,-155.247166666667,1.55,3.32,ml,36.0,58.0,0.005341,0.08,hv,hv74401321,2024-08-15T05:04:19.082Z,"6 km SSW of Volcano, Hawaii",earthquake,0.13,0.13,0.427605420107721,24.0,reviewed,hv,hv
 2024-08-15T04:34:54.610Z,19.3841666666667,-155.237333333333,2.1,3.42,ml,38.0,75.0,0.01099,0.1,hv,hv74401311,2024-08-15T05:09:31.912Z,"6 km S of Volcano, Hawaii",earthquake,0.2,0.18,0.511337032661407,27.0,reviewed,hv,hv
 2024-08-15T04:16:12.474Z,31.671,-104.437,4.8987,1.7,ml,17.0,59.0,0.0,0.6,tx,tx2024pzbr,2024-08-15T05:06:52.283Z,"56 km S of Whites City, New Mexico",earthquake,0.0,1.27018797397614,0.2,12.0,automatic,tx,tx
+2024-08-15T05:24:26.120Z,36.86,-121.6,6.74,1.06,md,8.0,110.0,0.05784,0.04,nc,nc75048556,2024-08-15T05:26:01.527Z,"5 km WNW of San Juan Bautista, CA",earthquake,0.46,1.04999995,0.13,5.0,automatic,nc,nc
+2024-08-15T05:20:41.220Z,65.9395,-147.4255,9.4,1.3,ml,,,,0.92,ak,ak024ah5mo4a,2024-08-15T05:23:19.471Z,"46 km S of Beaver, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-15T05:18:05.885Z,60.2752,-153.7181,187.0,1.9,ml,,,,0.46,ak,ak024ah5m5xu,2024-08-15T05:20:15.488Z,"34 km ENE of Port Alsworth, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-08-15T05:14:01.852Z,36.4355,71.0376,176.73,4.1,mb,35.0,105.0,2.466,0.49,us,us7000n73r,2024-08-15T05:27:35.040Z,"50 km SSE of Jurm, Afghanistan",earthquake,8.85,11.306,0.14,14.0,reviewed,us,us
+2024-08-15T05:07:54.050Z,19.3759994506836,-155.189834594727,3.3199999332428,1.74,ml,26.0,119.0,0.01969,0.189999998,hv,hv74401386,2024-08-15T05:10:32.120Z,"8 km SSE of Volcano, Hawaii",earthquake,0.51,0.870000005,0.15,3.0,automatic,hv,hv
+2024-08-15T05:06:11.885Z,32.6357,-104.3851,5.0,2.6,ml,32.0,81.0,0.478,0.54,us,us7000n73p,2024-08-15T05:13:29.040Z,"14 km S of Atoka, New Mexico",earthquake,2.65,0.452,0.077,22.0,reviewed,us,us
+2024-08-15T04:50:58.520Z,30.9965,131.5358,39.208,4.5,mb,42.0,125.0,1.059,1.36,us,us7000n73m,2024-08-15T05:27:42.040Z,"58 km ENE of Nishinoomote, Japan",earthquake,6.69,7.854,0.11,24.0,reviewed,us,us
