@@ -11673,3 +11673,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-15T15:11:08.950Z,18.2221666666667,-67.1611666666667,20.82,2.75,md,15.0,182.0,0.01643,0.15,pr,pr71457468,2024-08-15T15:28:32.720Z,"3 km NW of Mayagüez, Puerto Rico",earthquake,0.49,0.46,0.111918374009464,4.0,reviewed,pr,pr
 2024-08-14T18:47:10.387Z,32.777,-100.672,7.6416,1.9,ml,17.0,78.0,0.1,0.1,tx,tx2024pyiz,2024-08-15T15:29:47.695Z,"17 km NNE of Hermleigh, Texas",earthquake,0.8993167605691709,1.3017740031265832,0.1,19.0,reviewed,tx,tx
 2024-08-15T15:09:29.705Z,28.75,-98.29,5.8838,2.2,ml,15.0,70.0,0.1,0.1,tx,tx2024pzxf,2024-08-15T15:45:22.802Z,"20 km ESE of Christine, Texas",earthquake,0.8938941788989405,2.183342205939154,0.2,15.0,reviewed,tx,tx
+2024-08-15T15:51:34.594Z,36.6228,-115.6594,6.1,0.4,ml,13.0,301.54999999999995,0.246,0.1179,nn,nn00882486,2024-08-15T15:53:33.683Z,"5 km N of Indian Springs, Nevada",earthquake,,1.4,0.18,8.0,automatic,nn,nn
+2024-08-15T15:49:20.714Z,62.9196,-151.264,101.1,1.4,ml,,,,0.23,ak,ak024ahbr6cn,2024-08-15T15:51:49.386Z,"53 km NNW of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-08-15T15:46:44.798Z,64.4196,-146.6786,0.0,1.0,ml,,,,0.4,ak,ak024ahbql0y,2024-08-15T15:48:55.665Z,"6 km NW of Harding-Birch Lakes, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-15T15:17:51.854Z,23.9788,123.1573,35.314,4.5,mb,40.0,76.0,0.504,1.16,us,us7000n763,2024-08-15T15:56:49.040Z,"56 km SSE of Yonakuni, Japan",earthquake,4.34,7.65,0.085,41.0,reviewed,us,us
