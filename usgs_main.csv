@@ -11656,3 +11656,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-15T14:02:10.430Z,36.97,-121.61,3.72,1.28,md,9.0,111.0,0.02575,0.07,nc,nc75048701,2024-08-15T14:03:46.813Z,"6 km SW of Gilroy, CA",earthquake,0.39,0.779999971,0.11,6.0,automatic,nc,nc
 2024-08-15T13:59:23.320Z,34.0933333,-118.1993333,9.21,1.54,ml,24.0,84.0,0.05884,0.16,ci,ci40703023,2024-08-15T14:05:48.671Z,"3 km S of Highland Park, CA",earthquake,0.28,0.41,0.43,33.0,automatic,ci,ci
 2024-08-14T22:32:24.940Z,35.34216667,-98.0005,6.96,1.19,ml,60.0,63.0,0.08458340185,0.23,ok,ok2024pyqf,2024-08-15T14:05:17.105Z,"6 km WNW of Minco, Oklahoma",earthquake,,0.4,0.23,28.0,reviewed,ok,ok
+2024-08-15T13:15:32.042Z,31.674,-104.395,6.9202,1.6,ml,21.0,56.0,0.0,0.2,tx,tx2024pztl,2024-08-15T14:26:25.165Z,"55 km S of Whites City, New Mexico",earthquake,0.7768275037433424,0.774211188594885,0.1,17.0,reviewed,tx,tx
+2024-08-15T01:30:25.475Z,31.655,-104.308,5.5615,1.8,ml,32.0,58.0,0.0,0.1,tx,tx2024pywe,2024-08-15T14:19:52.127Z,"58 km S of Whites City, New Mexico",earthquake,0.7111210818330426,0.8990564749978894,0.2,19.0,reviewed,tx,tx
