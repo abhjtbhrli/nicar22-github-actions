@@ -11607,3 +11607,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-15T11:05:42.040Z,35.0811667,-119.1361667,12.06,1.81,ml,45.0,39.0,0.0485,0.27,ci,ci40702855,2024-08-15T11:12:36.662Z,"24 km E of Maricopa, CA",earthquake,0.25,0.73,0.243,26.0,automatic,ci,ci
 2024-08-15T10:59:48.575Z,61.9208,-151.5728,86.7,1.4,ml,,,,0.54,ak,ak024ah8u7mx,2024-08-15T11:02:18.515Z,"12 km SW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-08-15T10:55:19.180Z,35.9475,-117.6866667,4.13,1.05,ml,20.0,76.0,0.02945,0.12,ci,ci40702847,2024-08-15T11:01:22.430Z,"20 km E of Little Lake, CA",earthquake,0.17,0.33,0.163,13.0,automatic,ci,ci
+2024-08-15T11:21:23.696Z,36.6741,-115.8163,2.0,0.4,ml,19.0,224.45,0.118,0.2647,nn,nn00882480,2024-08-15T11:23:23.352Z,"17 km NW of Indian Springs, Nevada",earthquake,,3.3,0.35,13.0,automatic,nn,nn
+2024-08-15T11:17:20.270Z,35.0806667,-119.1421667,11.66,2.55,ml,57.0,30.0,0.0527,0.27,ci,ci40702879,2024-08-15T11:24:16.721Z,"24 km E of Maricopa, CA",earthquake,0.24,0.74,0.258,25.0,automatic,ci,ci
+2024-08-15T11:14:35.120Z,33.2391667,-116.0421667,3.23,1.75,ml,67.0,68.0,0.06239,0.2,ci,ci40702871,2024-08-15T11:21:12.713Z,"10 km SW of Salton City, CA",earthquake,0.15,0.34,0.137,26.0,automatic,ci,ci
+2024-08-15T11:05:46.790Z,33.3548333,-116.3731667,10.68,0.93,ml,35.0,61.0,0.02848,0.19,ci,ci40702863,2024-08-15T11:12:46.664Z,"11 km N of Borrego Springs, CA",earthquake,0.25,0.48,0.343,3.0,automatic,ci,ci
+2024-08-15T10:58:50.197Z,-9.3456,122.6856,84.529,4.4,mb,21.0,83.0,0.833,0.83,us,us7000n74w,2024-08-15T11:22:00.040Z,"95 km SSE of Maumere, Indonesia",earthquake,7.42,7.787,0.12,20.0,reviewed,us,us
