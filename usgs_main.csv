@@ -11563,3 +11563,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-15T06:59:44.590Z,38.82,-122.82,2.56,0.65,md,7.0,83.0,0.009416,0.01,nc,nc75048571,2024-08-15T07:01:21.088Z,"7 km NW of The Geysers, CA",earthquake,0.7,1.45000005,0.39,8.0,automatic,nc,nc
 2024-08-15T06:56:03.848Z,37.1304,-117.1276,4.2,1.1,ml,19.0,114.46000000000004,0.2,0.1622,nn,nn00882474,2024-08-15T06:58:12.522Z,"40 km NW of Beatty, Nevada",earthquake,,1.7,0.25,12.0,automatic,nn,nn
 2024-08-15T06:52:01.657Z,63.1966,-151.3298,0.0,1.2,ml,,,,0.88,ak,ak024ah6evl1,2024-08-15T06:54:01.099Z,"43 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-08-15T07:19:31.090Z,19.3471660614014,-155.204498291016,26.5300006866455,2.21000004,md,47.0,151.0,0.02844,0.159999996,hv,hv74401621,2024-08-15T07:21:14.680Z,"11 km SSE of Volcano, Hawaii",earthquake,0.42,0.360000014,0.209999993,22.0,automatic,hv,hv
+2024-08-15T07:14:37.790Z,38.78,-122.76,0.77,1.08,md,13.0,64.0,0.01061,0.03,nc,nc75048581,2024-08-15T07:16:16.085Z,"0 km ENE of The Geysers, CA",earthquake,0.25,0.519999981,0.28,13.0,automatic,nc,nc
+2024-08-15T07:11:12.050Z,36.49,-121.86,3.9,1.83,md,17.0,149.0,0.02856,0.11,nc,nc75048576,2024-08-15T07:12:51.068Z,"9 km SSE of Carmel By The Sea, CA",earthquake,0.39,0.579999983,0.23,14.0,automatic,nc,nc
