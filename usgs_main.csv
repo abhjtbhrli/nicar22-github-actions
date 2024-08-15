@@ -11652,3 +11652,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T15:16:40.030Z,47.2971666666667,-113.194333333333,16.91,1.43,ml,17.0,97.0,0.2111,0.09,mb,mb90059368,2024-08-15T13:42:13.890Z,"25 km ENE of Seeley Lake, Montana",earthquake,0.32,1.23,0.0650540868918417,6.0,reviewed,mb,mb
 2024-08-15T13:47:17.420Z,35.963,-117.6603333,2.56,1.27,ml,18.0,93.0,0.0171,0.13,ci,ci40703015,2024-08-15T13:53:29.595Z,"22 km E of Little Lake, CA",earthquake,0.2,0.15,0.207,14.0,automatic,ci,ci
 2024-08-15T06:20:30.906Z,10.0138,-83.9325,10.0,3.2,ml,7.0,159.0,0.177,0.56,us,us7000n75q,2024-08-15T13:53:28.966Z,"10 km ENE of Ipís, Costa Rica",earthquake,1.61,1.933,0.097,14.0,reviewed,us,us
+2024-08-15T14:11:09.835Z,60.643,-147.0727,19.6,1.2,ml,,,,1.46,ak,ak024ahaxkp3,2024-08-15T14:13:42.366Z,"32 km SW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-08-15T14:02:10.430Z,36.97,-121.61,3.72,1.28,md,9.0,111.0,0.02575,0.07,nc,nc75048701,2024-08-15T14:03:46.813Z,"6 km SW of Gilroy, CA",earthquake,0.39,0.779999971,0.11,6.0,automatic,nc,nc
+2024-08-15T13:59:23.320Z,34.0933333,-118.1993333,9.21,1.54,ml,24.0,84.0,0.05884,0.16,ci,ci40703023,2024-08-15T14:05:48.671Z,"3 km S of Highland Park, CA",earthquake,0.28,0.41,0.43,33.0,automatic,ci,ci
+2024-08-14T22:32:24.940Z,35.34216667,-98.0005,6.96,1.19,ml,60.0,63.0,0.08458340185,0.23,ok,ok2024pyqf,2024-08-15T14:05:17.105Z,"6 km WNW of Minco, Oklahoma",earthquake,,0.4,0.23,28.0,reviewed,ok,ok
