@@ -11592,3 +11592,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-15T09:50:07.230Z,35.102,-119.1148333,10.13,1.41,ml,32.0,64.0,0.05023,0.22,ci,ci40702807,2024-08-15T09:56:32.823Z,"24 km NW of Grapevine, CA",earthquake,0.25,0.55,0.143,27.0,automatic,ci,ci
 2024-08-15T09:48:14.240Z,34.1841667,-117.3515,5.97,1.09,ml,63.0,49.0,0.02523,0.19,ci,ci40702799,2024-08-15T09:54:37.216Z,"3 km NNW of Muscoy, CA",earthquake,0.14,0.4,0.119,27.0,automatic,ci,ci
 2024-08-15T09:33:04.746Z,24.4135,121.898,10.862,4.6,mb,30.0,57.0,0.365,1.08,us,us7000n74i,2024-08-15T09:55:40.040Z,"40 km SSE of Yilan, Taiwan",earthquake,1.99,4.822,0.137,16.0,reviewed,us,us
+2024-08-15T10:11:25.800Z,33.2473333,-116.0326667,4.35,0.81,ml,38.0,96.0,0.05105,0.2,ci,ci40702823,2024-08-15T10:17:45.454Z,"9 km SW of Salton City, CA",earthquake,0.18,0.49,0.159,13.0,automatic,ci,ci
+2024-08-15T10:06:47.780Z,35.6611667,-117.5391667,9.37,1.44,ml,30.0,46.0,0.0941,0.14,ci,ci40702815,2024-08-15T10:17:46.690Z,"13 km ENE of Ridgecrest, CA",earthquake,0.18,0.41,0.11,22.0,automatic,ci,ci
