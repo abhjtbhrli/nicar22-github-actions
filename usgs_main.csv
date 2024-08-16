@@ -11945,3 +11945,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-16T15:24:15.720Z,34.0431671,-117.2320023,15.21,1.32,ml,18.0,125.0,0.1856,0.16,ci,ci40704335,2024-08-16T15:26:38.832Z,"3 km ESE of Loma Linda, CA",earthquake,0.48,1.01,0.076,3.0,automatic,ci,ci
 2024-08-16T15:18:49.990Z,34.0209999,-117.237999,16.84,2.49,ml,104.0,19.0,0.08776,0.22,ci,ci40704327,2024-08-16T15:23:05.721Z,"4 km SE of Loma Linda, CA",earthquake,0.21,0.43,0.276,22.0,automatic,ci,ci
 2024-08-16T15:16:14.260Z,35.9621658325195,-120.514335632324,10.2700004577637,1.11,md,11.0,101.0,0.02788,0.06,nc,nc75049151,2024-08-16T15:17:50.393Z,"10 km NW of Parkfield, CA",earthquake,0.45,0.879999995,0.15,6.0,automatic,nc,nc
+2024-08-16T15:34:25.601Z,61.2172,-149.6159,34.5,3.8,ml,,,,0.38,ak,ak024aiz7bgz,2024-08-16T15:35:54.495Z,"4 km S of Elmendorf Air Force Base, Alaska",earthquake,,0.4,,,automatic,ak,ak
