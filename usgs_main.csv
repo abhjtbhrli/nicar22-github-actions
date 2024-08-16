@@ -11861,3 +11861,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-16T06:19:05.920Z,36.0766667,-117.9038333,5.39,1.56,ml,25.0,105.0,0.05692,0.15,ci,ci40704039,2024-08-16T06:25:21.680Z,"5 km NE of Coso Junction, CA",earthquake,0.2,0.46,0.241,17.0,automatic,ci,ci
 2024-08-16T06:17:46.452Z,62.818,-150.5663,86.2,1.9,ml,,,,0.24,ak,ak024aitqth1,2024-08-16T06:19:17.590Z,"37 km NNE of Petersville, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2024-08-16T05:19:22.891Z,31.645,-104.305,4.3954,2.0,ml,16.0,69.0,0.0,0.2,tx,tx2024qazg,2024-08-16T06:16:14.549Z,"59 km S of Whites City, New Mexico",earthquake,0.0,1.33725440502167,0.1,12.0,automatic,tx,tx
+2024-08-16T06:49:12.960Z,35.3546677,-119.2141647,18.21,1.17,ml,13.0,148.0,0.1232,0.29,ci,ci40704079,2024-08-16T06:51:24.641Z,"7 km WSW of Rosedale, CA",earthquake,1.39,2.4,0.6,6.0,automatic,ci,ci
+2024-08-16T06:46:22.710Z,35.0796667,-119.1428333,11.87,1.67,ml,44.0,38.0,0.05279,0.29,ci,ci40704071,2024-08-16T06:53:04.841Z,"24 km E of Maricopa, CA",earthquake,0.3,0.78,0.229,26.0,automatic,ci,ci
+2024-08-16T06:45:18.220Z,33.4253349,-116.7426682,11.63,3.08,ml,108.0,13.0,0.09519,0.19,ci,ci40704063,2024-08-16T06:51:03.446Z,"12 km E of Aguanga, CA",earthquake,0.18,0.53,0.222,16.0,automatic,ci,ci
