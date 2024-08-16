@@ -11864,3 +11864,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-16T06:49:12.960Z,35.3546677,-119.2141647,18.21,1.17,ml,13.0,148.0,0.1232,0.29,ci,ci40704079,2024-08-16T06:51:24.641Z,"7 km WSW of Rosedale, CA",earthquake,1.39,2.4,0.6,6.0,automatic,ci,ci
 2024-08-16T06:46:22.710Z,35.0796667,-119.1428333,11.87,1.67,ml,44.0,38.0,0.05279,0.29,ci,ci40704071,2024-08-16T06:53:04.841Z,"24 km E of Maricopa, CA",earthquake,0.3,0.78,0.229,26.0,automatic,ci,ci
 2024-08-16T06:45:18.220Z,33.4253349,-116.7426682,11.63,3.08,ml,108.0,13.0,0.09519,0.19,ci,ci40704063,2024-08-16T06:51:03.446Z,"12 km E of Aguanga, CA",earthquake,0.18,0.53,0.222,16.0,automatic,ci,ci
+2024-08-16T07:00:42.120Z,33.2621667,-116.4318333,3.64,0.73,ml,20.0,91.0,0.01369,0.17,ci,ci40704087,2024-08-16T07:07:05.183Z,"5 km W of Borrego Springs, CA",earthquake,0.44,0.52,0.084,12.0,automatic,ci,ci
+2024-08-16T06:51:41.846Z,37.0232,-117.6998,1.7,1.1,ml,10.0,223.2,0.268,0.1793,nn,nn00882526,2024-08-16T06:54:06.268Z,"50 km ENE of Independence, California",earthquake,,20.0,0.23,7.0,automatic,nn,nn
