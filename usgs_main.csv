@@ -11876,3 +11876,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-16T07:55:02.390Z,38.7014999389648,-122.768333435059,4.8600001335144,1.51,md,20.0,208.0,0.01261,0.04,nc,nc75049021,2024-08-16T07:56:38.868Z,"8 km SSW of The Geysers, CA",earthquake,0.47,0.670000017,0.12,20.0,automatic,nc,nc
 2024-08-16T07:51:57.692Z,63.356,-149.7972,98.0,1.5,ml,,,,0.29,ak,ak024aiujkah,2024-08-16T07:53:50.331Z,"42 km W of Cantwell, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-08-16T07:51:31.850Z,33.2693333,-116.4221667,5.06,0.7,ml,39.0,59.0,0.004344,0.17,ci,ci40704095,2024-08-16T07:57:27.036Z,"5 km WNW of Borrego Springs, CA",earthquake,0.15,0.34,0.132,13.0,automatic,ci,ci
+2024-08-16T08:23:49.577Z,65.6291,-147.7503,6.7,1.2,ml,,,,0.68,ak,ak024aiuyz7x,2024-08-16T08:26:58.678Z,"38 km ENE of Livengood, Alaska",earthquake,,0.7,,,automatic,ak,ak
