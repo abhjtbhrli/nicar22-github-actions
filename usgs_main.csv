@@ -11900,3 +11900,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-16T10:36:25.165Z,39.3485,-120.0007,4.0,0.9,ml,10.0,117.42,0.062,0.2091,nn,nn00882532,2024-08-16T10:38:17.223Z,"5 km SSE of Floriston, California",earthquake,,0.8,0.39,6.0,automatic,nn,nn
 2024-08-16T10:33:34.866Z,35.66477203,-97.78575897,5.0,1.81,ml,11.0,158.0394058,0.2936771512,1.392853966,ok,ok2024qbjp,2024-08-16T10:41:00.870Z,"4 km NW of Piedmont, Oklahoma",earthquake,7.506710618,,0.38,9.0,automatic,ok,ok
 2024-08-16T10:15:37.427Z,35.1009,37.0397,10.0,4.8,mww,83.0,65.0,2.071,0.58,us,us7000n7dh,2024-08-16T10:40:57.282Z,"10 km N of As Salamīyah, Syria",earthquake,5.68,1.825,0.08,15.0,reviewed,us,us
+2024-08-16T10:46:23.780Z,35.1006667,-119.1268333,13.13,2.21,ml,59.0,24.0,0.05484,0.27,ci,ci40704167,2024-08-16T10:53:25.218Z,"25 km NW of Grapevine, CA",earthquake,0.24,0.64,0.17,25.0,automatic,ci,ci
+2024-08-16T09:43:39.683Z,-3.3029,141.2341,25.09,4.6,mb,32.0,108.0,0.946,0.91,us,us7000n7dg,2024-08-16T10:48:19.040Z,"68 km S of Vanimo, Papua New Guinea",earthquake,8.56,5.901,0.122,20.0,reviewed,us,us
