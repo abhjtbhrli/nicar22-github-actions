@@ -11949,3 +11949,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-16T15:39:13.058Z,60.4986,-151.7189,70.6,1.9,ml,,,,0.42,ak,ak024aiz8d3d,2024-08-16T15:46:19.583Z,"25 km WNW of Kalifornsky, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-08-16T06:43:18.790Z,28.73,-98.246,9.8877,2.1,ml,15.0,72.0,0.1,0.2,tx,tx2024qbca,2024-08-16T15:40:23.410Z,"25 km WNW of Pawnee, Texas",earthquake,1.2300829742983963,3.3494692539648963,0.2,18.0,reviewed,tx,tx
 2024-08-16T15:51:32.016Z,39.2698,-119.6465,6.4,2.2,ml,14.0,69.84000000000003,0.121,0.172,nn,nn00882544,2024-08-16T15:53:59.488Z,"4 km S of Virginia City, Nevada",earthquake,,1.1,0.19,7.0,automatic,nn,nn
+2024-08-16T16:20:53.461Z,61.9864,-148.9041,20.6,1.6,ml,,,,0.27,ak,ak024aizpt7m,2024-08-16T16:22:25.829Z,"24 km NNW of Sutton-Alpine, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-16T16:07:55.020Z,34.0526667,-117.2458333,13.19,1.1,ml,55.0,32.0,0.1121,0.16,ci,ci40704407,2024-08-16T16:14:22.107Z,"2 km ENE of Loma Linda, CA",earthquake,0.16,0.42,0.199,27.0,automatic,ci,ci
+2024-08-16T15:57:10.180Z,19.279333114624,-155.455825805664,27.6399993896484,1.97000003,md,28.0,65.0,0.06905,0.150000006,hv,hv74404666,2024-08-16T15:58:53.240Z,"8 km NNE of Pāhala, Hawaii",earthquake,0.53,0.930000007,0.25,5.0,automatic,hv,hv
+2024-08-16T05:52:31.269Z,32.31,-101.832,5.9326,1.6,ml,28.0,37.0,0.0,0.1,tx,tx2024qbai,2024-08-16T16:11:04.607Z,"20 km NNW of Stanton, Texas",earthquake,0.5207977105695456,0.647331255694031,0.1,17.0,reviewed,tx,tx
+2024-08-16T02:11:28.379Z,28.736,-98.277,9.9854,1.9,ml,17.0,86.0,0.2,0.2,tx,tx2024qatb,2024-08-16T16:15:31.620Z,"22 km ESE of Christine, Texas",earthquake,1.527025875806069,3.227930005714298,0.2,14.0,reviewed,tx,tx
