@@ -11869,3 +11869,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-16T07:14:12.280Z,38.7900009155273,-122.807502746582,3.1800000667572,0.28,md,9.0,159.0,0.003847,0.02,nc,nc75049011,2024-08-16T07:15:48.816Z,"5 km WNW of The Geysers, CA",earthquake,0.45,1.38,0.06,10.0,automatic,nc,nc
 2024-08-16T07:10:45.720Z,38.826000213623,-122.786003112793,1.86000001430511,0.78,md,11.0,101.0,0.01285,0.01,nc,nc75049006,2024-08-16T07:12:24.365Z,"5 km WNW of Cobb, CA",earthquake,0.32,0.460000008,0.14,12.0,automatic,nc,nc
 2024-08-16T06:43:21.397Z,-19.2922,169.2994,162.923,4.3,mb,21.0,175.0,3.73,0.58,us,us7000n7d4,2024-08-16T07:17:46.040Z,"27 km N of Isangel, Vanuatu",earthquake,12.07,8.335,0.125,18.0,reviewed,us,us
+2024-08-16T07:41:11.498Z,60.4397,-152.7553,0.0,1.1,ml,,,,0.35,ak,ak024aiuhbkd,2024-08-16T07:42:42.330Z,"74 km NW of Ninilchik, Alaska",earthquake,,1.0,,,automatic,ak,ak
