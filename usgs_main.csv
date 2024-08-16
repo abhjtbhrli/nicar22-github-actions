@@ -11837,3 +11837,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-16T03:48:49.455Z,62.7808,-148.4009,53.9,1.8,ml,,,,0.84,ak,ak024ais5635,2024-08-16T03:50:52.590Z,"73 km SSE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-16T03:41:41.337Z,62.4122,-147.7793,23.3,2.1,ml,,,,0.7,ak,ak024ais3nho,2024-08-16T03:43:24.496Z,"61 km NNW of Eureka Roadhouse, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-16T00:22:43.660Z,0.85,97.0561,10.0,4.4,mb,24.0,206.0,0.688,0.9,us,us7000n7bg,2024-08-16T03:47:40.040Z,"78 km SW of Gunungsitoli, Indonesia",earthquake,3.84,1.923,0.144,14.0,reviewed,us,us
+2024-08-16T04:06:28.620Z,36.6019,-115.6145,0.7,1.5,ml,24.0,305.66,0.285,0.2245,nn,nn00882522,2024-08-16T04:08:37.469Z,"6 km NE of Indian Springs, Nevada",earthquake,,21.1,0.2,15.0,automatic,nn,nn
+2024-08-16T04:03:17.120Z,35.9656667,-117.6568333,2.49,2.64,ml,25.0,94.0,0.01849,0.17,ci,ci40703967,2024-08-16T04:10:19.899Z,"23 km E of Little Lake, CA",earthquake,0.25,0.2,0.247,26.0,automatic,ci,ci
+2024-08-16T03:58:55.340Z,35.6835,-117.543,6.94,0.78,ml,19.0,65.0,0.09884,0.12,ci,ci40703959,2024-08-16T04:04:42.958Z,"14 km ENE of Ridgecrest, CA",earthquake,0.25,0.65,0.077,7.0,automatic,ci,ci
