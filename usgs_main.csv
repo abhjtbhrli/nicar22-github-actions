@@ -11911,3 +11911,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-16T10:44:25.540Z,18.0333333333333,-67.065,16.92,2.8,md,17.0,76.0,0.01209,0.14,pr,pr71457538,2024-08-16T11:14:30.920Z,"1 km ESE of Palmarejo, Puerto Rico",earthquake,0.36,0.52,0.335866018732728,7.0,reviewed,pr,pr
 2024-08-16T11:28:54.863Z,62.7905,-148.7056,6.4,1.4,ml,,,,0.86,ak,ak024aiwsd0u,2024-08-16T11:30:59.182Z,"68 km S of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-16T11:21:29.190Z,33.4306667,-116.9166667,7.56,0.4,ml,32.0,36.0,0.05119,0.19,ci,ci40704191,2024-08-16T11:28:08.442Z,"5 km WSW of Aguanga, CA",earthquake,0.21,0.65,0.076,6.0,automatic,ci,ci
+2024-08-16T11:49:48.873Z,36.6569,-115.7238,4.0,0.2,ml,12.0,297.02,0.191,0.2408,nn,nn00882535,2024-08-16T11:51:57.400Z,"10 km NNW of Indian Springs, Nevada",earthquake,,2.2,0.48,9.0,automatic,nn,nn
+2024-08-16T11:41:37.980Z,35.9754981994629,-120.527496337891,3.13000011444092,0.81,md,8.0,96.0,0.01959,0.04,nc,nc75049106,2024-08-16T11:43:16.009Z,"12 km NW of Parkfield, CA",earthquake,0.45,1.15999997,0.09,3.0,automatic,nc,nc
