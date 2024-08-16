@@ -11938,3 +11938,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-16T13:06:01.932Z,36.3166,134.836,10.0,4.4,mb,23.0,77.0,2.026,0.64,us,us7000n7dx,2024-08-16T14:33:16.732Z,"83 km NNW of Kameshima, Japan",earthquake,7.29,1.906,0.149,13.0,reviewed,us,us
 2024-08-16T12:46:49.404Z,31.655,-104.305,8.1506,1.5,ml,21.0,58.0,0.0,0.3,tx,tx2024qboc,2024-08-16T14:33:46.801Z,"58 km S of Whites City, New Mexico",earthquake,0.888857915773896,0.8628177941491432,0.2,17.0,reviewed,tx,tx
 2024-08-15T18:00:01.110Z,35.90716667,-95.17083333,0.0,1.45,ml,30.0,125.0,0.5039011174,0.43,ok,ok2024qacv,2024-08-16T14:40:28.491Z,"3 km SW of Hulbert, Oklahoma",quarry blast,,0.7,0.18,14.0,reviewed,ok,ok
+2024-08-16T06:47:55.186Z,28.754,-98.242,1.8799,1.9,ml,17.0,44.0,0.1,0.3,tx,tx2024qbce,2024-08-16T14:56:16.064Z,"25 km E of Christine, Texas",earthquake,1.7469014533888392,3.578607046111345,0.1,11.0,reviewed,tx,tx
+2024-08-15T22:49:48.150Z,39.4398333333333,-111.059,1.74,1.76,ml,18.0,61.0,0.1286,0.11,uu,uu80078616,2024-08-16T14:54:16.170Z,"6 km SW of Hiawatha, Utah",earthquake,0.34,8.86,0.0757007318915759,5.0,reviewed,uu,uu
