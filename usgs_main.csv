@@ -11849,3 +11849,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-16T05:18:32.920Z,38.7918319702148,-122.767333984375,3.36999988555908,1.1,md,23.0,74.0,0.01061,0.02,nc,nc75048991,2024-08-16T05:20:09.416Z,"2 km NNW of The Geysers, CA",earthquake,0.28,0.560000002,0.15,25.0,automatic,nc,nc
 2024-08-16T05:03:33.880Z,35.9438333,-117.6843333,4.91,0.81,ml,18.0,69.0,0.02785,0.13,ci,ci40704015,2024-08-16T05:09:19.023Z,"20 km E of Little Lake, CA",earthquake,0.19,0.32,0.096,9.0,automatic,ci,ci
 2024-08-16T05:02:23.756Z,31.735,-104.101,5.7408,1.9,ml,17.0,68.0,0.0,0.2,tx,tx2024qayr,2024-08-16T05:14:02.029Z,"47 km W of Mentone, Texas",earthquake,0.0,2.49077701568604,0.2,13.0,automatic,tx,tx
+2024-08-16T05:24:10.285Z,64.4908,-146.9278,8.1,0.9,ml,,,,0.71,ak,ak024ait6t38,2024-08-16T05:26:18.021Z,"3 km SSW of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
