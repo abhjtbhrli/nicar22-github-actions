@@ -11834,3 +11834,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-16T03:20:36.496Z,62.5966,-148.9696,72.8,1.1,ml,,,,0.81,ak,ak024airz51d,2024-08-16T03:22:23.802Z,"60 km ENE of Chase, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2024-08-16T03:00:51.750Z,-9.3421,107.7116,10.0,4.9,mb,54.0,69.0,1.868,0.62,us,us7000n7c7,2024-08-16T03:25:34.040Z,"223 km SSW of Kawalu, Indonesia",earthquake,5.3,1.797,0.088,47.0,reviewed,us,us
 2024-08-16T00:17:20.178Z,0.8619,97.0326,10.0,4.5,mb,24.0,157.0,0.698,0.93,us,us7000n7bq,2024-08-16T03:37:35.040Z,"80 km SW of Gunungsitoli, Indonesia",earthquake,3.65,1.901,0.15,13.0,reviewed,us,us
+2024-08-16T03:48:49.455Z,62.7808,-148.4009,53.9,1.8,ml,,,,0.84,ak,ak024ais5635,2024-08-16T03:50:52.590Z,"73 km SSE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-16T03:41:41.337Z,62.4122,-147.7793,23.3,2.1,ml,,,,0.7,ak,ak024ais3nho,2024-08-16T03:43:24.496Z,"61 km NNW of Eureka Roadhouse, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-16T00:22:43.660Z,0.85,97.0561,10.0,4.4,mb,24.0,206.0,0.688,0.9,us,us7000n7bg,2024-08-16T03:47:40.040Z,"78 km SW of Gunungsitoli, Indonesia",earthquake,3.84,1.923,0.144,14.0,reviewed,us,us
