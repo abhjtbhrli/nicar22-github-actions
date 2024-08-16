@@ -11935,3 +11935,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-16T10:10:47.850Z,45.852,-122.938,20.56,1.06,ml,26.0,37.0,0.03879,0.12,uw,uw62028332,2024-08-16T14:05:32.260Z,"7 km WNW of Warren, Oregon",earthquake,0.25,0.49,0.1028095424321919,12.0,reviewed,uw,uw
 2024-08-16T03:55:48.720Z,45.80233333333334,-122.225,-2.1,1.35,ml,6.0,222.0,0.3982,0.26,uw,uw62028312,2024-08-16T13:59:10.080Z,"15 km ESE of Yacolt, Washington",other event,18.47,31.61,0.4402324145012126,4.0,reviewed,uw,uw
 2024-08-15T18:32:58.420Z,34.37033333,-96.84916667,0.0,1.21,ml,12.0,141.0,0.2627484398,0.48,ok,ok2024qadx,2024-08-16T14:31:13.125Z,"4 km SSW of Mill Creek, Oklahoma",quarry blast,,1.4,0.19,6.0,reviewed,ok,ok
+2024-08-16T13:06:01.932Z,36.3166,134.836,10.0,4.4,mb,23.0,77.0,2.026,0.64,us,us7000n7dx,2024-08-16T14:33:16.732Z,"83 km NNW of Kameshima, Japan",earthquake,7.29,1.906,0.149,13.0,reviewed,us,us
+2024-08-16T12:46:49.404Z,31.655,-104.305,8.1506,1.5,ml,21.0,58.0,0.0,0.3,tx,tx2024qboc,2024-08-16T14:33:46.801Z,"58 km S of Whites City, New Mexico",earthquake,0.888857915773896,0.8628177941491432,0.2,17.0,reviewed,tx,tx
+2024-08-15T18:00:01.110Z,35.90716667,-95.17083333,0.0,1.45,ml,30.0,125.0,0.5039011174,0.43,ok,ok2024qacv,2024-08-16T14:40:28.491Z,"3 km SW of Hulbert, Oklahoma",quarry blast,,0.7,0.18,14.0,reviewed,ok,ok
