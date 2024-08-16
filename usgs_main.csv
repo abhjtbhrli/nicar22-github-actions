@@ -11821,3 +11821,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-15T22:45:52.144Z,13.0601,-88.6709,74.681,4.4,mb,45.0,136.0,0.529,0.57,us,us7000n7am,2024-08-16T02:41:31.040Z,"27 km SSW of Puerto El Triunfo, El Salvador",earthquake,5.64,6.829,0.049,118.0,reviewed,us,us
 2024-08-15T22:28:35.631Z,52.8357,-166.7758,10.0,3.8,ml,28.0,229.0,0.895,0.76,us,us7000n7ae,2024-08-16T02:33:39.040Z,"116 km S of Unalaska, Alaska",earthquake,2.3,1.973,0.105,12.0,reviewed,us,us
 2024-08-15T22:01:06.621Z,-17.4821,179.8626,585.865,4.3,mb,24.0,243.0,1.746,1.44,us,us7000n7aa,2024-08-16T02:24:35.040Z,"86 km NE of Levuka, Fiji",earthquake,12.99,15.461,0.122,19.0,reviewed,us,us
+2024-08-16T02:49:09.540Z,38.8256683349609,-122.798500061035,2.67000007629395,1.1,md,22.0,55.0,0.009321,0.01,nc,nc75048956,2024-08-16T02:50:48.864Z,"6 km NNW of The Geysers, CA",earthquake,0.22,0.519999981,0.18,23.0,automatic,nc,nc
+2024-08-16T02:48:41.320Z,38.811164855957,-122.778831481934,0.46000000834465,0.85,md,10.0,115.0,0.002544,0.03,nc,nc75048951,2024-08-16T02:50:17.907Z,"4 km NNW of The Geysers, CA",earthquake,0.35,0.310000002,0.17,11.0,automatic,nc,nc
+2024-08-16T02:13:09.902Z,-21.2961,-68.5145,145.4,4.3,mb,23.0,54.0,0.84,0.69,us,us7000n7bt,2024-08-16T02:44:27.040Z,"28 km WSW of Ollagüe, Chile",earthquake,7.16,8.316,0.188,9.0,reviewed,us,us
+2024-08-15T22:50:43.476Z,-22.8736,-63.7723,530.751,3.9,mb,34.0,31.0,4.288,0.65,us,us7000n7ap,2024-08-16T02:46:36.040Z,"31 km S of General Mosconi, Argentina",earthquake,11.98,9.328,0.23,5.0,reviewed,us,us
