@@ -11948,3 +11948,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-16T15:34:25.601Z,61.2172,-149.6159,34.5,3.8,ml,,,,0.38,ak,ak024aiz7bgz,2024-08-16T15:35:54.495Z,"4 km S of Elmendorf Air Force Base, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-16T15:39:13.058Z,60.4986,-151.7189,70.6,1.9,ml,,,,0.42,ak,ak024aiz8d3d,2024-08-16T15:46:19.583Z,"25 km WNW of Kalifornsky, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-08-16T06:43:18.790Z,28.73,-98.246,9.8877,2.1,ml,15.0,72.0,0.1,0.2,tx,tx2024qbca,2024-08-16T15:40:23.410Z,"25 km WNW of Pawnee, Texas",earthquake,1.2300829742983963,3.3494692539648963,0.2,18.0,reviewed,tx,tx
+2024-08-16T15:51:32.016Z,39.2698,-119.6465,6.4,2.2,ml,14.0,69.84000000000003,0.121,0.172,nn,nn00882544,2024-08-16T15:53:59.488Z,"4 km S of Virginia City, Nevada",earthquake,,1.1,0.19,7.0,automatic,nn,nn
