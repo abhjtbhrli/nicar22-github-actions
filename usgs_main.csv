@@ -11829,3 +11829,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-16T02:19:01.660Z,0.6707,120.9121,66.713,4.4,mb,28.0,119.0,0.457,0.89,us,us7000n7bx,2024-08-16T03:14:57.040Z,"209 km NNE of Palu, Indonesia",earthquake,10.1,7.021,0.123,20.0,reviewed,us,us
 2024-08-16T02:11:37.985Z,-26.744,-176.5051,48.225,4.5,mb,20.0,130.0,2.791,0.88,us,us7000n7c2,2024-08-16T03:04:25.040Z,south of the Fiji Islands,earthquake,13.4,7.135,0.14,15.0,reviewed,us,us
 2024-08-16T02:03:06.570Z,18.9365,-67.5598333333333,34.09,3.37,md,11.0,319.0,0.6312,0.24,pr,pr71457493,2024-08-16T02:57:36.070Z,"69 km NW of San Antonio, Puerto Rico",earthquake,1.73,9.73,0.12083140846936,6.0,reviewed,pr,pr
+2024-08-16T03:28:55.182Z,36.54133987,-97.68328857,5.0,2.24,ml,12.0,264.8393631,0.4083237946,0.8226284804,ok,ok2024qavp,2024-08-16T03:37:26.248Z,"3 km SW of Hunter, Oklahoma",earthquake,14.54345993,,0.41,9.0,automatic,ok,ok
+2024-08-16T03:23:18.635Z,35.67240524,-97.39035797,2.303169966,2.21,ml,50.0,24.26568604,0.119066231,0.6403722027,ok,ok2024qavk,2024-08-16T03:33:28.158Z,"5 km W of Arcadia, Oklahoma",earthquake,1.602749756,1.380722728,0.21,37.0,automatic,ok,ok
+2024-08-16T03:20:36.496Z,62.5966,-148.9696,72.8,1.1,ml,,,,0.81,ak,ak024airz51d,2024-08-16T03:22:23.802Z,"60 km ENE of Chase, Alaska",earthquake,,2.1,,,automatic,ak,ak
+2024-08-16T03:00:51.750Z,-9.3421,107.7116,10.0,4.9,mb,54.0,69.0,1.868,0.62,us,us7000n7c7,2024-08-16T03:25:34.040Z,"223 km SSW of Kawalu, Indonesia",earthquake,5.3,1.797,0.088,47.0,reviewed,us,us
