@@ -12137,3 +12137,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-17T06:03:22.770Z,35.9476667,-117.6781667,4.79,1.02,ml,19.0,77.0,0.02255,0.16,ci,ci40705207,2024-08-17T06:09:11.025Z,"21 km E of Little Lake, CA",earthquake,0.22,0.37,0.183,14.0,automatic,ci,ci
 2024-08-17T05:58:40.806Z,62.595,-149.7621,6.9,1.5,ml,,,,0.61,ak,ak024akgxia8,2024-08-17T06:01:01.859Z,"23 km NE of Chase, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-17T05:25:58.516Z,31.605,-104.531,7.6387,1.5,ml,6.0,155.0,0.1,0.3,tx,tx2024qcuz,2024-08-17T06:07:39.926Z,"64 km SSW of Whites City, New Mexico",earthquake,0.0,10.3217859268188,0.2,6.0,automatic,tx,tx
+2024-08-17T06:33:06.007Z,36.5839,-115.5696,0.6,0.9,ml,18.0,309.1500000000001,0.325,0.2571,nn,nn00882579,2024-08-17T06:35:22.728Z,"9 km E of Indian Springs, Nevada",earthquake,,43.6,0.25,13.0,automatic,nn,nn
