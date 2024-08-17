@@ -12264,3 +12264,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-17T19:10:29.000Z,52.7,160.1,44.0,7.4,Mi,97.0,107.99999136000068,0.0,1.06,at,at00sidmlg,2024-08-17T19:20:41.126Z,"107 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,0.0,0.0,,66.0,reviewed,at,at
 2024-08-17T19:10:28.863Z,52.9491,159.9659,49.576,7.0,mww,144.0,63.0,0.799,0.66,us,us7000n7n8,2024-08-17T19:38:02.760Z,"90 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,7.93,4.32,0.041,56.0,reviewed,us,us
 2024-08-17T19:58:56.550Z,37.9129981994629,-122.298500061035,3.47000002861023,1.87,md,19.0,62.0,0.05286,0.09,nc,nc75049681,2024-08-17T20:18:18.432Z,"1 km ESE of El Cerrito, CA",earthquake,0.23,0.829999983,0.08,18.0,automatic,nc,nc
+2024-08-17T20:24:55.430Z,19.1846675872803,-155.377502441406,29.6000003814697,1.84000003,md,37.0,194.0,0.08511,0.129999995,hv,hv74407511,2024-08-17T20:26:24.120Z,"10 km E of Pāhala, Hawaii",earthquake,0.6,0.769999981,0.280000001,10.0,automatic,hv,hv
+2024-08-17T20:17:21.826Z,66.0141,-148.0225,6.4,2.5,ml,,,,0.58,ak,ak024akpm6ja,2024-08-17T20:20:18.595Z,"47 km SW of Beaver, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-17T19:39:59.626Z,52.9896,160.1884,35.0,5.1,mb,77.0,122.0,0.93,1.08,us,us7000n7n9,2024-08-17T20:22:02.040Z,"105 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,8.32,1.903,0.034,284.0,reviewed,us,us
