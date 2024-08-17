@@ -12107,3 +12107,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-17T02:25:43.628Z,60.4855,-152.3333,250.0,2.3,ml,,,,0.89,ak,ak024akeyakx,2024-08-17T02:34:05.932Z,"57 km WSW of Salamatof, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-08-17T02:23:44.351Z,61.1894,-149.6183,37.5,1.5,ml,,,,0.47,ak,ak024akexpoj,2024-08-17T02:25:43.178Z,"7 km S of Elmendorf Air Force Base, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-08-17T02:49:11.680Z,32.9171677,-115.8089981,7.87,1.25,ml,16.0,79.0,0.02887,0.17,ci,ci40705071,2024-08-17T02:51:23.774Z,"22 km SW of Westmorland, CA",earthquake,0.42,0.64,0.241,5.0,automatic,ci,ci
+2024-08-17T03:27:45.240Z,38.7915000915527,-122.77783203125,1.37000000476837,1.5,md,27.0,80.0,0.008058,0.03,nc,nc75049386,2024-08-17T03:29:21.434Z,"2 km NW of The Geysers, CA",earthquake,0.21,0.310000002,0.2,28.0,automatic,nc,nc
+2024-08-17T03:15:37.000Z,17.977,-66.8421666666667,14.37,2.26,md,6.0,184.0,0.1925,0.11,pr,pr71457573,2024-08-17T03:38:07.380Z,"3 km SW of Indios, Puerto Rico",earthquake,0.8,3.33,0.106518268850388,4.0,reviewed,pr,pr
