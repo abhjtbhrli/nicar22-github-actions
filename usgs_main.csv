@@ -12257,3 +12257,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-17T18:45:09.720Z,38.8383331298828,-122.81233215332,7.65999984741211,0.78,md,10.0,66.0,0.01502,0.04,nc,nc75049661,2024-08-17T18:46:48.596Z,"8 km WNW of Cobb, CA",earthquake,0.87,6.48000002,0.31,12.0,automatic,nc,nc
 2024-08-17T16:58:19.684Z,-2.4409,139.906,11.896,4.1,mb,19.0,66.0,0.8,0.6,us,us7000n7mu,2024-08-17T18:42:54.040Z,"82 km WNW of Abepura, Indonesia",earthquake,8.16,2.789,0.151,16.0,reviewed,us,us
 2024-08-17T18:59:48.865Z,62.8752,-150.0827,79.0,1.6,ml,,,,0.2,ak,ak024akoodhi,2024-08-17T19:01:12.323Z,"47 km N of Chase, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-08-17T19:14:36.890Z,19.4021663665771,-155.267166137695,0.730000019073486,1.75,md,14.0,55.0,0.004048,0.129999995,hv,hv74407381,2024-08-17T19:17:16.060Z,"5 km SW of Volcano, Hawaii",earthquake,0.16,0.239999995,0.310000002,11.0,automatic,hv,hv
+2024-08-17T19:10:27.000Z,52.732,160.085,43.9,7.4,Mi,15.0,147.59998819200095,,,pt,pt24230000,2024-08-17T19:19:33.680Z,"104 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,,,,13.0,reviewed,pt,pt
+2024-08-17T18:32:46.396Z,37.6787,20.0054,48.814,4.1,mb,32.0,129.0,1.608,1.02,us,us7000n7n2,2024-08-17T19:12:40.040Z,"68 km WSW of Katastárion, Greece",earthquake,6.98,10.863,0.198,9.0,reviewed,us,us
