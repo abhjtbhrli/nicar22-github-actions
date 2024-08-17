@@ -12117,3 +12117,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-17T04:31:26.420Z,38.8246650695801,-122.80549621582,3.41000008583069,0.79,md,11.0,74.0,0.003794,0.04,nc,nc75049396,2024-08-17T04:33:01.698Z,"7 km NNW of The Geysers, CA",earthquake,0.43,1.10000002,0.25,12.0,automatic,nc,nc
 2024-08-17T04:19:43.750Z,17.947,-66.9881666666667,11.24,2.76,md,16.0,196.0,0.05783,0.14,pr,pr71457578,2024-08-17T04:33:31.680Z,"6 km ESE of La Parguera, Puerto Rico",earthquake,0.35,0.42,0.343325392697738,8.0,reviewed,pr,pr
 2024-08-17T04:41:21.470Z,35.651165,-117.4603348,4.74,1.05,ml,11.0,92.0,0.03291,0.09,ci,ci40705135,2024-08-17T04:43:41.536Z,"14 km SSW of Searles Valley, CA",earthquake,0.55,0.92,0.14,4.0,automatic,ci,ci
+2024-08-17T04:46:46.060Z,33.6975,-116.8085,16.55,0.95,ml,49.0,63.0,0.07488,0.16,ci,ci40705143,2024-08-17T04:53:16.868Z,"10 km WSW of Idyllwild, CA",earthquake,0.18,0.31,0.185,29.0,automatic,ci,ci
