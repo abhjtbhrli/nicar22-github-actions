@@ -12188,3 +12188,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-17T12:01:41.880Z,62.079,-151.0262,72.7,1.3,ml,,,,0.4,ak,ak024akkrbsc,2024-08-17T12:04:02.963Z,"21 km ENE of Skwentna, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-08-17T11:59:43.530Z,36.603832244873,-121.13500213623,0.540000021457672,1.48,md,14.0,152.0,0.08087,0.23,nc,nc75049526,2024-08-17T12:30:57.915Z,"8 km NNE of Pinnacles, CA",earthquake,1.07,7.03000021,0.23,8.0,automatic,nc,nc
 2024-08-17T11:22:28.097Z,-5.0721,150.6495,213.565,4.6,mb,27.0,112.0,4.448,0.64,us,us7000n7lr,2024-08-17T12:12:03.040Z,"77 km NE of Kimbe, Papua New Guinea",earthquake,10.39,5.533,0.116,22.0,reviewed,us,us
+2024-08-17T12:43:56.608Z,63.0952,-151.4328,1.2,2.0,ml,,,,0.21,ak,ak024akl0czw,2024-08-17T12:45:52.004Z,"51 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-17T12:36:27.010Z,19.3964996337891,-155.258163452148,0.790000021457672,1.75,ml,18.0,50.0,0.007627,0.180000007,hv,hv74406771,2024-08-17T12:39:04.610Z,"5 km SSW of Volcano, Hawaii",earthquake,0.21,0.230000004,0.21,11.0,automatic,hv,hv
+2024-08-17T12:35:32.945Z,62.7387,-150.9408,76.5,1.5,ml,,,,0.77,ak,ak024akkylfy,2024-08-17T12:38:06.904Z,"28 km NNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-08-17T12:13:34.897Z,31.5555,-104.541,6.545,2.8,ml,12.0,120.0,0.731,0.48,us,us7000n7lv,2024-08-17T12:38:34.040Z,"63 km NNE of Van Horn, Texas",earthquake,1.91,5.886,0.062,34.0,reviewed,us,us
