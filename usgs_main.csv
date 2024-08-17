@@ -12285,3 +12285,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-17T22:20:26.760Z,38.829833984375,-122.790000915527,1.72000002861023,1.09,md,20.0,48.0,0.008567,0.02,nc,nc75049706,2024-08-17T22:22:06.035Z,"6 km WNW of Cobb, CA",earthquake,0.23,0.379999995,0.22,20.0,automatic,nc,nc
 2024-08-17T04:58:37.089Z,-5.7256,151.1876,65.726,4.7,mb,43.0,58.0,5.413,0.78,us,us7000n7kj,2024-08-17T22:16:16.040Z,"117 km E of Kimbe, Papua New Guinea",earthquake,12.16,5.48,0.082,45.0,reviewed,us,us
 2024-08-17T04:23:27.470Z,57.0323333333333,-135.695,6.66,-0.38,ml,4.0,270.0,0.01389,0.09,av,av93232986,2024-08-17T22:33:05.850Z,"22 km W of Sitka, Alaska",earthquake,0.96,0.63,0.18017091629567,4.0,reviewed,av,av
+2024-08-17T22:27:10.769Z,52.9425,160.0187,56.275,5.1,mb,138.0,123.0,0.832,0.66,us,us7000n7pl,2024-08-17T22:44:23.040Z,"94 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,9.06,6.575,0.033,297.0,reviewed,us,us
