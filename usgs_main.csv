@@ -12238,3 +12238,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-17T17:11:20.470Z,36.497501373291,-121.075836181641,6.40999984741211,1.97,md,25.0,101.0,0.04453,0.08,nc,nc75049626,2024-08-17T17:14:44.800Z,"7 km SE of Pinnacles, CA",earthquake,0.25,0.730000019,0.22,26.0,automatic,nc,nc
 2024-08-17T16:27:19.922Z,31.587,-104.547,4.3205,2.2,ml,7.0,161.0,0.1,0.3,tx,tx2024qdqt,2024-08-17T17:13:04.633Z,"66 km NNE of Van Horn, Texas",earthquake,0.0,2.51490187644958,0.2,7.0,automatic,tx,tx
 2024-08-17T15:59:33.079Z,31.585,-104.551,2.293,2.0,ml,8.0,163.0,0.1,0.4,tx,tx2024qdpw,2024-08-17T17:12:32.625Z,"66 km NNE of Van Horn, Texas",earthquake,0.0,3.18005657196045,0.2,7.0,automatic,tx,tx
+2024-08-17T17:28:23.685Z,62.1217,-147.6812,45.8,2.1,ml,,,,0.42,ak,ak024aknw8qo,2024-08-17T17:29:54.183Z,"33 km NW of Eureka Roadhouse, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-08-17T17:25:55.000Z,33.6676667,-116.69,16.2,0.61,ml,9.0,224.0,0.04784,0.13,ci,ci40705591,2024-08-17T17:31:59.059Z,"8 km SSE of Idyllwild, CA",earthquake,1.29,0.58,0.199,13.0,automatic,ci,ci
+2024-08-17T11:43:12.950Z,19.3826666666667,-155.129,2.03,0.98,ml,13.0,177.0,0.004015,0.09,hv,hv74406696,2024-08-17T17:33:53.140Z,"9 km S of Fern Forest, Hawaii",earthquake,1.35,0.28,0.121972192408991,1.0,reviewed,hv,hv
