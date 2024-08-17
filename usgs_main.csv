@@ -12220,3 +12220,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-17T15:19:10.704Z,62.2226,-149.6631,59.5,1.1,ml,,,,0.44,ak,ak024akmnf32,2024-08-17T15:21:39.772Z,"11 km NE of Susitna North, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2024-08-17T15:17:54.580Z,38.7776679992676,-122.758499145508,1.27999997138977,0.45,md,5.0,144.0,0.008956,0.01,nc,nc75049601,2024-08-17T15:19:33.153Z,"0 km WNW of The Geysers, CA",earthquake,1.05,0.860000014,0.25,7.0,automatic,nc,nc
 2024-08-17T15:14:46.649Z,36.4747,-115.428,0.1,1.9,ml,22.0,319.28,0.468,0.2466,nn,nn00882587,2024-08-17T15:17:06.280Z,"24 km ESE of Indian Springs, Nevada",earthquake,,34.1,0.17,14.0,automatic,nn,nn
+2024-08-17T15:33:09.919Z,64.4657,-146.9133,0.0,1.7,ml,,,,0.6,ak,ak024akmqf1r,2024-08-17T15:35:09.287Z,"6 km S of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-17T15:26:36.500Z,34.2891667,-118.4225,4.11,1.3,ml,39.0,42.0,0.03941,0.22,ci,ci40705519,2024-08-17T15:34:01.090Z,"2 km E of San Fernando, CA",earthquake,0.21,0.53,0.148,30.0,automatic,ci,ci
