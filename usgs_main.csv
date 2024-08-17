@@ -12209,3 +12209,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-17T04:03:53.077Z,36.8805,-115.9851,7.5,-0.4,ml,8.0,161.22999999999996,0.022,0.1258,nn,nn00882586,2024-08-17T14:04:55.225Z,"44 km NW of Indian Springs, Nevada",earthquake,,3.1,0.21,4.0,reviewed,nn,nn
 2024-08-17T14:25:28.390Z,34.2171669,-117.4694977,5.27,1.53,ml,56.0,35.0,0.01989,0.18,ci,ci40705471,2024-08-17T14:27:52.912Z,"5 km SSE of Lytle Creek, CA",earthquake,0.22,0.46,0.19,26.0,automatic,ci,ci
 2024-08-17T14:22:09.908Z,62.1545,-151.727,99.7,2.4,ml,,,,0.51,ak,ak024akm2mke,2024-08-17T14:24:12.123Z,"25 km NW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-08-17T14:30:05.510Z,33.6651667,-116.7543333,12.84,0.45,ml,22.0,65.0,0.0568,0.12,ci,ci40705479,2024-08-17T14:35:57.967Z,"9 km SSW of Idyllwild, CA",earthquake,0.27,0.49,0.126,7.0,automatic,ci,ci
