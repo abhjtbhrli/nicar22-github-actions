@@ -12207,3 +12207,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-17T14:03:03.988Z,62.0451,-152.0919,103.1,2.3,ml,,,,0.6,ak,ak024aklyjhz,2024-08-17T14:05:05.350Z,"36 km W of Skwentna, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-08-17T13:53:01.620Z,35.0851667,-119.0831667,12.13,1.47,ml,34.0,75.0,0.02651,0.2,ci,ci40705431,2024-08-17T14:10:51.086Z,"21 km NW of Grapevine, CA",earthquake,0.26,0.56,0.19,26.0,automatic,ci,ci
 2024-08-17T04:03:53.077Z,36.8805,-115.9851,7.5,-0.4,ml,8.0,161.22999999999996,0.022,0.1258,nn,nn00882586,2024-08-17T14:04:55.225Z,"44 km NW of Indian Springs, Nevada",earthquake,,3.1,0.21,4.0,reviewed,nn,nn
+2024-08-17T14:25:28.390Z,34.2171669,-117.4694977,5.27,1.53,ml,56.0,35.0,0.01989,0.18,ci,ci40705471,2024-08-17T14:27:52.912Z,"5 km SSE of Lytle Creek, CA",earthquake,0.22,0.46,0.19,26.0,automatic,ci,ci
+2024-08-17T14:22:09.908Z,62.1545,-151.727,99.7,2.4,ml,,,,0.51,ak,ak024akm2mke,2024-08-17T14:24:12.123Z,"25 km NW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
