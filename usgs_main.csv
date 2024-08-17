@@ -12171,3 +12171,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-17T10:17:49.250Z,38.8233337402344,-122.815002441406,1.98000001907349,0.82,md,17.0,40.0,0.00385,0.02,nc,nc75049486,2024-08-17T10:19:27.327Z,"7 km NNW of The Geysers, CA",earthquake,0.24,0.540000021,0.23,19.0,automatic,nc,nc
 2024-08-17T10:14:17.095Z,56.4765,-158.4219,86.5,2.2,ml,,,,0.87,ak,ak024akjn6z1,2024-08-17T10:16:34.376Z,"19 km NNE of Chignik Lagoon, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-08-17T10:07:34.740Z,33.9306667,-116.7685,16.57,2.01,ml,98.0,26.0,0.02128,0.18,ci,ci40705335,2024-08-17T10:18:08.560Z,"2 km NE of Cabazon, CA",earthquake,0.12,0.32,0.158,26.0,automatic,ci,ci
+2024-08-17T10:39:39.413Z,61.6009,-149.6982,34.9,1.4,ml,,,,0.25,ak,ak024akjsllh,2024-08-17T10:41:04.348Z,"5 km WSW of Meadow Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-17T10:38:32.710Z,38.8321647644043,-122.808502197266,2.25,1.4,md,31.0,36.0,0.008843,0.02,nc,nc75049501,2024-08-17T10:41:38.460Z,"7 km WNW of Cobb, CA",earthquake,0.17,0.289999992,0.12,32.0,automatic,nc,nc
