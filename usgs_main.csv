@@ -12373,3 +12373,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-18T08:08:03.660Z,38.7924995422363,-122.77799987793,2.10999989509583,0.94,md,8.0,102.0,0.00778,0.01,nc,nc75049906,2024-08-18T08:09:41.231Z,"3 km NW of The Geysers, CA",earthquake,0.54,0.949999988,0.21,8.0,automatic,nc,nc
 2024-08-18T07:58:41.766Z,64.8681,-147.9778,12.9,1.5,ml,,,,0.92,ak,ak024am5nq28,2024-08-18T08:00:54.397Z,"2 km NE of Ester, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-18T07:13:23.187Z,31.599,-103.959,6.1194,1.8,ml,14.0,70.0,0.0,0.2,tx,tx2024qetz,2024-08-18T07:59:48.628Z,"35 km NNW of Toyah, Texas",earthquake,0.0,2.28233599662781,0.2,11.0,automatic,tx,tx
+2024-08-18T08:11:43.490Z,35.0916667,-119.0625,11.81,1.73,ml,41.0,46.0,0.03733,0.21,ci,ci40705975,2024-08-18T08:28:19.584Z,"20 km NW of Grapevine, CA",earthquake,0.24,0.57,0.151,27.0,automatic,ci,ci
+2024-08-18T07:05:47.958Z,31.597,-104.538,4.3134,1.5,ml,7.0,158.0,0.1,0.2,tx,tx2024qett,2024-08-18T08:17:10.955Z,"65 km SSW of Whites City, New Mexico",earthquake,0.0,2.49814009666443,0.1,6.0,automatic,tx,tx
