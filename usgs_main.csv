@@ -12444,3 +12444,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-18T15:05:43.210Z,35.0998333,-119.1036667,14.09,2.47,ml,61.0,22.0,0.04425,0.27,ci,ci40706199,2024-08-18T15:16:40.690Z,"24 km NW of Grapevine, CA",earthquake,0.23,0.56,0.192,26.0,automatic,ci,ci
 2024-08-18T09:23:54.404Z,38.7086,-119.544,12.4,1.1,ml,9.0,173.69000000000003,0.192,0.133,nn,nn00882629,2024-08-18T15:04:45.972Z,"1 km N of Topaz Lake, Nevada",earthquake,,3.2,0.37,4.0,reviewed,nn,nn
 2024-08-18T08:14:46.148Z,39.2793,-119.645,3.7,0.6,ml,10.0,206.09,0.116,0.1795,nn,nn00882627,2024-08-18T15:01:40.056Z,"3 km S of Virginia City, Nevada",earthquake,,4.4,0.46,6.0,reviewed,nn,nn
+2024-08-18T15:33:43.080Z,38.7851676940918,-122.733001708984,1.6599999666214,1.32,md,21.0,83.0,0.003491,0.04,nc,nc75050006,2024-08-18T15:35:22.317Z,"2 km ENE of The Geysers, CA",earthquake,0.24,0.389999986,0.2,21.0,automatic,nc,nc
