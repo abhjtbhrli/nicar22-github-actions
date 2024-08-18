@@ -12353,3 +12353,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-18T04:58:16.100Z,27.5797,143.0915,10.0,4.8,mb,53.0,124.0,0.94,0.58,us,us7000n7qt,2024-08-18T05:17:26.040Z,"Bonin Islands, Japan region",earthquake,6.14,1.676,0.054,109.0,reviewed,us,us
 2024-08-18T05:35:55.720Z,60.1418,-148.4394,25.1,1.6,ml,,,,0.73,ak,ak024am4bygk,2024-08-18T05:38:10.057Z,"25 km WNW of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-18T05:19:08.986Z,54.2643,-164.0502,79.5,3.1,ml,,,,0.47,ak,ak024am48fdv,2024-08-18T05:33:24.266Z,"77 km SSW of False Pass, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-08-18T05:44:12.122Z,39.2414,-119.6354,5.3,0.8,ml,8.0,181.38000000000005,0.145,0.0823,nn,nn00882610,2024-08-18T05:46:37.117Z,"3 km W of Dayton, Nevada",earthquake,,2.3,0.39,5.0,automatic,nn,nn
+2024-08-18T05:40:37.900Z,19.1466674804688,-155.398834228516,31.4899997711182,2.25999999,md,49.0,178.0,0.06045,0.109999999,hv,hv74408471,2024-08-18T05:42:20.910Z,"10 km SE of Pāhala, Hawaii",earthquake,0.47,0.649999976,0.25,19.0,automatic,hv,hv
+2024-08-18T05:38:10.250Z,38.7953338623047,-122.782836914062,3.22000002861023,0.72,md,15.0,76.0,0.004516,0.02,nc,nc75049891,2024-08-18T05:39:46.135Z,"3 km NW of The Geysers, CA",earthquake,0.34,0.680000007,0.41,15.0,automatic,nc,nc
+2024-08-18T05:19:08.368Z,54.0504,-163.8839,64.586,3.4,ml,24.0,196.0,0.601,0.27,us,us7000n7qv,2024-08-18T05:39:59.040Z,"94 km SSW of False Pass, Alaska",earthquake,6.27,13.112,0.081,20.0,reviewed,us,us
