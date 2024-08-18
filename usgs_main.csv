@@ -12366,3 +12366,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-18T06:36:37.630Z,38.6886672973633,-122.49649810791,5.67999982833862,1.35,md,8.0,109.0,0.06978,0.05,nc,nc75049901,2024-08-18T06:38:15.584Z,"12 km SE of Middletown, CA",earthquake,0.34,1.34000003,0.06,7.0,automatic,nc,nc
 2024-08-18T06:00:38.130Z,19.6153,-68.3386,62.0,3.73,md,8.0,235.0,0.9098,0.47,pr,pr2024231000,2024-08-18T06:39:52.537Z,"102 km NE of Miches, Dominican Republic",earthquake,3.41,8.64,0.05,5.0,reviewed,pr,pr
 2024-08-18T06:39:01.823Z,64.5633,-151.1243,15.5,1.5,ml,,,,0.54,ak,ak024am4y4rq,2024-08-18T06:51:04.445Z,"54 km SSW of Manley Hot Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-08-18T06:58:20.524Z,38.0075,-116.2217,6.8,1.1,ml,9.0,277.83,0.807,0.3528,nn,nn00882613,2024-08-18T07:00:57.339Z,"58 km NW of Rachel, Nevada",earthquake,,6.9,0.15,7.0,automatic,nn,nn
