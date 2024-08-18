@@ -12375,3 +12375,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-18T07:13:23.187Z,31.599,-103.959,6.1194,1.8,ml,14.0,70.0,0.0,0.2,tx,tx2024qetz,2024-08-18T07:59:48.628Z,"35 km NNW of Toyah, Texas",earthquake,0.0,2.28233599662781,0.2,11.0,automatic,tx,tx
 2024-08-18T08:11:43.490Z,35.0916667,-119.0625,11.81,1.73,ml,41.0,46.0,0.03733,0.21,ci,ci40705975,2024-08-18T08:28:19.584Z,"20 km NW of Grapevine, CA",earthquake,0.24,0.57,0.151,27.0,automatic,ci,ci
 2024-08-18T07:05:47.958Z,31.597,-104.538,4.3134,1.5,ml,7.0,158.0,0.1,0.2,tx,tx2024qett,2024-08-18T08:17:10.955Z,"65 km SSW of Whites City, New Mexico",earthquake,0.0,2.49814009666443,0.1,6.0,automatic,tx,tx
+2024-08-18T08:35:51.110Z,19.1863327026367,-155.380172729492,31.5699996948242,1.90999997,md,30.0,192.0,0.08333,0.159999996,hv,hv74408636,2024-08-18T08:37:30.990Z,"10 km E of Pāhala, Hawaii",earthquake,0.7,0.620000005,0.159999996,3.0,automatic,hv,hv
+2024-08-18T08:29:58.050Z,35.6923333,-117.484,9.9,1.78,ml,32.0,79.0,0.0561,0.13,ci,ci40705983,2024-08-18T08:36:41.105Z,"11 km SW of Searles Valley, CA",earthquake,0.18,0.37,0.182,25.0,automatic,ci,ci
+2024-08-18T08:29:08.331Z,62.3551,-149.1542,0.0,1.8,ml,,,,0.53,ak,ak024am62vah,2024-08-18T08:30:28.431Z,"42 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-18T08:06:17.350Z,17.9598333333333,-66.9983333333333,13.49,3.01,md,24.0,184.0,0.04471,0.14,pr,pr71457693,2024-08-18T08:30:58.170Z,"5 km ESE of La Parguera, Puerto Rico",earthquake,0.4,0.2,0.103566400332441,11.0,reviewed,pr,pr
