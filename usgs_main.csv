@@ -12383,3 +12383,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-18T08:38:25.630Z,34.0073333,-118.348,10.13,1.22,ml,30.0,47.0,0.02026,0.24,ci,ci40705991,2024-08-18T08:44:45.424Z,"1 km N of View Park-Windsor Hills, CA",earthquake,0.35,0.74,0.145,30.0,automatic,ci,ci
 2024-08-18T08:38:24.661Z,67.0489,-147.1597,0.0,1.8,ml,,,,0.66,ak,ak024am64u0s,2024-08-18T08:41:29.214Z,"32 km W of Venetie, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-18T08:07:58.550Z,17.9423333333333,-66.9986666666667,13.1,2.58,md,6.0,219.0,0.05106,0.24,pr,pr71457698,2024-08-18T08:43:47.760Z,"6 km SE of La Parguera, Puerto Rico",earthquake,2.03,1.31,0.0265442701768679,3.0,reviewed,pr,pr
+2024-08-18T08:51:17.930Z,38.7949981689453,-122.735832214355,1.96000003814697,0.55,md,7.0,160.0,0.01176,0.02,nc,nc75049916,2024-08-18T08:52:56.274Z,"3 km NE of The Geysers, CA",earthquake,0.5,1.09000003,0.25,7.0,automatic,nc,nc
+2024-08-18T08:35:53.440Z,19.0221666666667,-64.8935,35.5,3.43,md,8.0,271.0,0.6524,0.18,pr,pr71457703,2024-08-18T08:49:50.040Z,"75 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,4.24,12.91,0.0603013943781159,4.0,reviewed,pr,pr
