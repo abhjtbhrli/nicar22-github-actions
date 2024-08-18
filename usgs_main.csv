@@ -12351,3 +12351,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-18T02:26:17.027Z,30.8954,-105.815,10.0,2.7,ml,12.0,150.0,0.882,1.28,us,us7000n7qc,2024-08-18T05:07:20.040Z,"38 km S of Porvenir, Mexico",earthquake,3.07,2.003,0.115,16.0,reviewed,us,us
 2024-08-18T05:23:12.100Z,38.7923316955566,-122.763999938965,2.73000001907349,1.11,md,20.0,67.0,0.008933,0.03,nc,nc75049881,2024-08-18T05:24:46.118Z,"2 km  of The Geysers, CA",earthquake,0.26,0.620000005,0.16,22.0,automatic,nc,nc
 2024-08-18T04:58:16.100Z,27.5797,143.0915,10.0,4.8,mb,53.0,124.0,0.94,0.58,us,us7000n7qt,2024-08-18T05:17:26.040Z,"Bonin Islands, Japan region",earthquake,6.14,1.676,0.054,109.0,reviewed,us,us
+2024-08-18T05:35:55.720Z,60.1418,-148.4394,25.1,1.6,ml,,,,0.73,ak,ak024am4bygk,2024-08-18T05:38:10.057Z,"25 km WNW of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-18T05:19:08.986Z,54.2643,-164.0502,79.5,3.1,ml,,,,0.47,ak,ak024am48fdv,2024-08-18T05:33:24.266Z,"77 km SSW of False Pass, Alaska",earthquake,,0.5,,,automatic,ak,ak
