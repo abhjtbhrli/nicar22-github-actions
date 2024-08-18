@@ -12474,3 +12474,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-18T20:21:23.640Z,38.6616668701172,-122.870162963867,4.15000009536743,0.9,md,5.0,190.0,0.1339,0.11,nc,nc75050071,2024-08-18T20:22:57.221Z,"6 km N of Healdsburg, CA",earthquake,3.25,9.72999954,0.2,4.0,automatic,nc,nc
 2024-08-18T20:17:10.160Z,33.1558333,-115.9621667,5.31,0.63,ml,22.0,74.0,0.02193,0.17,ci,ci40706391,2024-08-18T20:23:25.659Z,"16 km E of Ocotillo Wells, CA",earthquake,0.21,0.31,0.079,4.0,automatic,ci,ci
 2024-08-18T19:28:20.845Z,16.0523,-94.9727,10.0,4.4,mb,34.0,180.0,2.735,0.68,us,us7000n7u0,2024-08-18T20:14:16.040Z,"17 km S of San Mateo del Mar, Mexico",earthquake,10.73,1.991,0.067,63.0,reviewed,us,us
+2024-08-18T20:45:50.510Z,34.0216667,-118.306,3.47,1.27,ml,21.0,139.0,0.01654,0.22,ci,ci40706407,2024-08-18T20:52:22.835Z,"5 km SW of MacArthur Park, CA",earthquake,0.34,0.65,0.388,32.0,automatic,ci,ci
