@@ -12357,3 +12357,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-18T05:40:37.900Z,19.1466674804688,-155.398834228516,31.4899997711182,2.25999999,md,49.0,178.0,0.06045,0.109999999,hv,hv74408471,2024-08-18T05:42:20.910Z,"10 km SE of Pāhala, Hawaii",earthquake,0.47,0.649999976,0.25,19.0,automatic,hv,hv
 2024-08-18T05:38:10.250Z,38.7953338623047,-122.782836914062,3.22000002861023,0.72,md,15.0,76.0,0.004516,0.02,nc,nc75049891,2024-08-18T05:39:46.135Z,"3 km NW of The Geysers, CA",earthquake,0.34,0.680000007,0.41,15.0,automatic,nc,nc
 2024-08-18T05:19:08.368Z,54.0504,-163.8839,64.586,3.4,ml,24.0,196.0,0.601,0.27,us,us7000n7qv,2024-08-18T05:39:59.040Z,"94 km SSW of False Pass, Alaska",earthquake,6.27,13.112,0.081,20.0,reviewed,us,us
+2024-08-18T05:53:21.090Z,59.7344,-150.81,34.7,1.7,ml,,,,0.54,ak,ak024am4fqod,2024-08-18T05:55:35.351Z,"16 km SSE of Fox River, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-18T05:33:42.416Z,-41.2459,-89.5239,10.0,4.8,mb,36.0,150.0,12.318,1.24,us,us7000n7qy,2024-08-18T05:52:52.040Z,southeast of Easter Island,earthquake,13.09,1.916,0.069,65.0,reviewed,us,us
