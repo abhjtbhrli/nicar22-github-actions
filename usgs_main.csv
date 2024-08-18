@@ -12459,3 +12459,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-18T17:44:33.620Z,35.948,-117.6886667,4.53,0.97,ml,19.0,77.0,0.03107,0.11,ci,ci40706303,2024-08-18T17:50:20.768Z,"20 km E of Little Lake, CA",earthquake,0.16,0.28,0.111,14.0,automatic,ci,ci
 2024-08-18T18:12:17.670Z,35.8904991,-117.723999,8.05,0.98,ml,13.0,84.0,0.08278,0.13,ci,ci40706327,2024-08-18T18:14:40.919Z,"17 km ESE of Little Lake, CA",earthquake,0.4,1.23,0.242,3.0,automatic,ci,ci
 2024-08-18T17:40:33.462Z,31.045,-103.339,5.8355,1.9,ml,11.0,152.0,0.1,0.6,tx,tx2024qfor,2024-08-18T18:01:24.599Z,"34 km SW of Coyanosa, Texas",earthquake,0.0,4.18361043930054,0.3,8.0,automatic,tx,tx
+2024-08-18T18:24:03.350Z,38.7770004272461,-122.712829589844,1.49000000953674,1.03,md,6.0,97.0,0.01378,0.07,nc,nc75050036,2024-08-18T18:25:42.183Z,"2 km WNW of Anderson Springs, CA",earthquake,0.54,1.03999996,0.26,7.0,automatic,nc,nc
