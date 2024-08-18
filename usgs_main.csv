@@ -12387,3 +12387,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-18T08:35:53.440Z,19.0221666666667,-64.8935,35.5,3.43,md,8.0,271.0,0.6524,0.18,pr,pr71457703,2024-08-18T08:49:50.040Z,"75 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,4.24,12.91,0.0603013943781159,4.0,reviewed,pr,pr
 2024-08-18T09:05:47.240Z,35.0876667,-119.0535,13.12,1.18,ml,36.0,73.0,0.03819,0.2,ci,ci40706007,2024-08-18T09:12:00.135Z,"20 km NW of Grapevine, CA",earthquake,0.25,0.52,0.165,20.0,automatic,ci,ci
 2024-08-18T08:52:41.693Z,-55.1545,-31.205,10.0,4.7,mb,29.0,105.0,3.186,0.68,us,us7000n7rn,2024-08-18T09:13:25.040Z,South Georgia Island region,earthquake,12.59,1.933,0.104,28.0,reviewed,us,us
+2024-08-18T08:14:49.458Z,59.9522,-153.4152,147.796,2.7,ml,40.0,96.0,0.315,0.64,us,us7000n7rc,2024-08-18T09:26:30.040Z,"42 km ENE of Pedro Bay, Alaska",earthquake,5.24,6.951,0.043,70.0,reviewed,us,us
