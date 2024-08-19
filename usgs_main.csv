@@ -12575,3 +12575,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-19T07:57:56.180Z,35.8800010681152,-120.448165893555,8.02999973297119,0.86,md,10.0,121.0,0.02571,0.05,nc,nc75050346,2024-08-19T07:59:30.876Z,"3 km SW of Parkfield, CA",earthquake,0.99,1.13,0.12,4.0,automatic,nc,nc
 2024-08-19T07:24:15.284Z,52.694,160.2407,38.052,4.7,mb,72.0,134.0,1.019,0.47,us,us7000n7vx,2024-08-19T07:55:19.040Z,"116 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.51,7.394,0.06,83.0,reviewed,us,us
 2024-08-19T07:12:36.994Z,31.642,-104.25,7.2101,1.6,ml,15.0,67.0,0.0,0.7,tx,tx2024qgpm,2024-08-19T08:15:12.826Z,"56 km NW of Toyah, Texas",earthquake,0.0,2.87824606895447,0.2,12.0,automatic,tx,tx
+2024-08-19T08:22:01.080Z,36.2915000915527,-120.863830566406,6.80999994277954,1.45,md,11.0,121.0,0.07839,0.06,nc,nc75050356,2024-08-19T08:23:36.222Z,"22 km WSW of New Idria, CA",earthquake,0.35,0.620000005,0.22,7.0,automatic,nc,nc
+2024-08-19T07:01:26.794Z,31.6245,-104.3222,11.598,2.5,ml,33.0,99.0,0.158,0.56,us,us7000n7vq,2024-08-19T08:26:44.040Z,"60 km NW of Toyah, Texas",earthquake,1.5,6.963,0.059,70.0,reviewed,us,us
