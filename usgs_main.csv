@@ -12689,3 +12689,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-19T18:34:26.479Z,63.7639,-148.3881,80.5,1.2,ml,,,,1.77,ak,ak024anzlnsi,2024-08-19T18:37:38.900Z,"26 km E of Denali Park, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-08-19T08:30:35.137Z,39.2144,-119.7513,5.9,-0.4,ml,3.0,186.97,0.025,0.0563,nn,nn00882660,2024-08-19T18:34:17.095Z,"5 km NNE of Carson City, Nevada",earthquake,,6.9,0.0,1.0,reviewed,nn,nn
 2024-08-19T06:58:57.684Z,37.0208,-118.1439,7.5,0.7,ml,3.0,234.17,0.077,0.0821,nn,nn00882659,2024-08-19T18:28:09.421Z,"20 km SE of Big Pine, California",earthquake,,13.3,0.17,2.0,reviewed,nn,nn
+2024-08-19T18:43:04.000Z,35.6975,-117.5285,7.66,0.72,ml,18.0,66.0,0.09123,0.15,ci,ci40707479,2024-08-19T18:49:04.140Z,"14 km SW of Searles Valley, CA",earthquake,0.31,1.03,0.134,6.0,automatic,ci,ci
+2024-08-19T17:56:45.530Z,38.5025,-112.8735,0.67,0.64,md,13.0,67.0,0.007547,0.1,uu,uu80079031,2024-08-19T18:48:31.240Z,"16 km NE of Milford, Utah",earthquake,0.23,0.42,0.483184650004374,5.0,reviewed,uu,uu
