@@ -12661,3 +12661,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-19T02:22:57.906Z,28.765,-98.271,8.8623,1.5,ml,17.0,70.0,0.1,0.4,tx,tx2024qgfx,2024-08-19T16:23:03.411Z,"22 km E of Christine, Texas",earthquake,0.8629372122656223,2.0551436743126485,0.1,10.0,reviewed,tx,tx
 2024-08-19T16:41:19.410Z,34.1349983,-117.7850037,4.06,1.2,ml,16.0,76.0,0.04682,0.15,ci,ci40707303,2024-08-19T16:43:25.811Z,"4 km NNE of San Dimas, CA",earthquake,0.38,0.74,0.24,10.0,automatic,ci,ci
 2024-08-19T16:09:52.163Z,59.5541,-153.0087,110.46,2.6,ml,32.0,91.0,0.698,0.59,us,us7000n7xl,2024-08-19T16:38:44.040Z,"65 km WNW of Nanwalek, Alaska",earthquake,5.21,10.079,0.048,56.0,reviewed,us,us
+2024-08-19T16:45:00.190Z,38.9033317565918,-122.893165588379,2.17000007629395,2.05,md,43.0,98.0,0.04677,0.05,nc,nc75050536,2024-08-19T16:48:19.420Z,"10 km SW of Kelseyville, CA",earthquake,0.22,0.870000005,0.18,40.0,automatic,nc,nc
