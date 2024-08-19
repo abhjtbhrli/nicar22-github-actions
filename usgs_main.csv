@@ -12697,3 +12697,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-19T19:15:36.660Z,38.8408317565918,-122.827331542969,-0.75,0.39,md,12.0,76.0,0.006751,0.16,nc,nc75050601,2024-08-19T19:17:12.865Z,"9 km WNW of Cobb, CA",earthquake,0.37,1.71000004,0.27,12.0,automatic,nc,nc
 2024-08-19T19:09:00.568Z,61.3086,-151.3649,67.5,1.6,ml,,,,0.42,ak,ak024ao01ojs,2024-08-19T19:11:11.160Z,"24 km NW of Beluga, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-08-19T09:11:41.884Z,36.5947,-115.7403,8.6,0.3,ml,11.0,324.39,0.191,0.1,nn,nn00882664,2024-08-19T19:01:57.591Z,"6 km WNW of Indian Springs, Nevada",earthquake,,6.7,0.13,3.0,reviewed,nn,nn
+2024-08-19T19:25:21.800Z,38.7721672058105,-122.712829589844,1.76999998092651,1.12,md,11.0,100.0,0.01132,0.02,nc,nc75050606,2024-08-19T19:26:58.848Z,"2 km W of Anderson Springs, CA",earthquake,0.29,0.460000008,0.14,11.0,automatic,nc,nc
+2024-08-19T08:50:14.680Z,19.3706666666667,-155.194,9.62,0.9,md,22.0,114.0,0.02053,0.14,hv,hv74410116,2024-08-19T19:20:54.640Z,"9 km SSE of Volcano, Hawaii",earthquake,0.71,0.38,0.0508581499945263,2.0,reviewed,hv,hv
