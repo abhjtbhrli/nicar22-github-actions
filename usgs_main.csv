@@ -12662,3 +12662,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-19T16:41:19.410Z,34.1349983,-117.7850037,4.06,1.2,ml,16.0,76.0,0.04682,0.15,ci,ci40707303,2024-08-19T16:43:25.811Z,"4 km NNE of San Dimas, CA",earthquake,0.38,0.74,0.24,10.0,automatic,ci,ci
 2024-08-19T16:09:52.163Z,59.5541,-153.0087,110.46,2.6,ml,32.0,91.0,0.698,0.59,us,us7000n7xl,2024-08-19T16:38:44.040Z,"65 km WNW of Nanwalek, Alaska",earthquake,5.21,10.079,0.048,56.0,reviewed,us,us
 2024-08-19T16:45:00.190Z,38.9033317565918,-122.893165588379,2.17000007629395,2.05,md,43.0,98.0,0.04677,0.05,nc,nc75050536,2024-08-19T16:48:19.420Z,"10 km SW of Kelseyville, CA",earthquake,0.22,0.870000005,0.18,40.0,automatic,nc,nc
+2024-08-19T17:01:36.301Z,38.6807,-118.5615,3.8,2.3,ml,13.0,92.54,0.275,0.2376,nn,nn00882653,2024-08-19T17:04:17.006Z,"17 km ENE of Walker Lake, Nevada",earthquake,,8.2,0.27,8.0,automatic,nn,nn
+2024-08-19T16:52:57.772Z,62.8794,-150.6895,29.2,1.2,ml,,,,0.57,ak,ak024anyipxt,2024-08-19T16:55:26.651Z,"42 km N of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-08-19T00:49:06.802Z,31.661,-104.467,6.4075,1.6,ml,21.0,71.0,0.0,0.3,tx,tx2024qgcv,2024-08-19T17:01:31.035Z,"57 km S of Whites City, New Mexico",earthquake,1.1205625670510695,0.774167168590512,0.2,15.0,reviewed,tx,tx
+2024-08-18T22:36:45.060Z,38.6666666666667,-111.425166666667,2.51,0.67,ml,4.0,193.0,0.1132,0.12,uu,uu80078961,2024-08-19T17:09:18.540Z,"28 km NE of Fremont, Utah",earthquake,0.82,31.61,0.0734045170471022,2.0,reviewed,uu,uu
