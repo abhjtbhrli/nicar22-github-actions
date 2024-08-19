@@ -12694,3 +12694,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-19T18:54:26.300Z,34.604332,-116.6194992,1.37,2.59,ml,100.0,39.0,0.03962,0.13,ci,ci40707511,2024-08-19T18:56:42.631Z,"37 km ENE of Lucerne Valley, CA",earthquake,0.13,0.47,0.236,24.0,automatic,ci,ci
 2024-08-19T18:07:06.690Z,38.4988333333333,-112.88,1.4,0.07,md,6.0,134.0,0.005888,0.06,uu,uu80079036,2024-08-19T18:53:40.530Z,"16 km NE of Milford, Utah",earthquake,0.52,0.56,0.330711113149629,3.0,reviewed,uu,uu
 2024-08-19T09:10:41.210Z,36.5958,-115.7871,8.3,0.1,ml,11.0,322.95,0.155,0.1332,nn,nn00882663,2024-08-19T18:58:51.034Z,"10 km WNW of Indian Springs, Nevada",earthquake,,7.1,0.15,2.0,reviewed,nn,nn
+2024-08-19T19:15:36.660Z,38.8408317565918,-122.827331542969,-0.75,0.39,md,12.0,76.0,0.006751,0.16,nc,nc75050601,2024-08-19T19:17:12.865Z,"9 km WNW of Cobb, CA",earthquake,0.37,1.71000004,0.27,12.0,automatic,nc,nc
+2024-08-19T19:09:00.568Z,61.3086,-151.3649,67.5,1.6,ml,,,,0.42,ak,ak024ao01ojs,2024-08-19T19:11:11.160Z,"24 km NW of Beluga, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-08-19T09:11:41.884Z,36.5947,-115.7403,8.6,0.3,ml,11.0,324.39,0.191,0.1,nn,nn00882664,2024-08-19T19:01:57.591Z,"6 km WNW of Indian Springs, Nevada",earthquake,,6.7,0.13,3.0,reviewed,nn,nn
