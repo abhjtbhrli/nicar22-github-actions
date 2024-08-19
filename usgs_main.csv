@@ -12685,3 +12685,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-19T10:52:03.660Z,48.659666666666666,-122.02283333333334,0.24,1.25,ml,8.0,84.0,0.09449,0.05,uw,uw62038316,2024-08-19T18:20:42.890Z,"14 km ESE of Acme, Washington",earthquake,0.23,0.55,0.1195869741267343,6.0,reviewed,uw,uw
 2024-08-19T09:06:32.230Z,46.181,-122.1505,-0.41,0.06,ml,5.0,259.0,0.03098,0.1,uw,uw62038311,2024-08-19T18:10:04.140Z,"37 km NE of Amboy, Washington",earthquake,2.85,8.17,0.1117352229359327,4.0,reviewed,uw,uw
 2024-08-19T02:00:34.847Z,39.2845,-119.9778,3.4,0.6,ml,3.0,164.18,0.046,0.0169,nn,nn00882657,2024-08-19T18:22:00.245Z,"3 km N of Incline Village, Nevada",earthquake,,28.6,0.0,1.0,reviewed,nn,nn
+2024-08-19T18:37:12.220Z,33.2265015,-117.1958313,3.07,1.25,ml,28.0,116.0,0.06558,0.28,ci,ci40707463,2024-08-19T18:39:25.541Z,"5 km NE of Vista, CA",earthquake,0.44,0.55,0.168,6.0,automatic,ci,ci
+2024-08-19T18:34:26.479Z,63.7639,-148.3881,80.5,1.2,ml,,,,1.77,ak,ak024anzlnsi,2024-08-19T18:37:38.900Z,"26 km E of Denali Park, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2024-08-19T08:30:35.137Z,39.2144,-119.7513,5.9,-0.4,ml,3.0,186.97,0.025,0.0563,nn,nn00882660,2024-08-19T18:34:17.095Z,"5 km NNE of Carson City, Nevada",earthquake,,6.9,0.0,1.0,reviewed,nn,nn
+2024-08-19T06:58:57.684Z,37.0208,-118.1439,7.5,0.7,ml,3.0,234.17,0.077,0.0821,nn,nn00882659,2024-08-19T18:28:09.421Z,"20 km SE of Big Pine, California",earthquake,,13.3,0.17,2.0,reviewed,nn,nn
