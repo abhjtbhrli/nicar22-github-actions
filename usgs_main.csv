@@ -12857,3 +12857,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-20T06:51:13.340Z,38.8256683349609,-122.792503356934,1.07000005245209,0.95,md,15.0,47.0,0.01283,0.03,nc,nc75050801,2024-08-20T06:52:49.416Z,"6 km WNW of Cobb, CA",earthquake,0.23,0.74000001,0.28,18.0,automatic,nc,nc
 2024-08-20T06:50:08.324Z,38.6645,-118.5645,2.8,1.2,ml,8.0,157.53000000000003,0.527,0.193,nn,nn00882685,2024-08-20T06:52:58.510Z,"16 km NNE of Hawthorne, Nevada",earthquake,,2.1,0.18,5.0,automatic,nn,nn
 2024-08-20T06:44:51.220Z,18.0636666666667,-67.0351666666667,11.72,,,5.0,185.0,0.09088,0.1,pr,pr71457858,2024-08-20T07:01:44.270Z,"2 km SSE of San Germán, Puerto Rico",earthquake,0.74,0.77,,,reviewed,pr,pr
+2024-08-20T07:17:25.442Z,61.224,-152.4018,0.0,1.4,ml,,,,0.89,ak,ak024apghlfk,2024-08-20T07:19:28.972Z,"70 km WNW of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-08-20T07:09:52.060Z,35.2456667,-118.4773333,5.7,1.05,ml,29.0,51.0,0.1737,0.18,ci,ci40708287,2024-08-20T07:17:13.900Z,"13 km NNW of Tehachapi, CA",earthquake,0.22,1.56,0.156,12.0,automatic,ci,ci
+2024-08-20T06:24:24.400Z,18.8828,-67.3513,20.0,3.56,md,14.0,181.0,0.4797,0.43,pr,pr2024233000,2024-08-20T07:13:02.812Z,"50 km NNW of San Antonio, Puerto Rico",earthquake,1.6,30.53,0.14,11.0,reviewed,pr,pr
