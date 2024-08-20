@@ -12817,3 +12817,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-20T04:31:26.333Z,59.6763,-152.7425,92.5,2.0,ml,,,,0.31,ak,ak024apesapl,2024-08-20T04:33:14.505Z,"52 km WSW of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-20T04:24:11.100Z,17.943,-66.9993333333333,13.06,2.49,md,13.0,226.0,0.05017,0.1,pr,pr71457828,2024-08-20T04:35:37.730Z,"6 km SE of La Parguera, Puerto Rico",earthquake,0.47,0.23,0.0629497411172899,5.0,reviewed,pr,pr
 2024-08-19T23:00:14.380Z,48.21183333333333,-122.67266666666669,23.96,2.02,ml,53.0,41.0,0.02797,0.13,uw,uw62038596,2024-08-20T04:35:37.770Z,"1 km SE of Coupeville, Washington",earthquake,0.17,0.3,0.1991531137410844,41.0,reviewed,uw,uw
+2024-08-20T04:49:48.960Z,35.1118317,-119.0849991,12.06,1.58,ml,30.0,48.0,0.05312,0.18,ci,ci40708167,2024-08-20T04:51:55.358Z,"23 km SW of Lamont, CA",earthquake,0.44,0.89,0.251,6.0,automatic,ci,ci
