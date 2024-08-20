@@ -13015,3 +13015,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-19T19:05:18.980Z,34.33933333,-96.81066667,0.0,1.31,ml,27.0,207.0,0.2429523245,0.51,ok,ok2024qhmz,2024-08-20T13:29:59.345Z,"7 km SSE of Mill Creek, Oklahoma",quarry blast,,0.9,0.23,14.0,reviewed,ok,ok
 2024-08-19T17:51:19.850Z,34.5135,-97.46783333,6.11,1.01,ml,13.0,111.0,0.08998234239,0.29,ok,ok2024qhko,2024-08-20T13:23:32.600Z,"3 km N of Tatums, Oklahoma",earthquake,,1.1,0.15,7.0,reviewed,ok,ok
 2024-08-19T16:30:22.250Z,34.5095,-97.46866667,6.01,1.09,ml,22.0,86.0,0.09178198924,0.33,ok,ok2024qhhw,2024-08-20T13:18:31.716Z,"3 km NNW of Tatums, Oklahoma",earthquake,,1.0,0.17,9.0,reviewed,ok,ok
+2024-08-20T13:34:44.080Z,35.5275002,-118.1548309,6.17,1.45,ml,14.0,75.0,0.01492,0.14,ci,ci40708559,2024-08-20T13:36:50.465Z,"30 km ESE of Lake Isabella, CA",earthquake,0.51,0.84,0.167,3.0,automatic,ci,ci
+2024-08-20T13:34:26.730Z,35.7094994,-117.5148315,5.37,1.97,ml,37.0,52.0,0.0864,0.13,ci,ci40708551,2024-08-20T13:36:41.380Z,"12 km WSW of Searles Valley, CA",earthquake,0.22,1.24,0.245,23.0,automatic,ci,ci
+2024-08-20T13:31:15.070Z,19.3778324127197,-155.235504150391,0.319999992847443,1.94,ml,20.0,120.0,0.00642,0.219999999,hv,hv74413241,2024-08-20T13:33:52.200Z,"7 km S of Volcano, Hawaii",earthquake,0.2,0.200000003,0.35,13.0,automatic,hv,hv
