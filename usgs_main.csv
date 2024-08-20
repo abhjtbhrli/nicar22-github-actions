@@ -12860,3 +12860,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-20T07:17:25.442Z,61.224,-152.4018,0.0,1.4,ml,,,,0.89,ak,ak024apghlfk,2024-08-20T07:19:28.972Z,"70 km WNW of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-08-20T07:09:52.060Z,35.2456667,-118.4773333,5.7,1.05,ml,29.0,51.0,0.1737,0.18,ci,ci40708287,2024-08-20T07:17:13.900Z,"13 km NNW of Tehachapi, CA",earthquake,0.22,1.56,0.156,12.0,automatic,ci,ci
 2024-08-20T06:24:24.400Z,18.8828,-67.3513,20.0,3.56,md,14.0,181.0,0.4797,0.43,pr,pr2024233000,2024-08-20T07:13:02.812Z,"50 km NNW of San Antonio, Puerto Rico",earthquake,1.6,30.53,0.14,11.0,reviewed,pr,pr
+2024-08-20T07:30:06.820Z,32.6603317,-115.609169,10.75,3.05,ml,68.0,46.0,0.09948,0.29,ci,ci40708311,2024-08-20T07:32:40.060Z,"9 km NNW of Progreso, B.C., MX",earthquake,0.24,0.53,0.351,20.0,automatic,ci,ci
+2024-08-20T07:23:07.380Z,35.0895,-119.0973333,13.06,1.33,ml,33.0,73.0,0.03277,0.23,ci,ci40708303,2024-08-20T07:33:25.452Z,"22 km NW of Grapevine, CA",earthquake,0.33,0.6,0.213,28.0,automatic,ci,ci
