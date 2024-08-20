@@ -12842,3 +12842,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-20T06:16:23.334Z,62.1664,-149.6286,34.8,2.5,ml,,,,0.53,ak,ak024apfvxy5,2024-08-20T06:18:24.277Z,"11 km E of Susitna North, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-08-20T06:09:42.160Z,34.4865,-119.0608333,8.08,1.47,ml,39.0,39.0,0.08037,0.25,ci,ci40708247,2024-08-20T06:20:28.070Z,"15 km N of Santa Paula, CA",earthquake,0.25,0.96,0.176,30.0,automatic,ci,ci
 2024-08-20T06:03:31.230Z,38.7970008850098,-122.729835510254,1.5900000333786,1.17,md,10.0,102.0,0.01476,0.04,nc,nc75050786,2024-08-20T06:05:09.211Z,"3 km SSW of Cobb, CA",earthquake,0.32,1.17999995,0.17,10.0,automatic,nc,nc
+2024-08-20T06:38:02.910Z,19.3735008239746,-155.184326171875,1.71000003814697,1.99,ml,39.0,67.0,0.02943,0.25999999,hv,hv74412076,2024-08-20T06:40:38.240Z,"9 km SE of Volcano, Hawaii",earthquake,0.36,0.49000001,0.24,11.0,automatic,hv,hv
+2024-08-20T06:28:43.937Z,62.4545,-151.6402,87.9,2.4,ml,,,,0.66,ak,ak024apfyk4p,2024-08-20T06:30:33.943Z,"45 km W of Petersville, Alaska",earthquake,,1.0,,,automatic,ak,ak
