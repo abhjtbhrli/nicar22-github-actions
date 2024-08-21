@@ -13505,3 +13505,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-21T19:01:08.430Z,33.8585,-117.5083333,2.67,1.45,ml,31.0,45.0,0.06675,0.2,ci,ci40710311,2024-08-21T19:07:56.824Z,"2 km SSE of Home Gardens, CA",earthquake,0.28,0.34,0.476,38.0,automatic,ci,ci
 2024-08-21T00:51:02.750Z,53.9363333333333,-166.586833333333,10.16,0.24,ml,8.0,211.0,0.06416,0.19,av,av93018879,2024-08-21T19:02:44.740Z,"5 km NNW of Dutch Harbor, Alaska",earthquake,0.53,0.85,0.180904838930624,7.0,reviewed,av,av
 2024-08-21T12:18:52.865Z,38.7091,-118.52,5.7,0.9,ml,4.0,303.41,0.471,0.1837,nn,nn00882774,2024-08-21T19:17:27.417Z,"21 km ENE of Walker Lake, Nevada",earthquake,,4.6,0.2,3.0,reviewed,nn,nn
+2024-08-21T19:31:12.650Z,32.7598343,-116.9306641,3.09,1.11,ml,11.0,75.0,0.02611,0.15,ci,ci40710319,2024-08-21T19:33:27.455Z,"2 km NNE of Rancho San Diego, CA",earthquake,0.59,0.7,0.15,5.0,automatic,ci,ci
+2024-08-21T19:25:03.564Z,62.4167,-147.8184,47.6,1.2,ml,,,,0.72,ak,ak024arb7t84,2024-08-21T19:27:53.111Z,"63 km NNW of Eureka Roadhouse, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-08-21T19:23:43.863Z,61.6259,-151.0604,69.2,1.4,ml,,,,0.58,ak,ak024arb7gwi,2024-08-21T19:28:39.528Z,"30 km WNW of Susitna, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-08-21T19:01:44.032Z,26.3692,59.7795,10.0,4.4,mb,62.0,101.0,3.524,0.82,us,us7000n8j0,2024-08-21T19:28:29.040Z,"26 km SSE of Fannūj, Iran",earthquake,4.14,1.89,0.077,49.0,reviewed,us,us
+2024-08-21T12:34:13.408Z,38.6728,-118.5623,3.9,1.0,ml,7.0,156.64,0.52,0.1301,nn,nn00882775,2024-08-21T19:26:39.140Z,"17 km E of Walker Lake, Nevada",earthquake,,7.2,0.23,4.0,reviewed,nn,nn
+2024-08-21T05:35:36.770Z,46.25266666666667,-122.154,0.72,1.24,ml,47.0,67.0,0.01424,0.08,uw,uw62039096,2024-08-21T19:30:39.970Z,"35 km SSE of Morton, Washington",earthquake,0.13,0.11,0.181866728414797,22.0,reviewed,uw,uw
