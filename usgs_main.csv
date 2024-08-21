@@ -13410,3 +13410,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-21T12:39:50.500Z,44.7143333333333,-110.297,5.01,1.83,ml,14.0,88.0,0.05547,0.17,uu,uu80079216,2024-08-21T13:23:52.550Z,"40 km SW of Silver Gate, Montana",earthquake,0.5,2.03,0.205673926649711,5.0,reviewed,uu,uu
 2024-08-21T11:23:44.300Z,38.5021666666667,-112.8735,1.03,0.47,md,12.0,118.0,0.007217,0.07,uu,uu80079211,2024-08-21T13:25:53.170Z,"16 km NE of Milford, Utah",earthquake,0.38,0.51,0.369380229501043,4.0,reviewed,uu,uu
 2024-08-21T01:35:59.975Z,29.226,-97.485,5.4443,1.7,ml,11.0,65.0,0.1,0.3,tx,tx2024qjvj,2024-08-21T13:16:43.321Z,"15 km ESE of Smiley, Texas",earthquake,1.751898810131311,2.6325939314572047,0.1,11.0,reviewed,tx,tx
+2024-08-21T03:34:22.969Z,35.01383333,-97.833,21.42,1.14,ml,27.0,113.0,0.07468534419,0.25,ok,ok2024qjzh,2024-08-21T13:40:27.242Z,"10 km ESE of Chickasha, Oklahoma",earthquake,,1.1,0.2,15.0,reviewed,ok,ok
