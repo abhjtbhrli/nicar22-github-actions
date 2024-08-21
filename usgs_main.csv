@@ -13528,3 +13528,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-21T19:05:22.791Z,-14.5218,-73.4215,98.044,4.4,mb,30.0,151.0,4.176,0.94,us,us7000n8j2,2024-08-21T20:24:26.040Z,"26 km WSW of Cotaruse, Peru",earthquake,11.44,12.806,0.134,16.0,reviewed,us,us
 2024-08-21T17:45:38.162Z,51.2963,157.8763,64.414,4.5,mb,43.0,137.0,1.794,0.89,us,us7000n8j1,2024-08-21T20:12:30.040Z,"98 km ESE of Ozernovskiy, Russia",earthquake,11.44,7.448,0.091,35.0,reviewed,us,us
 2024-08-21T13:46:19.490Z,46.8535,-121.76633333333334,1.06,0.56,ml,16.0,74.0,0.02904,0.08,uw,uw62039161,2024-08-21T20:24:12.870Z,"22 km ENE of Ashford, Washington",earthquake,0.19,0.86,0.0882458747025308,6.0,reviewed,uw,uw
+2024-08-21T20:30:31.187Z,59.9107,-151.399,54.5,1.2,ml,,,,0.47,ak,ak024arbudji,2024-08-21T20:32:21.428Z,"16 km NE of Nikolaevsk, Alaska",earthquake,,2.1,,,automatic,ak,ak
+2024-08-21T20:28:51.040Z,62.8876,-149.1184,66.5,1.2,ml,,,,0.71,ak,ak024arbtzn4,2024-08-21T20:31:34.078Z,"56 km S of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-08-21T15:35:23.260Z,45.407,-121.722,9.05,0.8200000000000001,ml,4.0,271.0,0.011,0.08,uw,uw62039196,2024-08-21T20:31:00.250Z,"11 km NNE of Government Camp, Oregon",earthquake,2.07,1.36,0.3143277459277993,3.0,reviewed,uw,uw
+2024-08-21T14:59:55.790Z,19.3711666666667,-155.184166666667,2.28,1.56,md,21.0,124.0,0.01628,0.09,hv,hv74417176,2024-08-21T20:34:30.588Z,"9 km SSE of Volcano, Hawaii",earthquake,0.39,0.26,0.152077163905714,2.0,reviewed,hv,hv
