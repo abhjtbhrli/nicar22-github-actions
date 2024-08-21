@@ -13304,3 +13304,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-21T03:42:10.510Z,47.223331451416016,-122.3324966430664,13.6499996185303,1.9671151638031008,ml,80.0,38.0,,0.159999996,uw,uw62039066,2024-08-21T03:45:27.490Z,"2 km SE of Fife, Washington",earthquake,0.27,0.860000014,0.2679016590118408,66.0,automatic,uw,uw
 2024-08-21T03:38:21.510Z,35.205,-119.0118333,15.45,1.67,ml,34.0,38.0,0.1575,0.24,ci,ci40709639,2024-08-21T03:44:43.307Z,"11 km SW of Lamont, CA",earthquake,0.33,0.62,0.091,25.0,automatic,ci,ci
 2024-08-21T03:28:23.779Z,8.0777,127.1746,35.0,4.5,mb,26.0,129.0,1.872,0.8,us,us7000n8e3,2024-08-21T03:46:54.040Z,"80 km E of Santa Maria, Philippines",earthquake,5.31,1.936,0.118,21.0,reviewed,us,us
+2024-08-21T03:53:17.050Z,19.3823337554932,-155.251159667969,1.80999994277954,1.72,ml,14.0,95.0,0.003163,0.129999995,hv,hv74415646,2024-08-21T03:55:53.950Z,"6 km SSW of Volcano, Hawaii",earthquake,0.23,0.209999993,0.08,3.0,automatic,hv,hv
+2024-08-21T03:52:05.770Z,35.1008333,-119.13,9.87,1.15,ml,23.0,79.0,0.05667,0.24,ci,ci40709647,2024-08-21T03:58:21.675Z,"25 km E of Maricopa, CA",earthquake,0.4,0.59,0.202,15.0,automatic,ci,ci
+2024-08-21T03:49:41.202Z,61.7467,-148.3485,16.0,0.8,ml,,,,0.46,ak,ak024ar1u3mw,2024-08-21T03:51:18.247Z,"8 km SE of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-21T03:49:39.547Z,63.5861,-150.869,4.7,1.7,ml,,,,0.51,ak,ak024ar1u3ia,2024-08-21T03:51:44.365Z,"42 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-21T02:45:36.710Z,18.7008,-64.712,84.0,3.6,md,14.0,265.0,0.3007,0.12,pr,pr2024234000,2024-08-21T03:52:55.259Z,"41 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,7.39,3.16,0.17,13.0,reviewed,pr,pr
