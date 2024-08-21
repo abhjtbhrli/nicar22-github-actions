@@ -13511,3 +13511,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-21T19:01:44.032Z,26.3692,59.7795,10.0,4.4,mb,62.0,101.0,3.524,0.82,us,us7000n8j0,2024-08-21T19:28:29.040Z,"26 km SSE of Fannūj, Iran",earthquake,4.14,1.89,0.077,49.0,reviewed,us,us
 2024-08-21T12:34:13.408Z,38.6728,-118.5623,3.9,1.0,ml,7.0,156.64,0.52,0.1301,nn,nn00882775,2024-08-21T19:26:39.140Z,"17 km E of Walker Lake, Nevada",earthquake,,7.2,0.23,4.0,reviewed,nn,nn
 2024-08-21T05:35:36.770Z,46.25266666666667,-122.154,0.72,1.24,ml,47.0,67.0,0.01424,0.08,uw,uw62039096,2024-08-21T19:30:39.970Z,"35 km SSE of Morton, Washington",earthquake,0.13,0.11,0.181866728414797,22.0,reviewed,uw,uw
+2024-08-21T19:39:02.839Z,63.2255,-150.3989,125.6,1.0,ml,,,,0.37,ak,ak024arbat6z,2024-08-21T19:41:51.283Z,"74 km WSW of Cantwell, Alaska",earthquake,,2.0,,,automatic,ak,ak
+2024-08-21T19:34:05.580Z,34.8623333,-118.9736667,10.54,1.24,ml,31.0,81.0,0.0661,0.23,ci,ci40710335,2024-08-21T19:41:59.500Z,"5 km NNW of Frazier Park, CA",earthquake,0.31,0.75,0.264,28.0,automatic,ci,ci
+2024-08-21T19:33:27.391Z,39.6088,-119.6541,11.5,1.4,ml,8.0,94.95000000000002,0.117,0.09,nn,nn00882776,2024-08-21T19:35:27.350Z,"6 km SE of Spanish Springs, Nevada",earthquake,,1.5,0.09,3.0,automatic,nn,nn
+2024-08-21T16:52:25.115Z,34.2324,74.1045,10.0,3.6,mb,14.0,206.0,0.905,1.1,us,us7000n8j7,2024-08-21T19:42:52.040Z,"17 km NNE of Uri, India",earthquake,7.88,2.021,0.352,2.0,reviewed,us,us
+2024-08-21T14:13:56.056Z,31.626,-104.525,8.0737,1.2,ml,16.0,76.0,0.0,0.2,tx,tx2024qkuj,2024-08-21T19:36:14.242Z,"62 km SSW of Whites City, New Mexico",earthquake,1.267008295166138,0.8722316139188844,0.1,13.0,reviewed,tx,tx
+2024-08-21T13:40:24.942Z,39.2539,-120.1331,6.2,0.0,ml,3.0,237.76,0.047,0.0055,nn,nn00882777,2024-08-21T19:38:53.156Z,"5 km NW of Carnelian Bay, California",earthquake,,5.3,0.28,2.0,reviewed,nn,nn
