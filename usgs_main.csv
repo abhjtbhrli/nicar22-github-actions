@@ -13399,3 +13399,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-21T12:10:50.094Z,38.6942,-118.7533,15.5,2.5,ml,16.0,152.37,0.611,0.2215,nn,nn00882749,2024-08-21T12:13:17.997Z,"5 km N of Walker Lake, Nevada",earthquake,,1.5,0.29,9.0,automatic,nn,nn
 2024-08-21T11:58:29.430Z,-10.0136,116.4434,48.727,4.8,mb,39.0,107.0,1.766,0.96,us,us7000n8g7,2024-08-21T12:24:49.078Z,"145 km S of Praya, Indonesia",earthquake,9.09,8.102,0.101,30.0,reviewed,us,us
 2024-08-21T02:33:47.954Z,31.696,-101.706,8.6182,1.1,ml,16.0,62.0,0.1,0.2,tx,tx2024qjxg,2024-08-21T12:02:51.579Z,"28 km SW of Garden City, Texas",earthquake,0.6980496922012582,0.9360600651501668,0.1,13.0,reviewed,tx,tx
+2024-08-21T12:24:45.456Z,64.3126,-148.2085,10.0,1.3,ml,,,,0.52,ak,ak024ar71ni9,2024-08-21T12:27:16.264Z,"47 km E of Anderson, Alaska",earthquake,,0.2,,,automatic,ak,ak
