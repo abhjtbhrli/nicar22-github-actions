@@ -13321,3 +13321,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-21T04:42:44.750Z,31.406,-103.527,6.2021,1.9,ml,9.0,98.0,0.0,0.5,tx,tx2024qkbo,2024-08-21T05:18:00.816Z,"3 km WSW of Pecos, Texas",earthquake,0.0,4.21961450576782,0.2,7.0,automatic,tx,tx
 2024-08-21T05:35:27.496Z,58.6646,-155.1172,141.8,1.6,ml,,,,0.7,ak,ak024ar2xy1x,2024-08-21T05:39:13.672Z,"86 km SSE of Igiugig, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-08-21T05:34:47.247Z,63.0765,-149.3832,59.8,2.1,ml,,,,0.79,ak,ak024ar2xrhv,2024-08-21T05:36:48.123Z,"41 km SSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-08-21T05:49:00.120Z,36.051,-117.8871667,1.64,0.62,ml,13.0,107.0,0.1021,0.14,ci,ci40709687,2024-08-21T05:54:41.320Z,"6 km E of Coso Junction, CA",earthquake,0.28,0.55,0.27,5.0,automatic,ci,ci
