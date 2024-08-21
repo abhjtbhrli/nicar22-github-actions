@@ -13479,3 +13479,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-21T17:31:08.421Z,61.9024,-150.8391,27.1,1.3,ml,,,,0.43,ak,ak024ara28rn,2024-08-21T17:34:03.026Z,"30 km ESE of Skwentna, Alaska",earthquake,,6.1,,,automatic,ak,ak
 2024-08-21T14:55:07.073Z,31.569,-104.115,7.3303,0.9,ml,15.0,65.0,0.0,0.2,tx,tx2024qkvt,2024-08-21T17:28:30.005Z,"41 km NW of Toyah, Texas",earthquake,0.8413078366658234,0.8015056595013778,0.2,13.0,reviewed,tx,tx
 2024-08-21T05:29:36.063Z,32.768,-100.677,8.1299,1.2,ml,12.0,64.0,0.1,0.2,tx,tx2024qkdc,2024-08-21T17:37:22.160Z,"16 km NNE of Hermleigh, Texas",earthquake,0.9052891922286376,1.928147353458517,0.1,7.0,reviewed,tx,tx
+2024-08-21T16:46:40.780Z,38.502,-112.868166666667,1.03,0.4,md,12.0,130.0,0.007705,0.08,uu,uu80079226,2024-08-21T17:38:39.840Z,"17 km NE of Milford, Utah",earthquake,0.36,0.45,0.422261215426617,3.0,reviewed,uu,uu
+2024-08-21T12:25:20.360Z,36.4831666666667,-89.547,8.75,1.73,md,21.0,46.0,0.05587,0.02,nm,nm60589801,2024-08-21T17:42:56.170Z,"7 km SE of Marston, Missouri",earthquake,0.51,0.62,0.089885829226191,20.0,reviewed,nm,nm
