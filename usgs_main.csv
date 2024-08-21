@@ -13309,3 +13309,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-21T03:49:41.202Z,61.7467,-148.3485,16.0,0.8,ml,,,,0.46,ak,ak024ar1u3mw,2024-08-21T03:51:18.247Z,"8 km SE of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-21T03:49:39.547Z,63.5861,-150.869,4.7,1.7,ml,,,,0.51,ak,ak024ar1u3ia,2024-08-21T03:51:44.365Z,"42 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-21T02:45:36.710Z,18.7008,-64.712,84.0,3.6,md,14.0,265.0,0.3007,0.12,pr,pr2024234000,2024-08-21T03:52:55.259Z,"41 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,7.39,3.16,0.17,13.0,reviewed,pr,pr
+2024-08-21T04:09:56.920Z,19.1763324737549,-155.490661621094,32.060001373291,2.16,ml,52.0,94.0,0.03408,0.150000006,hv,hv74415691,2024-08-21T04:12:33.870Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.51,0.689999998,0.72,5.0,automatic,hv,hv
+2024-08-21T04:06:29.240Z,35.4061667,-118.2226667,7.36,1.26,ml,33.0,47.0,0.1465,0.15,ci,ci40709655,2024-08-21T04:18:50.162Z,"32 km SE of Bodfish, CA",earthquake,0.18,1.49,0.198,23.0,automatic,ci,ci
