@@ -13299,3 +13299,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-21T03:14:35.229Z,60.4959,-152.3254,90.2,1.4,ml,,,,0.28,ak,ak024ar1ml42,2024-08-21T03:16:08.613Z,"56 km WSW of Salamatof, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-08-21T03:13:03.882Z,65.4459,-148.2476,9.9,0.6,ml,,,,0.51,ak,ak024ar1mava,2024-08-21T03:15:05.492Z,"16 km ESE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-21T02:55:11.910Z,32.9811667,-116.3115,5.04,0.67,ml,8.0,217.0,0.02736,0.09,ci,ci40709591,2024-08-21T03:21:52.975Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.99,0.46,0.075,12.0,automatic,ci,ci
+2024-08-21T03:30:11.840Z,38.4809989929199,-122.575164794922,0.310000002384186,1.59,md,12.0,150.0,0.1385,0.14,nc,nc75051201,2024-08-21T03:31:49.016Z,"8 km  of Kenwood, CA",earthquake,0.76,12.04,0.24,11.0,automatic,nc,nc
