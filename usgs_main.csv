@@ -13296,3 +13296,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-21T02:54:32.982Z,58.372,-152.3116,39.2,1.7,ml,,,,0.33,ak,ak024ar19pz6,2024-08-21T02:56:51.201Z,"49 km NE of Aleneva, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-08-21T02:53:50.690Z,19.1660003662109,-155.478332519531,28.3099994659424,1.97000003,md,30.0,206.0,0.0186,0.140000001,hv,hv74415496,2024-08-21T02:55:35.150Z,"4 km S of Pāhala, Hawaii",earthquake,0.81,1.14999998,0.119999997,3.0,automatic,hv,hv
 2024-08-21T02:27:17.800Z,18.3765,-67.5318333333333,4.07,3.18,md,13.0,163.0,0.2705,0.23,pr,pr71457958,2024-08-21T03:05:49.990Z,"30 km W of Rincón, Puerto Rico",earthquake,1.03,0.72,0.0581854729832949,4.0,reviewed,pr,pr
+2024-08-21T03:14:35.229Z,60.4959,-152.3254,90.2,1.4,ml,,,,0.28,ak,ak024ar1ml42,2024-08-21T03:16:08.613Z,"56 km WSW of Salamatof, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-08-21T03:13:03.882Z,65.4459,-148.2476,9.9,0.6,ml,,,,0.51,ak,ak024ar1mava,2024-08-21T03:15:05.492Z,"16 km ESE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-21T02:55:11.910Z,32.9811667,-116.3115,5.04,0.67,ml,8.0,217.0,0.02736,0.09,ci,ci40709591,2024-08-21T03:21:52.975Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.99,0.46,0.075,12.0,automatic,ci,ci
