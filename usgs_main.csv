@@ -13517,3 +13517,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-21T16:52:25.115Z,34.2324,74.1045,10.0,3.6,mb,14.0,206.0,0.905,1.1,us,us7000n8j7,2024-08-21T19:42:52.040Z,"17 km NNE of Uri, India",earthquake,7.88,2.021,0.352,2.0,reviewed,us,us
 2024-08-21T14:13:56.056Z,31.626,-104.525,8.0737,1.2,ml,16.0,76.0,0.0,0.2,tx,tx2024qkuj,2024-08-21T19:36:14.242Z,"62 km SSW of Whites City, New Mexico",earthquake,1.267008295166138,0.8722316139188844,0.1,13.0,reviewed,tx,tx
 2024-08-21T13:40:24.942Z,39.2539,-120.1331,6.2,0.0,ml,3.0,237.76,0.047,0.0055,nn,nn00882777,2024-08-21T19:38:53.156Z,"5 km NW of Carnelian Bay, California",earthquake,,5.3,0.28,2.0,reviewed,nn,nn
+2024-08-21T19:45:48.900Z,19.3821659088135,-155.253005981445,0.209999993443489,1.84,ml,16.0,59.0,0.003692,0.140000001,hv,hv74417751,2024-08-21T19:48:25.500Z,"6 km SSW of Volcano, Hawaii",earthquake,0.13,0.140000001,0.35,7.0,automatic,hv,hv
+2024-08-21T16:36:53.648Z,39.1699,-118.6217,12.0,0.7,ml,5.0,151.98000000000002,0.414,0.0796,nn,nn00882780,2024-08-21T19:48:05.040Z,"28 km SSE of Fallon Station, Nevada",earthquake,,16.4,0.17,4.0,reviewed,nn,nn
