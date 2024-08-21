@@ -13504,3 +13504,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-21T18:45:10.890Z,33.2290001,-116.0431671,3.12,1.35,ml,30.0,73.0,0.07003,0.23,ci,ci40710279,2024-08-21T18:56:09.360Z,"11 km SW of Salton City, CA",earthquake,0.32,0.57,0.185,9.0,automatic,ci,ci
 2024-08-21T19:01:08.430Z,33.8585,-117.5083333,2.67,1.45,ml,31.0,45.0,0.06675,0.2,ci,ci40710311,2024-08-21T19:07:56.824Z,"2 km SSE of Home Gardens, CA",earthquake,0.28,0.34,0.476,38.0,automatic,ci,ci
 2024-08-21T00:51:02.750Z,53.9363333333333,-166.586833333333,10.16,0.24,ml,8.0,211.0,0.06416,0.19,av,av93018879,2024-08-21T19:02:44.740Z,"5 km NNW of Dutch Harbor, Alaska",earthquake,0.53,0.85,0.180904838930624,7.0,reviewed,av,av
+2024-08-21T12:18:52.865Z,38.7091,-118.52,5.7,0.9,ml,4.0,303.41,0.471,0.1837,nn,nn00882774,2024-08-21T19:17:27.417Z,"21 km ENE of Walker Lake, Nevada",earthquake,,4.6,0.2,3.0,reviewed,nn,nn
