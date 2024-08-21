@@ -13423,3 +13423,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-21T13:58:25.350Z,38.7978324890137,-122.780502319336,4.0,0.62,md,7.0,99.0,0.01537,0.02,nc,nc75051356,2024-08-21T14:00:04.428Z,"3 km NNW of The Geysers, CA",earthquake,0.7,2.63000011,0.2,8.0,automatic,nc,nc
 2024-08-21T07:35:29.460Z,39.0725,25.7929,10.0,3.5,ml,15.0,78.0,0.866,0.7,us,us7000n8f9,2024-08-21T14:17:12.040Z,"16 km SW of Eresós, Greece",earthquake,4.83,2.002,0.115,10.0,reviewed,us,us
 2024-08-20T20:47:27.570Z,34.3875,-96.82216667,0.0,1.29,ml,45.0,140.0,0.2366535605,0.68,ok,ok2024qjlw,2024-08-21T14:08:28.046Z,"1 km SSE of Mill Creek, Oklahoma",quarry blast,,0.9,0.28,14.0,reviewed,ok,ok
+2024-08-21T14:26:20.811Z,36.5289,-115.4894,0.0,0.7,ml,10.0,321.48999999999995,0.517,0.2529,nn,nn00882753,2024-08-21T14:28:36.126Z,"16 km ESE of Indian Springs, Nevada",earthquake,,61.0,0.28,7.0,automatic,nn,nn
+2024-08-21T14:21:25.796Z,60.1001,-152.0059,71.6,1.7,ml,,,,0.28,ak,ak024ar87u1v,2024-08-21T14:23:02.159Z,"19 km WNW of Ninilchik, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-08-21T14:09:21.529Z,31.633,-104.508,6.3818,2.6,ml,35.0,73.0,0.0,0.1,tx,tx2024qkuh,2024-08-21T14:32:58.061Z,"61 km SSW of Whites City, New Mexico",earthquake,0.9520716658196848,0.5675632874613022,0.2,37.0,reviewed,tx,tx
+2024-08-21T14:06:19.641Z,31.5519,-104.5647,9.587,2.6,ml,23.0,94.0,0.128,0.56,us,us7000n8gz,2024-08-21T14:30:10.040Z,"62 km NNE of Van Horn, Texas",earthquake,1.01,6.294,0.06,66.0,reviewed,us,us
+2024-08-21T14:01:20.312Z,31.625,-104.514,6.7407,1.5,ml,20.0,77.0,0.0,0.1,tx,tx2024qktz,2024-08-21T14:33:10.061Z,"62 km SSW of Whites City, New Mexico",earthquake,1.148481368424061,0.7405083303649846,0.1,11.0,reviewed,tx,tx
+2024-08-21T13:38:15.247Z,-6.6366,128.0489,301.064,4.6,mb,66.0,44.0,2.797,0.58,us,us7000n8gq,2024-08-21T14:20:17.040Z,"238 km NNE of Lospalos, Timor Leste",earthquake,9.02,7.701,0.081,46.0,reviewed,us,us
