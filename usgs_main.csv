@@ -13315,3 +13315,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-21T04:27:20.090Z,38.6963348388672,-122.483169555664,-0.360000014305115,0.95,md,6.0,133.0,0.07164,0.08,nc,nc75051211,2024-08-21T04:28:58.283Z,"13 km SE of Middletown, CA",earthquake,0.46,2.82999992,0.04,5.0,automatic,nc,nc
 2024-08-21T04:55:21.583Z,59.7774,-151.9296,53.6,2.7,ml,,,,0.3,ak,ak024ar2gqv3,2024-08-21T04:56:57.687Z,"5 km W of Anchor Point, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-08-21T04:55:06.452Z,57.8746,-154.0937,59.8,1.8,ml,,,,0.26,ak,ak024ar2gqut,2024-08-21T04:56:49.795Z,"37 km N of Larsen Bay, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-08-21T05:24:16.040Z,33.1643333,-116.117836,4.7,1.05,ml,22.0,97.0,0.04287,0.22,ci,ci40709679,2024-08-21T05:26:34.550Z,"3 km NNE of Ocotillo Wells, CA",earthquake,0.45,0.76,0.173,4.0,automatic,ci,ci
+2024-08-21T05:16:27.800Z,19.3990001678467,-155.265167236328,0.910000026226044,1.73000002,md,17.0,48.0,0.001111,0.140000001,hv,hv74415861,2024-08-21T05:19:05.770Z,"5 km SW of Volcano, Hawaii",earthquake,0.17,0.209999993,0.430000007,10.0,automatic,hv,hv
+2024-08-21T04:48:47.947Z,31.405,-103.53,6.2976,1.7,ml,8.0,99.0,0.0,0.5,tx,tx2024qkbs,2024-08-21T05:18:04.556Z,"4 km WSW of Pecos, Texas",earthquake,0.0,4.48000860214233,0.3,6.0,automatic,tx,tx
+2024-08-21T04:42:44.750Z,31.406,-103.527,6.2021,1.9,ml,9.0,98.0,0.0,0.5,tx,tx2024qkbo,2024-08-21T05:18:00.816Z,"3 km WSW of Pecos, Texas",earthquake,0.0,4.21961450576782,0.2,7.0,automatic,tx,tx
