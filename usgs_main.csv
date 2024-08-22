@@ -13700,3 +13700,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-22T10:23:47.206Z,64.747,-151.4202,10.9,1.6,ml,,,,0.73,ak,ak024astdx7k,2024-08-22T10:26:03.800Z,"46 km SW of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-22T09:09:13.904Z,31.629,-104.509,7.5354,1.7,ml,24.0,70.0,0.0,0.2,tx,tx2024qmfv,2024-08-22T10:19:40.534Z,"61 km SSW of Whites City, New Mexico",earthquake,1.313977507031581,0.7355661968561699,0.2,20.0,reviewed,tx,tx
 2024-08-22T05:51:12.803Z,31.656,-104.232,8.9709,1.4,ml,20.0,65.0,0.0,0.3,tx,tx2024qlzh,2024-08-22T10:31:52.627Z,"56 km NW of Toyah, Texas",earthquake,0.8099533645575884,0.974683569534357,0.2,16.0,reviewed,tx,tx
+2024-08-22T10:36:44.830Z,38.7915000915527,-122.761329650879,1.17999994754791,0.73,md,9.0,77.0,0.009199,0.01,nc,nc75051726,2024-08-22T10:38:19.721Z,"2 km  of The Geysers, CA",earthquake,0.32,0.75,0.06,9.0,automatic,nc,nc
+2024-08-22T10:36:15.550Z,33.4641667,-116.5691667,9.08,1.25,ml,69.0,28.0,0.0411,0.18,ci,ci40710903,2024-08-22T10:42:31.323Z,"14 km SE of Anza, CA",earthquake,0.14,0.36,0.191,27.0,automatic,ci,ci
+2024-08-22T09:52:55.773Z,50.5904,-173.3728,22.817,4.4,mb,59.0,196.0,1.694,1.17,us,us7000n8ql,2024-08-22T10:44:15.040Z,"187 km SSE of Atka, Alaska",earthquake,8.79,8.973,0.045,145.0,reviewed,us,us
