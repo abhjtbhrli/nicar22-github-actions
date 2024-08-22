@@ -13683,3 +13683,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-22T08:05:02.480Z,38.839168548584,-122.841163635254,1.51999998092651,0.5,md,11.0,117.0,0.004471,0.01,nc,nc75051671,2024-08-22T08:06:38.643Z,"10 km NW of The Geysers, CA",earthquake,0.32,0.519999981,0.4,10.0,automatic,nc,nc
 2024-08-22T06:40:10.756Z,31.62,-104.185,3.075,1.6,ml,30.0,65.0,0.1,0.2,tx,tx2024qmay,2024-08-22T07:59:36.409Z,"50 km NW of Toyah, Texas",earthquake,0.6953691418671666,0.8831937840263354,0.1,19.0,reviewed,tx,tx
 2024-08-22T07:37:39.025Z,23.9455,122.3146,18.567,4.0,mwr,23.0,73.0,0.696,0.57,us,us7000n8qc,2024-08-22T08:35:38.040Z,"72 km E of Hualien City, Taiwan",earthquake,4.08,4.235,0.071,19.0,reviewed,us,us
+2024-08-22T09:10:41.320Z,40.2293319702148,-124.675834655762,12.3199996948242,2.97,md,26.0,267.0,0.2618,0.24,nc,nc75051691,2024-08-22T09:12:20.136Z,"35 km W of Petrolia, CA",earthquake,3.0,1.85000002,0.08,12.0,automatic,nc,nc
+2024-08-22T09:01:17.100Z,32.9845,-116.3131667,8.89,0.91,ml,39.0,52.0,0.0829,0.21,ci,ci40710847,2024-08-22T09:12:27.984Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.24,0.69,0.224,13.0,automatic,ci,ci
+2024-08-22T08:56:45.771Z,63.7303,-150.2153,0.9,1.2,ml,,,,0.92,ak,ak024asse4iv,2024-08-22T09:01:55.318Z,"62 km WSW of Ferry, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-08-22T08:53:23.309Z,60.3766,-148.3053,0.0,1.4,ml,,,,0.45,ak,ak024assdftg,2024-08-22T08:55:34.543Z,"38 km NNW of Chenega, Alaska",earthquake,,1.2,,,automatic,ak,ak
