@@ -13730,3 +13730,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-22T04:15:43.850Z,38.4905,-112.876666666667,0.88,0.49,md,11.0,69.0,0.005651,0.1,uu,uu80079296,2024-08-22T13:21:45.370Z,"15 km NE of Milford, Utah",earthquake,0.33,0.56,0.503185231271381,5.0,reviewed,uu,uu
 2024-08-22T13:28:30.828Z,61.4916,-141.0537,0.0,2.5,ml,,,,0.72,ak,ak024asv79be,2024-08-22T13:30:07.154Z,"99 km E of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-21T22:55:19.460Z,38.4833333333333,-112.8955,2.93,0.43,md,11.0,92.0,0.003624,0.09,uu,uu80079271,2024-08-22T13:30:30.990Z,"13 km NE of Milford, Utah",earthquake,0.34,0.67,0.423503497613002,4.0,reviewed,uu,uu
+2024-08-22T13:41:27.882Z,63.1555,-150.4665,106.6,1.3,ml,,,,0.43,ak,ak024asva1f8,2024-08-22T13:43:37.307Z,"75 km NNE of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-08-21T23:04:42.280Z,38.4951666666667,-112.877666666667,1.36,-0.01,md,13.0,66.0,0.004214,0.08,uu,uu80079281,2024-08-22T13:39:18.420Z,"15 km NE of Milford, Utah",earthquake,0.22,0.38,0.3339431591947,4.0,reviewed,uu,uu
