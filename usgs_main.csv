@@ -13687,3 +13687,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-22T09:01:17.100Z,32.9845,-116.3131667,8.89,0.91,ml,39.0,52.0,0.0829,0.21,ci,ci40710847,2024-08-22T09:12:27.984Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.24,0.69,0.224,13.0,automatic,ci,ci
 2024-08-22T08:56:45.771Z,63.7303,-150.2153,0.9,1.2,ml,,,,0.92,ak,ak024asse4iv,2024-08-22T09:01:55.318Z,"62 km WSW of Ferry, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-08-22T08:53:23.309Z,60.3766,-148.3053,0.0,1.4,ml,,,,0.45,ak,ak024assdftg,2024-08-22T08:55:34.543Z,"38 km NNW of Chenega, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-08-22T09:21:14.090Z,38.8253326416016,-122.858169555664,2.44000005722046,1.09,md,22.0,116.0,0.00243,0.02,nc,nc75051696,2024-08-22T09:22:49.909Z,"10 km NW of The Geysers, CA",earthquake,0.26,0.419999987,0.14,24.0,automatic,nc,nc
+2024-08-22T09:10:13.360Z,33.0295,-116.0038333,7.66,0.88,ml,35.0,56.0,0.1452,0.21,ci,ci40710855,2024-08-22T09:20:47.647Z,"17 km SE of Ocotillo Wells, CA",earthquake,0.25,0.89,0.148,8.0,automatic,ci,ci
+2024-08-22T03:12:21.380Z,31.674,-104.39,6.4075,1.5,ml,13.0,57.0,0.0,0.2,tx,tx2024qlub,2024-08-22T09:28:37.159Z,"55 km S of Whites City, New Mexico",earthquake,1.0235732617948752,1.358134521221559,0.1,19.0,reviewed,tx,tx

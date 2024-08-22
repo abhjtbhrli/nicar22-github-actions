@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-08-22T09:10:41.320Z,40.2293319702148,-124.675834655762,12.3199996948242,2.97,md,26,267,0.2618,0.24,nc,nc75051691,2024-08-22T09:12:20.136Z,"35 km W of Petrolia, CA",earthquake,3,1.85000002,0.08,12,automatic,nc,nc
+2024-08-22T09:21:14.090Z,38.8253326416016,-122.858169555664,2.44000005722046,1.09,md,22,116,0.00243,0.02,nc,nc75051696,2024-08-22T09:22:49.909Z,"10 km NW of The Geysers, CA",earthquake,0.26,0.419999987,0.14,24,automatic,nc,nc
+2024-08-22T09:10:41.320Z,40.2293319702148,-124.675834655762,12.3199996948242,2.97,md,26,267,0.2618,0.24,nc,nc75051691,2024-08-22T09:20:58.636Z,"35 km W of Petrolia, CA",earthquake,3,1.85000002,0.08,12,automatic,nc,nc
+2024-08-22T09:10:13.360Z,33.0295,-116.0038333,7.66,0.88,ml,35,56,0.1452,0.21,ci,ci40710855,2024-08-22T09:20:47.647Z,"17 km SE of Ocotillo Wells, CA",earthquake,0.25,0.89,0.148,8,automatic,ci,ci
 2024-08-22T09:01:17.100Z,32.9845,-116.3131667,8.89,0.91,ml,39,52,0.0829,0.21,ci,ci40710847,2024-08-22T09:12:27.984Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.24,0.69,0.224,13,automatic,ci,ci
 2024-08-22T08:56:45.771Z,63.7303,-150.2153,0.9,1.2,ml,,,,0.92,ak,ak024asse4iv,2024-08-22T09:01:55.318Z,"62 km WSW of Ferry, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-08-22T08:53:23.309Z,60.3766,-148.3053,0,1.4,ml,,,,0.45,ak,ak024assdftg,2024-08-22T08:55:34.543Z,"38 km NNW of Chenega, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -49,6 +51,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-22T03:37:07.750Z,38.8208351135254,-122.824165344238,2.0699999332428,0.6,md,7,103,0.008787,0.01,nc,nc75051601,2024-08-22T03:38:41.594Z,"8 km NW of The Geysers, CA",earthquake,0.6,1.60000002,0.33,8,automatic,nc,nc
 2024-08-22T03:18:37.200Z,19.3864994049072,-155.250503540039,1.37999999523163,1.73000002,md,14,76,0.001244,0.109999999,hv,hv74418636,2024-08-22T03:20:11.720Z,"6 km SSW of Volcano, Hawaii",earthquake,0.25,0.270000011,0.370000005,13,automatic,hv,hv
 2024-08-22T03:13:29.360Z,35.9641667,-117.6533333,2.43,1.29,ml,23,94,0.01641,0.14,ci,ci40710695,2024-08-22T03:19:43.733Z,"23 km E of Little Lake, CA",earthquake,0.23,0.17,0.186,18,automatic,ci,ci
+2024-08-22T03:12:21.380Z,31.674,-104.39,6.4075,1.5,ml,13,57,0,0.2,tx,tx2024qlub,2024-08-22T09:28:37.159Z,"55 km S of Whites City, New Mexico",earthquake,1.0235732617948752,1.358134521221559,0.1,19,reviewed,tx,tx
 2024-08-22T03:11:06.494Z,62.0791,-151.0022,58.5,1.3,ml,,,,0.23,ak,ak024asp588p,2024-08-22T03:13:16.128Z,"22 km ENE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-08-22T03:06:43.810Z,35.0646667,-119.0851667,12.14,1.1,ml,29,74,0.006156,0.21,ci,ci40710687,2024-08-22T03:12:54.580Z,"20 km NW of Grapevine, CA",earthquake,0.26,0.54,0.144,19,automatic,ci,ci
 2024-08-22T03:05:12.880Z,35.0685,-119.0943333,-1.32,1.5,ml,40,62,0.01312,0.32,ci,ci40710679,2024-08-22T03:11:41.724Z,"20 km NW of Grapevine, CA",earthquake,0.34,0.81,0.146,27,automatic,ci,ci
@@ -276,5 +279,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-21T10:02:26.120Z,34.3171667,-117.0548333,2.2,1.14,ml,42,41,0.07276,0.12,ci,ci40709791,2024-08-21T10:08:48.190Z,"13 km NNE of Running Springs, CA",earthquake,0.16,0.25,0.33,30,automatic,ci,ci
 2024-08-21T09:55:21.580Z,38.7906684875488,-122.761497497559,1.37999999523163,0.8,md,9,88,0.01004,0.01,nc,nc75051296,2024-08-21T10:50:57.731Z,"2 km  of The Geysers, CA",earthquake,0.46,1.07000005,0.12,8,automatic,nc,nc
 2024-08-21T09:47:08.300Z,32.378,-101.654,5.3955,1.4,ml,22,76,0,0.2,tx,tx2024qklp,2024-08-21T11:30:29.448Z,"17 km SSE of Ackerly, Texas",earthquake,0.4840487844049262,0.8547225414247112,0.1,20,reviewed,tx,tx
-2024-08-21T09:20:34.210Z,36.9198333333333,-119.4615,35.42,2.09,md,9,105,0.03376,0.15,nc,nc75051291,2024-08-21T22:17:35.090Z,"18 km S of Auberry, CA",earthquake,1.27,1.05,0.205,7,reviewed,nc,nc
-2024-08-21T09:16:49.630Z,35.6788333,-117.525,4.74,1.78,ml,30,57,0.0836,0.14,ci,ci40709783,2024-08-21T13:36:16.940Z,"15 km SW of Searles Valley, CA",earthquake,0.17,0.41,0.171,26,reviewed,ci,ci
