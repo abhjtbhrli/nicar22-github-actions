@@ -13737,3 +13737,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-22T13:59:41.229Z,31.497,-104.017,4.7573,1.6,ml,11.0,90.0,0.0,0.1,tx,tx2024qmpk,2024-08-22T14:14:01.338Z,"29 km NW of Toyah, Texas",earthquake,0.0,1.65981566905975,0.2,8.0,automatic,tx,tx
 2024-08-22T06:37:51.170Z,46.7751666666667,-112.611666666667,0.66,2.0,ml,14.0,95.0,0.1355,0.13,mb,mb90059933,2024-08-22T14:05:16.970Z,"19 km N of Avon, Montana",earthquake,0.33,0.96,0.20073878460202,23.0,reviewed,mb,mb
 2024-08-22T01:48:44.744Z,31.683,-104.4,5.8948,1.2,ml,16.0,65.0,0.0,0.2,tx,tx2024qlrj,2024-08-22T14:00:02.243Z,"54 km S of Whites City, New Mexico",earthquake,0.9456889596770878,1.0496270651325337,0.1,14.0,reviewed,tx,tx
+2024-08-22T14:23:07.508Z,61.9075,-149.6298,21.2,1.8,ml,,,,0.33,ak,ak024asvrgkp,2024-08-22T14:25:34.910Z,"27 km NW of Fishhook, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-22T06:46:55.830Z,44.4448333333333,-115.203666666667,5.02,2.49,ml,17.0,58.0,0.4247,0.12,mb,mb90059943,2024-08-22T14:20:26.570Z,"32 km NW of Stanley, Idaho",earthquake,0.3,0.71,0.206004366142602,30.0,reviewed,mb,mb
