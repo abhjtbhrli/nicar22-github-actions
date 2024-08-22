@@ -13653,3 +13653,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-22T05:09:47.390Z,35.6241667,-117.473,7.41,0.88,ml,23.0,58.0,0.0386,0.13,ci,ci40710759,2024-08-22T05:15:52.588Z,"17 km SSW of Searles Valley, CA",earthquake,0.24,0.43,0.356,6.0,automatic,ci,ci
 2024-08-22T05:08:31.760Z,37.303,-115.3756,7.1,1.0,ml,10.0,166.07,0.278,0.2435,nn,nn00882809,2024-08-22T05:10:49.768Z,"19 km WSW of Alamo, Nevada",earthquake,,268.9,0.12,7.0,automatic,nn,nn
 2024-08-21T14:08:28.000Z,48.7695,-121.80733333333332,-0.67,1.5,ml,6.0,105.0,0.08086,0.38,uw,uw62039171,2024-08-22T05:09:24.030Z,"16 km SE of Glacier, Washington",earthquake,1.27,3.16,0.0626050734693197,5.0,reviewed,uw,uw
+2024-08-22T05:34:09.300Z,38.8305015563965,-122.81600189209,1.78999996185303,1.31,md,24.0,45.0,0.008473,0.02,nc,nc75051621,2024-08-22T05:35:47.189Z,"8 km NNW of The Geysers, CA",earthquake,0.19,0.379999995,0.11,25.0,automatic,nc,nc
