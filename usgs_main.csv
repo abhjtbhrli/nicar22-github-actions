@@ -13746,3 +13746,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-22T14:46:34.440Z,44.3175,-115.171333333333,1.47,1.74,ml,10.0,68.0,0.3149,0.12,mb,mb90059963,2024-08-22T15:25:19.280Z,"21 km WNW of Stanley, Idaho",earthquake,0.44,1.91,0.137521423593248,13.0,reviewed,mb,mb
 2024-08-22T14:35:50.944Z,11.7538,-86.6022,72.398,4.2,mb,21.0,158.0,0.524,0.64,us,us7000n8rv,2024-08-22T15:27:15.283Z,"10 km WSW of Masachapa, Nicaragua",earthquake,5.69,10.644,0.152,12.0,reviewed,us,us
 2024-08-21T16:15:04.200Z,34.54933333,-96.597,0.0,1.28,ml,31.0,90.0,0.1178768685,0.66,ok,ok2024qkyj,2024-08-22T15:24:33.404Z,"13 km SSW of Stonewall, Oklahoma",quarry blast,,1.1,0.31,15.0,reviewed,ok,ok
+2024-08-22T00:50:07.816Z,31.623,-104.124,8.0481,1.1,ml,20.0,53.0,0.0,0.2,tx,tx2024qlpj,2024-08-22T15:29:07.094Z,"46 km NW of Toyah, Texas",earthquake,0.7824692854382589,0.9197105626965052,0.4,16.0,reviewed,tx,tx
