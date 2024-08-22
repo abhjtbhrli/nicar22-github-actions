@@ -13778,3 +13778,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-22T18:10:38.041Z,-6.8061,152.4158,10.0,5.0,mb,62.0,68.0,5.809,0.56,us,us7000n8tu,2024-08-22T18:31:49.040Z,"272 km S of Kokopo, Papua New Guinea",earthquake,10.17,1.87,0.063,81.0,reviewed,us,us
 2024-08-22T17:05:32.990Z,34.4476667,-117.8691667,8.61,1.43,ml,14.0,192.0,0.02233,0.08,ci,ci40711255,2024-08-22T18:35:46.585Z,"8 km SSE of Pearblossom, CA",earthquake,0.44,0.4,0.585,36.0,reviewed,ci,ci
 2024-08-22T16:02:05.310Z,34.4488333,-117.873,8.81,1.98,ml,8.0,201.0,0.0247,0.04,ci,ci40711167,2024-08-22T18:36:08.389Z,"7 km SSE of Pearblossom, CA",earthquake,0.77,0.72,0.234,30.0,reviewed,ci,ci
+2024-08-22T18:37:09.385Z,61.8824,-149.2419,18.7,1.2,ml,,,,0.39,ak,ak024asy8b5m,2024-08-22T18:38:50.505Z,"15 km N of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-22T08:41:25.090Z,52.012,178.310833333333,1.06,2.24,ml,8.0,333.0,0.1332,0.08,av,av93237411,2024-08-22T18:46:35.350Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,1.68,31.61,0.244536566090212,10.0,reviewed,av,av
+2024-08-21T23:04:31.710Z,31.636,-104.479,7.1765,1.1,ml,13.0,74.0,0.0,0.2,tx,tx2024qllw,2024-08-22T18:38:37.874Z,"60 km S of Whites City, New Mexico",earthquake,1.73175481064561,0.881497763665998,0.1,9.0,reviewed,tx,tx
