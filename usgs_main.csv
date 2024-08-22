@@ -13773,3 +13773,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-22T17:44:22.254Z,1.9793,127.1238,73.295,4.8,mb,67.0,99.0,1.224,0.77,us,us7000n8tn,2024-08-22T18:04:52.040Z,"102 km WNW of Tobelo, Indonesia",earthquake,8.0,6.972,0.064,75.0,reviewed,us,us
 2024-08-22T08:39:27.760Z,51.9745,178.3225,9.3,2.63,ml,5.0,318.0,0.1191,0.04,av,av93237406,2024-08-22T18:10:11.500Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,1.73,1.67,0.189675321456313,11.0,reviewed,av,av
 2024-08-21T23:20:46.302Z,31.628,-104.512,6.6638,1.8,ml,22.0,75.0,0.0,0.1,tx,tx2024qlml,2024-08-22T18:14:34.597Z,"62 km SSW of Whites City, New Mexico",earthquake,1.1016399614963637,0.7001455956567111,0.2,18.0,reviewed,tx,tx
+2024-08-22T18:26:05.600Z,19.3731670379639,-155.179336547852,2.21000003814697,1.89,ml,19.0,117.0,0.01135,0.230000004,hv,hv74420046,2024-08-22T18:28:42.860Z,"9 km SE of Volcano, Hawaii",earthquake,0.72,0.810000002,0.13,3.0,automatic,hv,hv
+2024-08-22T18:23:00.970Z,60.6944,-150.1867,45.2,1.7,ml,,,,0.26,ak,ak024asy5ahd,2024-08-22T18:24:28.894Z,"30 km NW of Cooper Landing, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-08-22T18:10:38.041Z,-6.8061,152.4158,10.0,5.0,mb,62.0,68.0,5.809,0.56,us,us7000n8tu,2024-08-22T18:31:49.040Z,"272 km S of Kokopo, Papua New Guinea",earthquake,10.17,1.87,0.063,81.0,reviewed,us,us
+2024-08-22T17:05:32.990Z,34.4476667,-117.8691667,8.61,1.43,ml,14.0,192.0,0.02233,0.08,ci,ci40711255,2024-08-22T18:35:46.585Z,"8 km SSE of Pearblossom, CA",earthquake,0.44,0.4,0.585,36.0,reviewed,ci,ci
+2024-08-22T16:02:05.310Z,34.4488333,-117.873,8.81,1.98,ml,8.0,201.0,0.0247,0.04,ci,ci40711167,2024-08-22T18:36:08.389Z,"7 km SSE of Pearblossom, CA",earthquake,0.77,0.72,0.234,30.0,reviewed,ci,ci
