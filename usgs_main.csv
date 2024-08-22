@@ -13666,3 +13666,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-22T06:44:20.370Z,35.086834,-116.939003,9.21,1.19,ml,8.0,99.0,0.2163,0.16,ci,ci40710823,2024-08-22T06:46:32.909Z,"22 km NNE of Barstow, CA",earthquake,0.61,4.08,0.097,3.0,automatic,ci,ci
 2024-08-22T06:40:28.960Z,60.9195,-150.9531,18.5,1.2,ml,,,,0.31,ak,ak024asr3sk0,2024-08-22T06:41:56.142Z,"14 km W of Point Possession, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-08-22T06:39:54.960Z,19.3754997253418,-155.255996704102,0.200000002980232,2.08,ml,25.0,64.0,0.008061,0.189999998,hv,hv74419031,2024-08-22T06:42:34.250Z,"7 km SSW of Volcano, Hawaii",earthquake,0.17,0.150000006,0.22,14.0,automatic,hv,hv
+2024-08-22T06:53:13.880Z,33.4140015,-116.6448364,6.67,1.19,ml,42.0,43.0,0.0886,0.16,ci,ci40710831,2024-08-22T06:55:29.956Z,"15 km N of Warner Springs, CA",earthquake,0.24,0.76,0.209,14.0,automatic,ci,ci
