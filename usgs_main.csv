@@ -13721,3 +13721,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-22T11:59:29.158Z,63.5655,-150.8782,0.0,1.7,ml,,,,0.61,ak,ak024asu7175,2024-08-22T12:01:53.045Z,"42 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-22T12:28:47.540Z,38.7931671142578,-122.761833190918,3.47000002861023,1.05,md,21.0,62.0,0.007629,0.02,nc,nc75051751,2024-08-22T12:50:58.013Z,"2 km  of The Geysers, CA",earthquake,0.27,0.660000026,0.22,20.0,automatic,nc,nc
 2024-08-22T01:30:04.602Z,31.676,-104.391,6.51,1.8,ml,19.0,56.0,0.0,0.2,tx,tx2024qlqs,2024-08-22T12:37:52.754Z,"55 km S of Whites City, New Mexico",earthquake,0.9239568461666632,0.9505558253627884,0.2,17.0,reviewed,tx,tx
+2024-08-22T13:07:03.396Z,60.9189,-150.8156,3.0,2.1,ml,,,,0.53,ak,ak024asv2p6r,2024-08-22T13:08:45.452Z,"6 km W of Point Possession, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-22T12:55:53.070Z,59.9139,-152.5909,92.2,1.6,ml,,,,0.79,ak,ak024asurnsb,2024-08-22T12:58:08.686Z,"45 km WNW of Anchor Point, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2024-08-22T12:34:56.069Z,-18.8486,-177.2164,361.086,4.9,mb,58.0,80.0,2.985,1.02,us,us7000n8r4,2024-08-22T12:53:41.040Z,Fiji region,earthquake,10.17,8.295,0.031,329.0,reviewed,us,us
+2024-08-22T05:28:49.050Z,32.2165,-81.9473333333333,0.66,2.35,md,15.0,136.0,0.8183,0.26,se,se60502328,2024-08-22T13:05:53.280Z,"6 km N of Hagan, Georgia",earthquake,0.65,0.13,0.130408848097924,13.0,reviewed,se,se
+2024-08-21T22:57:08.760Z,38.4855,-112.898166666667,2.94,0.93,md,13.0,59.0,0.005371,0.09,uu,uu80079276,2024-08-22T13:10:11.030Z,"13 km NE of Milford, Utah",earthquake,0.32,0.61,0.086183553800815,3.0,reviewed,uu,uu
