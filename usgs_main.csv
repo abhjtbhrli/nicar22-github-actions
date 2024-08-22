@@ -13739,3 +13739,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-22T01:48:44.744Z,31.683,-104.4,5.8948,1.2,ml,16.0,65.0,0.0,0.2,tx,tx2024qlrj,2024-08-22T14:00:02.243Z,"54 km S of Whites City, New Mexico",earthquake,0.9456889596770878,1.0496270651325337,0.1,14.0,reviewed,tx,tx
 2024-08-22T14:23:07.508Z,61.9075,-149.6298,21.2,1.8,ml,,,,0.33,ak,ak024asvrgkp,2024-08-22T14:25:34.910Z,"27 km NW of Fishhook, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-22T06:46:55.830Z,44.4448333333333,-115.203666666667,5.02,2.49,ml,17.0,58.0,0.4247,0.12,mb,mb90059943,2024-08-22T14:20:26.570Z,"32 km NW of Stanley, Idaho",earthquake,0.3,0.71,0.206004366142602,30.0,reviewed,mb,mb
+2024-08-22T14:38:00.187Z,61.5922,-147.8612,29.7,1.0,ml,,,,0.51,ak,ak024asvurqq,2024-08-22T14:39:41.472Z,"26 km SSW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-08-22T01:38:51.817Z,31.674,-104.394,6.0999,1.6,ml,13.0,76.0,0.0,0.2,tx,tx2024qlra,2024-08-22T14:37:40.653Z,"55 km S of Whites City, New Mexico",earthquake,1.1128191755604242,1.1434581440629863,0.1,13.0,reviewed,tx,tx
