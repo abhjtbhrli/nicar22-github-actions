@@ -13781,3 +13781,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-22T18:37:09.385Z,61.8824,-149.2419,18.7,1.2,ml,,,,0.39,ak,ak024asy8b5m,2024-08-22T18:38:50.505Z,"15 km N of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-22T08:41:25.090Z,52.012,178.310833333333,1.06,2.24,ml,8.0,333.0,0.1332,0.08,av,av93237411,2024-08-22T18:46:35.350Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,1.68,31.61,0.244536566090212,10.0,reviewed,av,av
 2024-08-21T23:04:31.710Z,31.636,-104.479,7.1765,1.1,ml,13.0,74.0,0.0,0.2,tx,tx2024qllw,2024-08-22T18:38:37.874Z,"60 km S of Whites City, New Mexico",earthquake,1.73175481064561,0.881497763665998,0.1,9.0,reviewed,tx,tx
+2024-08-22T18:51:21.450Z,38.7976684570312,-122.756500244141,4.1399998664856,0.76,md,12.0,90.0,0.003875,0.02,nc,nc75051806,2024-08-22T18:52:59.722Z,"2 km N of The Geysers, CA",earthquake,0.41,1.38,0.05,12.0,automatic,nc,nc
+2024-08-22T18:32:08.841Z,-3.6573,151.9083,10.0,5.1,mww,56.0,100.0,7.405,0.9,us,us7000n8tx,2024-08-22T18:53:38.040Z,"66 km NNW of Rabaul, Papua New Guinea",earthquake,5.02,1.864,0.073,18.0,reviewed,us,us
+2024-08-22T08:42:15.530Z,51.9928333333333,178.3545,10.76,1.25,ml,4.0,349.0,0.1019,0.06,av,av93018999,2024-08-22T18:50:12.330Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,3.05,1.61,0.336010586535231,4.0,reviewed,av,av
