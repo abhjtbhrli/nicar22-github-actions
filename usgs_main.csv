@@ -13621,3 +13621,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-21T16:49:53.060Z,19.391,-155.2495,1.43,2.4,ml,22.0,63.0,0.005722,0.09,hv,hv74417411,2024-08-22T02:18:40.110Z,"5 km SSW of Volcano, Hawaii",earthquake,0.22,0.21,0.174288619920733,11.0,reviewed,hv,hv
 2024-08-21T08:56:38.110Z,45.7772,-74.4519,1.489,1.8,ml,14.0,109.0,0.446,0.81,us,us7000n8ny,2024-08-22T01:47:36.040Z,"10 km NNW of Brownsburg-Chatham, Canada",earthquake,1.39,7.067,0.128,8.0,reviewed,us,us
 2024-08-21T08:55:41.713Z,45.0935,-74.1217,8.16,1.2,ml,8.0,103.0,0.538,0.2,us,us7000n8nw,2024-08-22T01:42:02.040Z,"3 km ENE of Huntingdon, Canada",earthquake,1.27,6.371,0.128,8.0,reviewed,us,us
+2024-08-22T02:40:20.148Z,61.259,-147.0156,18.6,3.9,ml,,,,0.44,ak,ak024asoq1gu,2024-08-22T02:49:52.143Z,"38 km WNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-22T02:31:36.980Z,38.8316650390625,-122.817665100098,1.5900000333786,0.74,md,10.0,95.0,0.01017,0.02,nc,nc75051586,2024-08-22T02:33:11.345Z,"8 km NNW of The Geysers, CA",earthquake,0.38,0.779999971,0.43,12.0,automatic,nc,nc
+2024-08-22T02:30:19.940Z,38.8283348083496,-122.853164672852,2.14000010490417,0.75,md,10.0,117.0,0.003002,0.01,nc,nc75051581,2024-08-22T02:31:56.084Z,"10 km NW of The Geysers, CA",earthquake,0.45,0.980000019,0.3,11.0,automatic,nc,nc
+2024-08-22T02:27:21.537Z,62.6187,-150.5045,30.8,1.2,ml,,,,0.69,ak,ak024ason995,2024-08-22T02:29:47.927Z,"19 km NE of Petersville, Alaska",earthquake,,2.2,,,automatic,ak,ak
+2024-08-21T16:49:51.690Z,19.391,-155.251,1.18,1.66,ml,12.0,90.0,0.005469,0.06,hv,hv74417406,2024-08-22T02:29:32.670Z,"6 km SSW of Volcano, Hawaii",earthquake,0.22,0.31,0.146883479243979,8.0,reviewed,hv,hv
