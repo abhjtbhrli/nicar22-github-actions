@@ -13766,3 +13766,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-22T17:42:15.210Z,35.6758347,-117.5240021,5.31,1.14,ml,15.0,122.0,0.08236,0.13,ci,ci40711295,2024-08-22T17:44:25.300Z,"15 km SW of Searles Valley, CA",earthquake,0.54,1.16,0.197,3.0,automatic,ci,ci
 2024-08-22T17:41:44.235Z,61.503,-150.5891,49.2,2.5,ml,,,,0.24,ak,ak024asxnt3r,2024-08-22T17:43:17.950Z,"6 km SW of Susitna, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-08-22T17:21:14.312Z,5.8874,126.8202,131.341,4.9,mww,75.0,105.0,1.703,0.52,us,us7000n8tg,2024-08-22T17:39:49.040Z,"88 km SE of Pondaguitan, Philippines",earthquake,9.1,6.239,0.086,13.0,reviewed,us,us
+2024-08-22T17:49:13.020Z,62.7946,-151.0114,95.3,2.5,ml,,,,0.58,ak,ak024asxpge7,2024-08-22T17:51:18.596Z,"35 km NNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-08-22T17:47:02.060Z,19.5183334350586,-155.567840576172,3.03999996185303,1.72000003,md,13.0,67.0,0.01925,0.219999999,hv,hv74419991,2024-08-22T17:48:40.340Z,"31 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.7,1.13,0.769999981,4.0,automatic,hv,hv
