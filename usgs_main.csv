@@ -13813,3 +13813,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-22T20:27:45.173Z,57.3385,-156.586,1.6,2.4,ml,,,,0.71,ak,ak024aszd3yt,2024-08-22T20:29:31.976Z,"52 km ESE of Ugashik, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-22T11:02:25.170Z,46.882333333333335,-122.74033333333334,15.04,0.99,ml,24.0,102.0,0.08042,0.15,uw,uw62039531,2024-08-22T20:28:10.030Z,"4 km W of Rainier, Washington",earthquake,0.36,0.75,0.1530189367985398,11.0,reviewed,uw,uw
 2024-08-22T02:33:31.250Z,61.2706666666667,-152.470166666667,6.08,-0.39,ml,4.0,152.0,0.04301,0.03,av,av93237076,2024-08-22T20:31:49.510Z,"75 km WNW of Tyonek, Alaska",earthquake,0.85,0.94,0.1488948263636,4.0,reviewed,av,av
+2024-08-22T06:35:47.080Z,35.1301667,-119.0893333,12.36,1.91,ml,,,,,ci,ci37681244,2024-08-22T20:46:30.431Z,"22 km SW of Lamont, CA",earthquake,0.53,31.61,0.143,18.0,reviewed,ci,ci
