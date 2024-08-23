@@ -14092,3 +14092,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-23T16:43:55.280Z,33.4885,-116.4886667,11.94,0.18,ml,12.0,69.0,0.07737,0.09,ci,ci37681564,2024-08-23T19:46:04.165Z,"19 km ESE of Anza, CA",earthquake,0.22,0.62,0.167,8.0,reviewed,ci,ci
 2024-08-23T11:26:28.860Z,35.6276667,-117.4765,6.63,0.92,ml,15.0,71.0,0.0427,0.1,ci,ci40711895,2024-08-23T19:41:26.012Z,"17 km SSW of Searles Valley, CA",earthquake,0.21,0.35,0.117,8.0,reviewed,ci,ci
 2024-08-23T06:23:30.560Z,47.769,-122.85783333333332,20.43,0.37,ml,8.0,134.0,0.05669,0.16,uw,uw62039896,2024-08-23T19:44:00.170Z,"6 km SSE of Quilcene, Washington",earthquake,0.66,0.76,0.1590563225319582,4.0,reviewed,uw,uw
+2024-08-23T19:55:04.907Z,61.0158,-148.2756,32.0,1.4,ml,,,,0.74,ak,ak024aumgxsq,2024-08-23T19:56:55.353Z,"34 km NE of Whittier, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2024-08-23T19:50:34.580Z,38.8043327331543,-122.737335205078,1.88999998569489,1.03,md,12.0,114.0,0.01787,0.02,nc,nc75052391,2024-08-23T19:52:10.322Z,"2 km SW of Cobb, CA",earthquake,0.31,0.569999993,0.2,14.0,automatic,nc,nc
+2024-08-23T19:19:02.603Z,52.9215,160.9832,20.92,4.9,mww,95.0,118.0,1.415,0.57,us,us7000n92n,2024-08-23T19:54:34.040Z,"158 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,8.47,5.107,0.086,13.0,reviewed,us,us
+2024-08-23T17:35:44.560Z,32.9793333,-116.3146667,8.53,0.42,ml,8.0,180.0,0.02643,0.14,ci,ci37681572,2024-08-23T19:57:52.701Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.82,0.55,0.095,5.0,reviewed,ci,ci
