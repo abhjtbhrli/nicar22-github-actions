@@ -13983,3 +13983,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-23T12:43:38.187Z,61.0594,-146.3941,4.3,1.5,ml,,,,0.41,ak,ak024aui8eje,2024-08-23T12:45:54.111Z,"8 km SSW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-23T12:31:20.570Z,37.6301651000977,-119.028999328613,1.38999998569489,0.83,md,10.0,97.0,0.011,0.03,nc,nc75052116,2024-08-23T12:54:23.830Z,"4 km W of Mammoth Lakes, CA",earthquake,0.43,0.920000017,0.33,11.0,automatic,nc,nc
 2024-08-23T12:00:57.148Z,35.942,140.4287,64.543,4.8,mb,42.0,127.0,1.896,1.05,us,us7000n8z3,2024-08-23T12:45:26.040Z,"5 km NNE of Kōzaki, Japan",earthquake,5.44,7.323,0.101,30.0,reviewed,us,us
+2024-08-23T12:59:09.870Z,38.8253326416016,-122.798500061035,2.67000007629395,1.02,md,19.0,53.0,0.009245,0.04,nc,nc75052136,2024-08-23T13:00:46.379Z,"6 km NNW of The Geysers, CA",earthquake,0.27,0.670000017,0.25,20.0,automatic,nc,nc
+2024-08-23T12:58:50.289Z,64.7679,-147.5146,14.0,0.7,ml,,,,0.34,ak,ak024auibn7o,2024-08-23T13:00:39.227Z,"3 km SSE of Badger, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-08-23T10:30:28.277Z,-2.4722,121.2237,10.0,4.7,mb,52.0,74.0,3.587,0.7,us,us7000n8yt,2024-08-23T13:02:46.040Z,"100 km E of Masamba, Indonesia",earthquake,7.62,1.862,0.082,45.0,reviewed,us,us
