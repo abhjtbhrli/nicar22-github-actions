@@ -14140,3 +14140,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-23T10:41:37.580Z,51.7536666666667,-177.4655,5.03,1.47,ml,11.0,185.0,0.1434,0.28,av,av93238761,2024-08-23T23:10:30.170Z,"58 km WSW of Adak, Alaska",earthquake,1.57,31.61,0.310902652652546,11.0,reviewed,av,av
 2024-08-23T10:38:17.540Z,61.2791666666667,-152.251,2.85,-0.13,ml,7.0,109.0,0.06193,0.05,av,av93238756,2024-08-23T23:02:49.470Z,"64 km WNW of Tyonek, Alaska",earthquake,0.45,0.61,0.198856686656126,7.0,reviewed,av,av
 2024-08-23T04:36:11.539Z,36.8133,-115.8619,8.5,0.4,ml,8.0,226.84,0.067,0.1767,nn,nn00882883,2024-08-23T23:08:38.439Z,"31 km NNW of Indian Springs, Nevada",earthquake,,2.4,0.11,2.0,reviewed,nn,nn
+2024-08-23T23:20:18.411Z,38.6665,-118.7227,14.6,2.6,ml,14.0,151.78999999999996,0.212,0.2524,nn,nn00882885,2024-08-23T23:22:50.582Z,"3 km NE of Walker Lake, Nevada",earthquake,,1.1,0.42,9.0,automatic,nn,nn
+2024-08-23T07:19:15.085Z,36.6286,-116.1869,11.1,-0.4,ml,11.0,156.97,0.06,0.0924,nn,nn00882888,2024-08-23T23:27:01.740Z,"46 km W of Indian Springs, Nevada",earthquake,,1.4,0.55,5.0,reviewed,nn,nn
