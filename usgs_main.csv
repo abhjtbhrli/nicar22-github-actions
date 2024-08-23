@@ -13897,3 +13897,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-23T03:55:57.365Z,-9.1127,119.2943,10.0,4.9,mb,31.0,76.0,1.526,1.25,us,us7000n8wi,2024-08-23T04:20:55.557Z,"35 km N of Tambolaka, Indonesia",earthquake,6.77,1.887,0.117,24.0,reviewed,us,us
 2024-08-23T04:38:53.560Z,31.7105,-101.7037,3.536,3.2,mb_lg,36.0,32.0,0.279,0.61,us,us7000n8wl,2024-08-23T04:45:20.040Z,"27 km SW of Garden City, Texas",earthquake,3.2,7.84,0.045,127.0,reviewed,us,us
 2024-08-22T22:47:35.186Z,36.5888,70.5573,198.858,4.2,mb,32.0,84.0,2.372,0.86,us,us7000n8vp,2024-08-23T04:41:54.040Z,"39 km SW of Jurm, Afghanistan",earthquake,4.74,10.187,0.166,10.0,reviewed,us,us
+2024-08-23T04:47:33.340Z,46.38150024414063,-122.3193359375,11.7200002670288,0.769999981,md,13.0,174.0,,0.0500000007,uw,uw62039846,2024-08-23T04:49:25.570Z,"19 km S of Morton, Washington",earthquake,0.81,1.13,0.75999999,2.0,automatic,uw,uw
+2024-08-23T04:38:52.606Z,31.704,-101.708,9.6924,3.3,ml,29.0,62.0,0.1,0.1,tx,tx2024qnsk,2024-08-23T04:54:44.099Z,"27 km SW of Garden City, Texas",earthquake,0.7703402037353447,0.770786876560861,0.1,37.0,reviewed,tx,tx
+2024-08-23T03:31:53.407Z,31.669,-104.457,7.0252,1.7,ml,6.0,99.0,0.0,0.2,tx,tx2024qnqg,2024-08-23T04:50:48.032Z,"56 km S of Whites City, New Mexico",earthquake,0.0,5.25039339065552,0.2,6.0,automatic,tx,tx
+2024-08-22T21:51:46.570Z,36.9988333333333,-119.8045,-0.63,2.14,md,9.0,191.0,0.07784,0.02,nc,nc75051866,2024-08-23T04:52:37.783Z,"6 km E of Bonadelle Ranchos-Madera Ranchos, CA",quarry blast,0.61,31.61,0.224,23.0,reviewed,nc,nc
