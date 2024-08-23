@@ -13882,3 +13882,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-23T03:08:00.970Z,62.3124,-148.664,30.5,1.2,ml,,,,0.71,ak,ak024aucnx5f,2024-08-23T03:10:39.691Z,"58 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-23T01:43:50.735Z,60.6715,-152.0359,87.6,1.5,ml,,,,0.48,ak,ak024aubonot,2024-08-23T03:02:02.238Z,"39 km W of Salamatof, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2024-08-22T20:56:09.000Z,52.0941666666667,-176.1785,4.57,0.32,ml,6.0,281.0,0.0008572,0.3,av,av93238096,2024-08-23T02:59:00.170Z,"39 km NE of Adak, Alaska",earthquake,1.24,0.79,0.252058375320142,6.0,reviewed,av,av
+2024-08-23T03:15:44.490Z,63.2845,-151.3143,0.0,1.8,ml,,,,0.66,ak,ak024aucpij5,2024-08-23T03:18:03.780Z,"35 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
