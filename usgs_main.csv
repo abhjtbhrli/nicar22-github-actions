@@ -13901,3 +13901,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-23T04:38:52.606Z,31.704,-101.708,9.6924,3.3,ml,29.0,62.0,0.1,0.1,tx,tx2024qnsk,2024-08-23T04:54:44.099Z,"27 km SW of Garden City, Texas",earthquake,0.7703402037353447,0.770786876560861,0.1,37.0,reviewed,tx,tx
 2024-08-23T03:31:53.407Z,31.669,-104.457,7.0252,1.7,ml,6.0,99.0,0.0,0.2,tx,tx2024qnqg,2024-08-23T04:50:48.032Z,"56 km S of Whites City, New Mexico",earthquake,0.0,5.25039339065552,0.2,6.0,automatic,tx,tx
 2024-08-22T21:51:46.570Z,36.9988333333333,-119.8045,-0.63,2.14,md,9.0,191.0,0.07784,0.02,nc,nc75051866,2024-08-23T04:52:37.783Z,"6 km E of Bonadelle Ranchos-Madera Ranchos, CA",quarry blast,0.61,31.61,0.224,23.0,reviewed,nc,nc
+2024-08-23T05:12:59.740Z,35.9760017,-117.6606674,2.13,2.46,ml,32.0,95.0,0.02926,0.18,ci,ci40711799,2024-08-23T05:15:13.519Z,"23 km ENE of Little Lake, CA",earthquake,0.29,0.42,0.349,24.0,automatic,ci,ci
+2024-08-23T05:07:16.070Z,19.1013336181641,-155.372497558594,33.8300018310547,2.18000007,md,49.0,194.0,0.1004,0.170000002,hv,hv74420961,2024-08-23T05:09:06.410Z,"15 km SE of Pāhala, Hawaii",earthquake,0.5,0.689999998,0.140000001,8.0,automatic,hv,hv
+2024-08-23T05:01:14.968Z,58.8761,-154.4071,124.2,2.1,ml,,,,0.65,ak,ak024audtbgy,2024-08-23T05:03:32.826Z,"66 km SSE of Kokhanok, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-08-23T04:48:56.982Z,-52.9388,21.0197,10.0,5.5,mb,42.0,69.0,20.547,0.76,us,us7000n8wt,2024-08-23T05:10:04.969Z,south of Africa,earthquake,13.14,1.875,0.087,46.0,reviewed,us,us
+2024-08-23T04:45:17.675Z,-52.9114,21.0427,10.0,5.5,mb,33.0,80.0,20.52,0.79,us,us7000n8wr,2024-08-23T05:04:49.703Z,south of Africa,earthquake,13.43,1.882,0.104,32.0,reviewed,us,us
