@@ -13954,3 +13954,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-23T10:11:53.797Z,60.4925,-148.374,0.0,1.8,ml,,,,0.61,ak,ak024augupmb,2024-08-23T10:14:03.790Z,"35 km SSE of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-23T10:08:17.010Z,38.8213348388672,-122.810997009277,2.54999995231628,0.75,md,13.0,67.0,0.00218,0.02,nc,nc75052051,2024-08-23T10:20:51.700Z,"7 km NNW of The Geysers, CA",earthquake,0.36,1.03999996,0.41,15.0,automatic,nc,nc
 2024-08-23T04:20:08.183Z,31.669,-104.45,5.2795,1.7,ml,15.0,70.0,0.0,0.2,tx,tx2024qnrw,2024-08-23T10:29:00.359Z,"56 km S of Whites City, New Mexico",earthquake,1.0511930902091255,0.7656310710822744,0.1,13.0,reviewed,tx,tx
+2024-08-23T10:36:52.080Z,38.832332611084,-122.818000793457,1.71000003814697,0.72,md,10.0,82.0,0.01086,0.01,nc,nc75052066,2024-08-23T10:38:26.619Z,"8 km NNW of The Geysers, CA",earthquake,0.34,0.870000005,0.19,11.0,automatic,nc,nc
