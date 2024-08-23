@@ -14063,3 +14063,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-23T03:54:46.900Z,39.2963333333333,-123.24,5.34,1.31,md,16.0,69.0,0.1021,0.08,nc,nc75051986,2024-08-23T17:45:21.883Z,"5 km NNW of Redwood Valley, CA",earthquake,0.23,0.96,0.124,12.0,reviewed,nc,nc
 2024-08-23T02:36:23.840Z,37.1851666666667,-121.552666666667,10.02,0.54,md,11.0,57.0,0.04233,0.05,nc,nc75051966,2024-08-23T17:42:50.911Z,"11 km ENE of Morgan Hill, CA",earthquake,0.32,0.69,0.146,10.0,reviewed,nc,nc
 2024-08-23T02:06:34.600Z,37.134,-121.552,8.67,0.55,md,11.0,74.0,0.06636,0.1,nc,nc75051951,2024-08-23T17:40:51.132Z,"8 km NE of San Martin, CA",earthquake,0.4,0.85,0.207,11.0,reviewed,nc,nc
+2024-08-23T10:00:48.850Z,45.9095,-122.41116666666667,18.24,1.25,ml,47.0,35.0,0.02369,0.13,uw,uw62039961,2024-08-23T17:53:03.440Z,"2 km E of Amboy, Washington",earthquake,0.22,0.34,0.1242814972179819,26.0,reviewed,uw,uw
