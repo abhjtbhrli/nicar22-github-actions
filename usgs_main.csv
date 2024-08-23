@@ -13879,3 +13879,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-22T19:03:19.040Z,61.1863333333333,-152.2835,2.6,0.05,ml,6.0,220.0,0.02886,0.17,av,av93019084,2024-08-23T02:36:54.280Z,"63 km WNW of Tyonek, Alaska",earthquake,1.03,0.39,0.131228955878316,6.0,reviewed,av,av
 2024-08-22T18:14:41.320Z,52.0633333333333,178.369,6.89,1.01,ml,4.0,348.0,0.1303,0.07,av,av93237956,2024-08-23T02:22:21.490Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,2.17,3.22,0.36674718920353,4.0,reviewed,av,av
 2024-08-22T17:00:48.250Z,52.0258333333333,178.328833333333,4.92,0.59,ml,4.0,350.0,0.1282,0.05,av,av93237876,2024-08-23T02:09:06.970Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,2.46,3.16,0.339502798305052,4.0,reviewed,av,av
+2024-08-23T03:08:00.970Z,62.3124,-148.664,30.5,1.2,ml,,,,0.71,ak,ak024aucnx5f,2024-08-23T03:10:39.691Z,"58 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-08-23T01:43:50.735Z,60.6715,-152.0359,87.6,1.5,ml,,,,0.48,ak,ak024aubonot,2024-08-23T03:02:02.238Z,"39 km W of Salamatof, Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2024-08-22T20:56:09.000Z,52.0941666666667,-176.1785,4.57,0.32,ml,6.0,281.0,0.0008572,0.3,av,av93238096,2024-08-23T02:59:00.170Z,"39 km NE of Adak, Alaska",earthquake,1.24,0.79,0.252058375320142,6.0,reviewed,av,av
