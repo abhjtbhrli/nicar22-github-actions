@@ -14104,3 +14104,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-23T20:09:20.070Z,32.029,-103.876,10.9652,1.5,ml,4.0,254.0,0.1,1.0,tx,tx2024qoxd,2024-08-23T20:38:27.065Z,"28 km SE of Malaga, New Mexico",earthquake,0.0,10.3051300048828,0.4,4.0,automatic,tx,tx
 2024-08-23T03:40:13.330Z,54.8235,-164.0085,9.89,0.63,ml,4.0,246.0,0.01344,0.18,av,av93019119,2024-08-23T20:38:33.010Z,"38 km W of False Pass, Alaska",earthquake,1.0,1.02,0.298718561751061,4.0,reviewed,av,av
 2024-08-23T00:09:16.140Z,19.3811666666667,-155.2585,0.4,2.27,ml,17.0,48.0,0.008046,0.07,hv,hv74420561,2024-08-23T20:43:48.300Z,"7 km SSW of Volcano, Hawaii",earthquake,0.17,0.18,0.286784419464858,11.0,reviewed,hv,hv
+2024-08-23T05:42:41.460Z,54.5325,-164.677166666667,1.78,1.23,ml,7.0,144.0,0.04839,0.22,av,av93238506,2024-08-23T20:50:55.010Z,"84 km ENE of Akutan, Alaska",earthquake,0.57,0.86,0.31924107428285,7.0,reviewed,av,av
