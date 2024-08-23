@@ -14099,3 +14099,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-23T20:01:52.440Z,33.6698333,-116.7848333,15.19,0.43,ml,17.0,116.0,0.06586,0.06,ci,ci40712455,2024-08-23T20:07:49.739Z,"10 km SW of Idyllwild, CA",earthquake,0.17,0.34,0.106,8.0,automatic,ci,ci
 2024-08-23T19:32:35.331Z,31.587,-104.541,3.803,1.7,ml,8.0,159.0,0.1,0.2,tx,tx2024qovx,2024-08-23T20:03:45.603Z,"66 km NNE of Van Horn, Texas",earthquake,0.0,2.25722074508667,0.1,6.0,automatic,tx,tx
 2024-08-23T19:01:06.310Z,33.8718333,-117.5115,-0.51,0.85,ml,18.0,71.0,0.0775,0.31,ci,ci40712399,2024-08-23T20:20:51.031Z,"1 km SE of Home Gardens, CA",quarry blast,0.8,31.61,0.096,8.0,reviewed,ci,ci
+2024-08-23T20:20:05.087Z,34.54439163,-97.31263733,2.879326344,1.96,ml,12.0,107.0407257,0.04380644858,0.8650335316,ok,ok2024qoxm,2024-08-23T20:29:25.319Z,"5 km SE of Katie, Oklahoma",earthquake,3.381620354,2.169646884,0.38,7.0,automatic,ok,ok
