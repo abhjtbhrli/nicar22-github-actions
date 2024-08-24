@@ -14200,3 +14200,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-24T04:34:28.233Z,38.6746,-118.5526,11.5,1.6,ml,10.0,109.07,0.513,0.2313,nn,nn00882909,2024-08-24T04:36:59.290Z,"17 km NNE of Hawthorne, Nevada",earthquake,,0.9,0.28,5.0,automatic,nn,nn
 2024-08-24T04:45:08.594Z,38.6936,-118.5602,5.4,1.8,ml,14.0,88.02000000000001,0.072,0.1207,nn,nn00882911,2024-08-24T04:47:40.767Z,"17 km ENE of Walker Lake, Nevada",earthquake,,0.7,0.11,7.0,automatic,nn,nn
 2024-08-24T04:40:17.530Z,33.2756667,-116.4305,4.84,0.67,ml,35.0,70.0,0.01343,0.19,ci,ci40712783,2024-08-24T04:46:26.395Z,"6 km WNW of Borrego Springs, CA",earthquake,0.19,0.4,0.118,12.0,automatic,ci,ci
+2024-08-24T05:03:25.580Z,35.1814995,-117.2590027,2.37,1.52,ml,24.0,147.0,0.1729,0.17,ci,ci40712791,2024-08-24T05:05:35.004Z,"38 km NW of Barstow, CA",earthquake,0.39,1.13,0.181,7.0,automatic,ci,ci
