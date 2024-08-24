@@ -14197,3 +14197,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-24T04:26:00.050Z,19.1626663208008,-155.488494873047,33.3199996948242,2.1500001,md,35.0,117.0,0.02596,0.140000001,hv,hv74422781,2024-08-24T04:28:53.740Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.62,0.910000026,0.109999999,3.0,automatic,hv,hv
 2024-08-24T04:25:09.346Z,38.6563,-118.5602,8.4,2.2,ml,14.0,106.2,0.531,0.288,nn,nn00882906,2024-08-24T04:27:40.424Z,"15 km NNE of Hawthorne, Nevada",earthquake,,0.7,0.11,7.0,automatic,nn,nn
 2024-08-24T04:19:18.085Z,38.6729,-118.5407,11.4,2.9,ml,19.0,71.44999999999999,0.047,0.3916,nn,nn00882904,2024-08-24T04:28:49.091Z,"18 km NNE of Hawthorne, Nevada",earthquake,,0.4,0.24,10.0,automatic,nn,nn
+2024-08-24T04:34:28.233Z,38.6746,-118.5526,11.5,1.6,ml,10.0,109.07,0.513,0.2313,nn,nn00882909,2024-08-24T04:36:59.290Z,"17 km NNE of Hawthorne, Nevada",earthquake,,0.9,0.28,5.0,automatic,nn,nn
