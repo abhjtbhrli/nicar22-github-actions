@@ -14191,3 +14191,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-23T19:31:00.060Z,61.264,-152.178333333333,20.12,-0.07,ml,6.0,159.0,0.06581,0.07,av,av93019264,2024-08-24T03:24:53.210Z,"60 km WNW of Tyonek, Alaska",earthquake,0.4,0.67,0.193129329793519,6.0,reviewed,av,av
 2024-08-23T22:32:28.130Z,54.153,-165.966833333333,3.18,-0.75,ml,6.0,92.0,0.01169,0.25,av,av93019269,2024-08-24T03:46:12.740Z,"12 km W of Akutan, Alaska",earthquake,0.46,0.78,0.281756920323784,6.0,reviewed,av,av
 2024-08-24T03:46:37.426Z,63.5493,-149.6574,89.2,1.1,ml,,,,0.66,ak,ak024aw0fhsq,2024-08-24T03:49:11.523Z,"39 km WNW of Cantwell, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-08-24T04:13:59.703Z,38.6669,-118.5558,8.9,3.6,ml,21.0,83.85,0.266,0.2977,nn,nn00882900,2024-08-24T04:17:22.717Z,"16 km NNE of Hawthorne, Nevada",earthquake,,0.6,0.18,11.0,automatic,nn,nn
+2024-08-24T04:07:56.090Z,33.6883333,-116.7148333,15.21,0.62,ml,16.0,93.0,0.02278,0.11,ci,ci40712759,2024-08-24T04:19:14.365Z,"6 km S of Idyllwild, CA",earthquake,0.35,0.48,0.418,8.0,automatic,ci,ci
+2024-08-24T03:32:00.339Z,-6.658,105.1034,46.754,4.8,mb,42.0,114.0,2.651,0.84,us,us7000n94y,2024-08-24T04:04:44.040Z,"86 km WSW of Labuan, Indonesia",earthquake,9.79,6.694,0.089,40.0,reviewed,us,us
