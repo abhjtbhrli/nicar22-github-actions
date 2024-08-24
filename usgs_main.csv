@@ -14247,3 +14247,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-24T10:37:32.141Z,-6.9122,125.9069,495.808,4.3,mb,30.0,81.0,3.257,0.5,us,us7000n969,2024-08-24T11:18:19.040Z,"177 km N of Manatutu, Timor Leste",earthquake,10.02,7.76,0.103,27.0,reviewed,us,us
 2024-08-23T21:53:55.150Z,37.6508333333333,-121.924,11.9,1.31,md,17.0,104.0,0.05357,0.07,nc,nc75052446,2024-08-24T11:15:38.129Z,"5 km W of Pleasanton, CA",earthquake,0.54,0.53,0.165,13.0,reviewed,nc,nc
 2024-08-23T19:00:31.610Z,37.5555,-118.876833333333,5.07,0.6,md,8.0,213.0,0.05124,0.03,nc,nc75052356,2024-08-24T11:09:05.942Z,"13 km SSE of Mammoth Lakes, CA",earthquake,1.11,1.05,0.12,7.0,reviewed,nc,nc
+2024-08-24T11:18:24.670Z,38.7919998168945,-122.760833740234,1.30999994277954,0.76,md,14.0,63.0,0.008657,0.03,nc,nc75052671,2024-08-24T11:20:01.586Z,"2 km  of The Geysers, CA",earthquake,0.27,0.460000008,0.05,13.0,automatic,nc,nc
