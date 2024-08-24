@@ -14274,3 +14274,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-24T14:05:18.061Z,38.6698,-118.546,8.9,3.7,ml,34.0,48.47000000000003,0.046,0.3646,nn,nn00882938,2024-08-24T14:07:58.426Z,"17 km NNE of Hawthorne, Nevada",earthquake,,0.3,0.32,18.0,automatic,nn,nn
 2024-08-24T14:01:18.405Z,38.6864,-118.5715,2.9,2.5,ml,15.0,68.5,0.07,0.2243,nn,nn00882934,2024-08-24T14:03:54.431Z,"16 km ENE of Walker Lake, Nevada",earthquake,,0.8,0.12,7.0,automatic,nn,nn
 2024-08-24T13:57:04.511Z,38.6833,-118.548,9.426,3.2,ml,22.0,70.0,0.318,0.61,us,us7000n974,2024-08-24T14:12:55.040Z,"18 km ENE of Walker Lake, Nevada",earthquake,2.33,8.452,0.032,125.0,reviewed,us,us
+2024-08-24T13:57:04.613Z,38.6804,-118.5554,5.3,3.3,ml,11.0,48.94,0.059,0.1593,nn,nn00882931,2024-08-24T14:26:15.899Z,"17 km ENE of Walker Lake, Nevada",earthquake,,2.2,0.2,5.0,reviewed,nn,nn
