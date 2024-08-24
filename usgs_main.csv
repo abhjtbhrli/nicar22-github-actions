@@ -14276,3 +14276,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-24T13:57:04.511Z,38.6833,-118.548,9.426,3.2,ml,22.0,70.0,0.318,0.61,us,us7000n974,2024-08-24T14:12:55.040Z,"18 km ENE of Walker Lake, Nevada",earthquake,2.33,8.452,0.032,125.0,reviewed,us,us
 2024-08-24T13:57:04.613Z,38.6804,-118.5554,5.3,3.3,ml,11.0,48.94,0.059,0.1593,nn,nn00882931,2024-08-24T14:26:15.899Z,"17 km ENE of Walker Lake, Nevada",earthquake,,2.2,0.2,5.0,reviewed,nn,nn
 2024-08-24T14:41:52.862Z,59.5399,-153.0618,96.8,1.5,ml,,,,0.38,ak,ak024aw6y7xy,2024-08-24T14:43:57.254Z,"64 km ESE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-08-24T14:51:42.999Z,38.7001,-118.8289,16.0,2.1,ml,14.0,149.3,0.429,0.3571,nn,nn00882943,2024-08-24T14:54:23.590Z,"8 km NW of Walker Lake, Nevada",earthquake,,0.9,0.17,7.0,automatic,nn,nn
