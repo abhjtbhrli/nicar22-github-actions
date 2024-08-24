@@ -14317,3 +14317,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-24T20:11:28.030Z,38.8264999389648,-122.809997558594,1.1599999666214,1.49,md,28.0,38.0,0.003101,0.02,nc,nc75052871,2024-08-24T20:13:04.549Z,"7 km NNW of The Geysers, CA",earthquake,0.17,0.280000001,0.16,28.0,automatic,nc,nc
 2024-08-24T19:51:01.260Z,-20.7776,-179.0997,627.162,5.0,mb,97.0,30.0,3.914,0.79,us,us7000n983,2024-08-24T20:08:14.040Z,Fiji region,earthquake,11.4,8.419,0.026,467.0,reviewed,us,us
 2024-08-24T19:54:25.871Z,40.2855,24.1341,14.446,4.3,mb,43.0,36.0,1.273,0.75,us,us7000n984,2024-08-24T20:25:53.360Z,"9 km WNW of Karyes, Greece",earthquake,5.75,5.74,0.129,17.0,reviewed,us,us
+2024-08-24T20:53:47.877Z,63.1281,-150.9773,125.1,1.6,ml,,,,0.31,ak,ak024awalds3,2024-08-24T20:56:15.800Z,"59 km SE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-08-24T20:52:43.240Z,36.4386672973633,-120.770332336426,12.3699998855591,1.41,md,10.0,111.0,0.07635,0.12,nc,nc75052891,2024-08-24T20:54:18.624Z,"9 km WNW of New Idria, CA",earthquake,0.8,0.970000029,0.14,8.0,automatic,nc,nc
+2024-08-24T20:45:44.081Z,67.4774,-158.1173,0.0,2.0,ml,,,,1.25,ak,ak024awajnrd,2024-08-24T20:48:41.734Z,"45 km NNW of Ambler, Alaska",earthquake,,0.4,,,automatic,ak,ak
