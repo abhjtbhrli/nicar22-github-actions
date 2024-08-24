@@ -14230,3 +14230,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-24T09:24:35.790Z,35.1080017,-119.0423355,13.83,1.76,ml,41.0,35.0,0.05988,0.19,ci,ci40712895,2024-08-24T09:26:40.299Z,"20 km SW of Lamont, CA",earthquake,0.35,0.65,0.318,27.0,automatic,ci,ci
 2024-08-24T09:46:24.736Z,61.2621,-147.0173,18.0,1.8,ml,,,,0.57,ak,ak024aw402bd,2024-08-24T09:47:44.087Z,"38 km WNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-24T09:40:46.690Z,33.1528333,-116.0491667,5.18,1.39,ml,59.0,29.0,0.06335,0.21,ci,ci40712911,2024-08-24T09:47:07.139Z,"8 km E of Ocotillo Wells, CA",earthquake,0.15,0.46,0.176,27.0,automatic,ci,ci
+2024-08-24T09:51:53.340Z,40.2220001220703,-122.826332092285,4.25,2.01,md,7.0,101.0,0.05386,0.05,nc,nc75052646,2024-08-24T09:53:32.201Z,"43 km NW of Rancho Tehama Reserve, CA",earthquake,0.65,0.970000029,0.16,9.0,automatic,nc,nc
+2024-08-24T09:51:35.260Z,32.9765,-116.2731667,9.17,1.06,ml,42.0,58.0,0.1157,0.2,ci,ci40712919,2024-08-24T09:57:31.545Z,"23 km SW of Ocotillo Wells, CA",earthquake,0.25,0.73,0.219,4.0,automatic,ci,ci
