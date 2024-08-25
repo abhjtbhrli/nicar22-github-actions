@@ -14391,3 +14391,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-25T04:23:28.510Z,33.3391667,-116.3125,12.59,0.68,ml,32.0,137.0,0.02327,0.2,ci,ci40713527,2024-08-25T04:29:30.106Z,"11 km NNE of Borrego Springs, CA",earthquake,0.29,0.65,0.132,12.0,automatic,ci,ci
 2024-08-25T04:03:48.493Z,-31.9711,179.9371,355.554,4.4,mb,34.0,124.0,3.271,0.88,us,us7000n99h,2024-08-25T04:28:53.040Z,Kermadec Islands region,earthquake,14.17,7.649,0.13,19.0,reviewed,us,us
 2024-08-24T18:56:35.070Z,51.9248333333333,179.5995,5.84,1.96,ml,8.0,89.0,0.01837,0.18,av,av93240286,2024-08-25T04:36:26.970Z,"259 km W of Adak, Alaska",earthquake,0.38,0.52,0.304223714059197,11.0,reviewed,av,av
+2024-08-25T04:44:36.906Z,59.9734,-152.3709,27.4,1.1,ml,,,,0.39,ak,ak024axojuay,2024-08-25T04:46:09.393Z,"35 km W of Happy Valley, Alaska",earthquake,,0.3,,,automatic,ak,ak
