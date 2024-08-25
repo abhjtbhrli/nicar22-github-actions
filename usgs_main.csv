@@ -14551,3 +14551,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-25T20:47:32.510Z,33.4778333,-116.4931667,8.83,0.55,ml,29.0,60.0,0.08551,0.15,ci,ci40714039,2024-08-25T20:57:31.467Z,"19 km ESE of Anza, CA",earthquake,0.19,0.59,0.114,13.0,reviewed,ci,ci
 2024-08-25T20:33:41.550Z,18.0016666666667,-66.8803333333333,7.64,2.51,md,4.0,184.0,0.1592,0.03,pr,pr71458188,2024-08-25T21:01:29.230Z,"1 km SSW of Palomas, Puerto Rico",earthquake,0.66,1.17,0.0427786713183393,4.0,reviewed,pr,pr
 2024-08-25T21:12:22.189Z,61.3055,-147.7041,39.5,0.9,ml,,,,0.27,ak,ak024axyhbje,2024-08-25T21:13:54.136Z,"56 km S of Glacier View, Alaska",earthquake,,2.0,,,automatic,ak,ak
+2024-08-25T20:37:03.910Z,17.9068333333333,-66.88,15.79,2.01,md,3.0,233.0,0.1683,0.05,pr,pr71458193,2024-08-25T21:50:01.350Z,"7 km SSE of Guánica, Puerto Rico",earthquake,1.67,2.12,0.0486520692429575,3.0,reviewed,pr,pr
