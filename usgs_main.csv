@@ -14490,3 +14490,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-25T15:45:15.990Z,33.6625,-116.7131667,14.67,0.72,ml,35.0,58.0,0.03345,0.11,ci,ci40713823,2024-08-25T15:51:17.236Z,"9 km S of Idyllwild, CA",earthquake,0.17,0.26,0.159,13.0,automatic,ci,ci
 2024-08-25T15:44:15.870Z,33.6641667,-116.7118333,14.68,0.42,ml,23.0,81.0,0.03207,0.1,ci,ci40713815,2024-08-25T15:50:14.287Z,"8 km S of Idyllwild, CA",earthquake,0.23,0.32,0.169,8.0,automatic,ci,ci
 2024-08-25T15:35:08.694Z,-5.8323,147.132,91.647,5.1,mb,65.0,79.0,3.549,0.8,us,us7000n9bs,2024-08-25T15:52:09.040Z,"99 km N of Lae, Papua New Guinea",earthquake,10.42,7.05,0.05,132.0,reviewed,us,us
+2024-08-25T15:58:57.644Z,62.9614,-150.5251,86.3,1.2,ml,,,,0.36,ak,ak024axv6nl0,2024-08-25T16:00:50.901Z,"53 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-08-25T15:27:02.049Z,31.595,-103.963,5.833,1.9,ml,15.0,67.0,0.0,0.3,tx,tx2024qsev,2024-08-25T16:14:52.965Z,"35 km NNW of Toyah, Texas",earthquake,0.0,2.19795823097229,0.2,13.0,automatic,tx,tx
+2024-08-25T14:27:25.567Z,17.2213,-96.3697,83.45,4.5,mb,25.0,165.0,2.125,0.97,us,us7000n9bk,2024-08-25T16:10:16.040Z,"6 km W of Santiago Laxopa, Mexico",earthquake,9.97,14.127,0.044,152.0,reviewed,us,us
+2024-08-25T13:04:26.919Z,58.3605,-142.8508,4.4,2.2,ml,,,,0.61,ak,ak024axto6ur,2024-08-25T16:10:59.347Z,"223 km SW of Yakutat, Alaska",earthquake,,5.2,,,reviewed,ak,ak
+2024-08-25T06:42:58.578Z,51.6434,178.6253,56.7,3.8,ml,,,,0.41,ak,ak024axpqbts,2024-08-25T16:05:35.098Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,0.8,,,reviewed,ak,ak
