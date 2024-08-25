@@ -14524,3 +14524,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-25T17:50:02.900Z,35.9485,-117.6873333,4.36,1.55,ml,27.0,78.0,0.02999,0.15,ci,ci40713919,2024-08-25T17:56:26.360Z,"20 km E of Little Lake, CA",earthquake,0.17,0.32,0.178,17.0,automatic,ci,ci
 2024-08-25T17:48:09.550Z,35.3233333,-118.5368333,6.24,1.54,ml,44.0,38.0,0.1547,0.16,ci,ci40713911,2024-08-25T17:54:52.352Z,"23 km NNW of Tehachapi, CA",earthquake,0.16,0.83,0.173,27.0,automatic,ci,ci
 2024-08-25T17:46:38.557Z,61.03,-150.2963,44.7,1.9,ml,,,,0.26,ak,ak024axwawq7,2024-08-25T17:48:12.605Z,"24 km ENE of Point Possession, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-08-25T18:16:18.395Z,61.5103,-152.2011,120.6,1.7,ml,,,,0.33,ak,ak024axwpvan,2024-08-25T18:18:45.332Z,"68 km SW of Skwentna, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2024-08-25T18:09:15.260Z,38.7970008850098,-122.772331237793,12.4700002670288,0.58,md,6.0,127.0,0.0105,0.02,nc,nc75053311,2024-08-25T18:10:52.534Z,"3 km NNW of The Geysers, CA",earthquake,2.27,0.800000012,0.3,8.0,automatic,nc,nc
+2024-08-25T18:00:40.698Z,61.6894,-148.1351,22.7,0.9,ml,,,,0.23,ak,ak024axwmhk5,2024-08-25T18:01:59.531Z,"21 km SE of Chickaloon, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-08-25T17:47:43.318Z,-23.6063,-67.1043,221.666,4.4,mb,30.0,77.0,1.183,0.7,us,us7000n9cm,2024-08-25T18:03:24.040Z,"104 km NW of San Antonio de los Cobres, Argentina",earthquake,9.67,5.875,0.134,16.0,reviewed,us,us
+2024-08-25T15:11:10.870Z,45.85316666666667,-122.93416666666668,20.21,0.8200000000000001,ml,22.0,81.0,0.07307,0.15,uw,uw62040496,2024-08-25T18:22:31.060Z,"7 km WNW of Warren, Oregon",earthquake,0.31,0.52,0.0740080049652341,9.0,reviewed,uw,uw
+2024-08-25T13:48:01.740Z,46.1995,-122.17983333333332,-1.81,-0.35,mh,6.0,174.0,0.003998,0.15,uw,uw62040481,2024-08-25T18:01:49.540Z,"38 km NNE of Amboy, Washington",earthquake,0.54,13.29,,0.0,reviewed,uw,uw
