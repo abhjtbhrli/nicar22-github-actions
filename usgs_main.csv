@@ -14562,3 +14562,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-25T22:43:52.926Z,64.9659,-147.4163,10.4,1.1,ml,,,,0.33,ak,ak024axz9ge8,2024-08-25T22:45:57.218Z,"9 km E of Fox, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2024-08-25T23:14:40.870Z,34.3996658,-116.487999,11.17,1.28,ml,15.0,144.0,0.1084,0.11,ci,ci40714111,2024-08-25T23:16:47.260Z,"32 km N of Yucca Valley, CA",earthquake,0.5,0.75,0.137,2.0,automatic,ci,ci
 2024-08-25T23:08:01.155Z,35.01133347,-97.77292633,8.859413147,1.58,ml,13.0,97.82443237,0.09454809874,0.4835484036,ok,ok2024qsua,2024-08-25T23:16:04.373Z,"10 km N of Alex, Oklahoma",earthquake,4.127239628,4.696299295,0.26,8.0,automatic,ok,ok
+2024-08-25T23:18:13.930Z,33.63,-116.6938333,12.9,0.84,ml,43.0,43.0,0.04224,0.14,ci,ci40714119,2024-08-25T23:24:09.290Z,"8 km NNW of Anza, CA",earthquake,0.17,0.27,0.166,15.0,automatic,ci,ci
+2024-08-25T23:17:45.898Z,60.7426,-152.0222,88.9,2.8,ml,,,,0.31,ak,ak024axzpb69,2024-08-25T23:19:04.053Z,"40 km W of Nikiski, Alaska",earthquake,,0.6,,,automatic,ak,ak
