@@ -14399,3 +14399,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-25T05:21:01.450Z,33.195,-116.0185,6.63,1.47,ml,60.0,61.0,0.04035,0.2,ci,ci40713551,2024-08-25T05:27:27.984Z,"12 km ENE of Ocotillo Wells, CA",earthquake,0.16,0.46,0.133,27.0,automatic,ci,ci
 2024-08-25T05:19:37.020Z,38.7895011901855,-122.725166320801,1.5900000333786,1.21,md,18.0,89.0,0.01099,0.04,nc,nc75053076,2024-08-25T05:21:15.485Z,"3 km ENE of The Geysers, CA",earthquake,0.26,0.5,0.12,17.0,automatic,nc,nc
 2024-08-25T05:13:44.727Z,38.6738,-118.5453,6.9,4.2,ml,39.0,84.25999999999999,0.049,0.3773,nn,nn00882964,2024-08-25T05:27:00.040Z,"17 km NNE of Hawthorne, Nevada",earthquake,,0.4,0.22,21.0,automatic,nn,nn
+2024-08-25T05:48:28.440Z,36.034,-117.784,1.81,0.91,ml,15.0,87.0,0.01754,0.12,ci,ci40713567,2024-08-25T05:54:08.143Z,"15 km E of Coso Junction, CA",earthquake,0.19,0.18,0.275,11.0,automatic,ci,ci
