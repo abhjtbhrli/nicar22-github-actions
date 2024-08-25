@@ -14441,3 +14441,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-25T10:32:36.670Z,19.3856658935547,-155.253662109375,1.36000001430511,1.87,ml,6.0,137.0,0.002226,0.0700000003,hv,hv74423087,2024-08-25T10:35:28.370Z,"6 km SSW of Volcano, Hawaii",earthquake,0.48,1.17999995,0.67,3.0,automatic,hv,hv
 2024-08-25T10:25:34.340Z,33.6581667,-117.0071667,12.25,0.59,ml,42.0,43.0,0.008359,0.15,ci,ci40713679,2024-08-25T10:31:38.977Z,"9 km SE of Winchester, CA",earthquake,0.21,0.34,0.159,16.0,automatic,ci,ci
 2024-08-25T10:09:16.580Z,33.8385,-117.7541667,8.85,0.95,ml,46.0,48.0,0.03103,0.16,ci,ci40713671,2024-08-25T10:31:35.874Z,"6 km ENE of Villa Park, CA",earthquake,0.21,0.37,0.154,27.0,automatic,ci,ci
+2024-08-25T10:45:25.120Z,33.4733315,-116.49617,13.79,1.08,ml,21.0,105.0,0.08885,0.11,ci,ci40713687,2024-08-25T10:47:31.496Z,"19 km ESE of Anza, CA",earthquake,0.37,1.03,0.554,8.0,automatic,ci,ci
+2024-08-25T10:41:29.008Z,61.4119,-147.1861,24.6,1.4,ml,,,,0.57,ak,ak024axs3s6c,2024-08-25T10:44:18.022Z,"50 km SSE of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
