@@ -14400,3 +14400,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-25T05:19:37.020Z,38.7895011901855,-122.725166320801,1.5900000333786,1.21,md,18.0,89.0,0.01099,0.04,nc,nc75053076,2024-08-25T05:21:15.485Z,"3 km ENE of The Geysers, CA",earthquake,0.26,0.5,0.12,17.0,automatic,nc,nc
 2024-08-25T05:13:44.727Z,38.6738,-118.5453,6.9,4.2,ml,39.0,84.25999999999999,0.049,0.3773,nn,nn00882964,2024-08-25T05:27:00.040Z,"17 km NNE of Hawthorne, Nevada",earthquake,,0.4,0.22,21.0,automatic,nn,nn
 2024-08-25T05:48:28.440Z,36.034,-117.784,1.81,0.91,ml,15.0,87.0,0.01754,0.12,ci,ci40713567,2024-08-25T05:54:08.143Z,"15 km E of Coso Junction, CA",earthquake,0.19,0.18,0.275,11.0,automatic,ci,ci
+2024-08-25T06:13:41.427Z,64.4397,-146.6824,0.0,1.4,ml,,,,0.61,ak,ak024axpk2ny,2024-08-25T06:16:03.054Z,"8 km NNW of Harding-Birch Lakes, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-25T05:58:47.850Z,18.0128333333333,-66.943,5.73,2.2,md,4.0,171.0,0.08167,0.08,pr,pr71458158,2024-08-25T06:25:27.660Z,"3 km S of Liborio Negron Torres, Puerto Rico",earthquake,1.77,1.21,0.107663460308053,2.0,reviewed,pr,pr
+2024-08-25T05:57:19.262Z,60.9366,-147.4624,0.0,1.7,ml,,,,0.61,ak,ak024axp80uu,2024-08-25T05:59:15.246Z,"43 km W of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-25T05:31:19.310Z,47.76116666666667,-119.8755,5.35,0.55,ml,11.0,74.0,0.1164,0.14,uw,uw62040451,2024-08-25T06:09:56.630Z,"9 km ESE of Chelan Falls, Washington",earthquake,0.3,1.35,0.1846084229850323,7.0,reviewed,uw,uw
