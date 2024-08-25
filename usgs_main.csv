@@ -14374,3 +14374,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-25T02:37:11.242Z,61.4166,-151.235,65.0,1.2,ml,,,,0.35,ak,ak024axnbf3o,2024-08-25T02:39:21.214Z,"31 km NNW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-08-25T02:30:21.810Z,38.8356666564941,-122.789497375488,1.75,0.7,md,9.0,73.0,0.002817,0.01,nc,nc75053021,2024-08-25T02:32:00.162Z,"6 km WNW of Cobb, CA",earthquake,0.48,1.70000005,0.23,11.0,automatic,nc,nc
 2024-08-25T02:28:40.513Z,64.6363,-147.0123,1.1,1.2,ml,,,,0.52,ak,ak024axn9jwz,2024-08-25T02:30:25.594Z,"3 km SE of Eielson Air Force Base, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-25T03:02:18.760Z,38.7721672058105,-122.714996337891,1.41999995708466,0.89,md,7.0,109.0,0.01292,0.02,nc,nc75053036,2024-08-25T03:03:54.986Z,"2 km W of Anderson Springs, CA",earthquake,0.4,0.699999988,0.28,6.0,automatic,nc,nc
+2024-08-25T03:01:40.750Z,34.418,-116.4738333,8.81,0.97,ml,20.0,104.0,0.1259,0.14,ci,ci40713487,2024-08-25T03:07:56.403Z,"34 km N of Yucca Valley, CA",earthquake,0.23,0.6,0.172,12.0,automatic,ci,ci
+2024-08-25T02:52:39.810Z,35.386833190918,-120.659332275391,4.32000017166138,2.14,md,21.0,103.0,,0.06,nc,nc75053026,2024-08-25T02:54:15.280Z,"5 km W of Santa Margarita, CA",earthquake,0.24,0.50999999,0.16,14.0,automatic,nc,nc
