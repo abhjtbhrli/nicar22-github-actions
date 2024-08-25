@@ -14559,3 +14559,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-25T22:05:33.043Z,61.4587,-140.4342,2.626,2.5,ml,18.0,224.0,0.694,0.79,us,us7000n9dj,2024-08-25T22:12:45.040Z,"132 km E of McCarthy, Alaska",earthquake,2.31,8.357,0.049,54.0,reviewed,us,us
 2024-08-25T22:33:02.220Z,38.8491668701172,-122.77116394043,1.25,0.69,md,8.0,198.0,0.007725,0.02,nc,nc75053386,2024-08-25T22:34:38.141Z,"5 km NW of Cobb, CA",earthquake,0.56,0.479999989,0.24,8.0,automatic,nc,nc
 2024-08-25T22:12:27.939Z,14.7144,147.0954,30.804,4.8,mb,54.0,134.0,1.362,0.64,us,us7000n9dn,2024-08-25T22:37:03.040Z,"154 km ESE of Saipan, Northern Mariana Islands",earthquake,10.23,5.58,0.075,55.0,reviewed,us,us
+2024-08-25T22:43:52.926Z,64.9659,-147.4163,10.4,1.1,ml,,,,0.33,ak,ak024axz9ge8,2024-08-25T22:45:57.218Z,"9 km E of Fox, Alaska",earthquake,,1.7,,,automatic,ak,ak
