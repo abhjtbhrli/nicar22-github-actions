@@ -14383,3 +14383,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-25T03:30:11.161Z,35.72947311,-98.538414,4.03819418,1.81,ml,17.0,91.65286255,0.1483797431,0.2759747201,ok,ok2024qrhe,2024-08-25T03:38:37.679Z,"14 km W of Greenfield, Oklahoma",earthquake,3.128447932,2.378355206,0.23,7.0,automatic,ok,ok
 2024-08-25T03:22:50.178Z,31.6177,-104.3091,10.0,3.0,ml,14.0,200.0,0.605,0.58,us,us7000n997,2024-08-25T03:31:32.040Z,"59 km NW of Toyah, Texas",earthquake,1.9,2.015,0.081,24.0,reviewed,us,us
 2024-08-25T03:03:38.380Z,48.765,-121.8615,-0.7,1.36,ml,5.0,157.0,0.05274,0.27,uw,uw62040401,2024-08-25T03:32:56.680Z,"15 km SSE of Glacier, Washington",earthquake,0.83,1.59,0.0593803299016302,4.0,reviewed,uw,uw
+2024-08-25T04:02:57.590Z,35.1941681,-118.9854965,10.85,2.0,ml,29.0,59.0,0.1574,0.33,ci,ci40713519,2024-08-25T04:05:19.516Z,"10 km SW of Lamont, CA",earthquake,0.39,1.05,0.218,27.0,automatic,ci,ci
+2024-08-25T03:13:17.238Z,31.671,-104.39,4.981,1.8,ml,16.0,69.0,0.0,0.3,tx,tx2024qrgp,2024-08-25T04:06:38.472Z,"55 km S of Whites City, New Mexico",earthquake,0.0,1.37980234622955,0.1,11.0,automatic,tx,tx
+2024-08-25T03:10:50.523Z,31.687,-104.402,3.4006,1.6,ml,11.0,108.0,0.0,0.5,tx,tx2024qrgn,2024-08-25T04:06:33.677Z,"54 km S of Whites City, New Mexico",earthquake,0.0,1.51291513442993,0.1,9.0,automatic,tx,tx
