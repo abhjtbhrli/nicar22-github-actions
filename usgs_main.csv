@@ -14447,3 +14447,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-25T11:04:10.010Z,35.9498333,-117.6851667,4.55,1.53,ml,26.0,81.0,0.02829,0.14,ci,ci40713695,2024-08-25T11:10:20.984Z,"20 km E of Little Lake, CA",earthquake,0.15,0.29,0.158,16.0,automatic,ci,ci
 2024-08-25T11:00:30.693Z,38.6817,-118.7781,16.0,2.2,ml,14.0,150.43,0.471,0.3507,nn,nn00882978,2024-08-25T11:02:48.470Z,"4 km NNW of Walker Lake, Nevada",earthquake,,1.0,0.18,8.0,automatic,nn,nn
 2024-08-25T11:21:54.000Z,19.3759994506836,-155.235504150391,1.72000002861023,2.01,ml,19.0,84.0,0.005391,0.140000001,hv,hv74423127,2024-08-25T11:24:47.980Z,"7 km S of Volcano, Hawaii",earthquake,0.29,0.209999993,0.1,6.0,automatic,hv,hv
+2024-08-25T11:53:18.382Z,63.924,-150.2935,11.5,1.2,ml,,,,0.58,ak,ak024axsrrjy,2024-08-25T11:55:07.372Z,"58 km W of Ferry, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-25T11:52:04.700Z,35.0931664,-119.1063309,12.71,1.37,ml,11.0,92.0,0.03913,0.21,ci,ci40713703,2024-08-25T11:54:20.227Z,"23 km NW of Grapevine, CA",earthquake,0.71,1.07,0.343,5.0,automatic,ci,ci
