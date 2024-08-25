@@ -14395,3 +14395,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-25T04:59:19.737Z,60.3168,-152.4999,70.3,1.4,ml,,,,0.42,ak,ak024axon0rd,2024-08-25T05:09:21.454Z,"54 km WNW of Ninilchik, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2024-08-25T04:58:53.760Z,19.3320007324219,-155.186492919922,3.55999994277954,2.24,ml,44.0,86.0,0.04978,0.340000004,hv,hv74422882,2024-08-25T05:01:45.690Z,"13 km SSE of Volcano, Hawaii",earthquake,0.49,1.64999998,0.53,6.0,automatic,hv,hv
 2024-08-25T04:03:51.594Z,31.674,-104.394,4.6189,1.9,ml,17.0,69.0,0.0,0.4,tx,tx2024qrih,2024-08-25T05:03:13.127Z,"55 km S of Whites City, New Mexico",earthquake,0.0,1.2404773235321,0.1,13.0,automatic,tx,tx
+2024-08-25T05:23:29.318Z,38.6739,-118.5466,9.1,3.0,ml,25.0,84.14,0.05,0.3872,nn,nn00882969,2024-08-25T05:26:10.107Z,"17 km NNE of Hawthorne, Nevada",earthquake,,0.4,0.32,12.0,automatic,nn,nn
+2024-08-25T05:21:01.450Z,33.195,-116.0185,6.63,1.47,ml,60.0,61.0,0.04035,0.2,ci,ci40713551,2024-08-25T05:27:27.984Z,"12 km ENE of Ocotillo Wells, CA",earthquake,0.16,0.46,0.133,27.0,automatic,ci,ci
+2024-08-25T05:19:37.020Z,38.7895011901855,-122.725166320801,1.5900000333786,1.21,md,18.0,89.0,0.01099,0.04,nc,nc75053076,2024-08-25T05:21:15.485Z,"3 km ENE of The Geysers, CA",earthquake,0.26,0.5,0.12,17.0,automatic,nc,nc
+2024-08-25T05:13:44.727Z,38.6738,-118.5453,6.9,4.2,ml,39.0,84.25999999999999,0.049,0.3773,nn,nn00882964,2024-08-25T05:27:00.040Z,"17 km NNE of Hawthorne, Nevada",earthquake,,0.4,0.22,21.0,automatic,nn,nn
