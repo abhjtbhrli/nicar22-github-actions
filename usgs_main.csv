@@ -14497,3 +14497,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-25T06:42:58.578Z,51.6434,178.6253,56.7,3.8,ml,,,,0.41,ak,ak024axpqbts,2024-08-25T16:05:35.098Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,0.8,,,reviewed,ak,ak
 2024-08-25T16:28:00.984Z,38.6656,-118.5642,8.5,2.2,ml,16.0,78.29999999999998,0.05,0.3428,nn,nn00882984,2024-08-25T16:30:31.187Z,"16 km NNE of Hawthorne, Nevada",earthquake,,0.5,0.27,9.0,automatic,nn,nn
 2024-08-25T16:07:18.090Z,10.6027,-86.4385,10.0,4.8,mb,55.0,149.0,1.124,0.89,us,us7000n9c6,2024-08-25T16:22:26.040Z,"73 km WNW of Tamarindo, Costa Rica",earthquake,6.56,1.868,0.038,217.0,reviewed,us,us
+2024-08-25T16:37:52.980Z,47.27750015258789,-122.0625,16.25,1.6958798170089722,ml,50.0,77.0,,0.109999999,uw,uw62040516,2024-08-25T16:40:50.490Z,"5 km SW of Black Diamond, Washington",earthquake,0.34,0.649999976,0.2668189406394958,22.0,automatic,uw,uw
+2024-08-25T12:41:19.350Z,44.2981666666667,-114.398833333333,10.32,2.03,ml,19.0,66.0,0.3749,0.24,mb,mb90060108,2024-08-25T16:42:09.110Z,"4 km N of Clayton, Idaho",earthquake,0.55,1.22,0.192386679363355,18.0,reviewed,mb,mb
