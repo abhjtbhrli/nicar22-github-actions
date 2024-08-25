@@ -14495,3 +14495,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-25T14:27:25.567Z,17.2213,-96.3697,83.45,4.5,mb,25.0,165.0,2.125,0.97,us,us7000n9bk,2024-08-25T16:10:16.040Z,"6 km W of Santiago Laxopa, Mexico",earthquake,9.97,14.127,0.044,152.0,reviewed,us,us
 2024-08-25T13:04:26.919Z,58.3605,-142.8508,4.4,2.2,ml,,,,0.61,ak,ak024axto6ur,2024-08-25T16:10:59.347Z,"223 km SW of Yakutat, Alaska",earthquake,,5.2,,,reviewed,ak,ak
 2024-08-25T06:42:58.578Z,51.6434,178.6253,56.7,3.8,ml,,,,0.41,ak,ak024axpqbts,2024-08-25T16:05:35.098Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,0.8,,,reviewed,ak,ak
+2024-08-25T16:28:00.984Z,38.6656,-118.5642,8.5,2.2,ml,16.0,78.29999999999998,0.05,0.3428,nn,nn00882984,2024-08-25T16:30:31.187Z,"16 km NNE of Hawthorne, Nevada",earthquake,,0.5,0.27,9.0,automatic,nn,nn
+2024-08-25T16:07:18.090Z,10.6027,-86.4385,10.0,4.8,mb,55.0,149.0,1.124,0.89,us,us7000n9c6,2024-08-25T16:22:26.040Z,"73 km WNW of Tamarindo, Costa Rica",earthquake,6.56,1.868,0.038,217.0,reviewed,us,us
