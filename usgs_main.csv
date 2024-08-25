@@ -14386,3 +14386,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-25T04:02:57.590Z,35.1941681,-118.9854965,10.85,2.0,ml,29.0,59.0,0.1574,0.33,ci,ci40713519,2024-08-25T04:05:19.516Z,"10 km SW of Lamont, CA",earthquake,0.39,1.05,0.218,27.0,automatic,ci,ci
 2024-08-25T03:13:17.238Z,31.671,-104.39,4.981,1.8,ml,16.0,69.0,0.0,0.3,tx,tx2024qrgp,2024-08-25T04:06:38.472Z,"55 km S of Whites City, New Mexico",earthquake,0.0,1.37980234622955,0.1,11.0,automatic,tx,tx
 2024-08-25T03:10:50.523Z,31.687,-104.402,3.4006,1.6,ml,11.0,108.0,0.0,0.5,tx,tx2024qrgn,2024-08-25T04:06:33.677Z,"54 km S of Whites City, New Mexico",earthquake,0.0,1.51291513442993,0.1,9.0,automatic,tx,tx
+2024-08-25T04:31:33.117Z,37.7048,-117.1946,0.6,1.9,ml,17.0,158.43999999999997,0.675,0.2374,nn,nn00882962,2024-08-25T04:34:07.227Z,"3 km E of Goldfield, Nevada",earthquake,,8.5,0.27,14.0,automatic,nn,nn
+2024-08-25T04:26:22.666Z,57.8336,-154.1148,52.9,1.9,ml,,,,0.31,ak,ak024axofybe,2024-08-25T04:27:58.101Z,"33 km NNW of Larsen Bay, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-08-25T04:23:28.510Z,33.3391667,-116.3125,12.59,0.68,ml,32.0,137.0,0.02327,0.2,ci,ci40713527,2024-08-25T04:29:30.106Z,"11 km NNE of Borrego Springs, CA",earthquake,0.29,0.65,0.132,12.0,automatic,ci,ci
+2024-08-25T04:03:48.493Z,-31.9711,179.9371,355.554,4.4,mb,34.0,124.0,3.271,0.88,us,us7000n99h,2024-08-25T04:28:53.040Z,Kermadec Islands region,earthquake,14.17,7.649,0.13,19.0,reviewed,us,us
