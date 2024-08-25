@@ -14532,3 +14532,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-25T13:48:01.740Z,46.1995,-122.17983333333332,-1.81,-0.35,mh,6.0,174.0,0.003998,0.15,uw,uw62040481,2024-08-25T18:01:49.540Z,"38 km NNE of Amboy, Washington",earthquake,0.54,13.29,,0.0,reviewed,uw,uw
 2024-08-25T18:51:38.584Z,60.0935,-139.7556,13.3,2.0,ml,,,,0.19,ak,ak024axwxewy,2024-08-25T18:54:05.059Z,"60 km N of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-25T18:44:55.650Z,34.416,-117.703,6.05,1.12,ml,27.0,79.0,0.0396,0.15,ci,ci40713967,2024-08-25T18:51:15.687Z,"6 km WSW of Pinon Hills, CA",earthquake,0.24,0.45,0.376,30.0,automatic,ci,ci
+2024-08-25T19:01:49.990Z,36.6710014343262,-121.342498779297,0.920000016689301,1.75,md,23.0,70.0,0.03653,0.12,nc,nc75053326,2024-08-25T19:03:28.894Z,"13 km SSW of Tres Pinos, CA",earthquake,0.25,0.790000021,0.14,19.0,automatic,nc,nc
+2024-08-25T18:54:14.590Z,35.0851667,-119.0913333,12.3,1.23,ml,33.0,102.0,0.02722,0.2,ci,ci40713983,2024-08-25T19:09:44.302Z,"22 km NW of Grapevine, CA",earthquake,0.29,0.76,0.169,26.0,automatic,ci,ci
