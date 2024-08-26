@@ -14724,3 +14724,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-26T15:54:41.380Z,38.8331680297852,-122.815498352051,1.8400000333786,1.06,md,21.0,55.0,0.01064,0.01,nc,nc75053696,2024-08-26T15:56:20.238Z,"8 km NNW of The Geysers, CA",earthquake,0.2,0.439999998,0.13,21.0,automatic,nc,nc
 2024-08-26T15:49:40.000Z,54.514,-159.567,12.0,5.0,Ml,32.0,201.5999838720013,0.9881468,0.51,at,at00siu1as,2024-08-26T15:56:16.557Z,"109 km SSE of Sand Point, Alaska",earthquake,0.0,0.0,,16.0,reviewed,at,at
 2024-08-25T18:26:30.336Z,32.013,-101.755,7.2998,1.3,ml,17.0,79.0,0.1,0.1,tx,tx2024qsku,2024-08-26T15:52:19.190Z,"13 km SSE of Stanton, Texas",earthquake,0.8632282202276728,1.3324414602156642,0.2,11.0,reviewed,tx,tx
+2024-08-26T16:14:04.018Z,61.3536,-149.8288,30.1,1.7,ml,,,,0.35,ak,ak024azj1w1d,2024-08-26T16:15:45.016Z,"8 km E of Point MacKenzie, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-26T15:49:41.750Z,54.5455,-159.6885,28.58,5.1,mww,127.0,68.0,0.925,0.86,us,us6000nmvh,2024-08-26T16:23:32.706Z,"102 km SSE of Sand Point, Alaska",earthquake,4.56,4.296,0.052,36.0,reviewed,us,us
+2024-08-26T15:28:52.388Z,24.1175,122.2641,27.316,4.3,mwr,38.0,45.0,0.614,0.85,us,us6000nmvg,2024-08-26T16:19:25.040Z,"68 km ENE of Hualien City, Taiwan",earthquake,3.5,4.911,0.06,27.0,reviewed,us,us
+2024-08-26T15:15:54.986Z,76.255,6.6077,10.0,4.5,mb,43.0,81.0,2.906,0.42,us,us6000nmvd,2024-08-26T16:13:35.040Z,Svalbard region,earthquake,7.99,1.84,0.111,24.0,reviewed,us,us
+2024-08-25T19:34:49.300Z,38.4958333333333,-112.885333333333,0.14,0.57,md,7.0,105.0,0.005828,0.1,uu,uu80080161,2024-08-26T16:21:42.330Z,"15 km NE of Milford, Utah",earthquake,0.55,31.61,0.476323853257562,3.0,reviewed,uu,uu
