@@ -14729,3 +14729,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-26T15:28:52.388Z,24.1175,122.2641,27.316,4.3,mwr,38.0,45.0,0.614,0.85,us,us6000nmvg,2024-08-26T16:19:25.040Z,"68 km ENE of Hualien City, Taiwan",earthquake,3.5,4.911,0.06,27.0,reviewed,us,us
 2024-08-26T15:15:54.986Z,76.255,6.6077,10.0,4.5,mb,43.0,81.0,2.906,0.42,us,us6000nmvd,2024-08-26T16:13:35.040Z,Svalbard region,earthquake,7.99,1.84,0.111,24.0,reviewed,us,us
 2024-08-25T19:34:49.300Z,38.4958333333333,-112.885333333333,0.14,0.57,md,7.0,105.0,0.005828,0.1,uu,uu80080161,2024-08-26T16:21:42.330Z,"15 km NE of Milford, Utah",earthquake,0.55,31.61,0.476323853257562,3.0,reviewed,uu,uu
+2024-08-26T16:21:49.662Z,-44.8617,-73.7142,59.301,5.0,mww,75.0,135.0,0.323,0.89,us,us6000nmw5,2024-08-26T16:41:50.040Z,"81 km W of Puerto Cisnes, Chile",earthquake,7.58,4.41,0.08,15.0,reviewed,us,us
