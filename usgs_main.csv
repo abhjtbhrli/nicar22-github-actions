@@ -14769,3 +14769,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-26T19:14:36.694Z,31.721,-104.236,16.5807,2.0,ml,9.0,108.0,0.0,1.0,tx,tx2024quhv,2024-08-26T19:34:38.973Z,"52 km SSE of Whites City, New Mexico",earthquake,0.0,4.39365386962891,0.2,7.0,automatic,tx,tx
 2024-08-26T19:47:15.582Z,36.4162,-115.527,12.0,0.5,ml,10.0,346.6700000000001,0.427,0.1809,nn,nn00883043,2024-08-26T19:49:35.720Z,"20 km NNE of Mount Charleston, Nevada",earthquake,,1.7,0.78,5.0,automatic,nn,nn
 2024-08-26T19:44:28.730Z,19.3816661834717,-155.233001708984,1.29999995231628,1.78999996,md,17.0,107.0,0.01079,0.170000002,hv,hv74424927,2024-08-26T19:45:56.610Z,"6 km S of Volcano, Hawaii",earthquake,0.45,0.209999993,0.430000007,15.0,automatic,hv,hv
+2024-08-26T20:01:14.680Z,32.6113319,-116.9673309,2.89,1.38,ml,41.0,107.0,0.03155,0.23,ci,ci40715047,2024-08-26T20:03:41.813Z,"8 km ESE of Chula Vista, CA",earthquake,0.63,0.36,0.231,7.0,automatic,ci,ci
+2024-08-26T19:52:39.666Z,59.4782,-138.9111,9.6,2.2,ml,,,,0.78,ak,ak024azl2eta,2024-08-26T19:54:45.446Z,"46 km E of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-26T19:48:41.350Z,33.5458333,-116.5425,15.19,0.74,ml,12.0,142.0,0.01509,0.07,ci,ci40715023,2024-08-26T19:57:54.182Z,"12 km E of Anza, CA",earthquake,0.54,0.32,0.355,7.0,automatic,ci,ci
