@@ -14730,3 +14730,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-26T15:15:54.986Z,76.255,6.6077,10.0,4.5,mb,43.0,81.0,2.906,0.42,us,us6000nmvd,2024-08-26T16:13:35.040Z,Svalbard region,earthquake,7.99,1.84,0.111,24.0,reviewed,us,us
 2024-08-25T19:34:49.300Z,38.4958333333333,-112.885333333333,0.14,0.57,md,7.0,105.0,0.005828,0.1,uu,uu80080161,2024-08-26T16:21:42.330Z,"15 km NE of Milford, Utah",earthquake,0.55,31.61,0.476323853257562,3.0,reviewed,uu,uu
 2024-08-26T16:21:49.662Z,-44.8617,-73.7142,59.301,5.0,mww,75.0,135.0,0.323,0.89,us,us6000nmw5,2024-08-26T16:41:50.040Z,"81 km W of Puerto Cisnes, Chile",earthquake,7.58,4.41,0.08,15.0,reviewed,us,us
+2024-08-26T16:43:48.545Z,61.861,-148.4342,12.8,1.6,ml,,,,0.58,ak,ak024azj878m,2024-08-26T16:46:04.871Z,"7 km NNE of Chickaloon, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2024-08-26T16:41:21.870Z,35.0985,-119.0963333,5.11,1.31,ml,28.0,83.0,0.2182,0.19,ci,ci40714783,2024-08-26T16:47:49.643Z,"23 km NW of Grapevine, CA",earthquake,0.27,1.42,0.211,28.0,automatic,ci,ci
+2024-08-26T16:41:01.424Z,36.4997,-116.0202,0.6,1.4,ml,24.0,135.57999999999998,0.169,0.2042,nn,nn00883034,2024-08-26T16:44:58.171Z,"32 km WSW of Indian Springs, Nevada",earthquake,,8.0,0.39,15.0,automatic,nn,nn
