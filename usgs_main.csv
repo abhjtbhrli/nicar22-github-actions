@@ -14718,3 +14718,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-25T20:35:32.479Z,35.983,-96.8205,5.65,0.97,ml,37.0,115.0,0.01799646848,0.23,ok,ok2024qsoz,2024-08-26T15:31:42.849Z,"4 km W of Cushing, Oklahoma",earthquake,,0.5,0.21,12.0,reviewed,ok,ok
 2024-08-26T06:17:18.470Z,39.0955,-111.501333333333,2.91,1.03,ml,7.0,139.0,0.1412,0.09,uu,uu80080221,2024-08-26T15:37:33.340Z,"18 km E of Mayfield, Utah",earthquake,0.57,31.61,0.158727744864704,3.0,reviewed,uu,uu
 2024-08-25T20:06:03.980Z,34.518,-97.27583333,2.32,1.02,ml,37.0,120.0,0.07918446131,0.29,ok,ok2024qsoa,2024-08-26T15:40:46.073Z,"9 km SE of Katie, Oklahoma",earthquake,,1.2,0.25,13.0,reviewed,ok,ok
+2024-08-26T15:45:02.160Z,35.6541672,-117.4691696,4.56,1.38,ml,19.0,99.0,0.0386,0.17,ci,ci40714735,2024-08-26T15:47:06.533Z,"14 km SSW of Searles Valley, CA",earthquake,0.51,1.22,0.196,5.0,automatic,ci,ci
+2024-08-26T06:14:27.300Z,39.093,-111.49,4.78,1.63,ml,15.0,129.0,0.1397,0.12,uu,uu80080216,2024-08-26T15:41:47.140Z,"19 km E of Mayfield, Utah",earthquake,0.46,2.68,0.198261650054973,5.0,reviewed,uu,uu
+2024-08-25T18:59:15.900Z,35.01183333,-97.79383333,10.91,0.77,ml,29.0,69.0,0.08458340185,0.27,ok,ok2024qslv,2024-08-26T15:52:15.562Z,"10 km N of Alex, Oklahoma",earthquake,,1.4,0.22,15.0,reviewed,ok,ok
