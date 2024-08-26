@@ -14681,3 +14681,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-26T12:10:16.129Z,62.076,-154.1559,0.0,1.6,ml,,,,1.04,ak,ak024azgnbos,2024-08-26T12:12:50.822Z,"104 km NE of Lime Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-26T11:59:29.170Z,19.2485008239746,-155.411834716797,31.9500007629395,2.07999992,md,46.0,80.0,0.01741,0.119999997,hv,hv74424347,2024-08-26T12:00:56.030Z,"8 km NE of Pāhala, Hawaii",earthquake,0.46,0.439999998,0.159999996,10.0,automatic,hv,hv
 2024-08-26T11:58:12.030Z,33.2725,-116.4306667,4.85,0.7,ml,42.0,56.0,0.0121,0.19,ci,ci40714527,2024-08-26T12:04:22.239Z,"6 km WNW of Borrego Springs, CA",earthquake,0.16,0.38,0.109,12.0,automatic,ci,ci
+2024-08-26T12:43:47.345Z,36.6022,-115.648,3.6,0.7,ml,14.0,303.4200000000001,0.259,0.1423,nn,nn00883031,2024-08-26T12:46:04.026Z,"4 km NNE of Indian Springs, Nevada",earthquake,,12.1,0.37,11.0,automatic,nn,nn
+2024-08-26T12:35:26.377Z,58.297,-153.9581,67.7,2.0,ml,,,,0.34,ak,ak024azgspdp,2024-08-26T12:36:45.100Z,"67 km WNW of Aleneva, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-08-26T12:33:53.981Z,60.6348,-151.7434,72.7,1.5,ml,,,,0.45,ak,ak024azgsc2u,2024-08-26T12:36:22.190Z,"23 km W of Salamatof, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-08-26T12:32:18.340Z,33.919,-117.06,7.21,0.73,ml,30.0,95.0,0.1241,0.14,ci,ci40714559,2024-08-26T12:38:52.006Z,"8 km S of Calimesa, CA",earthquake,0.55,1.64,0.126,17.0,automatic,ci,ci
