@@ -14643,3 +14643,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-26T08:28:47.170Z,38.8424987792969,-122.880500793457,1.98000001907349,0.71,md,9.0,147.0,0.009607,0.04,nc,nc75053611,2024-08-26T08:30:24.125Z,"13 km E of Cloverdale, CA",earthquake,0.51,0.810000002,0.32,10.0,automatic,nc,nc
 2024-08-26T08:22:52.227Z,38.6632,-118.5592,5.6,1.4,ml,10.0,105.16,0.045,0.2769,nn,nn00883022,2024-08-26T08:25:32.837Z,"16 km NNE of Hawthorne, Nevada",earthquake,,0.9,0.44,5.0,automatic,nn,nn
 2024-08-26T08:17:00.390Z,35.1,-119.1313333,12.74,1.25,ml,31.0,86.0,0.0568,0.25,ci,ci40714383,2024-08-26T08:23:28.730Z,"25 km E of Maricopa, CA",earthquake,0.34,0.69,0.122,26.0,automatic,ci,ci
+2024-08-26T08:40:23.926Z,39.6159,-119.9866,6.9,0.9,ml,8.0,124.46999999999996,0.021,0.122,nn,nn00883027,2024-08-26T08:42:31.904Z,"7 km S of Cold Springs, Nevada",earthquake,,0.5,0.17,3.0,automatic,nn,nn
+2024-08-26T08:38:32.077Z,36.6104,-117.0223,16.0,1.2,ml,18.0,133.57999999999998,0.366,0.3219,nn,nn00883024,2024-08-26T08:40:44.714Z,"23 km NW of Furnace Creek, California",earthquake,,0.9,0.24,11.0,automatic,nn,nn
+2024-08-26T08:37:36.680Z,32.9771667,-116.276,8.94,1.04,ml,46.0,43.0,0.1133,0.2,ci,ci40714391,2024-08-26T08:43:52.864Z,"23 km SW of Ocotillo Wells, CA",earthquake,0.2,0.72,0.204,22.0,automatic,ci,ci
