@@ -14885,3 +14885,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-27T03:11:38.870Z,19.2506675720215,-155.412170410156,33.25,2.22,ml,57.0,74.0,0.01907,0.140000001,hv,hv74425507,2024-08-27T03:14:31.320Z,"8 km NE of Pāhala, Hawaii",earthquake,0.43,0.540000021,0.5,14.0,automatic,hv,hv
 2024-08-27T02:58:14.170Z,33.266,-116.4268333,3.93,0.9,ml,51.0,42.0,0.008396,0.21,ci,ci40715479,2024-08-27T03:04:21.961Z,"5 km WNW of Borrego Springs, CA",earthquake,0.18,0.36,0.178,25.0,automatic,ci,ci
 2024-08-26T22:36:56.840Z,55.0405,-162.2155,0.46,1.76,ml,7.0,162.0,0.07654,0.21,av,av93242446,2024-08-27T03:00:18.570Z,"6 km ESE of King Cove, Alaska",earthquake,0.48,2.12,0.21112366549334,7.0,reviewed,av,av
+2024-08-27T03:29:02.331Z,36.9248,-115.4127,1.8,0.7,ml,13.0,302.85,0.473,0.1703,nn,nn00883060,2024-08-27T03:31:37.531Z,"45 km NNE of Indian Springs, Nevada",earthquake,,28.2,0.42,9.0,automatic,nn,nn
+2024-08-27T03:27:48.733Z,36.9298,-115.4381,9.8,0.3,ml,15.0,289.79,0.453,0.2964,nn,nn00883058,2024-08-27T03:30:07.823Z,"45 km NNE of Indian Springs, Nevada",earthquake,,1.5,0.43,6.0,automatic,nn,nn
+2024-08-26T23:05:13.330Z,60.0363333333333,-153.0765,-2.96,0.35,ml,7.0,95.0,0.02206,0.3,av,av93242466,2024-08-27T03:27:26.100Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.65,2.74,0.335482506925016,7.0,reviewed,av,av
