@@ -14953,3 +14953,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-27T10:04:13.930Z,35.7063333,-117.5116667,5.36,1.76,ml,21.0,74.0,0.08258,0.14,ci,ci40715671,2024-08-27T10:10:46.820Z,"12 km SW of Searles Valley, CA",earthquake,0.23,1.05,0.472,9.0,automatic,ci,ci
 2024-08-27T09:59:35.760Z,38.6976,-118.6974,7.5,1.6,ml,12.0,154.18,0.512,0.2119,nn,nn00883062,2024-08-27T10:01:59.202Z,"7 km NE of Walker Lake, Nevada",earthquake,,1.1,0.2,7.0,automatic,nn,nn
 2024-08-27T09:57:07.830Z,35.6628333,-117.476,7.59,1.12,ml,28.0,52.0,0.04264,0.13,ci,ci40715663,2024-08-27T10:03:06.540Z,"13 km SSW of Searles Valley, CA",earthquake,0.16,0.41,0.141,13.0,automatic,ci,ci
+2024-08-27T10:28:31.590Z,19.7356662750244,-155.70783996582,19.9699993133545,2.03999996,md,25.0,133.0,0.1296,0.140000001,hv,hv74426352,2024-08-27T10:30:03.900Z,"24 km SSE of Waikoloa, Hawaii",earthquake,0.59,1.39999998,0.180000007,6.0,automatic,hv,hv
+2024-08-27T10:18:40.158Z,38.6835,-118.5672,4.0,1.4,ml,11.0,139.89,0.066,0.1608,nn,nn00883064,2024-08-27T10:21:39.559Z,"16 km ENE of Walker Lake, Nevada",earthquake,,1.9,0.1,6.0,automatic,nn,nn
