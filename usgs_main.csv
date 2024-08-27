@@ -15007,3 +15007,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-26T15:27:17.780Z,34.54016667,-97.25466667,3.73,1.23,ml,52.0,68.0,0.09178198924,0.28,ok,ok2024quai,2024-08-27T14:13:05.651Z,"9 km ESE of Katie, Oklahoma",earthquake,,0.7,0.22,20.0,reviewed,ok,ok
 2024-08-26T19:32:48.340Z,34.5265,-96.61016667,4.52,1.32,ml,38.0,70.0,0.1025798703,0.2,ok,ok2024quik,2024-08-27T14:31:20.049Z,"15 km NW of Bromide, Oklahoma",earthquake,,1.4,0.22,21.0,reviewed,ok,ok
 2024-08-26T19:26:16.530Z,34.5015,-97.2415,7.14,0.97,ml,22.0,127.0,0.1115781046,0.35,ok,ok2024quif,2024-08-27T14:23:13.840Z,"11 km W of Davis, Oklahoma",earthquake,,1.4,0.26,6.0,reviewed,ok,ok
+2024-08-27T14:30:48.090Z,38.6730003356934,-122.793663024902,5.17000007629395,0.33,md,6.0,202.0,0.1244,0.12,nc,nc75054036,2024-08-27T14:32:23.517Z,"10 km NE of Healdsburg, CA",earthquake,5.01,11.3900003,,1.0,automatic,nc,nc
+2024-08-27T14:30:14.898Z,65.2091,-152.6337,2.5,1.6,ml,,,,0.37,ak,ak024b15htm9,2024-08-27T14:32:11.088Z,"26 km W of Tanana, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-08-27T03:09:11.510Z,47.5448333333333,-113.848833333333,18.39,0.5,ml,9.0,92.0,0.1077,0.14,mb,mb90060233,2024-08-27T14:40:59.270Z,"10 km W of Condon, Montana",earthquake,0.52,1.5,0.0833831888751676,4.0,reviewed,mb,mb
