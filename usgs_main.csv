@@ -14915,3 +14915,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-26T06:43:22.775Z,13.3834,-89.6205,59.631,4.1,mb,29.0,140.0,0.317,0.68,us,us7000n9g8,2024-08-27T06:22:20.040Z,"32 km SE of Acajutla, El Salvador",earthquake,5.64,6.56,0.174,9.0,reviewed,us,us
 2024-08-27T06:35:21.870Z,38.8064994812012,-122.781669616699,3.19000005722046,0.82,md,13.0,63.0,0.006793,0.03,nc,nc75053946,2024-08-27T06:36:59.524Z,"4 km NNW of The Geysers, CA",earthquake,0.31,0.74000001,0.24,14.0,automatic,nc,nc
 2024-08-27T06:28:43.616Z,60.7238,-150.9631,48.5,1.5,ml,,,,0.35,ak,ak024b10pzk9,2024-08-27T06:30:47.278Z,"18 km ENE of Nikiski, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2024-08-27T06:43:47.280Z,33.9951667,-116.7763333,15.77,1.18,ml,63.0,44.0,0.04767,0.16,ci,ci40715599,2024-08-27T06:51:50.483Z,"9 km N of Cabazon, CA",earthquake,0.14,0.38,0.185,26.0,automatic,ci,ci
