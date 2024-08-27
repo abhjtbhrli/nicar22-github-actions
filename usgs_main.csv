@@ -15064,3 +15064,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-27T14:19:57.750Z,54.7543333333333,-163.997166666667,-1.19,1.23,ml,5.0,105.0,0.04497,0.29,av,av93243086,2024-08-27T18:34:07.850Z,"39 km WSW of False Pass, Alaska",earthquake,0.34,0.59,0.356468132862194,5.0,reviewed,av,av
 2024-08-27T18:38:36.520Z,34.6368333,-117.1145,-1.02,1.65,ml,38.0,50.0,0.193,0.17,ci,ci40716159,2024-08-27T18:45:17.824Z,"16 km NNE of Apple Valley, CA",earthquake,0.21,0.73,0.143,29.0,automatic,ci,ci
 2024-08-27T05:22:54.880Z,54.7536666666667,-163.723333333333,2.0,0.79,ml,4.0,191.0,0.02946,0.1,av,av93242736,2024-08-27T18:40:39.600Z,"22 km WSW of False Pass, Alaska",earthquake,2.31,4.12,0.346318993056553,4.0,reviewed,av,av
+2024-08-27T16:41:46.590Z,18.0216,-67.9048,57.0,3.49,md,18.0,204.0,0.6852,0.26,pr,pr2024240000,2024-08-27T18:56:12.770Z,"76 km W of Puerto Real, Puerto Rico",earthquake,1.38,1.71,0.14,10.0,reviewed,pr,pr
