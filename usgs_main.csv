@@ -15077,3 +15077,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-27T20:32:14.880Z,37.4620018005371,-118.511497497559,11.3100004196167,1.81,md,9.0,99.0,0.07338,0.01,nc,nc75054166,2024-08-27T20:33:49.909Z,"9 km ENE of Round Valley, CA",earthquake,1.65,3.88000011,0.09,8.0,automatic,nc,nc
 2024-08-27T20:31:14.852Z,36.6903,-115.1582,0.0,0.9,ml,11.0,326.81,0.664,0.3881,nn,nn00883097,2024-08-27T20:33:43.360Z,"47 km ENE of Indian Springs, Nevada",earthquake,,75.0,0.22,7.0,automatic,nn,nn
 2024-08-27T20:35:44.030Z,38.8349990844727,-122.816665649414,4.84999990463257,0.23,md,8.0,90.0,0.01268,0.06,nc,nc75054171,2024-08-27T20:37:20.232Z,"8 km WNW of Cobb, CA",earthquake,0.79,2.74000001,0.08,9.0,automatic,nc,nc
+2024-08-27T20:44:50.515Z,60.4061,-141.8295,7.0,2.5,ml,,,,0.54,ak,ak024b195i0r,2024-08-27T20:46:34.948Z,"128 km SSE of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-08-27T20:44:37.173Z,60.4143,-141.7831,0.2,2.5,ml,,,,0.18,ak,ak024b195gzp,2024-08-27T20:46:20.678Z,"129 km SSE of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
