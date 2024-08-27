@@ -15099,3 +15099,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-27T06:52:37.810Z,60.0088333333333,-153.055166666667,3.31,-0.73,ml,5.0,122.0,0.01988,0.14,av,av93242806,2024-08-27T22:11:43.440Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.97,1.63,0.275221033424769,5.0,reviewed,av,av
 2024-08-27T06:22:40.190Z,51.867,-177.8745,8.48,1.15,ml,4.0,208.0,0.06444,0.04,av,av93242781,2024-08-27T22:03:51.310Z,"85 km W of Adak, Alaska",earthquake,0.52,0.76,0.329950308026981,4.0,reviewed,av,av
 2024-08-27T03:24:02.914Z,-7.2261,-74.4221,161.588,4.4,mb,51.0,115.0,1.775,0.62,us,us6000nn0h,2024-08-27T22:06:33.040Z,"66 km E of Contamana, Peru",earthquake,8.66,7.114,0.068,62.0,reviewed,us,us
+2024-08-27T22:22:49.104Z,65.448,-148.2002,0.5,1.5,ml,,,,0.61,ak,ak024b1a7nda,2024-08-27T22:24:49.018Z,"18 km ESE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-27T22:12:02.075Z,54.3454,-162.778,66.53,4.8,mb,87.0,83.0,0.633,0.82,us,us6000nn4i,2024-08-27T22:30:31.059Z,"69 km SE of False Pass, Alaska",earthquake,5.04,4.762,0.044,159.0,reviewed,us,us
+2024-08-27T22:10:38.050Z,34.9841667,-118.1943333,0.0,1.52,ml,32.0,51.0,0.1088,0.21,ci,ci40716439,2024-08-27T22:17:09.524Z,"8 km SSW of Mojave, CA",earthquake,0.28,0.63,0.206,34.0,automatic,ci,ci
+2024-08-27T00:30:21.155Z,38.6757,-118.5562,5.9,0.7,ml,6.0,146.38000000000002,0.055,0.1663,nn,nn00883105,2024-08-27T22:24:48.978Z,"17 km E of Walker Lake, Nevada",earthquake,,1.8,0.25,3.0,reviewed,nn,nn
