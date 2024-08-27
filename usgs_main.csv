@@ -15043,3 +15043,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-27T17:16:33.650Z,38.8349990844727,-122.809669494629,2.30999994277954,1.06,md,18.0,51.0,0.01159,0.02,nc,nc75054076,2024-08-27T17:18:10.650Z,"8 km WNW of Cobb, CA",earthquake,0.26,0.469999999,0.12,19.0,automatic,nc,nc
 2024-08-27T17:11:30.080Z,65.4428,-148.2229,11.5,1.1,ml,,,,0.1,ak,ak024b176300,2024-08-27T17:13:24.418Z,"17 km ESE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-27T17:07:29.975Z,36.4358,-116.0874,3.6,0.9,ml,14.0,252.24,0.157,0.1139,nn,nn00883093,2024-08-27T17:24:41.930Z,"26 km NNW of Pahrump, Nevada",earthquake,,12.0,0.29,6.0,reviewed,nn,nn
+2024-08-27T17:05:11.058Z,35.4908,139.5461,47.063,4.6,mb,33.0,122.0,1.508,1.14,us,us6000nn2w,2024-08-27T17:32:49.180Z,"8 km ENE of Yamato, Japan",earthquake,6.11,7.676,0.133,17.0,reviewed,us,us
