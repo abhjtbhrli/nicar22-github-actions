@@ -14891,3 +14891,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-27T03:37:10.280Z,35.0911667,-119.0515,12.58,1.43,ml,36.0,62.0,0.04192,0.21,ci,ci40715519,2024-08-27T03:43:31.092Z,"20 km NW of Grapevine, CA",earthquake,0.28,0.56,0.15,29.0,automatic,ci,ci
 2024-08-27T03:34:22.360Z,35.1003333,-119.0846667,12.17,1.66,ml,47.0,44.0,0.04164,0.22,ci,ci40715511,2024-08-27T03:41:11.471Z,"22 km NW of Grapevine, CA",earthquake,0.24,0.62,0.177,28.0,automatic,ci,ci
 2024-08-27T03:50:50.063Z,60.4605,-148.3745,16.4,1.5,ml,,,,0.4,ak,ak024b0z2ezy,2024-08-27T03:52:28.834Z,"38 km SSE of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-27T04:06:34.430Z,38.8361663818359,-122.807830810547,2.08999991416931,0.78,md,15.0,60.0,0.01287,0.01,nc,nc75053901,2024-08-27T04:08:13.143Z,"8 km WNW of Cobb, CA",earthquake,0.25,0.5,0.16,20.0,automatic,nc,nc
+2024-08-27T04:05:09.080Z,35.0645,-119.0911667,11.26,2.41,ml,58.0,34.0,0.008436,0.3,ci,ci40715535,2024-08-27T04:16:06.220Z,"20 km NW of Grapevine, CA",earthquake,0.28,0.8,0.192,26.0,automatic,ci,ci
+2024-08-27T04:04:32.512Z,38.2136,-117.7903,1.3,1.4,ml,9.0,143.05,0.151,0.2593,nn,nn00883061,2024-08-27T04:07:16.948Z,"34 km SE of Mina, Nevada",earthquake,,3.1,0.65,5.0,automatic,nn,nn
+2024-08-27T03:55:45.918Z,62.011,-149.755,51.3,1.2,ml,,,,0.47,ak,ak024b0z3h9b,2024-08-27T03:57:39.900Z,"17 km SSE of Susitna North, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-08-27T01:33:44.164Z,-8.3803,-76.3148,79.59,4.2,mb,17.0,139.0,3.622,0.93,us,us6000nmz7,2024-08-27T03:56:08.040Z,"18 km ENE of Uchiza, Peru",earthquake,5.02,11.347,0.186,8.0,reviewed,us,us
