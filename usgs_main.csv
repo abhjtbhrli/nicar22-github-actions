@@ -15126,3 +15126,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-27T23:34:38.250Z,32.9828333,-116.271,9.34,0.85,ml,26.0,68.0,0.03916,0.15,ci,ci40716567,2024-08-27T23:40:42.017Z,"22 km SW of Ocotillo Wells, CA",earthquake,0.2,0.57,0.175,14.0,automatic,ci,ci
 2024-08-27T21:00:55.380Z,33.6326667,-116.683,14.22,0.41,ml,14.0,69.0,0.03694,0.08,ci,ci40716343,2024-08-27T23:44:51.184Z,"9 km N of Anza, CA",earthquake,0.24,0.48,0.111,6.0,reviewed,ci,ci
 2024-08-27T07:18:05.594Z,38.6814,-118.5524,5.4,0.7,ml,8.0,128.64,0.058,0.1652,nn,nn00883113,2024-08-27T23:38:25.912Z,"18 km ENE of Walker Lake, Nevada",earthquake,,2.9,0.3,3.0,reviewed,nn,nn
+2024-08-27T20:08:58.000Z,58.2943333333333,-154.979666666667,3.59,0.33,ml,13.0,131.0,0.04416,0.19,av,av93243331,2024-08-27T23:52:39.440Z,"86 km NNW of Karluk, Alaska",earthquake,0.34,0.71,0.283425156386177,13.0,reviewed,av,av
