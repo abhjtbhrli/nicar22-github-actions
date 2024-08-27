@@ -14890,3 +14890,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-26T23:05:13.330Z,60.0363333333333,-153.0765,-2.96,0.35,ml,7.0,95.0,0.02206,0.3,av,av93242466,2024-08-27T03:27:26.100Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.65,2.74,0.335482506925016,7.0,reviewed,av,av
 2024-08-27T03:37:10.280Z,35.0911667,-119.0515,12.58,1.43,ml,36.0,62.0,0.04192,0.21,ci,ci40715519,2024-08-27T03:43:31.092Z,"20 km NW of Grapevine, CA",earthquake,0.28,0.56,0.15,29.0,automatic,ci,ci
 2024-08-27T03:34:22.360Z,35.1003333,-119.0846667,12.17,1.66,ml,47.0,44.0,0.04164,0.22,ci,ci40715511,2024-08-27T03:41:11.471Z,"22 km NW of Grapevine, CA",earthquake,0.24,0.62,0.177,28.0,automatic,ci,ci
+2024-08-27T03:50:50.063Z,60.4605,-148.3745,16.4,1.5,ml,,,,0.4,ak,ak024b0z2ezy,2024-08-27T03:52:28.834Z,"38 km SSE of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
