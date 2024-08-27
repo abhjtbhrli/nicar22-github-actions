@@ -15014,3 +15014,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-27T14:41:20.848Z,37.7273,-117.1428,0.0,1.2,ml,12.0,172.43,0.437,0.2338,nn,nn00883088,2024-08-27T14:43:52.041Z,"8 km ENE of Goldfield, Nevada",earthquake,,41.2,0.26,7.0,automatic,nn,nn
 2024-08-27T14:35:32.910Z,32.9885,-116.3128333,8.28,0.9,ml,28.0,72.0,0.08388,0.19,ci,ci40715887,2024-08-27T14:41:28.968Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.23,0.81,0.21,17.0,automatic,ci,ci
 2024-08-26T20:33:14.609Z,34.4645,-97.17633333,0.0,1.39,ml,51.0,137.0,0.1754655677,0.42,ok,ok2024qukk,2024-08-27T14:50:45.487Z,"6 km SW of Davis, Oklahoma",quarry blast,,0.5,0.25,25.0,reviewed,ok,ok
+2024-08-27T13:45:52.924Z,15.905,-99.915,10.0,4.7,mb,102.0,236.0,2.094,0.88,us,us6000nn27,2024-08-27T14:50:24.040Z,"92 km SSW of San Andrés Playa Encantada (El Podrido), Mexico",earthquake,8.48,1.962,0.03,333.0,reviewed,us,us
