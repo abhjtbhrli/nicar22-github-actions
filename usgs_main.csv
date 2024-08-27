@@ -14950,3 +14950,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-27T09:53:04.443Z,60.4188,-141.8254,6.6,1.7,ml,,,,0.76,ak,ak024b12nk98,2024-08-27T09:54:43.750Z,"127 km SSE of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-27T09:47:43.100Z,32.9865,-116.3116667,8.63,0.56,ml,33.0,52.0,0.08447,0.19,ci,ci40715655,2024-08-27T09:54:02.712Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.23,0.72,0.063,5.0,automatic,ci,ci
 2024-08-27T09:46:38.200Z,19.3721675872803,-155.185668945312,1.57000005245209,1.80999994,md,18.0,126.0,0.02821,0.319999993,hv,hv74426282,2024-08-27T09:48:03.510Z,"9 km SSE of Volcano, Hawaii",earthquake,0.97,0.680000007,0.209999993,12.0,automatic,hv,hv
+2024-08-27T10:04:13.930Z,35.7063333,-117.5116667,5.36,1.76,ml,21.0,74.0,0.08258,0.14,ci,ci40715671,2024-08-27T10:10:46.820Z,"12 km SW of Searles Valley, CA",earthquake,0.23,1.05,0.472,9.0,automatic,ci,ci
+2024-08-27T09:59:35.760Z,38.6976,-118.6974,7.5,1.6,ml,12.0,154.18,0.512,0.2119,nn,nn00883062,2024-08-27T10:01:59.202Z,"7 km NE of Walker Lake, Nevada",earthquake,,1.1,0.2,7.0,automatic,nn,nn
+2024-08-27T09:57:07.830Z,35.6628333,-117.476,7.59,1.12,ml,28.0,52.0,0.04264,0.13,ci,ci40715663,2024-08-27T10:03:06.540Z,"13 km SSW of Searles Valley, CA",earthquake,0.16,0.41,0.141,13.0,automatic,ci,ci
