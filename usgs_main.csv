@@ -15079,3 +15079,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-27T20:35:44.030Z,38.8349990844727,-122.816665649414,4.84999990463257,0.23,md,8.0,90.0,0.01268,0.06,nc,nc75054171,2024-08-27T20:37:20.232Z,"8 km WNW of Cobb, CA",earthquake,0.79,2.74000001,0.08,9.0,automatic,nc,nc
 2024-08-27T20:44:50.515Z,60.4061,-141.8295,7.0,2.5,ml,,,,0.54,ak,ak024b195i0r,2024-08-27T20:46:34.948Z,"128 km SSE of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-27T20:44:37.173Z,60.4143,-141.7831,0.2,2.5,ml,,,,0.18,ak,ak024b195gzp,2024-08-27T20:46:20.678Z,"129 km SSE of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-08-27T20:57:38.932Z,36.8263,-115.8978,4.8,0.3,ml,13.0,220.77000000000004,0.12,0.237,nn,nn00883099,2024-08-27T20:59:24.403Z,"34 km NW of Indian Springs, Nevada",earthquake,,2.8,0.34,11.0,automatic,nn,nn
+2024-08-27T20:54:28.430Z,38.8320007324219,-122.808166503906,2.35999989509583,0.44,md,14.0,55.0,0.008721,0.02,nc,nc75054176,2024-08-27T20:56:05.394Z,"7 km WNW of Cobb, CA",earthquake,0.37,0.829999983,0.28,14.0,automatic,nc,nc
+2024-08-27T20:52:53.670Z,35.029,-117.6758333,0.06,1.57,ml,31.0,39.0,0.09587,0.22,ci,ci40716327,2024-08-27T21:06:39.657Z,"4 km NW of Boron, CA",earthquake,0.33,0.74,0.205,34.0,automatic,ci,ci
