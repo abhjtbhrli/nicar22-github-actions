@@ -14896,3 +14896,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-27T04:04:32.512Z,38.2136,-117.7903,1.3,1.4,ml,9.0,143.05,0.151,0.2593,nn,nn00883061,2024-08-27T04:07:16.948Z,"34 km SE of Mina, Nevada",earthquake,,3.1,0.65,5.0,automatic,nn,nn
 2024-08-27T03:55:45.918Z,62.011,-149.755,51.3,1.2,ml,,,,0.47,ak,ak024b0z3h9b,2024-08-27T03:57:39.900Z,"17 km SSE of Susitna North, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-08-27T01:33:44.164Z,-8.3803,-76.3148,79.59,4.2,mb,17.0,139.0,3.622,0.93,us,us6000nmz7,2024-08-27T03:56:08.040Z,"18 km ENE of Uchiza, Peru",earthquake,5.02,11.347,0.186,8.0,reviewed,us,us
+2024-08-27T04:28:54.070Z,34.2041664,-119.0046692,14.55,2.47,ml,61.0,84.0,0.01655,0.21,ci,ci40715543,2024-08-27T04:31:48.619Z,"3 km ESE of Camarillo, CA",earthquake,0.26,0.36,0.406,26.0,automatic,ci,ci
+2024-08-27T04:27:35.240Z,38.7929992675781,-122.77783203125,1.49000000953674,1.08,md,15.0,78.0,0.01608,0.02,nc,nc75053906,2024-08-27T04:29:13.297Z,"3 km NW of The Geysers, CA",earthquake,0.25,0.600000024,0.16,16.0,automatic,nc,nc
+2024-08-27T04:06:55.090Z,17.9551666666667,-66.8333333333333,9.95,2.51,md,8.0,207.0,0.03744,0.1,pr,pr71458298,2024-08-27T04:19:40.880Z,"4 km SSW of Indios, Puerto Rico",earthquake,0.68,0.49,0.104012266387351,6.0,reviewed,pr,pr
