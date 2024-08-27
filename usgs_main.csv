@@ -15001,3 +15001,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-27T13:49:56.518Z,61.4055,-146.46,31.5,1.4,ml,,,,0.41,ak,ak024b150jtv,2024-08-27T13:52:22.165Z,"31 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-27T13:49:30.160Z,34.2381668,-117.1425018,2.27,1.43,ml,27.0,56.0,0.04358,0.17,ci,ci40715807,2024-08-27T13:51:41.081Z,"4 km ESE of Lake Arrowhead, CA",earthquake,0.31,0.75,0.21,7.0,automatic,ci,ci
 2024-08-27T13:42:24.810Z,33.3985,-116.3705,4.65,0.6,ml,16.0,91.0,0.06241,0.14,ci,ci40715799,2024-08-27T13:52:01.034Z,"16 km N of Borrego Springs, CA",earthquake,0.27,0.58,0.205,9.0,automatic,ci,ci
+2024-08-27T14:04:23.280Z,33.7681667,-116.881,12.77,0.87,ml,35.0,86.0,0.0884,0.17,ci,ci40715855,2024-08-27T14:10:58.503Z,"2 km NNE of Valle Vista, CA",earthquake,0.23,0.5,0.214,21.0,automatic,ci,ci
+2024-08-27T14:01:50.161Z,38.4824,-117.9147,7.8,1.5,ml,8.0,142.76000000000002,0.497,0.2861,nn,nn00883086,2024-08-27T14:04:31.495Z,"19 km ENE of Mina, Nevada",earthquake,,2.0,0.55,5.0,automatic,nn,nn
+2024-08-27T13:52:18.000Z,33.3343333,-116.8313333,13.32,0.78,ml,43.0,36.0,0.03251,0.16,ci,ci40715831,2024-08-27T14:04:09.491Z,"4 km SE of Palomar Observatory, CA",earthquake,0.16,0.42,0.148,22.0,automatic,ci,ci
+2024-08-26T15:27:17.780Z,34.54016667,-97.25466667,3.73,1.23,ml,52.0,68.0,0.09178198924,0.28,ok,ok2024quai,2024-08-27T14:13:05.651Z,"9 km ESE of Katie, Oklahoma",earthquake,,0.7,0.22,20.0,reviewed,ok,ok
