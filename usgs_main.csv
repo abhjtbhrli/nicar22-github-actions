@@ -15044,3 +15044,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-27T17:11:30.080Z,65.4428,-148.2229,11.5,1.1,ml,,,,0.1,ak,ak024b176300,2024-08-27T17:13:24.418Z,"17 km ESE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-27T17:07:29.975Z,36.4358,-116.0874,3.6,0.9,ml,14.0,252.24,0.157,0.1139,nn,nn00883093,2024-08-27T17:24:41.930Z,"26 km NNW of Pahrump, Nevada",earthquake,,12.0,0.29,6.0,reviewed,nn,nn
 2024-08-27T17:05:11.058Z,35.4908,139.5461,47.063,4.6,mb,33.0,122.0,1.508,1.14,us,us6000nn2w,2024-08-27T17:32:49.180Z,"8 km ENE of Yamato, Japan",earthquake,6.11,7.676,0.133,17.0,reviewed,us,us
+2024-08-27T17:38:41.780Z,33.9616667,-117.1786667,16.59,1.02,ml,44.0,45.0,0.01507,0.16,ci,ci40716047,2024-08-27T17:45:14.471Z,"6 km NE of Moreno Valley, CA",earthquake,0.21,0.47,0.176,27.0,automatic,ci,ci
+2024-08-27T16:41:44.457Z,17.9901,-67.8817,17.888,3.2,ml,18.0,188.0,0.705,0.43,us,us6000nn2t,2024-08-27T17:38:31.040Z,"73 km W of Pole Ojea, Puerto Rico",earthquake,5.63,3.634,0.067,29.0,reviewed,us,us
+2024-08-27T15:51:08.028Z,-13.1362,45.5084,11.217,4.6,mb,49.0,58.0,0.423,0.54,us,us6000nn2q,2024-08-27T17:39:45.388Z,"42 km SE of Bandrélé, Mayotte",earthquake,6.55,4.301,0.087,43.0,reviewed,us,us
+2024-08-27T07:41:51.150Z,35.8923333333333,-121.2355,5.57,0.8,md,14.0,123.0,0.1132,0.09,nc,nc75053961,2024-08-27T17:38:23.334Z,"28 km N of San Simeon, CA",earthquake,0.26,0.82,0.264,10.0,reviewed,nc,nc
