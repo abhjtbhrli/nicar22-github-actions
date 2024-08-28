@@ -15226,3 +15226,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-28T10:46:13.130Z,61.6041,-147.6846,28.9,1.7,ml,,,,0.68,ak,ak024b2qqv0h,2024-08-28T10:47:56.862Z,"22 km S of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-28T10:53:25.715Z,37.5605,-116.9623,12.8,0.3,ml,8.0,166.42000000000002,0.458,0.1994,nn,nn00883138,2024-08-28T10:56:16.069Z,"29 km SE of Goldfield, Nevada",earthquake,,13.4,0.2,5.0,automatic,nn,nn
 2024-08-27T12:47:44.162Z,39.6887,17.0908,10.0,4.4,mb,92.0,85.0,1.004,0.73,us,us6000nn1z,2024-08-28T10:59:47.040Z,"24 km NNE of Cariati, Italy",earthquake,5.35,1.904,0.086,39.0,reviewed,us,us
+2024-08-28T11:14:04.089Z,37.7359,-117.1457,4.6,0.7,ml,10.0,175.25,0.56,0.2042,nn,nn00883139,2024-08-28T11:16:16.779Z,"8 km ENE of Goldfield, Nevada",earthquake,,192.7,0.32,6.0,automatic,nn,nn
+2024-08-28T11:12:22.530Z,33.7656667,-116.868,14.12,0.5,ml,15.0,199.0,0.08972,0.1,ci,ci40717007,2024-08-28T11:18:24.058Z,"3 km NE of Valle Vista, CA",earthquake,0.54,0.69,0.154,11.0,automatic,ci,ci
