@@ -15236,3 +15236,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-28T11:42:24.741Z,37.7572,-117.1178,2.2,1.0,ml,12.0,180.11,0.565,0.2532,nn,nn00883147,2024-08-28T11:44:47.655Z,"11 km ENE of Goldfield, Nevada",earthquake,,19.3,0.09,7.0,automatic,nn,nn
 2024-08-28T11:39:47.760Z,33.1663322,-116.1181641,10.44,0.69,ml,18.0,98.0,0.1169,0.15,ci,ci40717039,2024-08-28T11:43:13.002Z,"3 km NNE of Ocotillo Wells, CA",earthquake,0.39,0.89,0.126,7.0,automatic,ci,ci
 2024-08-28T11:37:55.327Z,37.7252,-117.1514,0.8,1.4,ml,21.0,153.11,0.563,0.2437,nn,nn00883145,2024-08-28T11:40:30.009Z,"7 km ENE of Goldfield, Nevada",earthquake,,7.9,0.18,16.0,automatic,nn,nn
+2024-08-28T11:48:48.770Z,32.98,-116.2793333,9.57,0.62,ml,32.0,57.0,0.1107,0.23,ci,ci40717055,2024-08-28T11:55:19.898Z,"23 km SW of Ocotillo Wells, CA",earthquake,0.3,0.83,0.207,5.0,automatic,ci,ci
+2024-08-28T11:48:46.363Z,37.7575,-117.1231,0.0,1.0,ml,14.0,179.76000000000005,0.561,0.2838,nn,nn00883154,2024-08-28T11:51:17.955Z,"11 km ENE of Goldfield, Nevada",earthquake,,49.1,0.18,7.0,automatic,nn,nn
+2024-08-28T11:48:18.594Z,62.3553,-149.1383,0.0,2.3,ml,,,,0.43,ak,ak024b2rcqgz,2024-08-28T11:50:08.770Z,"42 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
