@@ -15397,3 +15397,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-28T20:02:38.950Z,38.503,-112.878833333333,1.33,0.42,md,10.0,96.0,0.006288,0.07,uu,uu80080476,2024-08-28T20:16:38.540Z,"16 km NE of Milford, Utah",earthquake,0.33,0.41,0.4746630604515,4.0,reviewed,uu,uu
 2024-08-28T19:58:55.590Z,31.676,-104.371,6.228,3.3,ml,29.0,68.0,0.1,0.2,tx,tx2024qyai,2024-08-28T20:17:15.393Z,"55 km S of Whites City, New Mexico",earthquake,1.627790112237026,1.4622734019539163,0.1,24.0,reviewed,tx,tx
 2024-08-28T19:57:22.208Z,31.663,-104.363,6.7664,3.9,ml,32.0,57.0,0.1,0.2,tx,tx2024qyag,2024-08-28T20:22:30.266Z,"56 km S of Whites City, New Mexico",earthquake,0.9633803906560272,1.3737558888720982,0.2,35.0,reviewed,tx,tx
+2024-08-28T20:25:37.694Z,37.7444,-117.1301,0.7,1.2,ml,9.0,177.51,0.565,0.2023,nn,nn00883247,2024-08-28T20:28:02.535Z,"10 km ENE of Goldfield, Nevada",earthquake,,51.5,0.09,7.0,automatic,nn,nn
+2024-08-28T20:13:28.600Z,18.006,-66.8223333333333,11.83,2.24,md,8.0,136.0,0.08876,0.16,pr,pr71458508,2024-08-28T20:31:58.060Z,"1 km NNW of Indios, Puerto Rico",earthquake,0.67,2.41,0.0027940100336745,3.0,reviewed,pr,pr
