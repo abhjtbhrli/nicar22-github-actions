@@ -15400,3 +15400,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-28T20:25:37.694Z,37.7444,-117.1301,0.7,1.2,ml,9.0,177.51,0.565,0.2023,nn,nn00883247,2024-08-28T20:28:02.535Z,"10 km ENE of Goldfield, Nevada",earthquake,,51.5,0.09,7.0,automatic,nn,nn
 2024-08-28T20:13:28.600Z,18.006,-66.8223333333333,11.83,2.24,md,8.0,136.0,0.08876,0.16,pr,pr71458508,2024-08-28T20:31:58.060Z,"1 km NNW of Indios, Puerto Rico",earthquake,0.67,2.41,0.0027940100336745,3.0,reviewed,pr,pr
 2024-08-28T20:40:36.020Z,32.9861679,-116.3233337,4.83,1.7,ml,51.0,51.0,0.03567,0.22,ci,ci40717983,2024-08-28T20:42:40.348Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.27,0.64,0.234,27.0,automatic,ci,ci
+2024-08-28T20:14:34.580Z,18.025,-66.8268333333333,8.41,1.49,md,3.0,178.0,0.2141,0.23,pr,pr71458518,2024-08-28T20:48:25.510Z,"2 km ESE of Yauco, Puerto Rico",earthquake,5.54,18.96,0.0376140827279114,3.0,reviewed,pr,pr
