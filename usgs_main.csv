@@ -15184,3 +15184,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-28T05:44:44.810Z,33.3581667,-116.2585,11.19,0.57,ml,32.0,120.0,0.04297,0.19,ci,ci40716855,2024-08-28T05:50:41.885Z,"16 km NE of Borrego Springs, CA",earthquake,0.27,0.37,0.099,7.0,automatic,ci,ci
 2024-08-28T05:39:38.360Z,33.3526667,-116.269,11.45,1.21,ml,64.0,29.0,0.03533,0.19,ci,ci40716847,2024-08-28T05:45:53.150Z,"15 km NE of Borrego Springs, CA",earthquake,0.17,0.29,0.195,27.0,automatic,ci,ci
 2024-08-28T05:25:24.390Z,18.663,-66.4238333333333,18.98,2.66,md,12.0,213.0,0.3473,0.14,pr,pr71458393,2024-08-28T05:46:59.640Z,"23 km NNE of Tierras Nuevas Poniente, Puerto Rico",earthquake,0.6,0.81,0.0710825034882536,8.0,reviewed,pr,pr
+2024-08-28T05:35:02.590Z,17.945,-66.7838333333333,4.61,2.43,md,8.0,173.0,0.195,0.14,pr,pr71458398,2024-08-28T05:56:09.470Z,"6 km SE of Indios, Puerto Rico",earthquake,0.76,0.58,0.0700083364424455,4.0,reviewed,pr,pr
