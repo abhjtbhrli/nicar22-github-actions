@@ -15412,3 +15412,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-28T05:16:57.050Z,61.251,-152.192833333333,28.1,-0.11,ml,6.0,115.0,0.02337,0.15,av,av93243661,2024-08-28T21:15:34.650Z,"60 km WNW of Tyonek, Alaska",earthquake,1.43,0.91,0.324904933807884,6.0,reviewed,av,av
 2024-08-28T21:25:14.832Z,37.7338,-117.144,0.0,1.7,ml,22.0,129.94,0.443,0.229,nn,nn00883249,2024-08-28T21:27:57.670Z,"8 km ENE of Goldfield, Nevada",earthquake,,23.5,0.19,15.0,automatic,nn,nn
 2024-08-28T21:22:53.800Z,19.3678340911865,-155.494171142578,7.69999980926514,1.98,ml,14.0,102.0,0.03513,0.150000006,hv,hv74428787,2024-08-28T21:25:45.540Z,"18 km N of Pāhala, Hawaii",earthquake,0.56,1.03999996,0.23,9.0,automatic,hv,hv
+2024-08-28T21:39:44.859Z,61.1148,-150.5119,15.4,2.0,ml,,,,0.18,ak,ak024b2x973p,2024-08-28T21:41:08.257Z,"23 km NNE of Point Possession, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-28T21:38:07.494Z,58.2822,-154.9314,9.0,0.5,ml,,,,0.95,ak,ak024b2x8wjb,2024-08-28T21:40:16.216Z,"84 km NNW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-28T21:37:24.492Z,58.2827,-154.9354,0.1,0.6,ml,,,,0.77,ak,ak024b2x8q3l,2024-08-28T21:39:17.107Z,"84 km NNW of Karluk, Alaska",earthquake,,1.3,,,automatic,ak,ak
