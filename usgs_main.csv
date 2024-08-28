@@ -15231,3 +15231,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-28T11:20:38.027Z,37.7454,-117.1275,0.1,1.7,ml,24.0,174.60000000000002,0.457,0.2424,nn,nn00883142,2024-08-28T11:23:30.069Z,"10 km ENE of Goldfield, Nevada",earthquake,,30.5,0.18,16.0,automatic,nn,nn
 2024-08-28T11:20:04.790Z,37.578,-116.9521,8.7,0.4,ml,8.0,169.25,0.471,0.2226,nn,nn00883143,2024-08-28T11:22:56.293Z,"28 km ESE of Goldfield, Nevada",earthquake,,26.9,0.39,6.0,automatic,nn,nn
 2024-08-28T11:30:36.050Z,60.7757,-152.6776,16.6,0.8,ml,,,,0.27,ak,ak024b2r8wxo,2024-08-28T11:32:57.903Z,"76 km WNW of Salamatof, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-28T11:45:38.108Z,37.7282,-117.1593,1.1,1.0,ml,12.0,173.21999999999997,0.556,0.3585,nn,nn00883150,2024-08-28T11:48:07.868Z,"7 km ENE of Goldfield, Nevada",earthquake,,37.5,0.15,8.0,automatic,nn,nn
+2024-08-28T11:43:44.440Z,19.4503326416016,-156.053329467773,4.19999980926514,2.59,ml,51.0,259.0,0.1337,0.319999993,hv,hv74428402,2024-08-28T11:46:40.000Z,"14 km WSW of Captain Cook, Hawaii",earthquake,0.94,0.639999986,0.22,10.0,automatic,hv,hv
+2024-08-28T11:42:24.741Z,37.7572,-117.1178,2.2,1.0,ml,12.0,180.11,0.565,0.2532,nn,nn00883147,2024-08-28T11:44:47.655Z,"11 km ENE of Goldfield, Nevada",earthquake,,19.3,0.09,7.0,automatic,nn,nn
+2024-08-28T11:39:47.760Z,33.1663322,-116.1181641,10.44,0.69,ml,18.0,98.0,0.1169,0.15,ci,ci40717039,2024-08-28T11:43:13.002Z,"3 km NNE of Ocotillo Wells, CA",earthquake,0.39,0.89,0.126,7.0,automatic,ci,ci
+2024-08-28T11:37:55.327Z,37.7252,-117.1514,0.8,1.4,ml,21.0,153.11,0.563,0.2437,nn,nn00883145,2024-08-28T11:40:30.009Z,"7 km ENE of Goldfield, Nevada",earthquake,,7.9,0.18,16.0,automatic,nn,nn
