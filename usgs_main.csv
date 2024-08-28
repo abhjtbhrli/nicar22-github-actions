@@ -15161,3 +15161,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-28T02:11:06.640Z,37.4886,-117.1942,3.1,1.0,ml,8.0,142.62,0.196,0.2223,nn,nn00883127,2024-08-28T02:13:53.908Z,"24 km S of Goldfield, Nevada",earthquake,,20.2,0.24,4.0,automatic,nn,nn
 2024-08-28T02:10:49.525Z,39.2785,-119.6438,5.2,2.1,ml,17.0,70.32,0.119,0.1799,nn,nn00883125,2024-08-28T02:19:06.313Z,"3 km S of Virginia City, Nevada",earthquake,,1.4,0.29,7.0,automatic,nn,nn
 2024-08-28T01:06:23.710Z,19.2095,-155.470666666667,30.47,1.52,md,27.0,99.0,0.04703,0.09,hv,hv74427797,2024-08-28T02:13:46.240Z,"1 km NE of Pāhala, Hawaii",earthquake,0.53,0.61,0.0699970815444897,8.0,reviewed,hv,hv
+2024-08-28T02:45:54.579Z,59.4608,-152.961,85.3,1.7,ml,,,,0.37,ak,ak024b2lz9nl,2024-08-28T02:47:47.995Z,"60 km W of Nanwalek, Alaska",earthquake,,0.4,,,automatic,ak,ak
