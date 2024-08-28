@@ -15174,3 +15174,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-28T03:53:47.300Z,38.7938346862793,-122.804336547852,2.86999988555908,1.28,md,28.0,64.0,0.005589,0.03,nc,nc75054301,2024-08-28T03:55:22.019Z,"5 km NW of The Geysers, CA",earthquake,0.25,0.389999986,0.19,28.0,automatic,nc,nc
 2024-08-28T04:12:00.300Z,61.6309,-149.5438,33.6,1.6,ml,,,,0.43,ak,ak024b2myy1q,2024-08-28T04:14:43.982Z,"3 km ENE of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-28T04:35:36.360Z,33.9501667,-116.8803333,11.39,0.89,ml,42.0,45.0,0.104,0.15,ci,ci40716807,2024-08-28T04:41:47.960Z,"3 km N of Banning, CA",earthquake,0.16,0.52,0.149,25.0,automatic,ci,ci
+2024-08-28T04:49:24.290Z,34.3079987,-117.0414963,4.41,1.2,ml,14.0,136.0,0.05913,0.14,ci,ci40716815,2024-08-28T04:51:28.669Z,"13 km NNE of Running Springs, CA",earthquake,0.64,1.12,0.206,6.0,automatic,ci,ci
