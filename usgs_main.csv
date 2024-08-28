@@ -15391,3 +15391,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-28T19:32:43.310Z,60.2106,-143.5228,37.0,2.5,ml,,,,1.54,ak,ak024b2w0trf,2024-08-28T19:34:43.832Z,"128 km ESE of Cordova, Alaska",earthquake,,18.1,,,automatic,ak,ak
 2024-08-28T19:31:03.720Z,37.4970016479492,-118.831497192383,5.65999984741211,1.25,md,13.0,220.0,0.09288,0.02,nc,nc75054611,2024-08-28T19:32:41.391Z,"15 km WSW of Toms Place, CA",earthquake,0.83,1.65999997,0.1,12.0,automatic,nc,nc
 2024-08-28T19:58:14.110Z,38.8359985351562,-122.806503295898,2.16000008583069,0.67,md,10.0,79.0,0.01285,0.01,nc,nc75054616,2024-08-28T19:59:52.572Z,"7 km WNW of Cobb, CA",earthquake,0.35,1.01999998,0.45,11.0,automatic,nc,nc
+2024-08-28T20:14:36.919Z,37.697,-117.1795,7.3,1.2,ml,9.0,170.14000000000004,0.402,0.2474,nn,nn00883245,2024-08-28T20:17:12.419Z,"5 km ESE of Goldfield, Nevada",earthquake,,2.7,0.29,5.0,automatic,nn,nn
+2024-08-28T20:11:44.749Z,61.4861,-147.2047,18.3,1.6,ml,,,,0.63,ak,ak024b2whrfu,2024-08-28T20:13:40.205Z,"43 km SSE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-08-28T20:09:47.751Z,60.4239,-141.8362,1.1,1.8,ml,,,,0.69,ak,ak024b2whc8n,2024-08-28T20:11:06.233Z,"126 km SSE of McCarthy, Alaska",earthquake,,3.4,,,automatic,ak,ak
+2024-08-28T20:02:38.950Z,38.503,-112.878833333333,1.33,0.42,md,10.0,96.0,0.006288,0.07,uu,uu80080476,2024-08-28T20:16:38.540Z,"16 km NE of Milford, Utah",earthquake,0.33,0.41,0.4746630604515,4.0,reviewed,uu,uu
+2024-08-28T19:58:55.590Z,31.676,-104.371,6.228,3.3,ml,29.0,68.0,0.1,0.2,tx,tx2024qyai,2024-08-28T20:17:15.393Z,"55 km S of Whites City, New Mexico",earthquake,1.627790112237026,1.4622734019539163,0.1,24.0,reviewed,tx,tx
+2024-08-28T19:57:22.208Z,31.663,-104.363,6.7664,3.9,ml,32.0,57.0,0.1,0.2,tx,tx2024qyag,2024-08-28T20:22:30.266Z,"56 km S of Whites City, New Mexico",earthquake,0.9633803906560272,1.3737558888720982,0.2,35.0,reviewed,tx,tx
