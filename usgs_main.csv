@@ -15166,3 +15166,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-28T03:04:17.148Z,63.1063,-150.8305,25.2,1.8,ml,,,,1.32,ak,ak024b2mbu0i,2024-08-28T03:06:09.034Z,"65 km SE of Denali National Park, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2024-08-28T02:57:27.500Z,33.236,-116.039,4.03,0.84,ml,37.0,77.0,0.06259,0.24,ci,ci40716751,2024-08-28T03:03:22.159Z,"10 km SW of Salton City, CA",earthquake,0.24,0.88,0.14,16.0,automatic,ci,ci
 2024-08-28T02:44:17.140Z,-28.5887,-69.6449,98.844,4.5,mb,49.0,42.0,1.017,0.73,us,us6000nn5l,2024-08-28T03:00:00.040Z,"109 km E of Vallenar, Chile",earthquake,5.19,7.162,0.052,110.0,reviewed,us,us
+2024-08-28T03:25:37.540Z,33.7019997,-117.9191666,13.2,1.89,ml,62.0,171.0,0.02649,0.2,ci,ci40716775,2024-08-28T03:27:43.989Z,"3 km ESE of Fountain Valley, CA",earthquake,0.46,0.6,0.323,25.0,automatic,ci,ci
