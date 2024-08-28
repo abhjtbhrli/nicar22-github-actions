@@ -15210,3 +15210,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-28T07:52:48.380Z,34.5953333,-116.6136667,2.16,1.13,ml,25.0,73.0,0.1902,0.11,ci,ci40716911,2024-08-28T08:02:15.245Z,"37 km ENE of Lucerne Valley, CA",earthquake,0.16,0.67,0.146,14.0,automatic,ci,ci
 2024-08-28T07:31:06.780Z,17.9761666666667,-67.0001666666667,8.76,2.6,md,21.0,161.0,0.04247,0.18,pr,pr71458428,2024-08-28T08:07:05.720Z,"4 km E of La Parguera, Puerto Rico",earthquake,0.36,0.8,0.124766041385984,6.0,reviewed,pr,pr
 2024-08-28T07:25:58.281Z,-4.9008,155.1021,490.868,4.5,mb,45.0,77.0,6.59,0.6,us,us6000nn6n,2024-08-28T07:58:49.040Z,"155 km NNW of Arawa, Papua New Guinea",earthquake,10.39,5.127,0.092,35.0,reviewed,us,us
+2024-08-28T08:18:03.252Z,63.6501,-150.0388,12.4,1.4,ml,,,,0.25,ak,ak024b2pdyzp,2024-08-28T08:20:00.075Z,"56 km W of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
