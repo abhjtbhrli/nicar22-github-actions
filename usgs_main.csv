@@ -15199,3 +15199,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-28T07:09:16.436Z,58.5789,-153.9953,77.2,2.1,ml,,,,0.26,ak,ak024b2oqmyj,2024-08-28T07:10:57.549Z,"85 km NW of Aleneva, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-08-28T07:23:11.908Z,37.7657,-117.1073,2.8,0.9,ml,13.0,181.99,0.567,0.2491,nn,nn00883133,2024-08-28T07:25:26.321Z,"12 km ENE of Goldfield, Nevada",earthquake,,19.8,0.2,9.0,automatic,nn,nn
 2024-08-28T04:54:59.200Z,18.8981666666667,-64.6073333333333,13.53,2.91,md,3.0,314.0,0.4756,0.11,pr,pr71458418,2024-08-28T07:28:07.530Z,"65 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,1.82,3.23,0.0853647618865079,3.0,reviewed,pr,pr
+2024-08-28T07:34:17.430Z,38.8450012207031,-122.816833496094,1.71000003814697,0.74,md,8.0,119.0,0.0109,0.01,nc,nc75054356,2024-08-28T07:35:53.078Z,"9 km WNW of Cobb, CA",earthquake,0.44,1.05999994,0.39,10.0,automatic,nc,nc
