@@ -15181,3 +15181,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-28T04:50:30.950Z,17.9645,-66.9995,8.0,3.55,md,15.0,178.0,0.045,0.14,pr,pr2024241000,2024-08-28T05:28:21.665Z,"5 km ESE of La Parguera, Puerto Rico",earthquake,0.41,0.68,0.18,13.0,reviewed,pr,pr
 2024-08-27T20:27:02.960Z,47.633833333333335,-122.57383333333334,22.63,1.33,ml,17.0,88.0,0.1581,0.15,uw,uw62041336,2024-08-28T05:21:54.140Z,"4 km WNW of Bainbridge Island, Washington",earthquake,0.32,0.92,0.4098043909842899,6.0,reviewed,uw,uw
 2024-08-28T05:17:25.797Z,61.2624,-152.265,32.4,0.9,ml,,,,0.56,ak,ak024b2nlgog,2024-08-28T05:29:22.586Z,"64 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-08-28T05:44:44.810Z,33.3581667,-116.2585,11.19,0.57,ml,32.0,120.0,0.04297,0.19,ci,ci40716855,2024-08-28T05:50:41.885Z,"16 km NE of Borrego Springs, CA",earthquake,0.27,0.37,0.099,7.0,automatic,ci,ci
+2024-08-28T05:39:38.360Z,33.3526667,-116.269,11.45,1.21,ml,64.0,29.0,0.03533,0.19,ci,ci40716847,2024-08-28T05:45:53.150Z,"15 km NE of Borrego Springs, CA",earthquake,0.17,0.29,0.195,27.0,automatic,ci,ci
+2024-08-28T05:25:24.390Z,18.663,-66.4238333333333,18.98,2.66,md,12.0,213.0,0.3473,0.14,pr,pr71458393,2024-08-28T05:46:59.640Z,"23 km NNE of Tierras Nuevas Poniente, Puerto Rico",earthquake,0.6,0.81,0.0710825034882536,8.0,reviewed,pr,pr
