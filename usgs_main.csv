@@ -15407,3 +15407,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-28T20:52:14.980Z,33.2993333,-116.3691667,11.75,0.69,ml,27.0,64.0,0.02737,0.16,ci,ci40718007,2024-08-28T20:58:03.524Z,"5 km N of Borrego Springs, CA",earthquake,0.26,0.4,0.08,11.0,automatic,ci,ci
 2024-08-28T20:14:52.227Z,24.1128,121.6703,30.438,4.4,mwr,87.0,64.0,0.092,0.7,us,us6000nnbq,2024-08-28T21:00:55.193Z,"16 km NNE of Hualien City, Taiwan",earthquake,4.35,4.352,0.06,27.0,reviewed,us,us
 2024-08-28T05:40:31.790Z,61.2431666666667,-152.205666666667,28.45,0.07,ml,6.0,173.0,0.0332,0.08,av,av93243681,2024-08-28T21:06:57.450Z,"60 km WNW of Tyonek, Alaska",earthquake,1.12,0.73,0.339627118752664,6.0,reviewed,av,av
+2024-08-28T21:14:58.770Z,33.9271667,-116.2851667,7.42,0.91,ml,25.0,39.0,0.09295,0.13,ci,ci40718079,2024-08-28T21:22:06.605Z,"15 km NE of Thousand Palms, CA",earthquake,0.19,0.65,0.208,20.0,automatic,ci,ci
+2024-08-28T20:29:03.422Z,-23.637,-179.9994,542.67,4.5,mb,65.0,96.0,5.176,0.67,us,us6000nncf,2024-08-28T21:23:01.040Z,south of the Fiji Islands,earthquake,14.38,7.795,0.08,46.0,reviewed,us,us
+2024-08-28T05:16:57.050Z,61.251,-152.192833333333,28.1,-0.11,ml,6.0,115.0,0.02337,0.15,av,av93243661,2024-08-28T21:15:34.650Z,"60 km WNW of Tyonek, Alaska",earthquake,1.43,0.91,0.324904933807884,6.0,reviewed,av,av
