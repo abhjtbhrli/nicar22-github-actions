@@ -15421,3 +15421,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-28T05:41:23.790Z,61.2136666666667,-152.195833333333,32.16,-0.29,ml,8.0,159.0,0.01501,0.14,av,av93019554,2024-08-28T21:51:33.390Z,"59 km WNW of Tyonek, Alaska",earthquake,1.19,0.66,0.239908300998349,8.0,reviewed,av,av
 2024-08-28T21:57:56.843Z,12.998,-89.5623,33.882,6.1,mww,83.0,151.0,0.662,1.44,us,us6000nncs,2024-08-28T22:12:06.832Z,"60 km SSW of La Libertad, El Salvador",earthquake,5.67,4.524,0.037,72.0,reviewed,us,us
 2024-08-28T21:56:49.680Z,32.979,-116.2785,9.5,1.57,ml,58.0,37.0,0.03209,0.19,ci,ci40718151,2024-08-28T22:09:06.021Z,"23 km SW of Ocotillo Wells, CA",earthquake,0.15,0.4,0.227,27.0,automatic,ci,ci
+2024-08-28T22:16:30.432Z,61.0095,-150.5968,55.9,2.3,ml,,,,0.18,ak,ak024b2xpo4j,2024-08-28T22:18:05.576Z,"10 km NNE of Point Possession, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-08-28T21:49:20.051Z,31.662,-104.358,4.384,2.3,ml,15.0,69.0,0.1,0.1,tx,tx2024qyea,2024-08-28T22:21:27.099Z,"56 km S of Whites City, New Mexico",earthquake,0.0,1.50923240184784,0.2,13.0,automatic,tx,tx
