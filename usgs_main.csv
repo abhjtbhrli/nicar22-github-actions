@@ -15661,3 +15661,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-29T13:51:02.580Z,38.8214988708496,-122.813667297363,2.95000004768372,0.76,md,15.0,59.0,0.003386,0.01,nc,nc75054896,2024-08-29T13:52:39.975Z,"7 km NW of The Geysers, CA",earthquake,0.33,0.589999974,0.14,14.0,automatic,nc,nc
 2024-08-29T13:49:29.322Z,59.9567,-153.0077,102.6,2.7,ml,,,,0.37,ak,ak024b4g36pr,2024-08-29T13:51:12.431Z,"64 km ENE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-28T18:57:39.247Z,31.685,-104.418,6.0999,1.5,ml,17.0,79.0,0.0,0.1,tx,tx2024qxyg,2024-08-29T13:50:44.287Z,"54 km S of Whites City, New Mexico",earthquake,0.6503324817864518,0.6834481837443815,0.2,18.0,reviewed,tx,tx
+2024-08-29T14:10:43.120Z,35.1096649,-119.1366653,11.4,1.66,ml,23.0,56.0,0.0669,0.22,ci,ci40718735,2024-08-29T14:12:49.525Z,"25 km ENE of Maricopa, CA",earthquake,0.49,1.06,0.168,15.0,automatic,ci,ci
+2024-08-29T14:08:08.403Z,61.2078,-149.3855,29.4,1.3,ml,,,,0.47,ak,ak024b4gfsco,2024-08-29T14:10:00.721Z,"14 km ESE of Elmendorf Air Force Base, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-08-29T13:51:38.979Z,37.7399,-117.1417,0.0,1.0,ml,15.0,176.06,0.45,0.2499,nn,nn00883376,2024-08-29T13:54:02.398Z,"8 km ENE of Goldfield, Nevada",earthquake,,47.9,0.21,7.0,automatic,nn,nn
+2024-08-29T12:43:11.690Z,44.4483333333333,-110.961833333333,7.67,1.04,ml,17.0,111.0,0.09029,0.19,uu,uu80080566,2024-08-29T13:55:01.050Z,"26 km SSE of West Yellowstone, Montana",earthquake,0.53,0.84,0.27712026809835,3.0,reviewed,uu,uu
+2024-08-28T16:52:24.702Z,31.676,-104.378,6.0999,1.6,ml,20.0,86.0,0.1,0.1,tx,tx2024qxue,2024-08-29T14:06:34.368Z,"55 km S of Whites City, New Mexico",earthquake,0.6422964991273346,0.7449851742006474,0.1,6.0,reviewed,tx,tx
