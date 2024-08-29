@@ -15526,3 +15526,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-29T04:49:41.390Z,34.2900009,-116.8655014,4.38,0.95,ml,23.0,132.0,0.05345,0.13,ci,ci40718447,2024-08-29T04:51:47.775Z,"4 km NNW of Big Bear City, CA",earthquake,0.43,0.89,0.241,5.0,automatic,ci,ci
 2024-08-29T04:40:24.122Z,68.6271,-146.5224,0.0,2.7,ml,,,,0.92,ak,ak024b4aoccs,2024-08-29T04:43:12.156Z,"68 km NW of Arctic Village, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-08-28T14:23:40.720Z,37.7408,-117.1467,10.0,1.6,ml,14.0,115.69,0.45,0.1843,nn,nn00883189,2024-08-29T04:43:06.927Z,"8 km ENE of Goldfield, Nevada",earthquake,,1.9,0.46,3.0,reviewed,nn,nn
+2024-08-29T04:51:19.609Z,60.9052,-147.0945,34.5,1.4,ml,,,,1.06,ak,ak024b4aqoyg,2024-08-29T04:53:16.640Z,"23 km W of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
