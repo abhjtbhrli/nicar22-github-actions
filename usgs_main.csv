@@ -15626,3 +15626,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-29T11:16:09.400Z,19.074499130249,-155.387664794922,35.4099998474121,2.02,ml,44.0,238.0,0.1069,0.180000007,hv,hv74429662,2024-08-29T11:19:01.740Z,"17 km SE of Pāhala, Hawaii",earthquake,0.63,0.860000014,1.05,3.0,automatic,hv,hv
 2024-08-29T11:14:56.160Z,33.423,-116.6546667,5.81,0.39,ml,30.0,44.0,0.08437,0.15,ci,ci40718623,2024-08-29T11:20:52.644Z,"15 km S of Anza, CA",earthquake,0.17,0.81,0.152,11.0,automatic,ci,ci
 2024-08-29T11:33:40.944Z,59.5223,-153.443,133.4,1.0,ml,,,,0.11,ak,ak024b4eswy6,2024-08-29T11:34:55.013Z,"47 km SE of Pedro Bay, Alaska",earthquake,,2.9,,,automatic,ak,ak
+2024-08-29T11:35:56.390Z,33.246,-116.058,9.86,0.81,ml,42.0,70.0,0.06936,0.22,ci,ci40718655,2024-08-29T11:42:18.279Z,"11 km WSW of Salton City, CA",earthquake,0.25,0.62,0.147,12.0,automatic,ci,ci
+2024-08-29T11:35:37.457Z,63.0884,-150.8971,24.4,1.8,ml,,,,1.14,ak,ak024b4etc41,2024-08-29T11:37:37.906Z,"65 km SE of Denali National Park, Alaska",earthquake,,1.5,,,automatic,ak,ak
