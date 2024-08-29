@@ -15602,3 +15602,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-29T09:54:09.020Z,19.1774997711182,-155.483505249023,30.6100006103516,2.35,ml,18.0,208.0,0.1008,0.109999999,hv,hv74429502,2024-08-29T09:57:58.080Z,"2 km S of Pāhala, Hawaii",earthquake,1.04,1.14999998,0.2,9.0,automatic,hv,hv
 2024-08-29T09:49:26.975Z,37.7581,-117.1286,0.3,1.1,ml,13.0,179.44000000000003,0.558,0.3752,nn,nn00883348,2024-08-29T09:51:49.811Z,"10 km ENE of Goldfield, Nevada",earthquake,,48.6,0.08,7.0,automatic,nn,nn
 2024-08-29T09:48:17.941Z,37.62,-116.9272,0.4,0.6,ml,9.0,176.07999999999998,0.503,0.2872,nn,nn00883347,2024-08-29T09:50:58.659Z,"28 km ESE of Goldfield, Nevada",earthquake,,65.9,0.3,6.0,automatic,nn,nn
+2024-08-29T10:18:49.380Z,61.7259,-149.4927,35.7,1.6,ml,,,,0.32,ak,ak024b4e4a96,2024-08-29T10:20:22.981Z,"11 km NNW of Tanaina, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-08-29T10:17:49.737Z,61.0969,-148.4693,1.2,1.3,ml,,,,0.64,ak,ak024b4e42kd,2024-08-29T10:19:02.686Z,"37 km NNE of Whittier, Alaska",earthquake,,6.9,,,automatic,ak,ak
+2024-08-29T10:01:12.950Z,35.948,-117.6818333,5.22,0.59,ml,19.0,78.0,0.02552,0.11,ci,ci40718591,2024-08-29T10:06:51.200Z,"20 km E of Little Lake, CA",earthquake,0.15,0.38,0.244,5.0,automatic,ci,ci
+2024-08-29T10:00:40.341Z,37.7579,-117.1204,2.3,0.9,ml,9.0,180.0,0.563,0.2472,nn,nn00883352,2024-08-29T10:02:48.546Z,"11 km ENE of Goldfield, Nevada",earthquake,,1066.6,0.29,5.0,automatic,nn,nn
+2024-08-29T10:00:29.676Z,59.8478,-153.2206,113.0,1.3,ml,,,,0.32,ak,ak024b4e0du4,2024-08-29T10:03:01.022Z,"50 km E of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-08-29T09:59:18.290Z,32.5205,-117.6643333,20.15,2.23,ml,25.0,196.0,0.367,0.21,ci,ci40718583,2024-08-29T10:06:03.198Z,"49 km WSW of Coronado, CA",earthquake,0.58,3.22,0.145,28.0,automatic,ci,ci
+2024-08-29T09:51:29.752Z,-24.423,-179.6205,494.286,5.2,mb,58.0,74.0,5.035,1.13,us,us6000nngk,2024-08-29T10:06:22.040Z,south of the Fiji Islands,earthquake,11.78,8.445,0.081,50.0,reviewed,us,us
