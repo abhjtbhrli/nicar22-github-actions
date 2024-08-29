@@ -15530,3 +15530,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-29T05:24:47.150Z,32.9804993,-116.2768326,9.62,1.05,ml,17.0,132.0,0.1128,0.13,ci,ci40718471,2024-08-29T05:26:53.527Z,"23 km SW of Ocotillo Wells, CA",earthquake,0.41,1.28,0.111,3.0,automatic,ci,ci
 2024-08-29T05:17:04.624Z,37.8241,-117.2191,0.0,0.6,ml,8.0,335.43999999999994,0.786,0.2466,nn,nn00883287,2024-08-29T05:19:26.561Z,"12 km N of Goldfield, Nevada",earthquake,,84.0,0.34,5.0,automatic,nn,nn
 2024-08-29T05:12:31.550Z,34.0648333,-116.7798333,13.58,1.52,ml,69.0,44.0,0.03762,0.16,ci,ci40718455,2024-08-29T05:19:13.531Z,"16 km N of Cabazon, CA",earthquake,0.14,0.31,0.182,26.0,automatic,ci,ci
+2024-08-29T05:35:36.838Z,63.1787,-149.72,75.9,1.5,ml,,,,0.38,ak,ak024b4b8qe4,2024-08-29T05:38:19.732Z,"45 km WSW of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2024-08-29T05:31:21.338Z,63.0298,-151.0319,126.2,1.5,ml,,,,0.35,ak,ak024b4b7unh,2024-08-29T05:34:09.079Z,"60 km NNW of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-08-29T05:23:58.840Z,32.9793333,-116.2735,8.99,0.84,ml,30.0,52.0,0.1155,0.18,ci,ci40718463,2024-08-29T05:29:52.591Z,"22 km SW of Ocotillo Wells, CA",earthquake,0.25,0.85,0.112,10.0,automatic,ci,ci
+2024-08-29T05:08:15.352Z,31.583,-104.559,3.6122,1.6,ml,7.0,166.0,0.1,0.2,tx,tx2024qysk,2024-08-29T05:30:33.249Z,"65 km NNE of Van Horn, Texas",earthquake,0.0,2.28849744796753,0.1,7.0,automatic,tx,tx
