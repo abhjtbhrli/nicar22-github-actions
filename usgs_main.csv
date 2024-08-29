@@ -15534,3 +15534,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-29T05:31:21.338Z,63.0298,-151.0319,126.2,1.5,ml,,,,0.35,ak,ak024b4b7unh,2024-08-29T05:34:09.079Z,"60 km NNW of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-08-29T05:23:58.840Z,32.9793333,-116.2735,8.99,0.84,ml,30.0,52.0,0.1155,0.18,ci,ci40718463,2024-08-29T05:29:52.591Z,"22 km SW of Ocotillo Wells, CA",earthquake,0.25,0.85,0.112,10.0,automatic,ci,ci
 2024-08-29T05:08:15.352Z,31.583,-104.559,3.6122,1.6,ml,7.0,166.0,0.1,0.2,tx,tx2024qysk,2024-08-29T05:30:33.249Z,"65 km NNE of Van Horn, Texas",earthquake,0.0,2.28849744796753,0.1,7.0,automatic,tx,tx
+2024-08-29T05:45:59.080Z,38.0546684265137,-122.244003295898,5.55999994277954,1.24,md,11.0,75.0,0.02419,0.04,nc,nc75054781,2024-08-29T05:47:37.567Z,"3 km WNW of Crockett, CA",earthquake,0.3,0.540000021,0.16,11.0,automatic,nc,nc
