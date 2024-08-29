@@ -15520,3 +15520,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-29T04:01:46.580Z,33.7655,-116.9305,12.88,0.55,ml,26.0,93.0,0.07841,0.15,ci,ci40718423,2024-08-29T04:07:31.084Z,"3 km SE of San Jacinto, CA",earthquake,0.22,0.48,0.148,11.0,automatic,ci,ci
 2024-08-29T03:50:38.607Z,61.3355,-152.2139,24.0,0.5,ml,,,,0.41,ak,ak024b4a533o,2024-08-29T03:51:45.312Z,"64 km WNW of Beluga, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-08-28T19:08:04.040Z,19.6906666666667,-155.248166666667,37.98,1.6,ml,39.0,163.0,0.2109,0.13,hv,hv74428672,2024-08-29T04:04:54.960Z,"17 km WSW of Hilo, Hawaii",earthquake,0.53,0.79,0.176737581251513,25.0,reviewed,hv,hv
+2024-08-29T04:27:17.085Z,61.1495,-151.7907,29.6,0.9,ml,,,,1.26,ak,ak024b4aljks,2024-08-29T04:28:58.670Z,"36 km WNW of Tyonek, Alaska",earthquake,,0.9,,,automatic,ak,ak
