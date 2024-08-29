@@ -15643,3 +15643,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-29T12:31:08.402Z,60.2301,-152.9264,114.3,1.6,ml,,,,0.27,ak,ak024b4fdulj,2024-08-29T12:32:44.584Z,"72 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-08-29T12:30:53.686Z,60.1832,-153.3011,19.2,1.5,ml,,,,1.51,ak,ak024b4fdqhm,2024-08-29T12:32:39.311Z,"56 km E of Port Alsworth, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-29T06:59:02.379Z,35.01033333,-97.76933333,6.81,1.06,ml,67.0,43.0,0.09538128294,0.32,ok,ok2024qywb,2024-08-29T12:57:33.374Z,"10 km N of Alex, Oklahoma",earthquake,,0.7,0.2,31.0,reviewed,ok,ok
+2024-08-29T13:20:32.538Z,37.7231,-117.1433,0.0,1.1,ml,17.0,172.07000000000005,0.433,0.3556,nn,nn00883371,2024-08-29T13:23:03.062Z,"8 km E of Goldfield, Nevada",earthquake,,33.5,0.18,8.0,automatic,nn,nn
+2024-08-29T13:19:18.618Z,37.72,-117.1443,0.0,1.2,ml,17.0,171.76,0.43,0.2746,nn,nn00883370,2024-08-29T13:21:52.690Z,"8 km E of Goldfield, Nevada",earthquake,,33.3,0.17,9.0,automatic,nn,nn
+2024-08-29T13:11:41.539Z,64.6423,-146.8975,0.0,1.7,ml,,,,0.79,ak,ak024b4fv2g9,2024-08-29T13:13:40.304Z,"7 km ESE of Eielson Air Force Base, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-29T13:09:23.807Z,61.7924,-150.2989,30.5,1.2,ml,,,,0.83,ak,ak024b4fulng,2024-08-29T13:11:09.492Z,"14 km WNW of Willow, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-08-29T13:08:12.900Z,19.2560005187988,-155.374328613281,30.2000007629395,2.00999999,md,33.0,149.0,0.0286,0.129999995,hv,hv74429872,2024-08-29T13:10:17.550Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.5,0.600000024,0.289999992,5.0,automatic,hv,hv
+2024-08-29T13:07:16.330Z,19.0638332366943,-155.389831542969,34.0,2.1500001,md,44.0,207.0,0.1139,0.170000002,hv,hv74429862,2024-08-29T13:09:59.120Z,"18 km SSE of Pāhala, Hawaii",earthquake,0.63,0.910000026,0.280000001,4.0,automatic,hv,hv
+2024-08-29T12:55:39.279Z,37.7799,-117.1756,0.0,1.2,ml,18.0,178.88,0.484,0.4075,nn,nn00883368,2024-08-29T12:58:22.449Z,"9 km NE of Goldfield, Nevada",earthquake,,35.3,0.3,10.0,automatic,nn,nn
+2024-08-29T12:52:25.740Z,31.583,-104.559,3.2338,1.5,ml,6.0,166.0,0.1,0.2,tx,tx2024qzhu,2024-08-29T13:18:52.067Z,"65 km NNE of Van Horn, Texas",earthquake,0.0,2.7014467716217,0.1,6.0,automatic,tx,tx
+2024-08-29T00:41:36.354Z,39.3257,-99.7871,4.902,2.5,mb_lg,26.0,51.0,0.512,0.31,us,us6000nnee,2024-08-29T13:17:59.783Z,"6 km SE of Hill City, Kansas",earthquake,4.32,8.068,0.059,76.0,reviewed,us,us
