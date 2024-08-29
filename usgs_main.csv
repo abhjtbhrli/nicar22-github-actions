@@ -15560,3 +15560,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-29T07:28:15.663Z,37.5238,-117.0523,4.3,0.9,ml,11.0,171.82000000000002,0.462,0.2664,nn,nn00883298,2024-08-29T07:30:47.965Z,"26 km SE of Goldfield, Nevada",earthquake,,4.2,0.27,6.0,automatic,nn,nn
 2024-08-29T07:23:50.927Z,37.6306,-116.963,2.1,1.1,ml,18.0,150.44,0.523,0.3402,nn,nn00883295,2024-08-29T07:26:19.487Z,"25 km ESE of Goldfield, Nevada",earthquake,,7.3,0.15,13.0,automatic,nn,nn
 2024-08-29T07:23:28.030Z,33.9768333,-116.8458333,8.44,0.25,ml,25.0,65.0,0.0662,0.12,ci,ci40718511,2024-08-29T07:29:45.290Z,"6 km NNE of Banning, CA",earthquake,0.21,0.55,0.085,4.0,automatic,ci,ci
+2024-08-29T07:35:07.354Z,37.5873,-116.9645,0.8,0.7,ml,10.0,169.54000000000002,0.483,0.3542,nn,nn00883303,2024-08-29T07:37:27.720Z,"27 km ESE of Goldfield, Nevada",earthquake,,46.8,0.17,7.0,automatic,nn,nn
