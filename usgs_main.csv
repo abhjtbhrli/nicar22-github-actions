@@ -15758,3 +15758,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-29T18:49:02.303Z,68.733,-145.8025,7.9,1.9,ml,,,,0.84,ak,ak024b4j2bgk,2024-08-29T18:51:55.986Z,"68 km N of Arctic Village, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2024-08-29T00:41:56.700Z,56.1845,-159.431333333333,3.22,0.13,ml,6.0,105.0,0.03381,0.33,av,av93244401,2024-08-29T18:53:29.690Z,"31 km N of Ivanof Bay, Alaska",earthquake,0.79,1.97,0.243912694415046,6.0,reviewed,av,av
 2024-08-29T19:07:05.570Z,34.6331667,-117.1175,-1.09,1.63,ml,31.0,52.0,0.1893,0.18,ci,ci40719127,2024-08-29T19:20:12.387Z,"16 km NNE of Apple Valley, CA",earthquake,0.25,1.06,0.144,29.0,automatic,ci,ci
+2024-08-29T19:23:43.130Z,61.9504,-148.6007,39.9,0.4,ml,,,,1.0,ak,ak024b4ji8zx,2024-08-29T19:25:39.133Z,"18 km NNW of Chickaloon, Alaska",earthquake,,0.5,,,automatic,ak,ak
