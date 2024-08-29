@@ -15638,3 +15638,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-29T11:57:58.060Z,35.8001667,-117.6231667,8.29,1.7,ml,30.0,68.0,0.1155,0.15,ci,ci40718671,2024-08-29T12:04:35.891Z,"20 km W of Searles Valley, CA",earthquake,0.17,0.59,0.126,25.0,automatic,ci,ci
 2024-08-29T11:54:30.910Z,19.3899993896484,-155.247833251953,1.41999995708466,1.84,ml,17.0,60.0,0.005542,0.159999996,hv,hv74429737,2024-08-29T11:57:22.700Z,"6 km SSW of Volcano, Hawaii",earthquake,0.21,0.239999995,0.35,4.0,automatic,hv,hv
 2024-08-29T07:43:56.358Z,12.9756,-89.5833,47.13,4.4,mb,64.0,183.0,0.687,1.01,us,us6000nnfz,2024-08-29T11:55:44.040Z,"63 km SSW of La Libertad, El Salvador",earthquake,3.39,9.43,0.069,60.0,reviewed,us,us
+2024-08-29T12:53:33.868Z,64.6408,-146.9605,1.7,1.6,ml,,,,0.81,ak,ak024b4fimbu,2024-08-29T12:55:40.093Z,"5 km ESE of Eielson Air Force Base, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-29T12:40:51.536Z,37.7426,-117.1333,4.0,1.1,ml,14.0,177.03999999999996,0.454,0.2344,nn,nn00883367,2024-08-29T12:43:31.375Z,"9 km ENE of Goldfield, Nevada",earthquake,,5.4,0.16,9.0,automatic,nn,nn
+2024-08-29T12:31:08.402Z,60.2301,-152.9264,114.3,1.6,ml,,,,0.27,ak,ak024b4fdulj,2024-08-29T12:32:44.584Z,"72 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-08-29T12:30:53.686Z,60.1832,-153.3011,19.2,1.5,ml,,,,1.51,ak,ak024b4fdqhm,2024-08-29T12:32:39.311Z,"56 km E of Port Alsworth, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-29T06:59:02.379Z,35.01033333,-97.76933333,6.81,1.06,ml,67.0,43.0,0.09538128294,0.32,ok,ok2024qywb,2024-08-29T12:57:33.374Z,"10 km N of Alex, Oklahoma",earthquake,,0.7,0.2,31.0,reviewed,ok,ok
