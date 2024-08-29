@@ -15779,3 +15779,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-29T21:00:23.370Z,32.7658333,-116.888,3.07,1.57,ml,12.0,138.0,0.05487,0.12,ci,ci40719247,2024-08-29T21:07:07.006Z,"5 km ENE of Rancho San Diego, CA",earthquake,0.47,0.77,0.207,32.0,automatic,ci,ci
 2024-08-29T20:59:06.902Z,35.01154327,-97.76911926,1.485545039,2.46,ml,54.0,35.11791992,0.09679545462,0.8095697768,ok,ok2024qzxu,2024-08-29T21:09:22.788Z,"10 km N of Alex, Oklahoma",earthquake,1.67164071,1.245588686,0.27,34.0,automatic,ok,ok
 2024-08-29T20:03:42.273Z,26.0124,142.6025,10.0,4.8,mb,59.0,132.0,1.142,0.61,us,us6000nnjl,2024-08-29T20:59:12.040Z,"Bonin Islands, Japan region",earthquake,11.4,1.907,0.057,94.0,reviewed,us,us
+2024-08-29T21:20:44.618Z,37.7341,-117.1407,7.0,0.9,ml,8.0,175.39000000000004,0.564,0.0934,nn,nn00883420,2024-08-29T21:23:07.258Z,"8 km ENE of Goldfield, Nevada",earthquake,,0.0,0.2,7.0,automatic,nn,nn
