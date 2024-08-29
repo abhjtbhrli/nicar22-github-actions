@@ -15666,3 +15666,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-29T13:51:38.979Z,37.7399,-117.1417,0.0,1.0,ml,15.0,176.06,0.45,0.2499,nn,nn00883376,2024-08-29T13:54:02.398Z,"8 km ENE of Goldfield, Nevada",earthquake,,47.9,0.21,7.0,automatic,nn,nn
 2024-08-29T12:43:11.690Z,44.4483333333333,-110.961833333333,7.67,1.04,ml,17.0,111.0,0.09029,0.19,uu,uu80080566,2024-08-29T13:55:01.050Z,"26 km SSE of West Yellowstone, Montana",earthquake,0.53,0.84,0.27712026809835,3.0,reviewed,uu,uu
 2024-08-28T16:52:24.702Z,31.676,-104.378,6.0999,1.6,ml,20.0,86.0,0.1,0.1,tx,tx2024qxue,2024-08-29T14:06:34.368Z,"55 km S of Whites City, New Mexico",earthquake,0.6422964991273346,0.7449851742006474,0.1,6.0,reviewed,tx,tx
+2024-08-28T20:08:25.618Z,32.359,-101.208,7.5928,1.4,ml,12.0,89.0,0.2,0.1,tx,tx2024qyaq,2024-08-29T14:17:54.441Z,"11 km NE of Coahoma, Texas",earthquake,0.988986478332582,2.8091047776344134,0.1,17.0,reviewed,tx,tx
