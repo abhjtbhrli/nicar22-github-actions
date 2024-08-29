@@ -15654,3 +15654,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-29T00:41:36.354Z,39.3257,-99.7871,4.902,2.5,mb_lg,26.0,51.0,0.512,0.31,us,us6000nnee,2024-08-29T13:17:59.783Z,"6 km SE of Hill City, Kansas",earthquake,4.32,8.068,0.059,76.0,reviewed,us,us
 2024-08-29T12:04:06.748Z,43.0368,-110.9473,4.5,2.7,ml,48.0,65.0,0.294,0.48,us,us6000nnh8,2024-08-29T13:34:48.040Z,"5 km E of Etna, Wyoming",earthquake,1.02,4.351,0.041,78.0,reviewed,us,us
 2024-08-28T15:44:26.970Z,31.656,-104.291,6.0999,1.9,ml,40.0,67.0,0.1,0.1,tx,tx2024qxrx,2024-08-29T13:25:18.139Z,"58 km S of Whites City, New Mexico",earthquake,0.5050321946592518,0.8638048622499098,0.2,40.0,reviewed,tx,tx
+2024-08-29T13:41:16.829Z,35.88591385,-98.03087616,4.333992004,2.16,ml,40.0,43.15853882,0.07656737417,0.3161937811,ok,ok2024qzji,2024-08-29T13:48:32.359Z,"9 km WNW of Kingfisher, Oklahoma",earthquake,1.915755236,1.731945176,0.22,13.0,automatic,ok,ok
+2024-08-29T13:37:24.495Z,63.0,-150.4714,99.7,1.4,ml,,,,0.17,ak,ak024b4g0lr5,2024-08-29T13:39:07.087Z,"58 km NNE of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-08-29T13:33:37.610Z,37.7347,-117.0541,1.2,1.3,ml,12.0,284.67,0.464,0.2954,nn,nn00883373,2024-08-29T13:36:12.070Z,"16 km E of Goldfield, Nevada",earthquake,,26.1,0.31,6.0,automatic,nn,nn
+2024-08-28T16:20:14.310Z,32.758,-100.645,7.7148,2.1,ml,15.0,80.0,0.1,0.1,tx,tx2024qxtd,2024-08-29T13:38:51.206Z,"17 km NE of Hermleigh, Texas",earthquake,0.8325698297384121,1.5100272042213507,0.1,30.0,reviewed,tx,tx
