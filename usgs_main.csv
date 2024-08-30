@@ -15909,3 +15909,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-30T08:00:17.493Z,59.4473,-151.8234,49.1,1.5,ml,,,,0.78,ak,ak024b60cu6t,2024-08-30T08:03:12.288Z,"6 km W of Seldovia, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-08-30T07:55:49.320Z,33.2653333,-116.4228333,5.34,0.79,ml,54.0,39.0,0.005547,0.21,ci,ci40719703,2024-08-30T08:02:12.145Z,"5 km WNW of Borrego Springs, CA",earthquake,0.16,0.43,0.124,19.0,automatic,ci,ci
 2024-08-30T07:50:46.900Z,35.9478333,-117.7505,8.03,0.58,ml,20.0,68.0,0.07814,0.12,ci,ci40719695,2024-08-30T07:56:36.668Z,"14 km E of Little Lake, CA",earthquake,0.16,0.48,0.068,6.0,automatic,ci,ci
+2024-08-30T08:29:04.940Z,35.1031685,-119.0889969,10.88,1.48,ml,21.0,91.0,0.04467,0.16,ci,ci40719719,2024-08-30T08:31:22.041Z,"23 km NW of Grapevine, CA",earthquake,0.55,0.42,0.296,4.0,automatic,ci,ci
