@@ -15950,3 +15950,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-30T12:33:06.132Z,62.2419,-149.8414,0.0,2.4,ml,,,,0.77,ak,ak024b62xmdl,2024-08-30T12:35:18.543Z,"8 km N of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-30T12:23:33.221Z,37.748,-117.1386,13.9,0.7,ml,8.0,177.34999999999997,0.557,0.1858,nn,nn00883476,2024-08-30T12:26:32.778Z,"9 km ENE of Goldfield, Nevada",earthquake,,1.8,0.88,5.0,automatic,nn,nn
 2024-08-30T10:22:51.693Z,31.666,-104.188,6.1255,1.6,ml,28.0,58.0,0.1,0.2,tx,tx2024rayh,2024-08-30T12:45:28.397Z,"54 km NW of Toyah, Texas",earthquake,0.659169539340389,1.036293546799047,0.3,22.0,reviewed,tx,tx
+2024-08-30T12:59:11.650Z,33.8183333,-116.9588333,16.81,0.53,ml,16.0,244.0,0.1341,0.17,ci,ci40719783,2024-08-30T13:15:03.698Z,"4 km N of San Jacinto, CA",earthquake,2.19,1.84,0.261,8.0,automatic,ci,ci
