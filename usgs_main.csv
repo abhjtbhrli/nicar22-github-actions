@@ -15968,3 +15968,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-30T10:08:05.741Z,13.0244,-89.5857,38.008,4.1,mb,32.0,169.0,0.64,0.59,us,us6000nnn5,2024-08-30T14:44:10.040Z,"58 km SSW of La Libertad, El Salvador",earthquake,4.9,12.711,0.127,17.0,reviewed,us,us
 2024-08-30T07:40:50.130Z,45.483001708984375,-121.8461685180664,39.2400016784668,1.5938353538513184,ml,7.0,247.0,0.1265,0.439999998,uw,uw62042191,2024-08-30T14:48:01.120Z,"17 km NE of Mount Hood Village, Oregon",earthquake,16.24,27.1700001,0.4775243401527405,9.0,reviewed,uw,uw
 2024-08-29T18:39:00.598Z,32.143,-101.506,7.9346,1.1,ml,12.0,85.0,0.1,0.2,tx,tx2024qztf,2024-08-30T14:42:31.042Z,"12 km SSW of Big Spring, Texas",earthquake,1.766172129937565,2.631865065587924,0.1,8.0,reviewed,tx,tx
+2024-08-30T14:48:21.096Z,60.0738,-153.1552,124.8,1.6,ml,,,,0.37,ak,ak024b647qgt,2024-08-30T14:50:05.016Z,"62 km ENE of Pedro Bay, Alaska",earthquake,,1.2,,,automatic,ak,ak
