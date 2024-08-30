@@ -15961,3 +15961,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-30T14:03:40.961Z,11.7903,-87.0696,58.116,4.3,mb,26.0,147.0,0.879,0.87,us,us6000nnp7,2024-08-30T14:15:04.040Z,"60 km W of Masachapa, Nicaragua",earthquake,5.64,11.834,0.066,65.0,reviewed,us,us
 2024-08-30T14:03:18.640Z,17.9713333333333,-67.0001666666667,8.97,2.37,md,14.0,179.0,0.04198,0.1,pr,pr71458653,2024-08-30T14:18:30.640Z,"4 km E of La Parguera, Puerto Rico",earthquake,0.3,0.54,0.260326196855843,5.0,reviewed,pr,pr
 2024-08-29T19:11:55.698Z,31.599,-104.308,6.0999,1.6,ml,19.0,74.0,0.1,0.2,tx,tx2024qzuf,2024-08-30T14:16:29.821Z,"58 km WNW of Toyah, Texas",earthquake,0.878785990209284,1.6859765255644747,0.2,16.0,reviewed,tx,tx
+2024-08-30T14:29:36.805Z,62.2211,-149.8199,17.9,1.3,ml,,,,0.62,ak,ak024b643p2o,2024-08-30T14:31:42.373Z,"6 km NNE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-30T14:27:19.880Z,38.7713317871094,-122.735496520996,1.30999994277954,1.04,md,11.0,68.0,0.01193,0.03,nc,nc75055266,2024-08-30T14:28:57.754Z,"2 km ESE of The Geysers, CA",earthquake,0.29,0.5,0.2,9.0,automatic,nc,nc
