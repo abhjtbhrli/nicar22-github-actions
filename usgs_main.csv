@@ -15991,3 +15991,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-30T16:01:32.340Z,33.272,-116.4276667,4.24,0.58,ml,24.0,66.0,0.009583,0.12,ci,ci40719871,2024-08-30T16:07:30.731Z,"5 km WNW of Borrego Springs, CA",earthquake,0.16,0.27,0.121,11.0,automatic,ci,ci
 2024-08-30T04:41:58.780Z,41.896166666666666,-119.57333333333334,0.43,1.51,md,6.0,219.0,0.3662,0.37,uw,uw62042166,2024-08-30T16:10:01.520Z,"48 km E of Fort Bidwell, California",earthquake,2.35,4.53,0.1733161975928936,4.0,reviewed,uw,uw
 2024-08-29T22:26:11.210Z,36.2473333333333,-89.462,6.63,1.63,md,15.0,62.0,0.03773,0.07,nm,nm60590371,2024-08-30T16:13:42.810Z,"2 km SE of Ridgely, Tennessee",earthquake,0.37,0.7,0.0564393307521784,13.0,reviewed,nm,nm
+2024-08-30T16:12:43.611Z,19.3647,-155.2547,3.029,2.8,ml,20.0,80.0,0.016,0.28,us,us6000nnpu,2024-08-30T16:41:02.040Z,"8 km SSW of Volcano, Hawaii",earthquake,1.94,3.244,0.057,40.0,reviewed,us,us
