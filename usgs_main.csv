@@ -15905,3 +15905,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-30T07:35:34.746Z,60.4697,-150.3674,38.1,2.0,ml,,,,0.77,ak,ak024b5zyxwr,2024-08-30T07:37:08.092Z,"22 km E of Funny River, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-08-30T07:31:32.192Z,31.584,-104.326,4.1868,1.7,ml,15.0,84.0,0.1,0.2,tx,tx2024rasq,2024-08-30T07:46:14.062Z,"58 km WNW of Toyah, Texas",earthquake,0.0,1.76518738269806,0.2,13.0,automatic,tx,tx
 2024-08-30T07:26:59.980Z,33.166,-116.6333333,2.86,0.78,ml,23.0,253.0,0.2682,0.14,ci,ci40719687,2024-08-30T07:49:17.242Z,"10 km NNW of Julian, CA",earthquake,1.38,2.22,0.134,14.0,automatic,ci,ci
+2024-08-30T08:01:38.090Z,35.9435,-117.7511667,7.57,0.67,ml,17.0,65.0,0.0819,0.12,ci,ci40719711,2024-08-30T08:07:18.899Z,"14 km E of Little Lake, CA",earthquake,0.19,0.66,0.211,3.0,automatic,ci,ci
+2024-08-30T08:00:17.493Z,59.4473,-151.8234,49.1,1.5,ml,,,,0.78,ak,ak024b60cu6t,2024-08-30T08:03:12.288Z,"6 km W of Seldovia, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-08-30T07:55:49.320Z,33.2653333,-116.4228333,5.34,0.79,ml,54.0,39.0,0.005547,0.21,ci,ci40719703,2024-08-30T08:02:12.145Z,"5 km WNW of Borrego Springs, CA",earthquake,0.16,0.43,0.124,19.0,automatic,ci,ci
+2024-08-30T07:50:46.900Z,35.9478333,-117.7505,8.03,0.58,ml,20.0,68.0,0.07814,0.12,ci,ci40719695,2024-08-30T07:56:36.668Z,"14 km E of Little Lake, CA",earthquake,0.16,0.48,0.068,6.0,automatic,ci,ci
