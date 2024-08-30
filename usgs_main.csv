@@ -16027,3 +16027,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-30T18:31:57.269Z,31.214,-103.478,4.6775,1.7,ml,15.0,102.0,0.0,1.1,tx,tx2024rbok,2024-08-30T18:49:17.632Z,"18 km SSE of Lindsay, Texas",earthquake,0.0,1.16538691520691,0.1,13.0,automatic,tx,tx
 2024-08-30T15:57:19.220Z,43.62533333333333,-121.31416666666668,-1.71,0.3,ml,8.0,228.0,0.04764,0.35,uw,uw62042256,2024-08-30T18:53:24.640Z,"16 km ESE of La Pine, Oregon",explosion,2.06,31.61,0.1758715173814658,6.0,reviewed,uw,uw
 2024-08-30T02:54:08.870Z,61.314,-152.2595,0.78,0.23,ml,9.0,122.0,0.07011,0.1,av,av93244073,2024-08-30T18:53:56.360Z,"66 km WNW of Beluga, Alaska",earthquake,0.23,2.22,0.348171841978629,9.0,reviewed,av,av
+2024-08-30T19:00:38.150Z,33.8623352,-117.5035019,0.52,1.38,ml,46.0,53.0,0.04972,0.24,ci,ci40719999,2024-08-30T19:02:40.614Z,"2 km SE of Home Gardens, CA",earthquake,0.34,0.59,0.314,15.0,automatic,ci,ci
+2024-08-30T18:54:36.898Z,59.9077,-151.5489,63.9,1.4,ml,,,,0.17,ak,ak024b66mseh,2024-08-30T18:56:19.675Z,"11 km ESE of Happy Valley, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2024-08-30T18:53:02.298Z,37.5486,-117.1723,13.3,0.8,ml,8.0,183.08,0.54,0.1031,nn,nn00883520,2024-08-30T18:55:35.526Z,"18 km SSE of Goldfield, Nevada",earthquake,,16.6,0.24,5.0,automatic,nn,nn
+2024-08-30T16:41:00.760Z,47.4625,-121.86283333333331,16.92,1.01,md,12.0,156.0,0.03231,0.08,uw,uw62042271,2024-08-30T19:09:55.590Z,"6 km WSW of North Bend, Washington",earthquake,0.97,0.4,0.1315466987333455,7.0,reviewed,uw,uw
