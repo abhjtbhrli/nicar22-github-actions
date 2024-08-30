@@ -16031,3 +16031,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-30T18:54:36.898Z,59.9077,-151.5489,63.9,1.4,ml,,,,0.17,ak,ak024b66mseh,2024-08-30T18:56:19.675Z,"11 km ESE of Happy Valley, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2024-08-30T18:53:02.298Z,37.5486,-117.1723,13.3,0.8,ml,8.0,183.08,0.54,0.1031,nn,nn00883520,2024-08-30T18:55:35.526Z,"18 km SSE of Goldfield, Nevada",earthquake,,16.6,0.24,5.0,automatic,nn,nn
 2024-08-30T16:41:00.760Z,47.4625,-121.86283333333331,16.92,1.01,md,12.0,156.0,0.03231,0.08,uw,uw62042271,2024-08-30T19:09:55.590Z,"6 km WSW of North Bend, Washington",earthquake,0.97,0.4,0.1315466987333455,7.0,reviewed,uw,uw
+2024-08-30T19:16:29.750Z,35.0888329,-119.0686646,13.03,1.87,ml,43.0,53.0,0.03262,0.19,ci,ci40720007,2024-08-30T19:18:48.840Z,"20 km NW of Grapevine, CA",earthquake,0.3,0.64,0.285,27.0,automatic,ci,ci
+2024-08-30T19:12:36.034Z,60.5651,-147.9738,17.2,1.5,ml,,,,0.39,ak,ak024b66z7v7,2024-08-30T19:14:50.854Z,"45 km ESE of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-30T19:09:45.503Z,31.641,-104.083,5.207,2.3,ml,15.0,158.0,0.0,0.3,tx,tx2024rbpr,2024-08-30T19:18:39.811Z,"45 km NW of Toyah, Texas",earthquake,0.0,2.93044352531433,0.2,13.0,automatic,tx,tx
+2024-08-30T03:36:27.260Z,61.2998333333333,-152.3445,-2.0,-0.02,ml,9.0,118.0,0.04301,0.1,av,av93244123,2024-08-30T19:11:11.910Z,"69 km WNW of Tyonek, Alaska",earthquake,0.29,3.43,0.242727998301167,10.0,reviewed,av,av
