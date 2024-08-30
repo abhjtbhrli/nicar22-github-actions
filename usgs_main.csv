@@ -16056,3 +16056,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-30T20:05:12.435Z,31.609,-103.996,7.7642,2.1,ml,16.0,41.0,0.0,0.3,tx,tx2024rbrm,2024-08-30T20:25:33.246Z,"37 km NNW of Toyah, Texas",earthquake,0.0,2.24301075935364,0.2,12.0,automatic,tx,tx
 2024-08-30T20:33:19.322Z,35.36093521,-97.93357086,3.04081893,2.21,ml,34.0,56.79620361,0.03271150962,0.7953109055,ok,ok2024rbsk,2024-08-30T20:41:56.962Z,"3 km SSE of Union City, Oklahoma",earthquake,2.055782394,1.429578045,0.23,20.0,automatic,ok,ok
 2024-08-30T20:32:21.531Z,37.7343,-117.1297,5.3,2.4,ml,24.0,173.60999999999996,0.446,0.2144,nn,nn00883525,2024-08-30T20:35:01.457Z,"9 km ENE of Goldfield, Nevada",earthquake,,2.1,0.15,16.0,automatic,nn,nn
+2024-08-30T20:48:18.181Z,62.6982,-151.9022,9.7,1.5,ml,,,,0.46,ak,ak024b67sbve,2024-08-30T20:49:56.344Z,"62 km WNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-30T20:43:34.990Z,36.0363333,-117.7853333,1.54,1.59,ml,24.0,76.0,0.0197,0.21,ci,ci40720087,2024-08-30T20:49:47.773Z,"15 km E of Coso Junction, CA",earthquake,0.25,0.29,0.204,19.0,automatic,ci,ci
+2024-08-30T20:34:57.962Z,17.6585,-94.7287,134.606,4.9,mww,80.0,106.0,2.833,0.99,us,us6000nnrl,2024-08-30T20:52:28.040Z,"3 km NE of Venustiano Carranza (Peña Blanca), Mexico",earthquake,8.23,6.739,0.065,23.0,reviewed,us,us
+2024-08-30T10:30:07.310Z,61.264,-152.1775,30.88,-0.32,ml,7.0,147.0,0.01098,0.33,av,av93019744,2024-08-30T20:49:39.030Z,"60 km WNW of Tyonek, Alaska",earthquake,1.41,1.69,0.209762766794076,6.0,reviewed,av,av
