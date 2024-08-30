@@ -15876,3 +15876,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-30T04:29:11.760Z,36.1333351135254,-121.578002929688,3.48000001907349,1.14,md,9.0,202.0,0.06989,0.03,nc,nc75055176,2024-08-30T04:30:48.622Z,"13 km N of Lopez Point, CA",earthquake,0.6,0.899999976,0.17,8.0,automatic,nc,nc
 2024-08-30T04:26:57.436Z,62.1491,-150.6762,18.0,1.2,ml,,,,0.47,ak,ak024b5y4rgv,2024-08-30T04:28:49.515Z,"29 km SW of Trapper Creek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-29T22:05:03.143Z,37.5463,72.3109,192.656,4.1,mb,29.0,81.0,1.97,0.65,us,us6000nnkc,2024-08-30T04:18:59.040Z,"66 km N of Khandūd, Afghanistan",earthquake,7.46,8.457,0.214,6.0,reviewed,us,us
+2024-08-30T04:24:23.183Z,52.9702,160.3687,27.858,6.0,mww,113.0,60.0,1.04,1.17,us,us6000nnlx,2024-08-30T04:50:44.663Z,"117 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,7.96,3.465,0.047,44.0,reviewed,us,us
