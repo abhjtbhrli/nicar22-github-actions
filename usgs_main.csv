@@ -15911,3 +15911,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-30T07:50:46.900Z,35.9478333,-117.7505,8.03,0.58,ml,20.0,68.0,0.07814,0.12,ci,ci40719695,2024-08-30T07:56:36.668Z,"14 km E of Little Lake, CA",earthquake,0.16,0.48,0.068,6.0,automatic,ci,ci
 2024-08-30T08:29:04.940Z,35.1031685,-119.0889969,10.88,1.48,ml,21.0,91.0,0.04467,0.16,ci,ci40719719,2024-08-30T08:31:22.041Z,"23 km NW of Grapevine, CA",earthquake,0.55,0.42,0.296,4.0,automatic,ci,ci
 2024-08-30T08:45:37.261Z,37.725,-117.1459,12.0,0.8,ml,9.0,173.81,0.566,0.1575,nn,nn00883467,2024-08-30T08:48:11.634Z,"8 km ENE of Goldfield, Nevada",earthquake,,0.0,0.31,5.0,automatic,nn,nn
+2024-08-30T08:53:40.957Z,37.7271,-117.1594,1.4,1.1,ml,15.0,153.63,0.557,0.2247,nn,nn00883468,2024-08-30T08:56:03.443Z,"7 km ENE of Goldfield, Nevada",earthquake,,5.4,0.19,8.0,automatic,nn,nn
+2024-08-30T08:52:33.164Z,61.7007,-151.7571,96.0,1.4,ml,,,,0.42,ak,ak024b60o0ms,2024-08-30T08:54:49.380Z,"37 km SSW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
