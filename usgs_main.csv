@@ -15877,3 +15877,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-30T04:26:57.436Z,62.1491,-150.6762,18.0,1.2,ml,,,,0.47,ak,ak024b5y4rgv,2024-08-30T04:28:49.515Z,"29 km SW of Trapper Creek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-29T22:05:03.143Z,37.5463,72.3109,192.656,4.1,mb,29.0,81.0,1.97,0.65,us,us6000nnkc,2024-08-30T04:18:59.040Z,"66 km N of Khandūd, Afghanistan",earthquake,7.46,8.457,0.214,6.0,reviewed,us,us
 2024-08-30T04:24:23.183Z,52.9702,160.3687,27.858,6.0,mww,113.0,60.0,1.04,1.17,us,us6000nnlx,2024-08-30T04:50:44.663Z,"117 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,7.96,3.465,0.047,44.0,reviewed,us,us
+2024-08-30T05:13:06.360Z,33.354,-116.2675,11.21,0.87,ml,48.0,58.0,0.03621,0.19,ci,ci40719647,2024-08-30T05:25:29.431Z,"15 km NE of Borrego Springs, CA",earthquake,0.2,0.32,0.182,21.0,automatic,ci,ci
