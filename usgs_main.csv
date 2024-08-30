@@ -16035,3 +16035,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-30T19:12:36.034Z,60.5651,-147.9738,17.2,1.5,ml,,,,0.39,ak,ak024b66z7v7,2024-08-30T19:14:50.854Z,"45 km ESE of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-30T19:09:45.503Z,31.641,-104.083,5.207,2.3,ml,15.0,158.0,0.0,0.3,tx,tx2024rbpr,2024-08-30T19:18:39.811Z,"45 km NW of Toyah, Texas",earthquake,0.0,2.93044352531433,0.2,13.0,automatic,tx,tx
 2024-08-30T03:36:27.260Z,61.2998333333333,-152.3445,-2.0,-0.02,ml,9.0,118.0,0.04301,0.1,av,av93244123,2024-08-30T19:11:11.910Z,"69 km WNW of Tyonek, Alaska",earthquake,0.29,3.43,0.242727998301167,10.0,reviewed,av,av
+2024-08-30T19:22:58.840Z,19.2089996337891,-155.635330200195,8.5,1.78999996,md,25.0,80.0,0.0416,0.25,hv,hv74432467,2024-08-30T19:25:03.820Z,"15 km N of Wai‘ōhinu, Hawaii",earthquake,0.57,1.11000001,,4.0,automatic,hv,hv
+2024-08-30T04:31:27.950Z,58.1678333333333,-155.355,2.35,0.21,ml,7.0,118.0,0.08066,0.12,av,av93019739,2024-08-30T19:21:44.710Z,"85 km NW of Karluk, Alaska",earthquake,0.28,0.62,0.186331511786161,7.0,reviewed,av,av
