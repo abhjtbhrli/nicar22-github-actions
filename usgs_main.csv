@@ -15917,3 +15917,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-30T09:05:37.310Z,17.9976666666667,-66.996,7.66,2.34,md,4.0,163.0,0.05381,0.08,pr,pr71458638,2024-08-30T09:28:27.870Z,"5 km ENE of La Parguera, Puerto Rico",earthquake,1.8,0.96,0.0203161333066917,3.0,reviewed,pr,pr
 2024-08-30T09:31:22.512Z,62.2444,-151.0631,69.7,1.3,ml,,,,0.44,ak,ak024b614xdn,2024-08-30T09:33:36.125Z,"32 km SSW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-08-30T09:50:36.500Z,37.5877,-116.9398,6.9,0.3,ml,8.0,171.25000000000006,0.476,0.2552,nn,nn00883475,2024-08-30T09:53:31.961Z,"29 km ESE of Goldfield, Nevada",earthquake,,0.0,0.39,5.0,automatic,nn,nn
+2024-08-30T10:13:27.730Z,19.394832611084,-155.248672485352,1.21000003814697,1.86,ml,27.0,51.0,0.009602,0.209999993,hv,hv74431367,2024-08-30T10:16:21.590Z,"5 km SSW of Volcano, Hawaii",earthquake,0.18,0.180000007,0.33,14.0,automatic,hv,hv
+2024-08-30T09:32:19.040Z,52.6057,-33.2661,10.0,5.6,mww,69.0,103.0,10.829,0.46,us,us6000nnn3,2024-08-30T10:04:35.152Z,Reykjanes Ridge,earthquake,8.78,1.915,0.066,22.0,reviewed,us,us
