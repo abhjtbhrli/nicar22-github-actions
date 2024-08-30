@@ -15933,3 +15933,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-30T11:42:25.540Z,19.1556663513184,-155.438659667969,38.310001373291,2.38000011,md,30.0,212.0,0.02217,0.209999993,hv,hv74431567,2024-08-30T11:43:55.720Z,"6 km SE of Pāhala, Hawaii",earthquake,1.01,1.44000006,0.189999998,4.0,automatic,hv,hv
 2024-08-30T11:39:48.729Z,61.2647,-146.869,19.8,0.9,ml,,,,0.3,ak,ak024b62dkc8,2024-08-30T11:41:11.586Z,"31 km WNW of Valdez, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-08-30T10:53:25.899Z,25.9643,142.5726,10.0,4.9,mb,67.0,125.0,1.179,0.57,us,us6000nnng,2024-08-30T11:38:55.040Z,"Volcano Islands, Japan region",earthquake,10.83,1.894,0.061,85.0,reviewed,us,us
+2024-08-30T11:52:40.810Z,35.0806656,-119.0698318,13.08,1.48,ml,20.0,54.0,0.02482,0.16,ci,ci40719751,2024-08-30T11:54:47.198Z,"20 km NW of Grapevine, CA",earthquake,0.42,0.78,0.3,4.0,automatic,ci,ci
