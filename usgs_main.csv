@@ -16245,3 +16245,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-31T15:51:08.590Z,35.47626877,-98.03683472,3.10134244,2.58,ml,29.0,81.20776367,0.05221642926,0.7348140385,ok,ok2024rdep,2024-08-31T15:58:29.723Z,"9 km SW of El Reno, Oklahoma",earthquake,2.731888459,1.840938283,0.25,11.0,automatic,ok,ok
 2024-08-31T15:43:01.440Z,34.2833328,-117.0199966,8.59,1.04,ml,26.0,104.0,0.02905,0.22,ci,ci40720775,2024-08-31T15:45:06.861Z,"11 km WNW of Big Bear Lake, CA",earthquake,0.38,0.64,0.133,3.0,automatic,ci,ci
 2024-08-31T15:15:56.284Z,31.671,-104.394,4.7864,2.0,ml,16.0,69.0,0.0,0.2,tx,tx2024rddm,2024-08-31T15:47:16.407Z,"55 km S of Whites City, New Mexico",earthquake,0.0,1.36558926105499,0.2,12.0,automatic,tx,tx
+2024-08-31T15:57:17.547Z,62.3243,-151.2399,78.2,1.6,ml,,,,0.44,ak,ak024b7sefqi,2024-08-31T16:00:09.284Z,"31 km SW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-08-31T15:56:10.228Z,66.1462,-147.8202,0.0,1.6,ml,,,,0.88,ak,ak024b7se7ge,2024-08-31T15:58:14.406Z,"30 km SW of Beaver, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-31T15:48:23.540Z,33.2553333,-116.0913333,8.83,0.44,ml,24.0,57.0,0.09176,0.16,ci,ci40720783,2024-08-31T16:01:47.236Z,"13 km NNE of Ocotillo Wells, CA",earthquake,0.22,0.92,0.129,4.0,automatic,ci,ci
