@@ -16190,3 +16190,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-31T09:41:03.380Z,33.9988333,-117.1488333,12.26,0.49,ml,34.0,65.0,0.04744,0.17,ci,ci40720519,2024-08-31T09:47:32.643Z,"7 km SSE of Redlands, CA",earthquake,0.23,1.05,0.15,8.0,automatic,ci,ci
 2024-08-31T09:36:28.435Z,61.4573,-147.4437,35.2,1.7,ml,,,,0.25,ak,ak024b7opbj0,2024-08-31T09:49:21.999Z,"40 km SSE of Glacier View, Alaska",earthquake,,18.7,,,automatic,ak,ak
 2024-08-31T09:50:06.430Z,33.6818333,-116.7876667,14.15,0.53,ml,32.0,72.0,0.0679,0.12,ci,ci40720535,2024-08-31T09:56:09.937Z,"9 km SW of Idyllwild, CA",earthquake,0.17,0.27,0.209,11.0,automatic,ci,ci
+2024-08-31T10:03:43.060Z,31.608,-103.994,5.9808,1.6,ml,13.0,56.0,0.0,0.2,tx,tx2024rcte,2024-08-31T10:16:02.394Z,"37 km NNW of Toyah, Texas",earthquake,0.0,3.38772130012512,0.1,11.0,automatic,tx,tx
+2024-08-31T10:01:03.854Z,31.608,-103.99,6.8262,3.5,ml,15.0,57.0,0.0,0.2,tx,tx2024rctc,2024-08-31T10:15:57.392Z,"37 km NNW of Toyah, Texas",earthquake,0.0,2.19997525215149,0.3,13.0,automatic,tx,tx
+2024-08-31T09:57:16.630Z,33.9311667,-116.7733333,10.05,0.42,ml,25.0,70.0,0.09936,0.1,ci,ci40720543,2024-08-31T10:03:07.009Z,"2 km NE of Cabazon, CA",earthquake,0.17,0.38,0.111,11.0,automatic,ci,ci
+2024-08-31T09:52:36.793Z,31.677,-104.37,3.9405,2.3,ml,17.0,68.0,0.1,0.4,tx,tx2024rcsv,2024-08-31T10:13:36.377Z,"55 km S of Whites City, New Mexico",earthquake,0.0,1.3015673160553,0.1,13.0,automatic,tx,tx
