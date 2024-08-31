@@ -16311,3 +16311,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-31T22:44:47.480Z,38.8408317565918,-122.810165405273,1.36000001430511,0.72,md,13.0,63.0,0.01567,0.02,nc,nc75055856,2024-08-31T22:46:25.960Z,"8 km WNW of Cobb, CA",earthquake,0.27,0.550000012,0.12,14.0,automatic,nc,nc
 2024-08-31T22:43:08.860Z,34.3793333,-119.9286667,13.01,1.22,ml,13.0,231.0,0.07862,0.21,ci,ci40721063,2024-08-31T22:49:22.215Z,"7 km WSW of Isla Vista, CA",earthquake,1.29,0.97,0.235,11.0,automatic,ci,ci
 2024-08-31T22:18:39.140Z,31.667,-104.48,8.283,1.9,ml,6.0,110.0,0.0,0.2,tx,tx2024rdrl,2024-08-31T22:50:29.932Z,"57 km S of Whites City, New Mexico",earthquake,0.0,3.40299439430237,0.2,6.0,automatic,tx,tx
+2024-08-31T23:15:35.925Z,64.9439,-147.2936,0.1,1.6,ml,,,,0.88,ak,ak024b7wwxx4,2024-08-31T23:17:34.112Z,"14 km WNW of Two Rivers, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-31T21:00:53.980Z,51.785,-178.8275,9.53,0.11,ml,5.0,133.0,0.0195,0.05,av,av93246408,2024-08-31T23:11:15.620Z,"151 km W of Adak, Alaska",earthquake,0.74,0.43,0.284391796575614,5.0,reviewed,av,av
