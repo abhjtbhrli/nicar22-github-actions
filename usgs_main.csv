@@ -16131,3 +16131,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-31T02:41:47.297Z,26.0092,142.5388,10.0,4.7,mb,32.0,157.0,1.128,0.63,us,us6000nntf,2024-08-31T03:06:31.040Z,"Bonin Islands, Japan region",earthquake,12.93,1.93,0.106,27.0,reviewed,us,us
 2024-08-31T02:40:48.110Z,17.5963,-61.0117,27.306,4.3,mb,28.0,220.0,1.205,1.06,us,us6000nntc,2024-08-31T02:57:23.040Z,"86 km E of Codrington, Antigua and Barbuda",earthquake,5.56,9.37,0.111,23.0,reviewed,us,us
 2024-08-31T03:18:04.520Z,33.8255,-116.9805,12.66,1.27,ml,67.0,24.0,0.02036,0.17,ci,ci40720375,2024-08-31T03:28:32.600Z,"5 km NNW of San Jacinto, CA",earthquake,0.13,0.45,0.228,27.0,automatic,ci,ci
+2024-08-31T03:10:05.400Z,6.6899,-73.0451,159.96,4.4,mb,70.0,59.0,0.793,0.8,us,us6000nnti,2024-08-31T03:31:04.040Z,"2 km W of Aratoca, Colombia",earthquake,9.15,7.423,0.036,224.0,reviewed,us,us
