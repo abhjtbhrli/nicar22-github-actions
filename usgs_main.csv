@@ -16178,3 +16178,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-31T08:03:06.079Z,31.669,-104.37,3.7927,1.8,ml,15.0,86.0,0.1,0.3,tx,tx2024rcpe,2024-08-31T08:31:54.732Z,"56 km S of Whites City, New Mexico",earthquake,0.0,1.4572913646698,0.2,12.0,automatic,tx,tx
 2024-08-31T07:56:25.288Z,31.663,-104.37,4.006,3.2,ml,17.0,70.0,0.1,0.3,tx,tx2024rcoz,2024-08-31T08:38:59.922Z,"56 km S of Whites City, New Mexico",earthquake,0.0,1.33399379253387,0.1,13.0,automatic,tx,tx
 2024-08-31T08:45:57.520Z,38.7921676635742,-122.77799987793,1.57000005245209,1.34,md,22.0,79.0,0.007816,0.03,nc,nc75055571,2024-08-31T08:47:34.548Z,"2 km NW of The Geysers, CA",earthquake,0.21,0.409999996,0.14,22.0,automatic,nc,nc
+2024-08-31T09:03:12.220Z,33.9436667,-116.9668333,3.13,0.64,ml,40.0,46.0,0.02499,0.17,ci,ci40720511,2024-08-31T09:09:15.566Z,"2 km NNE of Beaumont, CA",earthquake,0.18,0.38,0.156,16.0,automatic,ci,ci
+2024-08-31T08:53:51.018Z,-3.5015,139.6484,70.482,4.9,mb,56.0,48.0,7.41,0.87,us,us6000nnut,2024-08-31T09:14:55.040Z,"148 km SW of Abepura, Indonesia",earthquake,4.6,6.384,0.069,75.0,reviewed,us,us
+2024-08-31T08:32:29.029Z,31.663,-104.373,4.5219,1.8,ml,16.0,70.0,0.1,0.2,tx,tx2024rcqi,2024-08-31T09:06:02.939Z,"56 km S of Whites City, New Mexico",earthquake,0.0,1.3568818569183303,0.1,12.0,automatic,tx,tx
+2024-08-31T08:24:11.975Z,31.663,-104.372,4.6557,1.6,ml,16.0,70.0,0.1,0.1,tx,tx2024rcqa,2024-08-31T09:05:54.934Z,"56 km S of Whites City, New Mexico",earthquake,0.0,1.33137595653534,0.2,13.0,automatic,tx,tx
