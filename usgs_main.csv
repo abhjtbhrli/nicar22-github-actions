@@ -16266,3 +16266,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-31T17:49:51.660Z,32.8320007,-115.4810028,5.33,1.36,ml,16.0,74.0,0.03922,0.26,ci,ci40720839,2024-08-31T17:51:57.100Z,"8 km ESE of Imperial, CA",earthquake,0.72,0.82,0.253,11.0,automatic,ci,ci
 2024-08-31T18:17:03.670Z,64.8106,-148.9545,26.2,0.9,ml,,,,0.76,ak,ak024b7ty4u7,2024-08-31T18:18:46.934Z,"24 km NNE of Four Mile Road, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-08-31T18:01:39.860Z,40.371166229248,-124.470497131348,24.0499992370605,1.7,md,8.0,310.0,0.1136,0.11,nc,nc75055761,2024-08-31T18:14:25.676Z,"17 km WNW of Petrolia, CA",earthquake,8.19,3.92000008,0.11,6.0,automatic,nc,nc
+2024-08-31T18:31:50.700Z,33.2478333,-116.0406647,4.6,1.03,ml,20.0,79.0,0.05608,0.16,ci,ci40720879,2024-08-31T18:33:57.083Z,"10 km SW of Salton City, CA",earthquake,0.27,0.71,0.217,3.0,automatic,ci,ci
+2024-08-31T18:30:58.240Z,19.1975002288818,-155.479827880859,31.3500003814697,1.86000001,md,39.0,88.0,0.04509,0.180000007,hv,hv74433932,2024-08-31T18:32:50.970Z,"0 km SSW of Pāhala, Hawaii",earthquake,0.59,0.779999971,0.0700000003,6.0,automatic,hv,hv
+2024-08-31T18:28:20.006Z,63.2598,-151.578,0.0,1.7,ml,,,,0.68,ak,ak024b7u0iz4,2024-08-31T18:30:24.387Z,"32 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-31T18:02:10.639Z,42.7503,-109.0215,10.143,2.7,ml,33.0,96.0,0.395,0.42,us,us6000nnwn,2024-08-31T18:29:48.040Z,"25 km WSW of Lander, Wyoming",earthquake,2.12,7.356,0.038,92.0,reviewed,us,us
+2024-08-31T16:43:57.637Z,50.6363,87.2653,16.453,4.1,mb,23.0,75.0,3.547,0.86,us,us6000nnwi,2024-08-31T18:25:06.040Z,"49 km W of Ulagan, Russia",earthquake,7.36,5.695,0.166,10.0,reviewed,us,us
