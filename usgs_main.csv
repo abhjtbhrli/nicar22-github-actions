@@ -16205,3 +16205,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-31T11:03:01.344Z,64.9296,-148.8825,5.6,0.8,ml,,,,0.62,ak,ak024b7pp3ee,2024-08-31T11:05:08.756Z,"33 km SE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-31T10:54:42.320Z,32.9795,-116.2736667,9.88,0.82,ml,36.0,68.0,0.1154,0.17,ci,ci40720551,2024-08-31T11:00:39.037Z,"22 km SW of Ocotillo Wells, CA",earthquake,0.2,0.6,0.221,13.0,automatic,ci,ci
 2024-08-31T09:49:34.310Z,40.4782,-127.6648,10.0,2.6,ml,23.0,284.0,2.705,0.89,us,us6000nnuy,2024-08-31T10:54:53.040Z,"288 km W of Ferndale, California",earthquake,4.96,2.026,0.053,46.0,reviewed,us,us
+2024-08-31T11:18:10.930Z,19.3888339996338,-155.253173828125,0.370000004768372,1.73,ml,25.0,59.0,0.003746,0.310000002,hv,hv74433632,2024-08-31T11:21:03.750Z,"6 km SSW of Volcano, Hawaii",earthquake,0.23,0.25999999,0.29,14.0,automatic,hv,hv
