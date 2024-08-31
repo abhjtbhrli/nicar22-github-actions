@@ -16296,3 +16296,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-31T21:31:57.010Z,33.4873333,-116.4445,12.01,0.86,ml,23.0,164.0,0.1006,0.13,ci,ci40721007,2024-08-31T21:38:03.703Z,"22 km ESE of Anza, CA",earthquake,0.34,0.54,0.116,22.0,automatic,ci,ci
 2024-08-31T21:16:47.306Z,17.9039,-68.0358,35.0,3.5,ml,20.0,97.0,0.69,0.6,us,us6000nnxa,2024-08-31T21:31:13.040Z,"80 km SE of Boca de Yuma, Dominican Republic",earthquake,3.76,2.001,0.067,29.0,reviewed,us,us
 2024-08-31T21:16:47.780Z,17.7863,-68.0685,39.0,3.83,md,18.0,225.0,0.792,0.43,pr,pr2024244000,2024-08-31T21:49:22.732Z,"86 km SE of Boca de Yuma, Dominican Republic",earthquake,2.75,7.76,0.11,12.0,reviewed,pr,pr
+2024-08-31T22:16:41.730Z,32.9420013,-115.5391693,10.46,1.33,ml,17.0,84.0,0.04429,0.28,ci,ci40721047,2024-08-31T22:18:49.887Z,"4 km SSW of Brawley, CA",earthquake,0.62,1.06,0.262,8.0,automatic,ci,ci
+2024-08-31T22:12:49.820Z,33.4700012,-116.4381638,11.02,1.77,ml,70.0,29.0,0.1168,0.23,ci,ci40721039,2024-08-31T22:14:54.361Z,"24 km ESE of Anza, CA",earthquake,0.22,0.76,0.247,26.0,automatic,ci,ci
+2024-08-31T22:11:40.590Z,33.4726667,-116.451,20.05,0.92,ml,19.0,98.0,0.1288,0.39,ci,ci40721031,2024-08-31T22:17:50.246Z,"23 km ESE of Anza, CA",earthquake,0.88,1.4,0.138,25.0,automatic,ci,ci
+2024-08-31T21:55:26.995Z,58.7432,-137.5187,0.0,2.2,ml,,,,0.96,ak,ak024b7vymmu,2024-08-31T22:05:22.040Z,"91 km NW of Elfin Cove, Alaska",earthquake,,0.4,,,automatic,ak,ak
