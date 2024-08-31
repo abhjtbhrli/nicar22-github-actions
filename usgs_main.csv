@@ -16123,3 +16123,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-31T01:51:58.230Z,32.9805,-116.2798333,9.46,0.89,ml,31.0,57.0,0.03254,0.16,ci,ci40720311,2024-08-31T01:57:52.161Z,"23 km SW of Ocotillo Wells, CA",earthquake,0.2,0.5,0.22,13.0,automatic,ci,ci
 2024-08-31T01:44:00.930Z,19.3886661529541,-155.242660522461,2.04999995231628,2.07,ml,30.0,68.0,0.008748,0.280000001,hv,hv74433017,2024-08-31T01:46:52.390Z,"6 km S of Volcano, Hawaii",earthquake,0.36,0.25,0.36,16.0,automatic,hv,hv
 2024-08-31T00:41:55.207Z,53.523,-165.9017,35.0,3.7,ml,49.0,195.0,0.482,0.75,us,us6000nnt8,2024-08-31T02:04:40.492Z,"57 km SE of Unalaska, Alaska",earthquake,3.58,1.992,0.091,16.0,reviewed,us,us
+2024-08-31T02:37:30.310Z,33.6556667,-116.7158333,15.06,0.64,ml,27.0,79.0,0.03746,0.1,ci,ci40720351,2024-08-31T02:43:29.422Z,"9 km S of Idyllwild, CA",earthquake,0.17,0.28,0.41,12.0,automatic,ci,ci
+2024-08-31T02:37:24.577Z,61.3909,-149.5301,9.7,1.7,ml,,,,0.48,ak,ak024b7kjj3d,2024-08-31T02:49:45.594Z,"8 km NNE of Eagle River, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-31T02:34:20.820Z,35.8755,-117.716,10.01,1.29,ml,27.0,51.0,0.07771,0.14,ci,ci40720343,2024-08-31T02:40:25.409Z,"18 km ESE of Little Lake, CA",earthquake,0.18,0.39,0.189,20.0,automatic,ci,ci
+2024-08-31T02:32:02.340Z,35.8756667,-117.7188333,10.02,0.85,ml,21.0,50.0,0.07671,0.13,ci,ci40720335,2024-08-31T02:37:41.394Z,"18 km ESE of Little Lake, CA",earthquake,0.19,0.42,0.162,13.0,automatic,ci,ci
