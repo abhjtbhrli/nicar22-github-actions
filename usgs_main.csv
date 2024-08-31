@@ -16313,3 +16313,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-31T22:18:39.140Z,31.667,-104.48,8.283,1.9,ml,6.0,110.0,0.0,0.2,tx,tx2024rdrl,2024-08-31T22:50:29.932Z,"57 km S of Whites City, New Mexico",earthquake,0.0,3.40299439430237,0.2,6.0,automatic,tx,tx
 2024-08-31T23:15:35.925Z,64.9439,-147.2936,0.1,1.6,ml,,,,0.88,ak,ak024b7wwxx4,2024-08-31T23:17:34.112Z,"14 km WNW of Two Rivers, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-31T21:00:53.980Z,51.785,-178.8275,9.53,0.11,ml,5.0,133.0,0.0195,0.05,av,av93246408,2024-08-31T23:11:15.620Z,"151 km W of Adak, Alaska",earthquake,0.74,0.43,0.284391796575614,5.0,reviewed,av,av
+2024-08-31T23:26:25.070Z,38.8261680603027,-122.854835510254,2.01999998092651,0.72,md,14.0,93.0,0.002103,0.02,nc,nc75055861,2024-08-31T23:28:00.526Z,"10 km NW of The Geysers, CA",earthquake,0.28,0.479999989,0.27,14.0,automatic,nc,nc
