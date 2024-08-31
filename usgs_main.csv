@@ -16172,3 +16172,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-31T08:12:04.304Z,61.8096,-149.0528,33.9,1.4,ml,,,,1.05,ak,ak024b7nyq9a,2024-08-31T08:14:10.472Z,"10 km NNE of Buffalo Soapstone, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2024-08-31T07:56:25.738Z,31.6465,-104.3385,9.194,3.6,ml,54.0,54.0,0.14,0.56,us,us6000nnuf,2024-08-31T08:12:51.728Z,"58 km S of Whites City, New Mexico",earthquake,2.07,8.279,0.044,78.0,reviewed,us,us
 2024-08-31T03:19:06.400Z,17.8513333333333,-66.9733333333333,31.97,2.35,md,3.0,261.0,0.1355,0.06,pr,pr71458748,2024-08-31T08:04:12.160Z,"15 km SSW of Guánica, Puerto Rico",earthquake,3.33,1.94,0.11711099657867,2.0,reviewed,pr,pr
+2024-08-31T08:28:08.870Z,33.4698333,-116.5825,11.97,0.41,ml,29.0,45.0,0.03065,0.12,ci,ci40720495,2024-08-31T08:34:28.985Z,"13 km SE of Anza, CA",earthquake,0.16,0.41,0.109,10.0,automatic,ci,ci
+2024-08-31T08:11:31.557Z,31.672,-104.38,3.6599,1.9,ml,15.0,69.0,0.0,0.3,tx,tx2024rcpo,2024-08-31T08:32:05.731Z,"55 km S of Whites City, New Mexico",earthquake,0.0,1.40927159786224,0.2,13.0,automatic,tx,tx
+2024-08-31T08:08:18.012Z,31.664,-104.376,5.3152,2.0,ml,16.0,70.0,0.0,0.2,tx,tx2024rcpk,2024-08-31T08:32:01.731Z,"56 km S of Whites City, New Mexico",earthquake,0.0,2.8242928981781,0.1,12.0,automatic,tx,tx
+2024-08-31T08:03:06.079Z,31.669,-104.37,3.7927,1.8,ml,15.0,86.0,0.1,0.3,tx,tx2024rcpe,2024-08-31T08:31:54.732Z,"56 km S of Whites City, New Mexico",earthquake,0.0,1.4572913646698,0.2,12.0,automatic,tx,tx
+2024-08-31T07:56:25.288Z,31.663,-104.37,4.006,3.2,ml,17.0,70.0,0.1,0.3,tx,tx2024rcoz,2024-08-31T08:38:59.922Z,"56 km S of Whites City, New Mexico",earthquake,0.0,1.33399379253387,0.1,13.0,automatic,tx,tx
