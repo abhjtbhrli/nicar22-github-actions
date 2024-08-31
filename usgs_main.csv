@@ -16271,3 +16271,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-31T18:28:20.006Z,63.2598,-151.578,0.0,1.7,ml,,,,0.68,ak,ak024b7u0iz4,2024-08-31T18:30:24.387Z,"32 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-31T18:02:10.639Z,42.7503,-109.0215,10.143,2.7,ml,33.0,96.0,0.395,0.42,us,us6000nnwn,2024-08-31T18:29:48.040Z,"25 km WSW of Lander, Wyoming",earthquake,2.12,7.356,0.038,92.0,reviewed,us,us
 2024-08-31T16:43:57.637Z,50.6363,87.2653,16.453,4.1,mb,23.0,75.0,3.547,0.86,us,us6000nnwi,2024-08-31T18:25:06.040Z,"49 km W of Ulagan, Russia",earthquake,7.36,5.695,0.166,10.0,reviewed,us,us
+2024-08-31T18:42:01.220Z,19.2958335876465,-155.227172851562,6.28999996185303,1.80999994,md,34.0,74.0,0.01472,0.150000006,hv,hv74433952,2024-08-31T18:43:38.770Z,"16 km S of Volcano, Hawaii",earthquake,0.38,0.800000012,0.25,22.0,automatic,hv,hv
+2024-08-31T18:33:35.570Z,34.0518333,-116.9081667,19.48,0.92,ml,25.0,58.0,0.04755,0.12,ci,ci40720887,2024-08-31T18:40:32.230Z,"13 km E of Yucaipa, CA",earthquake,0.22,0.4,0.197,25.0,automatic,ci,ci
+2024-08-31T18:21:41.813Z,23.8013,121.7103,25.912,4.5,mwr,69.0,56.0,0.386,0.97,us,us6000nnwq,2024-08-31T18:43:38.040Z,"22 km SSE of Hualien City, Taiwan",earthquake,3.64,5.041,0.066,22.0,reviewed,us,us
