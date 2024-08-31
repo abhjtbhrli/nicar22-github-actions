@@ -16202,3 +16202,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-31T10:47:08.675Z,64.8576,-153.1466,6.7,1.2,ml,,,,0.39,ak,ak024b7pd3v7,2024-08-31T10:49:50.998Z,"61 km SW of Tanana, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-08-31T10:44:38.998Z,60.8075,-152.0045,77.4,1.8,ml,,,,0.14,ak,ak024b7pcj23,2024-08-31T10:45:50.451Z,"41 km WNW of Nikiski, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-08-31T10:42:51.116Z,61.6735,-150.5594,35.7,1.6,ml,,,,0.52,ak,ak024b7pc4k7,2024-08-31T10:44:50.851Z,"14 km N of Susitna, Alaska",earthquake,,3.5,,,automatic,ak,ak
+2024-08-31T11:03:01.344Z,64.9296,-148.8825,5.6,0.8,ml,,,,0.62,ak,ak024b7pp3ee,2024-08-31T11:05:08.756Z,"33 km SE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-31T10:54:42.320Z,32.9795,-116.2736667,9.88,0.82,ml,36.0,68.0,0.1154,0.17,ci,ci40720551,2024-08-31T11:00:39.037Z,"22 km SW of Ocotillo Wells, CA",earthquake,0.2,0.6,0.221,13.0,automatic,ci,ci
+2024-08-31T09:49:34.310Z,40.4782,-127.6648,10.0,2.6,ml,23.0,284.0,2.705,0.89,us,us6000nnuy,2024-08-31T10:54:53.040Z,"288 km W of Ferndale, California",earthquake,4.96,2.026,0.053,46.0,reviewed,us,us
