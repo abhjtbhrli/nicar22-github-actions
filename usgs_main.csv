@@ -16237,3 +16237,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-31T13:45:18.960Z,17.9706666666667,-66.9763333333333,11.82,2.35,md,7.0,180.0,0.06463,0.11,pr,pr71458778,2024-08-31T14:04:26.710Z,"6 km WSW of Fuig, Puerto Rico",earthquake,0.78,0.53,0.176026024566884,5.0,reviewed,pr,pr
 2024-08-31T12:00:07.960Z,44.3476666666667,-115.172333333333,6.11,1.85,ml,14.0,69.0,0.3363,0.17,mb,mb90060463,2024-08-31T14:29:32.130Z,"23 km NW of Stanley, Idaho",earthquake,0.47,1.09,0.0510299099609441,18.0,reviewed,mb,mb
 2024-08-31T14:38:13.329Z,60.2857,-151.0032,45.5,1.8,ml,,,,0.4,ak,ak024b7rox78,2024-08-31T14:39:47.378Z,"16 km ESE of Kasilof, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-08-31T14:35:27.430Z,33.2508333,-116.0941667,6.03,1.07,ml,48.0,56.0,0.09533,0.25,ci,ci40720711,2024-08-31T14:41:27.616Z,"12 km NNE of Ocotillo Wells, CA",earthquake,0.2,1.22,0.176,22.0,automatic,ci,ci
+2024-08-31T14:03:36.274Z,79.9272,1.2536,10.0,4.4,mb,20.0,135.0,2.217,0.66,us,us6000nnw2,2024-08-31T14:42:10.040Z,Greenland Sea,earthquake,11.88,1.944,0.135,16.0,reviewed,us,us
