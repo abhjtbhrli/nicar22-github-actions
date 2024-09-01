@@ -16550,3 +16550,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-01T20:47:37.010Z,38.7999992370605,-122.772003173828,1.30999994277954,0.76,md,11.0,75.0,0.009624,0.02,nc,nc75056186,2024-09-01T20:49:14.235Z,"3 km NNW of The Geysers, CA",earthquake,0.29,0.649999976,0.05,11.0,automatic,nc,nc
 2024-09-01T20:46:42.064Z,63.3494,-145.526,0.0,1.4,ml,,,,0.94,ak,ak024b9iun8l,2024-09-01T20:49:09.005Z,"29 km N of Paxson, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-01T20:41:41.408Z,61.9267,-149.232,18.4,2.6,ml,,,,0.31,ak,ak024b9itkn0,2024-09-01T20:43:06.010Z,"20 km N of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-09-01T20:52:39.152Z,64.9643,-150.8148,0.0,1.8,ml,,,,0.97,ak,ak024b9ivxcb,2024-09-01T20:54:24.872Z,"9 km WSW of Manley Hot Springs, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-09-01T20:40:32.690Z,17.9926666666667,-66.8346666666667,16.36,2.71,md,21.0,145.0,0.03694,0.27,pr,pr71458933,2024-09-01T21:00:11.620Z,"1 km W of Indios, Puerto Rico",earthquake,0.51,0.67,0.15623114239225,8.0,reviewed,pr,pr
+2024-09-01T20:36:25.158Z,53.0944,160.2274,35.0,4.6,mb,45.0,161.0,0.955,0.75,us,us6000np4i,2024-09-01T20:53:49.040Z,"107 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,10.72,1.951,0.062,78.0,reviewed,us,us
