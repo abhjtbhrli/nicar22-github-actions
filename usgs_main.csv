@@ -16404,3 +16404,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-01T07:35:12.980Z,19.2609996795654,-155.399673461914,30.2600002288818,2.13,ml,54.0,90.0,0.02346,0.129999995,hv,hv74434842,2024-09-01T07:38:05.680Z,"10 km NE of Pāhala, Hawaii",earthquake,0.37,0.50999999,0.71,10.0,automatic,hv,hv
 2024-09-01T07:44:47.869Z,37.7591,-117.1085,0.0,1.4,ml,22.0,155.87,0.57,0.3172,nn,nn00883608,2024-09-01T07:47:21.254Z,"12 km ENE of Goldfield, Nevada",earthquake,,23.5,0.2,16.0,automatic,nn,nn
 2024-09-01T07:40:14.520Z,37.9425,-118.5572,0.1,1.6,ml,15.0,85.32999999999998,0.382,0.6765,nn,nn00883605,2024-09-01T07:43:20.217Z,"15 km NNW of Benton, California",earthquake,,3.5,0.36,9.0,automatic,nn,nn
+2024-09-01T08:05:04.710Z,33.6831667,-116.788,14.34,0.46,ml,30.0,74.0,0.06759,0.13,ci,ci40721311,2024-09-01T08:10:59.533Z,"9 km SW of Idyllwild, CA",earthquake,0.21,0.29,0.15,9.0,automatic,ci,ci
+2024-09-01T08:04:13.710Z,33.9775,-116.4411667,6.69,0.69,ml,35.0,67.0,0.04555,0.14,ci,ci40721303,2024-09-01T08:10:09.749Z,"6 km ENE of Desert Hot Springs, CA",earthquake,0.16,0.33,0.243,12.0,automatic,ci,ci
+2024-09-01T08:01:46.119Z,59.8151,-151.3974,46.8,2.1,ml,,,,0.33,ak,ak024b9bft3n,2024-09-01T08:03:50.176Z,"10 km NNW of Fritz Creek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-09-01T07:56:21.190Z,33.128,-116.4963333,11.15,0.61,ml,34.0,46.0,0.07027,0.2,ci,ci40721295,2024-09-01T08:02:19.482Z,"11 km ENE of Julian, CA",earthquake,0.24,0.37,0.148,6.0,automatic,ci,ci
+2024-09-01T07:38:19.790Z,-5.8785,149.5363,100.08,5.3,mww,60.0,83.0,4.221,0.66,us,us6000np0y,2024-09-01T07:56:14.040Z,"36 km N of Kandrian, Papua New Guinea",earthquake,8.9,6.646,0.086,13.0,reviewed,us,us
