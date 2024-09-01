@@ -16575,3 +16575,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-01T22:41:35.360Z,35.9684982,-117.6579971,2.0,2.45,ml,35.0,95.0,0.02146,0.18,ci,ci40721871,2024-09-01T22:43:52.646Z,"23 km E of Little Lake, CA",earthquake,0.25,0.41,0.337,23.0,automatic,ci,ci
 2024-09-01T22:38:47.665Z,59.9154,-148.7073,19.8,2.0,ml,,,,0.27,ak,ak024b9jzt6m,2024-09-01T22:40:20.380Z,"42 km WSW of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-09-01T22:48:53.540Z,35.9696655,-117.6559982,2.25,1.83,ml,23.0,95.0,0.02219,0.17,ci,ci40721879,2024-09-01T22:51:00.549Z,"23 km E of Little Lake, CA",earthquake,0.37,0.46,0.281,16.0,automatic,ci,ci
+2024-09-01T22:55:30.300Z,19.2495002746582,-155.414001464844,30.5900001525879,2.27999997,md,23.0,129.0,0.01963,0.150000006,hv,hv74436367,2024-09-01T22:57:11.550Z,"8 km NE of Pāhala, Hawaii",earthquake,0.74,0.649999976,0.159999996,3.0,automatic,hv,hv
+2024-09-01T22:54:34.682Z,61.028,-147.5763,27.5,2.0,ml,,,,0.38,ak,ak024b9k37n0,2024-09-01T22:56:11.934Z,"51 km WNW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
