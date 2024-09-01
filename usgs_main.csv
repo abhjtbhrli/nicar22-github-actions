@@ -16361,3 +16361,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-01T03:38:24.820Z,35.0574989,-118.9160004,8.18,1.27,ml,25.0,112.0,0.1363,0.16,ci,ci40721207,2024-09-01T03:40:27.261Z,"13 km N of Grapevine, CA",earthquake,0.4,1.24,0.106,3.0,automatic,ci,ci
 2024-09-01T03:35:09.940Z,35.0568333,-118.9143333,7.57,1.31,ml,42.0,61.0,0.1359,0.21,ci,ci40721199,2024-09-01T03:41:34.934Z,"13 km N of Grapevine, CA",earthquake,0.23,1.0,0.134,28.0,automatic,ci,ci
 2024-08-31T22:16:20.620Z,48.32,-122.61466666666666,21.56,0.74,md,8.0,116.0,0.0332,0.08,uw,uw61503248,2024-09-01T03:43:37.370Z,"3 km NE of Oak Harbor, Washington",earthquake,0.5,0.55,0.0906866148460254,4.0,reviewed,uw,uw
+2024-09-01T03:50:29.772Z,61.6426,-149.7221,30.1,1.5,ml,,,,0.83,ak,ak024b98r3wh,2024-09-01T03:52:32.136Z,"5 km ENE of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-09-01T03:48:18.917Z,38.7131,-118.5846,12.3,2.2,ml,13.0,84.4,0.098,0.4839,nn,nn00883586,2024-09-01T03:50:59.002Z,"16 km ENE of Walker Lake, Nevada",earthquake,,0.7,0.1,6.0,automatic,nn,nn
