@@ -16416,3 +16416,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-01T07:23:13.250Z,17.9836,-68.037,61.0,3.79,md,16.0,213.0,0.6323,0.44,pr,pr2024245000,2024-09-01T08:12:17.454Z,"74 km SE of Boca de Yuma, Dominican Republic",earthquake,4.1,3.82,0.07,11.0,reviewed,pr,pr
 2024-09-01T08:37:43.910Z,35.0926666,-119.1461639,13.27,1.74,ml,24.0,79.0,0.06141,0.24,ci,ci40721319,2024-09-01T08:40:06.532Z,"24 km E of Maricopa, CA",earthquake,0.55,0.83,0.295,17.0,automatic,ci,ci
 2024-09-01T08:41:00.840Z,63.2649,-151.3884,5.4,1.7,ml,,,,0.44,ak,ak024b9boa90,2024-09-01T08:42:46.564Z,"35 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-09-01T09:03:56.321Z,37.752,-117.1278,1.4,0.9,ml,12.0,178.69,0.562,0.2699,nn,nn00883613,2024-09-01T09:06:08.888Z,"10 km ENE of Goldfield, Nevada",earthquake,,25.2,0.2,8.0,automatic,nn,nn
+2024-09-01T08:47:07.137Z,47.3504,-113.1597,23.624,3.5,ml,34.0,52.0,0.441,0.43,us,us6000np16,2024-09-01T09:04:27.497Z,"31 km NE of Seeley Lake, Montana",earthquake,3.12,8.166,0.04,82.0,reviewed,us,us
