@@ -16457,3 +16457,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-01T10:37:25.609Z,32.108,-102.216,5.9326,2.8,ml,25.0,36.0,0.0,0.1,tx,tx2024repx,2024-09-01T11:01:55.359Z,"17 km NW of Midland, Texas",earthquake,0.7291057448820313,1.0498269394570987,0.2,42.0,reviewed,tx,tx
 2024-09-01T11:21:17.070Z,33.7021667,-116.804,15.48,0.32,ml,18.0,97.0,0.07542,0.13,ci,ci40721431,2024-09-01T11:27:43.690Z,"9 km WSW of Idyllwild, CA",earthquake,0.29,0.48,0.134,9.0,automatic,ci,ci
 2024-09-01T11:21:08.957Z,60.0567,-151.7219,0.0,1.4,ml,,,,0.82,ak,ak024b9dcbdb,2024-09-01T11:23:11.401Z,"3 km WNW of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-09-01T11:33:33.280Z,32.6453323,-115.7655029,5.48,1.39,ml,43.0,74.0,0.1323,0.2,ci,ci40721439,2024-09-01T11:35:51.564Z,"18 km WNW of Progreso, B.C., MX",earthquake,0.26,0.89,0.298,8.0,automatic,ci,ci
