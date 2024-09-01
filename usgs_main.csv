@@ -16484,3 +16484,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-01T15:32:28.105Z,63.1538,-150.6121,115.8,1.7,ml,,,,0.38,ak,ak024b9fsg56,2024-09-01T15:34:51.268Z,"70 km SE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-09-01T15:29:06.310Z,35.0838333,-119.1428333,11.75,1.3,ml,38.0,78.0,0.05458,0.27,ci,ci40721559,2024-09-01T15:35:27.277Z,"24 km E of Maricopa, CA",earthquake,0.34,0.78,0.16,28.0,automatic,ci,ci
 2024-09-01T15:32:06.711Z,29.2302,141.8767,10.0,4.7,mb,34.0,139.0,2.144,0.81,us,us6000np2p,2024-09-01T15:46:47.040Z,"Izu Islands, Japan region",earthquake,10.08,1.918,0.108,26.0,reviewed,us,us
+2024-09-01T15:52:26.136Z,37.1492,-117.6588,4.0,1.2,ml,10.0,234.41,0.279,0.3429,nn,nn00883633,2024-09-01T15:55:01.634Z,"56 km E of Big Pine, California",earthquake,,4.0,0.25,7.0,automatic,nn,nn
+2024-09-01T15:46:41.000Z,35.3391667,-118.0001667,4.44,1.67,ml,47.0,49.0,0.03468,0.18,ci,ci40721575,2024-09-01T15:53:31.246Z,"24 km N of California City, CA",earthquake,0.15,0.36,0.137,26.0,automatic,ci,ci
+2024-09-01T15:45:23.290Z,33.9965,-116.7546667,11.72,0.88,ml,45.0,55.0,0.05859,0.14,ci,ci40721567,2024-09-01T15:51:34.557Z,"9 km NNE of Cabazon, CA",earthquake,0.16,0.41,0.096,21.0,automatic,ci,ci
