@@ -16414,3 +16414,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-01T08:12:53.409Z,37.7492,-117.1233,5.3,0.6,ml,8.0,178.65000000000003,0.566,0.1218,nn,nn00883612,2024-09-01T08:15:37.643Z,"10 km ENE of Goldfield, Nevada",earthquake,,0.0,0.37,6.0,automatic,nn,nn
 2024-09-01T07:39:52.157Z,28.557,-98.421,5.9948,2.0,ml,22.0,62.0,0.1,1.1,tx,tx2024rejx,2024-09-01T08:14:48.275Z,"16 km NE of Tilden, Texas",earthquake,0.0,2.0358996653463,0.1,18.0,automatic,tx,tx
 2024-09-01T07:23:13.250Z,17.9836,-68.037,61.0,3.79,md,16.0,213.0,0.6323,0.44,pr,pr2024245000,2024-09-01T08:12:17.454Z,"74 km SE of Boca de Yuma, Dominican Republic",earthquake,4.1,3.82,0.07,11.0,reviewed,pr,pr
+2024-09-01T08:37:43.910Z,35.0926666,-119.1461639,13.27,1.74,ml,24.0,79.0,0.06141,0.24,ci,ci40721319,2024-09-01T08:40:06.532Z,"24 km E of Maricopa, CA",earthquake,0.55,0.83,0.295,17.0,automatic,ci,ci
