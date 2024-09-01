@@ -16472,3 +16472,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-01T06:53:11.300Z,33.8355,-82.1471666666667,5.64,2.06,md,8.0,201.0,0.4057,0.3,se,se60502408,2024-09-01T13:24:45.590Z,"8 km NE of Parksville, South Carolina",earthquake,1.99,6.53,0.0968558173345482,7.0,reviewed,se,se
 2024-09-01T13:35:10.921Z,63.102,-150.7901,118.1,1.5,ml,,,,0.43,ak,ak024b9em6r8,2024-09-01T13:37:15.960Z,"67 km N of Petersville, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2024-09-01T13:30:59.410Z,31.674,-104.426,7.8451,1.8,ml,15.0,57.0,0.0,0.4,tx,tx2024revn,2024-09-01T13:43:41.293Z,"55 km S of Whites City, New Mexico",earthquake,0.0,2.65884256362915,0.2,13.0,automatic,tx,tx
+2024-09-01T14:01:46.270Z,33.5025,-116.5001667,10.37,0.47,ml,23.0,60.0,0.0606,0.13,ci,ci40721487,2024-09-01T14:11:23.242Z,"17 km ESE of Anza, CA",earthquake,0.2,0.46,0.33,9.0,automatic,ci,ci
