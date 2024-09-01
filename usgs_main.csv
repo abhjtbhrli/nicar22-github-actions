@@ -16462,3 +16462,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-01T12:03:43.500Z,35.9636667,-117.658,2.49,1.68,ml,26.0,94.0,0.0169,0.14,ci,ci40721455,2024-09-01T12:10:09.943Z,"23 km E of Little Lake, CA",earthquake,0.16,0.19,0.258,22.0,automatic,ci,ci
 2024-09-01T12:02:49.580Z,40.7878341674805,-123.554000854492,20.2700004577637,2.22,md,17.0,73.0,0.1609,0.17,nc,nc75056061,2024-09-01T12:19:27.513Z,"18 km S of Willow Creek, CA",earthquake,0.56,0.930000007,0.24,8.0,automatic,nc,nc
 2024-09-01T12:02:27.940Z,34.2261667,-118.5626667,15.28,1.48,ml,69.0,30.0,0.004414,0.21,ci,ci40721447,2024-09-01T12:13:23.100Z,"3 km WSW of Northridge, CA",earthquake,0.17,0.29,0.215,29.0,automatic,ci,ci
+2024-09-01T12:31:52.430Z,34.0155,-116.7225,15.21,0.45,ml,25.0,135.0,0.06604,0.09,ci,ci40721471,2024-09-01T12:38:14.175Z,"12 km NNE of Cabazon, CA",earthquake,0.19,0.4,0.196,9.0,automatic,ci,ci
+2024-09-01T12:30:13.679Z,61.4015,-151.385,11.1,1.0,ml,,,,1.03,ak,ak024b9dzos7,2024-09-01T12:31:29.411Z,"33 km NNW of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-09-01T12:23:47.787Z,31.007,-103.657,5.2585,1.8,ml,14.0,61.0,0.1,0.8,tx,tx2024reth,2024-09-01T12:49:03.969Z,"8 km ENE of Balmorhea, Texas",earthquake,0.0,2.59311652183533,0.2,12.0,automatic,tx,tx
