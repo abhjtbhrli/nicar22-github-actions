@@ -16386,3 +16386,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-01T05:14:14.784Z,31.602,-103.976,4.7126,1.5,ml,15.0,62.0,0.0,0.3,tx,tx2024refd,2024-09-01T05:34:18.222Z,"36 km NNW of Toyah, Texas",earthquake,0.0,1.2476288080215503,0.2,13.0,automatic,tx,tx
 2024-09-01T05:10:44.974Z,31.6,-103.975,4.3502,1.6,ml,15.0,63.0,0.0,0.3,tx,tx2024refa,2024-09-01T05:34:14.227Z,"36 km NNW of Toyah, Texas",earthquake,0.0,1.24828231334686,0.2,13.0,automatic,tx,tx
 2024-09-01T05:09:04.408Z,31.604,-103.974,6.7193,2.0,ml,15.0,63.0,0.0,0.2,tx,tx2024reey,2024-09-01T05:34:09.223Z,"36 km NNW of Toyah, Texas",earthquake,0.0,2.86259484291077,0.2,13.0,automatic,tx,tx
+2024-09-01T05:46:12.000Z,63.908,-145.6346,13.0,0.9,ml,,,,0.38,ak,ak024b99x2vk,2024-09-01T05:47:34.560Z,"4 km SW of Fort Greely, Alaska",earthquake,,0.1,,,automatic,ak,ak
