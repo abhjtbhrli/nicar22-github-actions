@@ -16735,3 +16735,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-02T11:41:56.860Z,33.7195,-118.6218333,-0.09,1.89,ml,52.0,146.0,0.183,0.48,ci,ci40722375,2024-09-02T11:57:41.293Z,"22 km W of Rancho Palos Verdes, CA",earthquake,0.64,1.41,0.165,28.0,automatic,ci,ci
 2024-09-02T11:02:57.635Z,3.2313,-84.1767,10.0,4.8,mww,83.0,77.0,5.216,0.84,us,us6000np8s,2024-09-02T12:01:49.040Z,off the coast of Central America,earthquake,7.93,1.911,0.066,22.0,reviewed,us,us
 2024-09-02T10:24:56.823Z,-23.0292,-66.6472,217.514,4.5,mb,38.0,47.0,1.413,1.04,us,us6000np8n,2024-09-02T11:59:53.040Z,"101 km WNW of El Aguilar, Argentina",earthquake,8.79,8.973,0.15,13.0,reviewed,us,us
+2024-09-02T12:29:30.377Z,37.7628,-117.1011,4.4,0.8,ml,8.0,182.04999999999995,0.573,0.1935,nn,nn00883709,2024-09-02T12:36:19.093Z,"13 km ENE of Goldfield, Nevada",earthquake,,187.6,0.3,6.0,automatic,nn,nn
+2024-09-02T11:57:47.600Z,19.322,-65.0935,27.71,3.37,md,13.0,277.0,0.9731,0.23,pr,pr71459093,2024-09-02T12:28:30.180Z,"109 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.68,18.75,0.0607695541587019,8.0,reviewed,pr,pr
