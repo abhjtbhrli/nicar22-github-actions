@@ -16712,3 +16712,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-02T10:21:33.957Z,37.7221,-117.1572,1.6,1.2,ml,20.0,149.47000000000003,0.43,0.3075,nn,nn00883691,2024-09-02T10:24:11.590Z,"7 km ENE of Goldfield, Nevada",earthquake,,4.4,0.18,14.0,automatic,nn,nn
 2024-09-02T10:19:19.430Z,33.7196655,-116.8379974,16.89,0.91,ml,39.0,62.0,0.07858,0.18,ci,ci40722359,2024-09-02T10:22:47.519Z,"6 km ESE of Valle Vista, CA",earthquake,0.31,0.53,0.176,27.0,automatic,ci,ci
 2024-09-02T10:10:46.348Z,63.2982,-150.9133,23.6,1.0,ml,,,,1.45,ak,ak024bb07ye5,2024-09-02T10:14:13.802Z,"48 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-09-02T10:34:06.201Z,60.2246,-148.141,15.8,1.9,ml,,,,0.87,ak,ak024bb0d0cs,2024-09-02T10:35:44.907Z,"19 km NNW of Chenega, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-09-02T10:32:21.869Z,37.7557,-117.1107,0.0,1.1,ml,20.0,176.22000000000003,0.571,0.3588,nn,nn00883696,2024-09-02T10:35:01.304Z,"12 km ENE of Goldfield, Nevada",earthquake,,30.9,0.21,12.0,automatic,nn,nn
