@@ -16809,3 +16809,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-02T17:57:51.326Z,62.4678,-148.2238,50.9,1.1,ml,,,,0.93,ak,ak024bb4o2jg,2024-09-02T17:59:39.641Z,"75 km N of Chickaloon, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-09-02T17:53:57.903Z,60.2239,-151.0667,52.1,1.1,ml,,,,0.76,ak,ak024bb4n86m,2024-09-02T17:55:13.096Z,"17 km SE of Kasilof, Alaska",earthquake,,3.8,,,automatic,ak,ak
 2024-09-02T11:34:46.466Z,68.1656,-136.3763,38.0,3.4,ml,,,,1.26,ak,ak024bb0yj99,2024-09-02T18:13:47.372Z,"111 km WSW of Inuvik, Canada",earthquake,,7.0,,,reviewed,ak,ak
+2024-09-02T18:01:08.163Z,43.432,-126.9604,23.304,4.2,mwr,95.0,178.0,2.139,0.88,us,us6000npc8,2024-09-02T18:25:19.040Z,"210 km W of Bandon, Oregon",earthquake,8.45,6.356,0.037,70.0,reviewed,us,us
+2024-09-02T08:54:43.610Z,17.9405,-67.0151666666667,9.88,2.45,md,11.0,230.0,0.03991,0.17,pr,pr71459118,2024-09-02T18:16:25.160Z,"5 km SE of La Parguera, Puerto Rico",earthquake,0.76,0.62,0.0794597637599335,5.0,reviewed,pr,pr
+2024-09-02T04:14:02.804Z,36.7313,-116.0502,5.8,-0.5,ml,15.0,134.37,0.03,0.0672,nn,nn00883736,2024-09-02T18:27:12.821Z,"38 km WNW of Indian Springs, Nevada",earthquake,,1.3,0.13,5.0,reviewed,nn,nn
