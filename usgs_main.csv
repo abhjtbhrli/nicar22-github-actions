@@ -16623,3 +16623,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-02T03:49:19.909Z,38.0967,-117.778,2.7,0.6,ml,8.0,202.31,1.268,0.3919,nn,nn00883678,2024-09-02T03:52:05.834Z,"39 km NNW of Silver Peak, Nevada",earthquake,,2.1,0.44,5.0,automatic,nn,nn
 2024-09-02T03:44:02.930Z,19.3806667327881,-155.23649597168,2.10999989509583,1.85,ml,22.0,75.0,0.008058,0.170000002,hv,hv74436632,2024-09-02T03:46:56.380Z,"6 km S of Volcano, Hawaii",earthquake,0.23,0.209999993,0.23,10.0,automatic,hv,hv
 2024-09-02T03:42:36.247Z,37.5901,-116.9313,0.0,0.1,ml,8.0,172.13,0.476,0.2213,nn,nn00883677,2024-09-02T03:45:05.725Z,"29 km ESE of Goldfield, Nevada",earthquake,,71.8,0.42,5.0,automatic,nn,nn
+2024-09-02T04:08:34.940Z,32.9163322,-116.2456665,4.94,2.12,ml,85.0,37.0,0.1493,0.23,ci,ci40722103,2024-09-02T04:11:03.552Z,"27 km SSW of Ocotillo Wells, CA",earthquake,0.2,1.03,0.234,25.0,automatic,ci,ci
+2024-09-02T04:06:35.485Z,37.7442,-117.1277,2.6,0.4,ml,8.0,177.66000000000005,0.566,0.2179,nn,nn00883679,2024-09-02T04:09:15.881Z,"10 km ENE of Goldfield, Nevada",earthquake,,23.5,0.35,7.0,automatic,nn,nn
+2024-09-02T03:55:26.470Z,33.5771667,-116.6956667,4.14,0.26,ml,18.0,57.0,0.03669,0.12,ci,ci40722087,2024-09-02T04:05:25.399Z,"3 km NW of Anza, CA",earthquake,0.19,0.31,0.206,6.0,automatic,ci,ci
+2024-09-02T02:57:15.432Z,16.9221,-96.4573,67.97,4.3,mb,77.0,155.0,2.114,0.74,us,us6000np6g,2024-09-02T04:00:41.604Z,"3 km NNE of San Lucas Quiavini, Mexico",earthquake,7.47,16.099,0.062,74.0,reviewed,us,us
