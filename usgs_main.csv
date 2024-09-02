@@ -16737,3 +16737,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-02T10:24:56.823Z,-23.0292,-66.6472,217.514,4.5,mb,38.0,47.0,1.413,1.04,us,us6000np8n,2024-09-02T11:59:53.040Z,"101 km WNW of El Aguilar, Argentina",earthquake,8.79,8.973,0.15,13.0,reviewed,us,us
 2024-09-02T12:29:30.377Z,37.7628,-117.1011,4.4,0.8,ml,8.0,182.04999999999995,0.573,0.1935,nn,nn00883709,2024-09-02T12:36:19.093Z,"13 km ENE of Goldfield, Nevada",earthquake,,187.6,0.3,6.0,automatic,nn,nn
 2024-09-02T11:57:47.600Z,19.322,-65.0935,27.71,3.37,md,13.0,277.0,0.9731,0.23,pr,pr71459093,2024-09-02T12:28:30.180Z,"109 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.68,18.75,0.0607695541587019,8.0,reviewed,pr,pr
+2024-09-02T13:10:01.420Z,37.8361663818359,-121.815170288086,7.67000007629395,1.62,md,8.0,196.0,0.1042,0.03,nc,nc75056466,2024-09-02T13:11:39.135Z,"8 km E of Blackhawk, CA",earthquake,0.66,2.21000004,0.17,7.0,automatic,nc,nc
+2024-09-02T13:07:43.341Z,61.3237,-150.3776,48.6,2.5,ml,,,,0.18,ak,ak024bb1zlpa,2024-09-02T13:09:24.093Z,"21 km W of Point MacKenzie, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-09-02T13:05:19.420Z,33.5995,-116.734,15.25,0.36,ml,21.0,53.0,0.03412,0.12,ci,ci40722407,2024-09-02T13:11:20.738Z,"8 km NW of Anza, CA",earthquake,0.26,0.4,0.257,9.0,automatic,ci,ci
+2024-09-02T12:54:27.360Z,34.1561667,-116.4146667,8.12,1.22,ml,51.0,37.0,0.04115,0.14,ci,ci40722399,2024-09-02T13:05:21.380Z,"5 km NNE of Yucca Valley, CA",earthquake,0.14,0.37,0.144,27.0,automatic,ci,ci
+2024-09-02T12:54:25.222Z,58.3387,-153.2102,63.0,1.3,ml,,,,0.18,ak,ak024bb1o7cq,2024-09-02T12:56:25.699Z,"35 km NNW of Aleneva, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-09-02T07:55:50.340Z,46.8925,-112.517833333333,15.0,2.61,ml,10.0,119.0,0.0534,0.07,mb,mb90060538,2024-09-02T13:12:22.890Z,"14 km ESE of Lincoln, Montana",earthquake,0.36,0.56,0.191798397846274,44.0,reviewed,mb,mb
