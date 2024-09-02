@@ -16803,3 +16803,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-02T17:29:40.420Z,19.3689994812012,-155.152328491211,2.61999988555908,2.27,ml,51.0,100.0,0.0191,0.310000002,hv,hv74437772,2024-09-02T17:32:41.160Z,"10 km S of Fern Forest, Hawaii",earthquake,0.59,0.649999976,0.58,22.0,automatic,hv,hv
 2024-09-02T17:46:15.670Z,35.9701667,-117.657,2.41,0.99,ml,23.0,95.0,0.02286,0.14,ci,ci40722703,2024-09-02T17:52:28.365Z,"23 km E of Little Lake, CA",earthquake,0.22,0.18,0.115,13.0,automatic,ci,ci
 2024-09-02T17:42:35.213Z,60.4962,-153.145,157.1,1.4,ml,,,,0.23,ak,ak024bb4ktk1,2024-09-02T17:44:24.458Z,"72 km ENE of Port Alsworth, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-09-02T18:10:46.175Z,61.4986,-151.7608,93.7,1.1,ml,,,,0.47,ak,ak024bb4zf3d,2024-09-02T18:13:05.032Z,"53 km NW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-09-02T18:08:15.170Z,32.9795,-116.2753333,10.39,0.86,ml,27.0,68.0,0.03424,0.17,ci,ci40722751,2024-09-02T18:14:23.492Z,"23 km SW of Ocotillo Wells, CA",earthquake,0.2,0.46,0.161,15.0,automatic,ci,ci
+2024-09-02T17:59:03.051Z,62.9705,-149.9622,85.7,1.4,ml,,,,0.44,ak,ak024bb4oe8x,2024-09-02T18:00:40.034Z,"58 km N of Chase, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-09-02T17:57:51.326Z,62.4678,-148.2238,50.9,1.1,ml,,,,0.93,ak,ak024bb4o2jg,2024-09-02T17:59:39.641Z,"75 km N of Chickaloon, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-09-02T17:53:57.903Z,60.2239,-151.0667,52.1,1.1,ml,,,,0.76,ak,ak024bb4n86m,2024-09-02T17:55:13.096Z,"17 km SE of Kasilof, Alaska",earthquake,,3.8,,,automatic,ak,ak
+2024-09-02T11:34:46.466Z,68.1656,-136.3763,38.0,3.4,ml,,,,1.26,ak,ak024bb0yj99,2024-09-02T18:13:47.372Z,"111 km WSW of Inuvik, Canada",earthquake,,7.0,,,reviewed,ak,ak
