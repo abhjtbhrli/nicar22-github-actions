@@ -16849,3 +16849,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-02T21:53:43.080Z,36.0605010986328,-120.624336242676,4.17000007629395,1.13,md,12.0,155.0,0.02427,0.06,nc,nc75056656,2024-09-02T21:55:21.703Z,"25 km NNW of Parkfield, CA",earthquake,0.39,0.699999988,0.15,6.0,automatic,nc,nc
 2024-09-02T18:08:53.210Z,38.7895,-122.769,1.92,0.37,md,6.0,96.0,0.01327,0.01,nc,nc75056561,2024-09-02T22:01:17.948Z,"2 km NNW of The Geysers, CA",earthquake,0.58,1.87,0.137,6.0,reviewed,nc,nc
 2024-09-02T10:35:25.940Z,38.7793333333333,-122.758333333333,1.65,0.42,md,18.0,61.0,0.01037,0.01,nc,nc75056416,2024-09-02T21:59:17.255Z,"0 km NNW of The Geysers, CA",earthquake,0.21,0.37,0.237,15.0,reviewed,nc,nc
+2024-09-02T21:57:43.701Z,31.588,-104.32,3.8849,1.6,ml,16.0,82.0,0.1,0.2,tx,tx2024rhhs,2024-09-02T22:24:44.978Z,"58 km WNW of Toyah, Texas",earthquake,0.0,1.43927121162415,0.2,12.0,automatic,tx,tx
