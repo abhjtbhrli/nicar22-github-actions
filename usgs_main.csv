@@ -16678,3 +16678,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-02T08:26:33.260Z,33.2408333,-116.0353333,4.39,1.13,ml,52.0,60.0,0.05703,0.21,ci,ci40722239,2024-09-02T08:33:17.603Z,"10 km SW of Salton City, CA",earthquake,0.18,0.55,0.206,28.0,automatic,ci,ci
 2024-09-02T08:24:46.440Z,38.7928352355957,-122.77799987793,2.36999988555908,0.77,md,7.0,100.0,0.007758,0.01,nc,nc75056376,2024-09-02T08:26:24.033Z,"3 km NW of The Geysers, CA",earthquake,0.85,1.75,0.13,8.0,automatic,nc,nc
 2024-09-02T05:53:22.747Z,-22.2038,-68.697,123.654,4.3,mb,32.0,40.0,0.648,0.66,us,us6000np71,2024-09-02T08:26:20.040Z,"36 km NE of Calama, Chile",earthquake,4.89,4.148,0.118,20.0,reviewed,us,us
+2024-09-02T08:39:37.190Z,33.1588333,-115.633,2.78,1.06,ml,28.0,46.0,0.02361,0.18,ci,ci40722255,2024-09-02T08:45:33.185Z,"12 km WNW of Calipatria, CA",earthquake,0.22,0.27,0.27,18.0,automatic,ci,ci
+2024-09-02T08:38:26.613Z,59.3758,-153.1032,85.2,1.0,ml,,,,0.1,ak,ak024baz71l1,2024-09-02T08:40:19.447Z,"67 km W of Nanwalek, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-09-02T08:26:24.342Z,23.8818,121.6595,28.72,5.0,mww,71.0,70.0,0.297,0.87,us,us6000np7v,2024-09-02T08:47:17.657Z,"11 km SSE of Hualien City, Taiwan",earthquake,1.99,4.658,0.089,12.0,reviewed,us,us
