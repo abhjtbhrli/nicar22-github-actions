@@ -16612,3 +16612,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-02T02:32:30.110Z,33.256,-116.0925,7.36,0.48,ml,30.0,47.0,0.09253,0.18,ci,ci40722063,2024-09-02T02:38:54.002Z,"13 km NNE of Ocotillo Wells, CA",earthquake,0.2,0.61,0.1,6.0,automatic,ci,ci
 2024-09-02T02:31:32.570Z,32.9818333,-116.314,8.79,1.27,ml,60.0,28.0,0.02859,0.2,ci,ci40722055,2024-09-02T02:42:23.370Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.16,0.46,0.231,26.0,automatic,ci,ci
 2024-09-02T01:05:59.397Z,36.0392,70.4663,132.75,4.5,mb,24.0,97.0,1.87,0.75,us,us6000np5y,2024-09-02T02:37:16.040Z,"80 km NNW of Pārūn, Afghanistan",earthquake,8.55,12.464,0.221,6.0,reviewed,us,us
+2024-09-02T03:10:11.907Z,39.551,-120.0314,7.6,1.1,ml,11.0,129.39999999999998,0.078,0.1038,nn,nn00883663,2024-09-02T03:12:06.713Z,"3 km NNW of Verdi, California",earthquake,,0.5,0.13,7.0,automatic,nn,nn
