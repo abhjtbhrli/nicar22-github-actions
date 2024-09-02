@@ -16796,3 +16796,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-02T16:05:55.050Z,35.9716667,-117.6588333,2.42,1.96,ml,27.0,94.0,0.02469,0.14,ci,ci40722583,2024-09-02T16:12:36.779Z,"23 km E of Little Lake, CA",earthquake,0.2,0.17,0.297,15.0,automatic,ci,ci
 2024-09-02T16:37:02.953Z,37.7199,-117.1828,5.5,1.1,ml,18.0,170.32999999999998,0.547,0.334,nn,nn00883725,2024-09-02T16:39:33.845Z,"4 km ENE of Goldfield, Nevada",earthquake,,3.1,0.14,13.0,automatic,nn,nn
 2024-09-02T16:25:20.110Z,33.989,-116.7303333,16.56,1.15,ml,49.0,54.0,0.07911,0.15,ci,ci40722615,2024-09-02T16:31:40.495Z,"10 km NNE of Cabazon, CA",earthquake,0.17,0.42,0.225,29.0,automatic,ci,ci
+2024-09-02T16:39:48.284Z,37.7473,-117.1255,0.0,1.4,ml,23.0,174.84999999999997,0.46,0.245,nn,nn00883728,2024-09-02T16:42:35.208Z,"10 km ENE of Goldfield, Nevada",earthquake,,29.1,0.2,15.0,automatic,nn,nn
