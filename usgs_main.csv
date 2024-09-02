@@ -16813,3 +16813,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-02T08:54:43.610Z,17.9405,-67.0151666666667,9.88,2.45,md,11.0,230.0,0.03991,0.17,pr,pr71459118,2024-09-02T18:16:25.160Z,"5 km SE of La Parguera, Puerto Rico",earthquake,0.76,0.62,0.0794597637599335,5.0,reviewed,pr,pr
 2024-09-02T04:14:02.804Z,36.7313,-116.0502,5.8,-0.5,ml,15.0,134.37,0.03,0.0672,nn,nn00883736,2024-09-02T18:27:12.821Z,"38 km WNW of Indian Springs, Nevada",earthquake,,1.3,0.13,5.0,reviewed,nn,nn
 2024-09-02T18:23:46.990Z,17.968,-67.0018333333333,7.8,3.24,md,23.0,173.0,0.04037,0.14,pr,pr71459123,2024-09-02T18:42:55.830Z,"4 km E of La Parguera, Puerto Rico",earthquake,0.44,0.2,0.146406162876061,8.0,reviewed,pr,pr
+2024-09-02T18:44:52.929Z,60.2374,-141.1276,19.3,1.2,ml,,,,0.2,ak,ak024bb56pyk,2024-09-02T18:46:07.704Z,"109 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
