@@ -16649,3 +16649,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-02T05:45:27.080Z,33.9208336,-117.1376648,12.45,2.22,ml,118.0,15.0,0.03941,0.21,ci,ci40722167,2024-09-02T05:47:55.134Z,"8 km E of Moreno Valley, CA",earthquake,0.17,0.51,0.32,24.0,automatic,ci,ci
 2024-09-02T05:42:39.230Z,35.341,-117.9996667,4.31,1.33,ml,43.0,50.0,0.0328,0.19,ci,ci40722159,2024-09-02T05:49:13.797Z,"24 km N of California City, CA",earthquake,0.17,0.35,0.174,25.0,automatic,ci,ci
 2024-09-01T10:11:26.962Z,19.1159,-68.636,9.438,2.7,ml,11.0,181.0,1.582,0.54,us,us6000np1l,2024-09-02T05:51:31.040Z,"45 km ENE of Miches, Dominican Republic",earthquake,5.42,9.685,0.085,20.0,reviewed,us,us
+2024-09-02T06:26:35.017Z,59.8422,-152.1097,29.6,1.0,ml,,,,0.5,ak,ak024baxxmfh,2024-09-02T06:28:24.674Z,"17 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-09-01T11:22:49.461Z,36.2541,-106.734,9.417,2.9,ml,49.0,63.0,1.325,0.42,us,us6000np1x,2024-09-02T06:13:39.040Z,"6 km ENE of Capulin, New Mexico",earthquake,2.2,8.442,0.039,88.0,reviewed,us,us
