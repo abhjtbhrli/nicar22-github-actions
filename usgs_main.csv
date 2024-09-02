@@ -16696,3 +16696,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-02T09:24:11.580Z,33.9658333,-116.9593333,10.36,0.48,ml,21.0,56.0,0.1289,0.12,ci,ci40722295,2024-09-02T09:30:00.444Z,"4 km NNE of Beaumont, CA",earthquake,0.19,0.47,0.094,8.0,automatic,ci,ci
 2024-09-02T09:22:44.660Z,34.4203333,-116.4646667,8.18,1.17,ml,35.0,74.0,0.1338,0.14,ci,ci40722287,2024-09-02T09:29:10.135Z,"34 km N of Yucca Valley, CA",earthquake,0.17,0.57,0.171,24.0,automatic,ci,ci
 2024-09-02T09:18:33.500Z,35.625,-117.480835,7.01,0.8,ml,11.0,118.0,0.04131,0.1,ci,ci40722271,2024-09-02T09:24:08.407Z,"17 km SSW of Searles Valley, CA",earthquake,0.56,0.89,0.312,7.0,automatic,ci,ci
+2024-09-02T09:42:13.297Z,57.1642,-153.9773,34.2,1.7,ml,,,,0.23,ak,ak024baztb0x,2024-09-02T09:43:54.340Z,"27 km NNE of Akhiok, Alaska",earthquake,,4.0,,,automatic,ak,ak
+2024-09-02T09:37:32.520Z,35.071,-119.1426667,10.12,1.22,ml,34.0,67.0,0.04985,0.21,ci,ci40722335,2024-09-02T09:43:52.522Z,"24 km E of Maricopa, CA",earthquake,0.27,0.44,0.218,6.0,automatic,ci,ci
+2024-09-02T09:28:09.138Z,31.651,-104.199,3.6819,1.5,ml,17.0,64.0,0.1,0.5,tx,tx2024rgiz,2024-09-02T09:42:47.345Z,"53 km NW of Toyah, Texas",earthquake,0.0,1.2460471391677903,0.3,13.0,automatic,tx,tx
