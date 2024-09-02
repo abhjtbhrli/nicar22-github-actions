@@ -16699,3 +16699,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-02T09:42:13.297Z,57.1642,-153.9773,34.2,1.7,ml,,,,0.23,ak,ak024baztb0x,2024-09-02T09:43:54.340Z,"27 km NNE of Akhiok, Alaska",earthquake,,4.0,,,automatic,ak,ak
 2024-09-02T09:37:32.520Z,35.071,-119.1426667,10.12,1.22,ml,34.0,67.0,0.04985,0.21,ci,ci40722335,2024-09-02T09:43:52.522Z,"24 km E of Maricopa, CA",earthquake,0.27,0.44,0.218,6.0,automatic,ci,ci
 2024-09-02T09:28:09.138Z,31.651,-104.199,3.6819,1.5,ml,17.0,64.0,0.1,0.5,tx,tx2024rgiz,2024-09-02T09:42:47.345Z,"53 km NW of Toyah, Texas",earthquake,0.0,1.2460471391677903,0.3,13.0,automatic,tx,tx
+2024-09-02T09:45:02.291Z,63.8101,-147.5332,1.4,0.8,ml,,,,0.17,ak,ak024baztxbp,2024-09-02T09:46:54.310Z,"68 km E of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
