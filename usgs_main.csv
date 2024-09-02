@@ -16851,3 +16851,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-02T10:35:25.940Z,38.7793333333333,-122.758333333333,1.65,0.42,md,18.0,61.0,0.01037,0.01,nc,nc75056416,2024-09-02T21:59:17.255Z,"0 km NNW of The Geysers, CA",earthquake,0.21,0.37,0.237,15.0,reviewed,nc,nc
 2024-09-02T21:57:43.701Z,31.588,-104.32,3.8849,1.6,ml,16.0,82.0,0.1,0.2,tx,tx2024rhhs,2024-09-02T22:24:44.978Z,"58 km WNW of Toyah, Texas",earthquake,0.0,1.43927121162415,0.2,12.0,automatic,tx,tx
 2024-09-02T16:22:21.940Z,18.405,-67.4016666666667,13.28,2.74,md,9.0,293.0,0.2827,0.19,pr,pr71459143,2024-09-02T22:30:09.100Z,"17 km WNW of Rincón, Puerto Rico",earthquake,1.29,0.85,0.0686654236189144,5.0,reviewed,pr,pr
+2024-09-02T15:17:02.627Z,32.01,-101.725,8.4229,1.3,ml,12.0,70.0,0.1,0.1,tx,tx2024rgun,2024-09-02T22:44:42.104Z,"14 km SSE of Stanton, Texas",earthquake,0.5267779525674302,0.9776369957866902,0.2,22.0,reviewed,tx,tx
