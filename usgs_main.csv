@@ -16714,3 +16714,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-02T10:10:46.348Z,63.2982,-150.9133,23.6,1.0,ml,,,,1.45,ak,ak024bb07ye5,2024-09-02T10:14:13.802Z,"48 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-02T10:34:06.201Z,60.2246,-148.141,15.8,1.9,ml,,,,0.87,ak,ak024bb0d0cs,2024-09-02T10:35:44.907Z,"19 km NNW of Chenega, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-09-02T10:32:21.869Z,37.7557,-117.1107,0.0,1.1,ml,20.0,176.22000000000003,0.571,0.3588,nn,nn00883696,2024-09-02T10:35:01.304Z,"12 km ENE of Goldfield, Nevada",earthquake,,30.9,0.21,12.0,automatic,nn,nn
+2024-09-02T10:49:12.490Z,38.8250007629395,-122.856002807617,2.26999998092651,1.56,md,25.0,99.0,0.01649,0.03,nc,nc75056426,2024-09-02T10:50:48.866Z,"10 km NW of The Geysers, CA",earthquake,0.19,0.330000013,0.12,25.0,automatic,nc,nc
+2024-09-02T10:49:09.450Z,38.8276672363281,-122.853996276855,2.17000007629395,1.83,md,10.0,94.0,0.00225,0.02,nc,nc75056421,2024-09-02T10:50:44.070Z,"10 km NW of The Geysers, CA",earthquake,0.39,0.49000001,0.14,11.0,automatic,nc,nc
