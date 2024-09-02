@@ -16616,3 +16616,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-02T03:20:43.251Z,37.7432,-117.1221,3.7,2.1,ml,24.0,154.05999999999997,0.456,0.1708,nn,nn00883665,2024-09-02T03:23:19.045Z,"10 km ENE of Goldfield, Nevada",earthquake,,5.9,0.26,17.0,automatic,nn,nn
 2024-09-02T03:18:40.966Z,63.5602,-147.5333,9.5,1.2,ml,,,,0.51,ak,ak024baw3mcg,2024-09-02T03:21:08.459Z,"71 km ESE of Denali Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-02T03:16:40.304Z,-36.2257,-100.5894,10.0,5.2,mb,54.0,77.0,11.73,0.85,us,us6000np6k,2024-09-02T03:33:00.040Z,southeast of Easter Island,earthquake,10.6,1.857,0.033,301.0,reviewed,us,us
+2024-09-02T03:39:53.296Z,37.7506,-117.1268,0.0,1.0,ml,14.0,178.57999999999998,0.563,0.2694,nn,nn00883675,2024-09-02T03:42:26.809Z,"10 km ENE of Goldfield, Nevada",earthquake,,48.7,0.19,9.0,automatic,nn,nn
+2024-09-02T03:37:16.876Z,37.7472,-117.1202,3.9,1.9,ml,23.0,154.42999999999995,0.461,0.1938,nn,nn00883672,2024-09-02T03:39:59.151Z,"11 km ENE of Goldfield, Nevada",earthquake,,5.9,0.16,17.0,automatic,nn,nn
+2024-09-02T03:35:52.032Z,37.6896,-117.086,4.0,0.8,ml,10.0,324.45,0.618,0.1566,nn,nn00883670,2024-09-02T03:38:06.149Z,"13 km E of Goldfield, Nevada",earthquake,,13.0,0.35,7.0,automatic,nn,nn
+2024-09-02T03:33:05.432Z,37.7309,-117.1512,12.0,0.7,ml,9.0,174.17999999999995,0.559,0.1211,nn,nn00883668,2024-09-02T03:35:45.943Z,"7 km ENE of Goldfield, Nevada",earthquake,,903.7,0.13,5.0,automatic,nn,nn
