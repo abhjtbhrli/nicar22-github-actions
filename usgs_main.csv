@@ -16663,3 +16663,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-02T05:23:56.662Z,-18.8318,-177.3132,570.498,4.5,mb,26.0,88.0,3.057,0.59,us,us6000np73,2024-09-02T07:01:28.040Z,Fiji region,earthquake,13.14,7.256,0.118,21.0,reviewed,us,us
 2024-09-02T07:17:13.930Z,19.3886661529541,-155.257827758789,0.850000023841858,2.24,ml,36.0,42.0,0.006907,0.349999994,hv,hv74436847,2024-09-02T07:20:05.830Z,"6 km SSW of Volcano, Hawaii",earthquake,0.33,0.219999999,0.64,24.0,automatic,hv,hv
 2024-09-02T06:50:46.150Z,17.9581,-67.0101,8.0,3.41,md,14.0,192.0,0.036,0.27,pr,pr2024246001,2024-09-02T07:22:08.215Z,"4 km ESE of La Parguera, Puerto Rico",earthquake,0.71,1.05,0.17,9.0,reviewed,pr,pr
+2024-09-02T07:34:34.714Z,37.7118,-117.1418,10.4,0.8,ml,8.0,172.42000000000002,0.577,0.3482,nn,nn00883685,2024-09-02T07:37:17.180Z,"8 km E of Goldfield, Nevada",earthquake,,3.4,0.44,6.0,automatic,nn,nn
+2024-09-02T07:30:48.807Z,59.8866,-152.6081,83.9,1.5,ml,,,,0.1,ak,ak024bayjxyo,2024-09-02T07:32:16.271Z,"45 km WNW of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-09-02T07:28:52.703Z,68.7751,-145.395,0.0,2.5,ml,,,,1.03,ak,ak024bayjity,2024-09-02T07:32:34.992Z,"72 km N of Arctic Village, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-09-02T06:58:34.140Z,17.9771666666667,-67.0055,7.64,3.15,md,25.0,158.0,0.03765,0.16,pr,pr71459033,2024-09-02T07:36:19.880Z,"4 km E of La Parguera, Puerto Rico",earthquake,0.33,0.15,0.0981820355468093,10.0,reviewed,pr,pr
