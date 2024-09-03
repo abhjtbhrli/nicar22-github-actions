@@ -17023,3 +17023,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-03T16:27:54.202Z,60.0487,-152.7123,85.5,0.7,ml,,,,0.32,ak,ak024bcrfk64,2024-09-03T16:29:34.771Z,"55 km WNW of Happy Valley, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-09-03T08:52:52.690Z,39.5668333333333,-111.214,2.09,1.37,ml,20.0,44.0,0.07366,0.19,uu,uu80081176,2024-09-03T16:19:26.390Z,"10 km SSW of Clear Creek, Utah",earthquake,0.35,4.42,0.0448971044235689,5.0,reviewed,uu,uu
 2024-09-03T08:46:31.800Z,38.502,-112.875,0.97,0.76,md,11.0,93.0,0.007303,0.08,uu,uu80081171,2024-09-03T16:35:18.600Z,"16 km NE of Milford, Utah",earthquake,0.36,0.44,0.306070116540704,4.0,reviewed,uu,uu
+2024-09-03T16:48:23.450Z,38.8236656188965,-122.809829711914,2.38000011444092,0.7,md,7.0,95.0,0.0003308,0.01,nc,nc75056976,2024-09-03T16:49:59.376Z,"7 km NNW of The Geysers, CA",earthquake,0.56,1.25999999,0.45,8.0,automatic,nc,nc
+2024-09-03T13:13:07.631Z,-0.3364,123.0743,80.696,4.3,mb,26.0,58.0,2.706,0.65,us,us6000nph8,2024-09-03T16:40:18.040Z,"75 km NNE of Luwuk, Indonesia",earthquake,7.25,9.644,0.119,23.0,reviewed,us,us
+2024-09-03T05:15:46.790Z,39.023,-111.5125,7.91,0.59,ml,7.0,95.0,0.1223,0.07,uu,uu80081166,2024-09-03T16:44:05.680Z,"19 km ESE of Mayfield, Utah",earthquake,0.4,1.25,0.153273072003139,3.0,reviewed,uu,uu
