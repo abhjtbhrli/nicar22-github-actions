@@ -17102,3 +17102,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-03T21:45:56.280Z,18.114,-65.765,10.3,3.27,md,22.0,137.0,0.0717,0.17,pr,pr71459223,2024-09-03T22:17:46.278Z,"5 km SSE of Bajandas, Puerto Rico",earthquake,0.31,0.44,0.103219038056473,14.0,reviewed,pr,pr
 2024-09-03T22:34:20.703Z,37.7379,-117.1405,0.0,1.9,ml,18.0,173.39999999999998,0.448,0.2448,nn,nn00883828,2024-09-03T22:36:56.968Z,"8 km ENE of Goldfield, Nevada",earthquake,,39.8,0.27,11.0,automatic,nn,nn
 2024-09-03T22:30:54.710Z,35.614,-117.4641667,8.23,0.86,ml,20.0,67.0,0.02749,0.1,ci,ci40724063,2024-09-03T22:36:55.050Z,"18 km SSW of Searles Valley, CA",earthquake,0.16,0.29,0.235,8.0,automatic,ci,ci
+2024-09-03T22:45:11.258Z,61.1603,-151.3507,67.1,1.5,ml,,,,0.41,ak,ak024bcv3xdh,2024-09-03T22:47:34.752Z,"14 km W of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
