@@ -17086,3 +17086,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-03T21:19:34.520Z,33.7225,-116.8185,15.07,0.52,ml,19.0,190.0,0.08769,0.1,ci,ci40724007,2024-09-03T21:25:37.971Z,"8 km ESE of Valle Vista, CA",earthquake,0.41,0.47,0.139,10.0,automatic,ci,ci
 2024-09-03T21:17:20.210Z,33.2475014,-116.0361633,3.36,1.08,ml,23.0,89.0,0.08858,0.16,ci,ci40723983,2024-09-03T21:20:48.602Z,"9 km SW of Salton City, CA",earthquake,0.31,0.63,0.252,27.0,automatic,ci,ci
 2024-09-03T20:20:32.000Z,42.1415,-119.02816666666666,8.14,2.03,ml,7.0,213.0,0.412,0.29,uw,uw62043296,2024-09-03T21:24:06.580Z,"36 km WNW of Denio, Nevada",earthquake,1.14,3.09,0.0764825363168056,4.0,reviewed,uw,uw
+2024-09-03T21:39:23.300Z,35.1030006,-119.1138306,11.27,2.08,ml,45.0,35.0,0.05069,0.25,ci,ci40724015,2024-09-03T21:41:47.716Z,"24 km NW of Grapevine, CA",earthquake,0.33,0.92,0.209,26.0,automatic,ci,ci
