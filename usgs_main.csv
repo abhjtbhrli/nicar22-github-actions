@@ -17082,3 +17082,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-03T20:41:14.055Z,60.8447,-150.6983,35.1,1.6,ml,,,,0.25,ak,ak024bctw7il,2024-09-03T20:42:44.604Z,"8 km S of Point Possession, Alaska",earthquake,,4.2,,,automatic,ak,ak
 2024-09-02T23:01:32.730Z,38.5021666666667,-112.877333333333,0.77,1.0,md,13.0,54.0,0.007327,0.11,uu,uu80081131,2024-09-03T20:41:23.330Z,"16 km NE of Milford, Utah",earthquake,0.34,0.57,0.679430325022489,6.0,reviewed,uu,uu
 2024-09-02T21:21:41.810Z,38.4451666666667,-112.248166666667,1.79,1.13,ml,7.0,82.0,0.08719,0.1,uu,uu80081126,2024-09-03T20:43:40.920Z,"1 km WSW of Marysvale, Utah",earthquake,0.45,31.61,0.379595896680843,2.0,reviewed,uu,uu
+2024-09-03T20:41:25.514Z,60.148,-153.5954,48.8,2.5,ml,,,,0.53,ak,ak024bctw8ef,2024-09-03T20:44:10.541Z,"40 km E of Port Alsworth, Alaska",earthquake,,15.5,,,automatic,ak,ak
