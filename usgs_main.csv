@@ -17005,3 +17005,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-03T12:19:52.320Z,36.69933333,-97.67516667,6.25,1.37,ml,86.0,50.0,0.2123583281,0.23,ok,ok2024rike,2024-09-03T15:01:39.693Z,"10 km W of Lamont, Oklahoma",earthquake,,0.5,0.26,31.0,reviewed,ok,ok
 2024-09-03T15:13:25.950Z,34.071,-118.2135,10.76,1.63,ml,9.0,237.0,0.08051,0.06,ci,ci40723495,2024-09-03T15:19:55.908Z,"4 km ENE of Los Angeles, CA",earthquake,0.74,0.72,0.55,37.0,automatic,ci,ci
 2024-09-03T14:30:35.426Z,29.2445,142.4565,21.34,4.6,mb,152.0,45.0,2.154,0.4,us,us6000nphc,2024-09-03T15:02:58.040Z,"Izu Islands, Japan region",earthquake,7.19,4.611,0.048,134.0,reviewed,us,us
+2024-09-03T15:32:07.390Z,38.8386650085449,-122.807998657227,1.91999995708466,0.7,md,12.0,63.0,0.01379,0.03,nc,nc75056961,2024-09-03T15:33:44.721Z,"8 km WNW of Cobb, CA",earthquake,0.34,1.17999995,0.08,12.0,automatic,nc,nc
+2024-09-03T09:20:47.859Z,35.026,-97.77166667,7.58,0.89,ml,61.0,57.0,0.1070789874,0.28,ok,ok2024rieg,2024-09-03T15:30:43.747Z,"12 km N of Alex, Oklahoma",earthquake,,0.6,0.2,28.0,reviewed,ok,ok
+2024-09-03T09:14:05.589Z,36.697,-97.6765,7.0,1.23,ml,60.0,50.0,0.2132581515,0.41,ok,ok2024riea,2024-09-03T15:38:55.690Z,"10 km ESE of Jefferson, Oklahoma",earthquake,,1.1,0.28,23.0,reviewed,ok,ok
