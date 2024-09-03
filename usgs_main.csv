@@ -16917,3 +16917,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-03T03:52:04.830Z,34.0795,-118.1783333,8.83,1.11,ml,22.0,98.0,0.04239,0.15,ci,ci40723175,2024-09-03T03:58:27.435Z,"5 km SSW of South Pasadena, CA",earthquake,0.29,0.49,0.309,28.0,automatic,ci,ci
 2024-09-03T04:25:25.000Z,33.5014992,-116.5023346,11.31,1.17,ml,16.0,107.0,0.06077,0.12,ci,ci40723191,2024-09-03T04:27:30.417Z,"17 km ESE of Anza, CA",earthquake,0.47,1.08,0.46,8.0,automatic,ci,ci
 2024-09-03T04:16:31.486Z,61.0218,-146.9703,20.2,1.3,ml,,,,0.41,ak,ak024bck7ya4,2024-09-03T04:19:03.300Z,"23 km NW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-09-03T04:28:48.823Z,38.184,-117.8172,6.2,1.9,ml,14.0,176.64,0.133,0.2129,nn,nn00883765,2024-09-03T04:31:48.663Z,"34 km SE of Mina, Nevada",earthquake,,0.5,0.43,6.0,automatic,nn,nn
