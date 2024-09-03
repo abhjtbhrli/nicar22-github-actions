@@ -16933,3 +16933,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-03T05:50:21.170Z,19.4188,-68.0138,40.0,3.67,md,12.0,333.0,1.3114,0.26,pr,pr2024247001,2024-09-03T06:16:26.327Z,"101 km NNE of Punta Cana, Dominican Republic",earthquake,2.62,16.59,0.1,7.0,reviewed,pr,pr
 2024-09-03T06:41:46.023Z,61.2224,-150.0321,31.3,1.7,ml,,,,0.59,ak,ak024bclk5ii,2024-09-03T06:43:38.026Z,"7 km W of Anchorage, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-03T06:34:25.111Z,60.0082,-153.4838,142.3,1.5,ml,,,,0.28,ak,ak024bclinvz,2024-09-03T06:36:18.469Z,"42 km NE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-09-03T06:49:16.590Z,33.4906654,-116.4169998,3.37,1.15,ml,42.0,82.0,0.1162,0.2,ci,ci40723231,2024-09-03T06:51:20.982Z,"22 km SSW of La Quinta, CA",earthquake,0.28,1.09,0.2,11.0,automatic,ci,ci
