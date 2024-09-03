@@ -17112,3 +17112,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-03T23:17:50.350Z,35.044,-117.662,0.7,1.3,ml,28.0,53.0,0.1129,0.19,ci,ci40724111,2024-09-03T23:24:14.572Z,"5 km NNW of Boron, CA",earthquake,0.29,0.76,0.138,19.0,automatic,ci,ci
 2024-09-03T23:24:33.670Z,34.137,-116.9888333,7.67,0.86,ml,13.0,225.0,0.06171,0.1,ci,ci40724127,2024-09-03T23:30:51.357Z,"12 km NNE of Yucaipa, CA",earthquake,0.89,0.45,0.238,16.0,automatic,ci,ci
 2024-09-03T23:16:45.989Z,14.8725,122.6185,28.016,5.3,mww,78.0,79.0,8.036,0.78,us,us6000npkr,2024-09-03T23:32:09.224Z,"31 km ENE of Casuguran, Philippines",earthquake,9.34,5.211,0.069,20.0,reviewed,us,us
+2024-09-03T23:49:07.340Z,38.798999786377,-122.801834106445,1.36000001430511,0.76,md,14.0,52.0,0.01031,0.02,nc,nc75057081,2024-09-03T23:50:45.507Z,"5 km NW of The Geysers, CA",earthquake,0.27,0.579999983,0.08,15.0,automatic,nc,nc
+2024-09-03T23:44:08.801Z,37.8823,-117.1963,0.0,1.6,ml,17.0,303.21000000000004,0.584,0.4028,nn,nn00883832,2024-09-03T23:46:46.176Z,"19 km N of Goldfield, Nevada",earthquake,,17.3,0.21,11.0,automatic,nn,nn
