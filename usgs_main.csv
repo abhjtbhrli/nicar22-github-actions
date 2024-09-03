@@ -17001,3 +17001,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-03T14:37:53.210Z,38.7939987182617,-122.780334472656,3.65000009536743,0.77,md,15.0,78.0,0.005982,0.02,nc,nc75056946,2024-09-03T14:39:29.664Z,"3 km NW of The Geysers, CA",earthquake,0.34,0.810000002,0.17,14.0,automatic,nc,nc
 2024-09-03T13:36:41.336Z,5.322,126.3621,9.786,4.8,mb,107.0,104.0,1.903,0.79,us,us6000npha,2024-09-03T14:40:41.040Z,"99 km E of Sarangani, Philippines",earthquake,6.86,4.08,0.055,109.0,reviewed,us,us
 2024-09-03T14:43:25.896Z,59.9672,-152.8355,96.8,0.9,ml,,,,0.2,ak,ak024bcqc28d,2024-09-03T14:45:00.311Z,"60 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-09-03T14:53:50.940Z,61.5924,-150.3816,10.5,1.2,ml,,,,0.61,ak,ak024bcqe9bq,2024-09-03T14:55:55.223Z,"8 km NE of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-09-03T12:19:52.320Z,36.69933333,-97.67516667,6.25,1.37,ml,86.0,50.0,0.2123583281,0.23,ok,ok2024rike,2024-09-03T15:01:39.693Z,"10 km W of Lamont, Oklahoma",earthquake,,0.5,0.26,31.0,reviewed,ok,ok
