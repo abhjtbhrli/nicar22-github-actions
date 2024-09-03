@@ -17097,3 +17097,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-03T22:03:09.471Z,60.9433,-151.584,71.4,1.6,ml,,,,0.5,ak,ak024bcuux60,2024-09-03T22:05:50.160Z,"27 km WSW of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-03T21:40:08.980Z,49.11866666666667,-122.20266666666669,-0.86,1.31,ml,2.0,358.0,0.1139,0.19,uw,uw62043341,2024-09-03T22:00:01.280Z,"7 km ESE of Mission, Canada",explosion,16.35,31.61,0.0835149018166413,1.0,reviewed,uw,uw
 2024-09-03T21:33:22.045Z,31.599,-104.543,3.7651,1.9,ml,8.0,161.0,0.1,0.2,tx,tx2024rjck,2024-09-03T21:56:15.444Z,"65 km SSW of Whites City, New Mexico",earthquake,0.0,2.82925248146057,0.2,6.0,automatic,tx,tx
+2024-09-03T22:14:14.420Z,38.7866668701172,-122.763832092285,0.769999980926514,0.86,md,10.0,79.0,0.0143,0.03,nc,nc75057071,2024-09-03T22:15:48.672Z,"1 km NNW of The Geysers, CA",earthquake,0.27,0.629999995,0.22,11.0,automatic,nc,nc
+2024-09-03T22:12:49.911Z,63.0427,-149.8374,79.1,1.3,ml,,,,0.42,ak,ak024bcuwxq7,2024-09-03T22:14:42.286Z,"59 km SW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-09-03T21:45:56.280Z,18.114,-65.765,10.3,3.27,md,22.0,137.0,0.0717,0.17,pr,pr71459223,2024-09-03T22:17:46.278Z,"5 km SSE of Bajandas, Puerto Rico",earthquake,0.31,0.44,0.103219038056473,14.0,reviewed,pr,pr
