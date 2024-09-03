@@ -16910,3 +16910,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-03T03:39:39.290Z,34.2618332,-118.4834976,11.27,1.11,ml,13.0,105.0,0.02038,0.11,ci,ci40723151,2024-09-03T03:42:03.823Z,"2 km ESE of Granada Hills, CA",earthquake,0.65,0.82,0.082,6.0,automatic,ci,ci
 2024-09-03T03:34:33.839Z,38.7106,-118.6626,3.9,1.6,ml,8.0,157.36,0.137,0.3112,nn,nn00883762,2024-09-03T03:37:46.903Z,"10 km NE of Walker Lake, Nevada",earthquake,,7.7,0.07,4.0,automatic,nn,nn
 2024-09-03T03:30:12.683Z,38.848,-118.7337,5.6,1.9,ml,14.0,140.03,0.418,0.311,nn,nn00883760,2024-09-03T03:32:48.090Z,"13 km SSE of Schurz, Nevada",earthquake,,1.4,0.37,9.0,automatic,nn,nn
+2024-09-03T03:43:57.917Z,36.9707,-116.172,2.6,0.0,ml,10.0,77.19,0.066,0.156,nn,nn00883763,2024-09-03T03:45:46.459Z,"52 km E of Beatty, Nevada",earthquake,,0.9,0.41,7.0,automatic,nn,nn
+2024-09-03T03:42:38.328Z,35.68579865,-98.14851379,3.271878958,1.97,ml,26.0,50.6913147,0.06022335961,0.6724711457,ok,ok2024rhtc,2024-09-03T03:50:37.343Z,"9 km NNW of Calumet, Oklahoma",earthquake,2.292126098,1.871320241,0.28,12.0,automatic,ok,ok
+2024-09-03T01:36:09.708Z,55.0105,-162.2527,93.655,3.3,ml,26.0,174.0,0.523,0.46,us,us6000npem,2024-09-03T03:49:56.040Z,"7 km SE of King Cove, Alaska",earthquake,3.92,7.292,0.062,34.0,reviewed,us,us
