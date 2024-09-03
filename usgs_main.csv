@@ -17012,3 +17012,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-03T13:10:55.870Z,37.5628333333333,-113.0585,12.07,1.33,ml,16.0,66.0,0.03986,0.13,uu,uu80081196,2024-09-03T15:43:10.760Z,"11 km ENE of Kanarraville, Utah",earthquake,0.35,0.61,0.289842152571526,5.0,reviewed,uu,uu
 2024-09-02T19:52:44.130Z,35.79166667,-96.98616667,8.0,1.41,ml,27.0,63.0,0.1772652145,0.13,ok,ok2024rhdp,2024-09-03T15:43:48.428Z,"3 km SE of Carney, Oklahoma",earthquake,,145.3,0.25,11.0,reviewed,ok,ok
 2024-09-02T16:31:11.532Z,44.9822,-111.9304,5.0,2.3,ml,46.0,36.0,0.172,0.31,us,us6000npc2,2024-09-03T15:44:20.040Z,"34 km S of Virginia City, Montana",earthquake,1.08,0.695,0.043,70.0,reviewed,us,us
+2024-09-03T15:49:14.930Z,34.4121666,-120.0133362,-0.58,1.43,ml,10.0,128.0,0.1189,0.26,ci,ci40723567,2024-09-03T15:51:21.310Z,"14 km W of Isla Vista, CA",earthquake,1.06,2.13,0.304,6.0,automatic,ci,ci
+2024-09-03T15:47:42.600Z,32.9793333,-116.2138333,9.48,0.98,ml,40.0,47.0,0.07922,0.18,ci,ci40723551,2024-09-03T15:53:28.102Z,"20 km SSW of Ocotillo Wells, CA",earthquake,0.2,0.58,0.177,16.0,automatic,ci,ci
+2024-09-03T08:53:36.259Z,36.70083333,-97.6765,7.0,1.13,ml,65.0,50.0,0.2105586812,0.23,ok,ok2024ridi,2024-09-03T15:52:34.955Z,"10 km ESE of Jefferson, Oklahoma",earthquake,,0.6,0.24,25.0,reviewed,ok,ok
