@@ -16907,3 +16907,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-03T03:15:08.232Z,67.3889,-156.7165,0.0,2.3,ml,,,,0.61,ak,ak024bcjm95z,2024-09-03T03:22:07.246Z,"54 km N of Kobuk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-03T03:06:20.136Z,31.705,-104.487,4.9351,1.7,ml,16.0,85.0,0.0,0.4,tx,tx2024rhrx,2024-09-03T03:18:31.093Z,"53 km SSW of Whites City, New Mexico",earthquake,0.0,1.42813086509705,0.1,13.0,automatic,tx,tx
 2024-09-03T01:38:33.990Z,46.45933333333333,-122.39983333333332,15.34,0.52,ml,17.0,95.0,0.1511,0.1,uw,uw62043071,2024-09-03T03:27:18.750Z,"10 km SE of Mossyrock, Washington",earthquake,0.27,0.72,0.1375121466510198,4.0,reviewed,uw,uw
+2024-09-03T03:39:39.290Z,34.2618332,-118.4834976,11.27,1.11,ml,13.0,105.0,0.02038,0.11,ci,ci40723151,2024-09-03T03:42:03.823Z,"2 km ESE of Granada Hills, CA",earthquake,0.65,0.82,0.082,6.0,automatic,ci,ci
+2024-09-03T03:34:33.839Z,38.7106,-118.6626,3.9,1.6,ml,8.0,157.36,0.137,0.3112,nn,nn00883762,2024-09-03T03:37:46.903Z,"10 km NE of Walker Lake, Nevada",earthquake,,7.7,0.07,4.0,automatic,nn,nn
+2024-09-03T03:30:12.683Z,38.848,-118.7337,5.6,1.9,ml,14.0,140.03,0.418,0.311,nn,nn00883760,2024-09-03T03:32:48.090Z,"13 km SSE of Schurz, Nevada",earthquake,,1.4,0.37,9.0,automatic,nn,nn
