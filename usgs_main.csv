@@ -17356,3 +17356,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-04T20:57:22.286Z,63.184,-149.3977,76.0,1.9,ml,,,,0.64,ak,ak024behj03o,2024-09-04T21:00:13.421Z,"32 km SW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-04T20:51:47.780Z,35.6896667,-117.5333333,6.54,0.55,ml,16.0,65.0,0.09255,0.11,ci,ci40725007,2024-09-04T21:00:19.939Z,"14 km SW of Searles Valley, CA",earthquake,0.22,0.73,0.078,6.0,automatic,ci,ci
 2024-09-04T17:23:48.360Z,45.3355,-121.7085,6.92,-0.09,md,5.0,231.0,0.0495,0.1,uw,uw62043561,2024-09-04T21:04:52.710Z,"5 km NE of Government Camp, Oregon",earthquake,1.12,0.65,0.1930335881081353,4.0,reviewed,uw,uw
+2024-09-04T21:18:55.740Z,31.6,-103.959,6.5491,2.9,ml,15.0,70.0,0.0,0.2,tx,tx2024rkxm,2024-09-04T21:25:23.367Z,"35 km NNW of Toyah, Texas",earthquake,0.0,2.54698181152344,0.2,13.0,automatic,tx,tx
+2024-09-04T21:18:13.408Z,60.6329,-144.9524,28.8,2.0,ml,,,,0.74,ak,ak024behw23g,2024-09-04T21:19:57.352Z,"45 km ENE of Cordova, Alaska",earthquake,,0.2,,,automatic,ak,ak
