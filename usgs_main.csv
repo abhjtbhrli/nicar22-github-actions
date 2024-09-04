@@ -17192,3 +17192,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-03T11:43:39.930Z,37.4363333333333,-118.7535,10.47,0.71,md,16.0,214.0,0.1648,0.03,nc,nc75056861,2024-09-04T09:14:03.504Z,"14 km WNW of Round Valley, CA",earthquake,0.97,2.77,0.206,10.0,reviewed,nc,nc
 2024-09-04T09:17:18.560Z,35.6081667,-117.452,7.32,0.55,ml,20.0,75.0,0.02316,0.11,ci,ci40724375,2024-09-04T09:23:46.862Z,"18 km SSW of Searles Valley, CA",earthquake,0.18,0.35,0.068,6.0,automatic,ci,ci
 2024-09-04T09:30:56.272Z,37.7672,-117.1125,2.2,1.2,ml,18.0,181.81,0.563,0.2565,nn,nn00883854,2024-09-04T09:33:27.166Z,"12 km ENE of Goldfield, Nevada",earthquake,,12.0,0.2,10.0,automatic,nn,nn
+2024-09-04T09:45:56.751Z,37.7408,-117.1381,0.8,1.5,ml,25.0,153.07,0.451,0.2326,nn,nn00883859,2024-09-04T09:48:39.026Z,"9 km ENE of Goldfield, Nevada",earthquake,,23.1,0.21,16.0,automatic,nn,nn
+2024-09-04T09:43:56.768Z,37.8043,-117.0711,0.0,0.9,ml,14.0,189.66000000000005,0.572,0.3428,nn,nn00883856,2024-09-04T09:46:26.492Z,"17 km NE of Goldfield, Nevada",earthquake,,52.2,0.22,6.0,automatic,nn,nn
