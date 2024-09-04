@@ -17345,3 +17345,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-04T20:28:11.513Z,37.2879,-116.5567,12.9,0.5,ml,8.0,300.76,0.196,0.3146,nn,nn00883934,2024-09-04T20:30:20.900Z,"45 km NNE of Beatty, Nevada",earthquake,,2.6,0.19,5.0,automatic,nn,nn
 2024-09-04T20:24:13.604Z,37.677,-117.0944,6.8,2.7,ml,27.0,140.86,0.399,0.2791,nn,nn00883931,2024-09-04T20:26:55.860Z,"12 km ESE of Goldfield, Nevada",earthquake,,3.0,0.21,16.0,automatic,nn,nn
 2024-09-04T14:15:43.620Z,37.5603333333333,-113.07,12.86,2.09,ml,24.0,45.0,0.03769,0.2,uu,uu80081331,2024-09-04T20:27:22.150Z,"10 km ENE of Kanarraville, Utah",earthquake,0.31,0.53,0.196533383851383,12.0,reviewed,uu,uu
+2024-09-04T20:42:27.559Z,37.7371,-117.0521,0.0,0.9,ml,9.0,182.14000000000004,0.619,0.2041,nn,nn00883942,2024-09-04T20:45:10.976Z,"16 km E of Goldfield, Nevada",earthquake,,90.7,0.4,5.0,automatic,nn,nn
+2024-09-04T20:38:47.096Z,37.7461,-117.1346,0.9,0.9,ml,8.0,177.41000000000005,0.561,0.1988,nn,nn00883940,2024-09-04T20:41:11.255Z,"9 km ENE of Goldfield, Nevada",earthquake,,89.6,0.18,7.0,automatic,nn,nn
+2024-09-04T20:36:08.558Z,37.7306,-117.1592,12.4,1.0,ml,8.0,173.53000000000003,0.555,0.2251,nn,nn00883938,2024-09-04T20:38:20.958Z,"7 km ENE of Goldfield, Nevada",earthquake,,120.9,0.39,6.0,automatic,nn,nn
+2024-09-04T20:34:16.629Z,37.7328,-117.1444,3.8,0.7,ml,8.0,174.93,0.562,0.1275,nn,nn00883937,2024-09-04T20:37:01.079Z,"8 km ENE of Goldfield, Nevada",earthquake,,1095.0,0.13,5.0,automatic,nn,nn
