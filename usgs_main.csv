@@ -17350,3 +17350,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-04T20:36:08.558Z,37.7306,-117.1592,12.4,1.0,ml,8.0,173.53000000000003,0.555,0.2251,nn,nn00883938,2024-09-04T20:38:20.958Z,"7 km ENE of Goldfield, Nevada",earthquake,,120.9,0.39,6.0,automatic,nn,nn
 2024-09-04T20:34:16.629Z,37.7328,-117.1444,3.8,0.7,ml,8.0,174.93,0.562,0.1275,nn,nn00883937,2024-09-04T20:37:01.079Z,"8 km ENE of Goldfield, Nevada",earthquake,,1095.0,0.13,5.0,automatic,nn,nn
 2024-09-04T20:47:45.245Z,37.736,-117.1351,10.7,1.2,ml,12.0,176.04999999999995,0.566,0.217,nn,nn00883943,2024-09-04T20:50:42.210Z,"9 km ENE of Goldfield, Nevada",earthquake,,1.9,0.09,8.0,automatic,nn,nn
+2024-09-04T21:07:55.195Z,37.7499,-117.1246,0.1,1.1,ml,11.0,178.65000000000003,0.565,0.2525,nn,nn00883948,2024-09-04T21:10:02.094Z,"10 km ENE of Goldfield, Nevada",earthquake,,83.2,0.4,6.0,automatic,nn,nn
+2024-09-04T21:03:19.508Z,37.7382,-117.2847,13.8,0.6,ml,8.0,336.86,0.744,0.1984,nn,nn00883947,2024-09-04T21:05:41.181Z,"5 km NW of Goldfield, Nevada",earthquake,,2.9,0.36,4.0,automatic,nn,nn
+2024-09-04T21:01:36.532Z,37.7473,-117.1315,3.3,0.9,ml,10.0,177.81,0.562,0.195,nn,nn00883945,2024-09-04T21:03:51.675Z,"10 km ENE of Goldfield, Nevada",earthquake,,1032.8,0.16,7.0,automatic,nn,nn
+2024-09-04T20:57:22.286Z,63.184,-149.3977,76.0,1.9,ml,,,,0.64,ak,ak024behj03o,2024-09-04T21:00:13.421Z,"32 km SW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-09-04T20:51:47.780Z,35.6896667,-117.5333333,6.54,0.55,ml,16.0,65.0,0.09255,0.11,ci,ci40725007,2024-09-04T21:00:19.939Z,"14 km SW of Searles Valley, CA",earthquake,0.22,0.73,0.078,6.0,automatic,ci,ci
+2024-09-04T17:23:48.360Z,45.3355,-121.7085,6.92,-0.09,md,5.0,231.0,0.0495,0.1,uw,uw62043561,2024-09-04T21:04:52.710Z,"5 km NE of Government Camp, Oregon",earthquake,1.12,0.65,0.1930335881081353,4.0,reviewed,uw,uw
