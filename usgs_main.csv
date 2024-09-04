@@ -17358,3 +17358,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-04T17:23:48.360Z,45.3355,-121.7085,6.92,-0.09,md,5.0,231.0,0.0495,0.1,uw,uw62043561,2024-09-04T21:04:52.710Z,"5 km NE of Government Camp, Oregon",earthquake,1.12,0.65,0.1930335881081353,4.0,reviewed,uw,uw
 2024-09-04T21:18:55.740Z,31.6,-103.959,6.5491,2.9,ml,15.0,70.0,0.0,0.2,tx,tx2024rkxm,2024-09-04T21:25:23.367Z,"35 km NNW of Toyah, Texas",earthquake,0.0,2.54698181152344,0.2,13.0,automatic,tx,tx
 2024-09-04T21:18:13.408Z,60.6329,-144.9524,28.8,2.0,ml,,,,0.74,ak,ak024behw23g,2024-09-04T21:19:57.352Z,"45 km ENE of Cordova, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-09-04T21:30:41.150Z,19.3706665039062,-155.18733215332,2.19000005722046,1.72,ml,24.0,126.0,0.01914,0.230000004,hv,hv74441716,2024-09-04T21:33:34.610Z,"9 km SSE of Volcano, Hawaii",earthquake,0.65,0.479999989,0.25,3.0,automatic,hv,hv
+2024-09-04T21:06:20.950Z,31.575,-103.37,4.7534,1.9,ml,6.0,246.0,0.2,1.1,tx,tx2024rkxa,2024-09-04T21:30:30.399Z,"12 km N of Barstow, Texas",earthquake,0.0,4.36836194992065,0.1,6.0,automatic,tx,tx
