@@ -17260,3 +17260,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-04T09:35:14.200Z,46.8151666666667,-111.596,13.34,2.34,ml,32.0,159.0,0.1925,0.21,mb,mb90060738,2024-09-04T14:31:21.900Z,"30 km ENE of Helena Valley Northeast, Montana",earthquake,0.6,0.54,0.25617764176401,33.0,reviewed,mb,mb
 2024-09-03T18:01:01.899Z,35.87866667,-98.03933333,6.4,1.33,ml,51.0,81.0,0.0863830487,0.21,ok,ok2024rivk,2024-09-04T14:21:48.251Z,"9 km W of Kingfisher, Oklahoma",earthquake,,0.5,0.27,20.0,reviewed,ok,ok
 2024-09-03T16:14:25.149Z,35.0275,-97.76383333,7.66,1.08,ml,49.0,73.0,0.1115781046,0.3,ok,ok2024rirx,2024-09-04T14:30:10.215Z,"12 km W of Dibble, Oklahoma",earthquake,,0.7,0.24,21.0,reviewed,ok,ok
+2024-09-04T14:36:19.424Z,59.5365,-152.8693,93.1,2.3,ml,,,,0.81,ak,ak024bedtw7q,2024-09-04T14:38:55.273Z,"57 km WNW of Nanwalek, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-09-04T14:29:01.498Z,37.663,-117.2395,16.0,0.7,ml,8.0,176.87,0.555,0.1514,nn,nn00883899,2024-09-04T14:31:47.311Z,"5 km S of Goldfield, Nevada",earthquake,,2.0,0.35,5.0,automatic,nn,nn
+2024-09-03T15:54:35.219Z,36.23066667,-95.83916667,0.0,1.24,ml,42.0,184.0,0.3221367858,0.39,ok,ok2024rirg,2024-09-04T14:44:49.929Z,"4 km SSE of Owasso, Oklahoma",quarry blast,,0.7,0.19,18.0,reviewed,ok,ok
+2024-09-03T15:10:26.540Z,38.4898333333333,-112.876833333333,0.43,1.34,md,14.0,69.0,0.006266,0.1,uu,uu80081206,2024-09-04T14:41:09.100Z,"15 km NE of Milford, Utah",earthquake,0.28,0.49,0.553861398372666,7.0,reviewed,uu,uu
