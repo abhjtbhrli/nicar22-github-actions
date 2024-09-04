@@ -17160,3 +17160,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-04T04:58:34.580Z,33.917,-116.2005,9.19,0.73,ml,29.0,72.0,0.02406,0.16,ci,ci40724319,2024-09-04T05:10:58.347Z,"21 km ENE of Thousand Palms, CA",earthquake,0.24,0.4,0.234,9.0,automatic,ci,ci
 2024-09-04T05:27:08.835Z,37.1775,-116.8316,2.0,0.8,ml,13.0,288.19,0.094,0.3133,nn,nn00883848,2024-09-04T05:29:14.576Z,"30 km NNW of Beatty, Nevada",earthquake,,1.2,0.48,8.0,automatic,nn,nn
 2024-09-04T05:26:49.192Z,36.7266,-116.1217,6.9,-0.4,ml,11.0,63.900000000000006,0.036,0.072,nn,nn00883847,2024-09-04T05:28:24.349Z,"43 km WNW of Indian Springs, Nevada",earthquake,,0.7,0.08,7.0,automatic,nn,nn
+2024-09-04T05:29:30.900Z,37.7596664428711,-122.56583404541,12.9700002670288,1.37,md,7.0,182.0,0.1495,0.01,nc,nc75057176,2024-09-04T05:31:07.763Z,"6 km NW of San Francisco Zoo, CA",earthquake,1.27,3.52999997,0.08,4.0,automatic,nc,nc
