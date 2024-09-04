@@ -17188,3 +17188,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-04T08:52:38.273Z,61.7322,-150.4781,28.6,1.6,ml,,,,0.58,ak,ak024beacrhv,2024-09-04T08:54:49.783Z,"21 km N of Susitna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-04T08:45:19.565Z,37.7376,-117.1421,4.9,0.8,ml,8.0,175.74,0.561,0.121,nn,nn00883852,2024-09-04T08:47:55.091Z,"8 km ENE of Goldfield, Nevada",earthquake,,8.9,0.23,8.0,automatic,nn,nn
 2024-09-03T11:06:28.670Z,37.4215,-118.7365,13.66,1.45,md,27.0,133.0,0.1484,0.04,nc,nc75056856,2024-09-04T08:51:57.903Z,"12 km WNW of Round Valley, CA",earthquake,0.51,1.39,0.141,21.0,reviewed,nc,nc
+2024-09-04T09:10:54.522Z,65.3811,-153.4301,0.0,1.3,ml,,,,0.53,ak,ak024beap8a4,2024-09-04T09:12:54.552Z,"67 km WNW of Tanana, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-09-03T11:43:39.930Z,37.4363333333333,-118.7535,10.47,0.71,md,16.0,214.0,0.1648,0.03,nc,nc75056861,2024-09-04T09:14:03.504Z,"14 km WNW of Round Valley, CA",earthquake,0.97,2.77,0.206,10.0,reviewed,nc,nc
