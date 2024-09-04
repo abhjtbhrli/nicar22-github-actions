@@ -17158,3 +17158,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-04T03:54:26.930Z,17.941,-66.783,9.54,2.96,md,15.0,175.0,0.07899,0.32,pr,pr71459233,2024-09-04T04:49:11.030Z,"7 km SSE of Indios, Puerto Rico",earthquake,0.92,1.4,0.0753911281012476,7.0,reviewed,pr,pr
 2024-09-04T05:01:47.100Z,38.8388328552246,-122.834831237793,1.26999998092651,0.28,md,12.0,82.0,0.0005671,0.02,nc,nc75057171,2024-09-04T05:03:21.660Z,"10 km NNW of The Geysers, CA",earthquake,0.25,0.579999983,0.19,13.0,automatic,nc,nc
 2024-09-04T04:58:34.580Z,33.917,-116.2005,9.19,0.73,ml,29.0,72.0,0.02406,0.16,ci,ci40724319,2024-09-04T05:10:58.347Z,"21 km ENE of Thousand Palms, CA",earthquake,0.24,0.4,0.234,9.0,automatic,ci,ci
+2024-09-04T05:27:08.835Z,37.1775,-116.8316,2.0,0.8,ml,13.0,288.19,0.094,0.3133,nn,nn00883848,2024-09-04T05:29:14.576Z,"30 km NNW of Beatty, Nevada",earthquake,,1.2,0.48,8.0,automatic,nn,nn
+2024-09-04T05:26:49.192Z,36.7266,-116.1217,6.9,-0.4,ml,11.0,63.900000000000006,0.036,0.072,nn,nn00883847,2024-09-04T05:28:24.349Z,"43 km WNW of Indian Springs, Nevada",earthquake,,0.7,0.08,7.0,automatic,nn,nn
