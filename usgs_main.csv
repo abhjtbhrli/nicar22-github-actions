@@ -17156,3 +17156,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-04T04:16:27.801Z,60.5297,-151.9472,89.7,1.4,ml,,,,0.3,ak,ak024be7raho,2024-09-04T04:18:42.555Z,"35 km WSW of Salamatof, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2024-09-04T04:36:35.553Z,64.4734,-146.9561,2.9,0.9,ml,,,,0.47,ak,ak024be7vler,2024-09-04T04:38:31.636Z,"6 km SSW of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-04T03:54:26.930Z,17.941,-66.783,9.54,2.96,md,15.0,175.0,0.07899,0.32,pr,pr71459233,2024-09-04T04:49:11.030Z,"7 km SSE of Indios, Puerto Rico",earthquake,0.92,1.4,0.0753911281012476,7.0,reviewed,pr,pr
+2024-09-04T05:01:47.100Z,38.8388328552246,-122.834831237793,1.26999998092651,0.28,md,12.0,82.0,0.0005671,0.02,nc,nc75057171,2024-09-04T05:03:21.660Z,"10 km NNW of The Geysers, CA",earthquake,0.25,0.579999983,0.19,13.0,automatic,nc,nc
+2024-09-04T04:58:34.580Z,33.917,-116.2005,9.19,0.73,ml,29.0,72.0,0.02406,0.16,ci,ci40724319,2024-09-04T05:10:58.347Z,"21 km ENE of Thousand Palms, CA",earthquake,0.24,0.4,0.234,9.0,automatic,ci,ci
