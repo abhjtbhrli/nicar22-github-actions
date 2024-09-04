@@ -17185,3 +17185,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-04T08:25:20.100Z,36.4113,-115.2741,0.0,0.7,ml,16.0,325.57,0.607,0.2916,nn,nn00883851,2024-09-04T08:27:45.948Z,"26 km NW of Nellis Air Force Base, Nevada",earthquake,,43.7,0.44,6.0,automatic,nn,nn
 2024-09-04T08:19:12.740Z,19.3435001373291,-155.119003295898,2.99000000953674,2.01,ml,47.0,131.0,0.04159,0.219999999,hv,hv74440127,2024-09-04T08:22:04.250Z,"13 km S of Fern Forest, Hawaii",earthquake,0.38,0.699999988,0.88,7.0,automatic,hv,hv
 2024-09-04T08:39:29.929Z,63.0467,-150.6693,116.3,1.2,ml,,,,0.05,ak,ak024bea9yjk,2024-09-04T08:41:55.746Z,"61 km N of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-09-04T08:52:38.273Z,61.7322,-150.4781,28.6,1.6,ml,,,,0.58,ak,ak024beacrhv,2024-09-04T08:54:49.783Z,"21 km N of Susitna, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-09-04T08:45:19.565Z,37.7376,-117.1421,4.9,0.8,ml,8.0,175.74,0.561,0.121,nn,nn00883852,2024-09-04T08:47:55.091Z,"8 km ENE of Goldfield, Nevada",earthquake,,8.9,0.23,8.0,automatic,nn,nn
+2024-09-03T11:06:28.670Z,37.4215,-118.7365,13.66,1.45,md,27.0,133.0,0.1484,0.04,nc,nc75056856,2024-09-04T08:51:57.903Z,"12 km WNW of Round Valley, CA",earthquake,0.51,1.39,0.141,21.0,reviewed,nc,nc
