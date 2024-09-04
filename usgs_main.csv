@@ -17236,3 +17236,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-04T07:17:56.939Z,34.9935,-97.73783333,1.38,0.79,ml,33.0,69.0,0.1052793406,0.5,ok,ok2024rjvs,2024-09-04T13:24:18.191Z,"9 km NNE of Alex, Oklahoma",earthquake,,1.5,0.22,15.0,reviewed,ok,ok
 2024-09-03T23:46:27.253Z,32.33,-101.776,7.0557,1.7,ml,30.0,46.0,0.0,0.1,tx,tx2024rjgu,2024-09-04T13:06:50.663Z,"22 km N of Stanton, Texas",earthquake,0.4406606525145553,0.6050152295635282,0.1,36.0,reviewed,tx,tx
 2024-09-03T23:07:22.338Z,32.392,-101.583,5.3467,1.9,ml,20.0,88.0,0.0,0.1,tx,tx2024rjfn,2024-09-04T13:20:38.770Z,"18 km NNW of Big Spring, Texas",earthquake,0.4964106829962578,1.106732594615386,0.2,25.0,reviewed,tx,tx
+2024-09-04T13:34:11.890Z,35.5323334,-117.458168,3.26,1.04,ml,9.0,159.0,0.05415,0.14,ci,ci40724487,2024-09-04T13:36:18.265Z,"22 km ESE of Ridgecrest, CA",earthquake,0.69,1.5,0.127,3.0,automatic,ci,ci
+2024-09-04T13:21:23.745Z,37.7767,-117.0997,2.9,0.9,ml,12.0,183.99,0.566,0.2441,nn,nn00883897,2024-09-04T13:23:48.009Z,"14 km ENE of Goldfield, Nevada",earthquake,,19.8,0.27,7.0,automatic,nn,nn
+2024-09-04T10:33:06.270Z,44.7823333333333,-110.6835,4.55,1.46,ml,17.0,97.0,0.05765,0.16,uu,uu80081311,2024-09-04T13:23:35.360Z,"21 km S of Mammoth, Wyoming",earthquake,0.4,0.53,0.602226340902405,3.0,reviewed,uu,uu
+2024-09-03T22:16:19.170Z,34.4935,-97.584,14.0,0.88,ml,16.0,91.0,0.1871632722,0.28,ok,ok2024rjdv,2024-09-04T13:34:19.225Z,"8 km NW of Ratliff City, Oklahoma",earthquake,,2.2,0.28,9.0,reviewed,ok,ok
