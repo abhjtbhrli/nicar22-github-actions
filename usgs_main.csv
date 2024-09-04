@@ -17240,3 +17240,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-04T13:21:23.745Z,37.7767,-117.0997,2.9,0.9,ml,12.0,183.99,0.566,0.2441,nn,nn00883897,2024-09-04T13:23:48.009Z,"14 km ENE of Goldfield, Nevada",earthquake,,19.8,0.27,7.0,automatic,nn,nn
 2024-09-04T10:33:06.270Z,44.7823333333333,-110.6835,4.55,1.46,ml,17.0,97.0,0.05765,0.16,uu,uu80081311,2024-09-04T13:23:35.360Z,"21 km S of Mammoth, Wyoming",earthquake,0.4,0.53,0.602226340902405,3.0,reviewed,uu,uu
 2024-09-03T22:16:19.170Z,34.4935,-97.584,14.0,0.88,ml,16.0,91.0,0.1871632722,0.28,ok,ok2024rjdv,2024-09-04T13:34:19.225Z,"8 km NW of Ratliff City, Oklahoma",earthquake,,2.2,0.28,9.0,reviewed,ok,ok
+2024-09-04T13:37:05.970Z,39.2446670532227,-123.094833374023,5.90999984741211,1.22,md,9.0,70.0,0.1154,0.05,nc,nc75057271,2024-09-04T13:38:41.810Z,"10 km ESE of Redwood Valley, CA",earthquake,0.41,1.67999995,0.02,4.0,automatic,nc,nc
+2024-09-03T22:04:31.390Z,32.336,-101.778,6.5674,1.8,ml,24.0,36.0,0.0,0.1,tx,tx2024rjdl,2024-09-04T13:39:18.915Z,"21 km SSW of Ackerly, Texas",earthquake,0.4370699728176149,0.6048246084143414,0.2,31.0,reviewed,tx,tx
+2024-09-03T20:37:56.179Z,35.68166667,-98.14483333,5.28,1.29,ml,79.0,32.0,0.06208781625,0.41,ok,ok2024rjap,2024-09-04T13:46:44.092Z,"9 km NNW of Calumet, Oklahoma",earthquake,,1.0,0.2,31.0,reviewed,ok,ok
