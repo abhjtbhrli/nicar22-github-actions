@@ -17147,3 +17147,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-04T02:36:08.403Z,-17.0775,-174.8282,210.107,4.5,mb,17.0,139.0,4.086,0.71,us,us6000npl8,2024-09-04T03:00:25.040Z,"166 km SW of Hihifo, Tonga",earthquake,9.71,9.658,0.171,10.0,reviewed,us,us
 2024-09-04T02:32:55.400Z,48.0461666666667,-114.061666666667,11.17,1.14,ml,13.0,113.0,0.186,0.22,mb,mb90060723,2024-09-04T03:10:24.810Z,"2 km SSE of Bigfork, Montana",earthquake,0.74,1.92,0.135959847767684,5.0,reviewed,mb,mb
 2024-09-04T02:16:31.630Z,46.8255,-111.602166666667,10.66,1.34,ml,16.0,160.0,0.1949,0.09,mb,mb90060718,2024-09-04T03:16:26.360Z,"30 km ENE of Helena Valley Northeast, Montana",earthquake,0.51,0.63,0.187951995686456,9.0,reviewed,mb,mb
+2024-09-03T23:22:52.130Z,44.986,-111.926333333333,3.93,1.64,ml,11.0,85.0,0.1696,0.08,mb,mb90060703,2024-09-04T03:25:03.510Z,"34 km S of Virginia City, Montana",earthquake,0.38,7.73,0.298961162481534,16.0,reviewed,mb,mb
