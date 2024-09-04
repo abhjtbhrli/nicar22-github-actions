@@ -17367,3 +17367,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-04T21:38:13.347Z,36.6083,-115.6359,3.1,0.7,ml,16.0,310.54,0.267,0.2082,nn,nn00883957,2024-09-04T21:40:13.613Z,"5 km NE of Indian Springs, Nevada",earthquake,,12.1,0.33,11.0,automatic,nn,nn
 2024-09-04T21:35:41.009Z,37.4298,-116.7864,4.3,0.9,ml,13.0,221.76,0.29,0.3723,nn,nn00883955,2024-09-04T21:37:52.839Z,"50 km SE of Goldfield, Nevada",earthquake,,1.9,0.25,8.0,automatic,nn,nn
 2024-09-04T21:35:11.830Z,19.1464996337891,-155.462661743164,32.2400016784668,2.01999998,md,33.0,246.0,0.008882,0.150000006,hv,hv74441726,2024-09-04T21:36:48.680Z,"6 km SSE of Pāhala, Hawaii",earthquake,0.75,0.829999983,0.119999997,5.0,automatic,hv,hv
+2024-09-04T21:47:33.494Z,37.7456,-117.1186,6.4,2.2,ml,26.0,131.33999999999995,0.459,0.2936,nn,nn00883965,2024-09-04T21:49:57.412Z,"11 km ENE of Goldfield, Nevada",earthquake,,1.5,0.22,19.0,automatic,nn,nn
+2024-09-04T21:31:10.979Z,37.743,-117.1343,5.0,3.1,ml,10.0,124.0,0.453,0.67,us,us6000nprk,2024-09-04T21:54:38.040Z,"9 km ENE of Goldfield, Nevada",earthquake,1.06,1.932,0.036,104.0,reviewed,us,us
+2024-09-04T21:30:36.558Z,37.737,-117.1427,8.6,2.9,ml,23.0,94.32,0.194,0.2149,nn,nn00883951,2024-09-04T21:54:40.238Z,"8 km ENE of Goldfield, Nevada",earthquake,,1.7,0.15,7.0,reviewed,nn,nn
