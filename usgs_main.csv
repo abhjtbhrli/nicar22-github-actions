@@ -17510,3 +17510,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-05T09:11:06.850Z,35.6796684,-117.4759979,8.34,1.85,ml,31.0,72.0,0.04498,0.19,ci,ci40725455,2024-09-05T09:13:17.038Z,"12 km SSW of Searles Valley, CA",earthquake,0.37,1.01,0.193,18.0,automatic,ci,ci
 2024-09-05T09:09:11.270Z,33.6716667,-116.7231667,14.58,0.4,ml,30.0,60.0,0.04011,0.12,ci,ci40725447,2024-09-05T09:15:45.350Z,"8 km S of Idyllwild, CA",earthquake,0.2,0.34,0.286,9.0,automatic,ci,ci
 2024-09-05T09:05:05.674Z,63.2894,-151.7451,16.3,1.8,ml,,,,1.31,ak,ak024bfy7efb,2024-09-05T09:07:40.349Z,"28 km S of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-09-05T09:36:00.852Z,61.6852,-151.4085,14.6,1.2,ml,,,,0.16,ak,ak024bfye191,2024-09-05T09:37:25.181Z,"34 km S of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-09-05T09:32:54.060Z,33.4713333,-116.7548333,8.71,0.79,ml,51.0,27.0,0.05494,0.18,ci,ci40725463,2024-09-05T09:39:00.464Z,"11 km ENE of Aguanga, CA",earthquake,0.15,0.47,0.169,24.0,automatic,ci,ci
+2024-09-05T09:17:15.940Z,17.956,-67.0141666666667,8.1,2.55,md,18.0,198.0,0.03157,0.27,pr,pr71459328,2024-09-05T09:37:27.780Z,"4 km ESE of La Parguera, Puerto Rico",earthquake,0.6,1.11,0.0767357286490333,5.0,reviewed,pr,pr
