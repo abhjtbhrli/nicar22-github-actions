@@ -17644,3 +17644,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-05T19:19:15.125Z,36.4082,-115.271,0.2,0.8,ml,8.0,330.93,0.611,0.3079,nn,nn00884142,2024-09-05T19:21:33.317Z,"26 km NW of Nellis Air Force Base, Nevada",earthquake,,70.3,0.38,5.0,automatic,nn,nn
 2024-09-05T19:10:00.090Z,36.75433333,-98.07066667,6.54,1.4,ml,52.0,109.0,0.1043795172,0.16,ok,ok2024rmos,2024-09-05T19:32:37.635Z,"7 km E of Nescatunga, Oklahoma",earthquake,,0.4,0.2,22.0,reviewed,ok,ok
 2024-09-05T18:35:29.330Z,34.3886667,-117.6653333,7.69,0.82,ml,23.0,86.0,0.01255,0.16,ci,ci40725935,2024-09-05T19:27:10.874Z,"4 km NW of Wrightwood, CA",earthquake,0.28,0.59,0.088,9.0,reviewed,ci,ci
+2024-09-05T19:32:34.819Z,62.0024,-149.7629,41.0,1.9,ml,,,,1.01,ak,ak024bg4bkzv,2024-09-05T19:36:29.506Z,"18 km SSE of Susitna North, Alaska",earthquake,,2.5,,,automatic,ak,ak
