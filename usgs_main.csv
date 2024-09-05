@@ -17507,3 +17507,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-05T08:43:40.670Z,46.20500183105469,-122.19683074951172,0.709999978542328,0.579999983,md,17.0,50.0,,0.119999997,uw,uw62043741,2024-09-05T08:45:54.170Z,"38 km NNE of Amboy, Washington",earthquake,0.36,0.439999998,,1.0,automatic,uw,uw
 2024-09-05T08:42:36.598Z,31.644,-104.473,5.6708,1.6,ml,8.0,109.0,0.0,0.4,tx,tx2024rlua,2024-09-05T08:49:53.100Z,"59 km S of Whites City, New Mexico",earthquake,0.0,5.02815389633179,0.2,6.0,automatic,tx,tx
 2024-09-05T08:25:17.650Z,-33.819,-179.427,42.401,5.0,mb,36.0,124.0,4.165,0.94,us,us6000nptr,2024-09-05T08:50:51.040Z,south of the Kermadec Islands,earthquake,11.61,7.854,0.1,32.0,reviewed,us,us
+2024-09-05T09:11:06.850Z,35.6796684,-117.4759979,8.34,1.85,ml,31.0,72.0,0.04498,0.19,ci,ci40725455,2024-09-05T09:13:17.038Z,"12 km SSW of Searles Valley, CA",earthquake,0.37,1.01,0.193,18.0,automatic,ci,ci
+2024-09-05T09:09:11.270Z,33.6716667,-116.7231667,14.58,0.4,ml,30.0,60.0,0.04011,0.12,ci,ci40725447,2024-09-05T09:15:45.350Z,"8 km S of Idyllwild, CA",earthquake,0.2,0.34,0.286,9.0,automatic,ci,ci
+2024-09-05T09:05:05.674Z,63.2894,-151.7451,16.3,1.8,ml,,,,1.31,ak,ak024bfy7efb,2024-09-05T09:07:40.349Z,"28 km S of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
