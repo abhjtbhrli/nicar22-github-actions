@@ -17565,3 +17565,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-05T14:00:53.310Z,38.8273315429688,-122.80583190918,1.51999998092651,0.76,md,7.0,182.0,0.005141,0.01,nc,nc75057766,2024-09-05T14:02:28.801Z,"7 km NNW of The Geysers, CA",earthquake,0.66,0.949999988,0.26,8.0,automatic,nc,nc
 2024-09-05T13:57:13.430Z,32.98,-116.2703333,10.36,0.59,ml,19.0,72.0,0.1182,0.16,ci,ci40725607,2024-09-05T14:09:48.605Z,"22 km SW of Ocotillo Wells, CA",earthquake,0.23,0.89,0.042,6.0,automatic,ci,ci
 2024-09-05T01:40:57.470Z,38.4966666666667,-112.877333333333,1.01,0.95,md,11.0,69.0,0.004286,0.08,uu,uu80081431,2024-09-05T14:10:28.540Z,"16 km NE of Milford, Utah",earthquake,0.27,0.46,0.397331812197738,3.0,reviewed,uu,uu
+2024-09-05T14:12:33.561Z,63.0585,-150.6494,105.2,2.1,ml,,,,0.42,ak,ak024bg184m4,2024-09-05T14:14:39.917Z,"62 km N of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-09-05T14:12:31.798Z,56.4463,-158.0627,102.3,2.0,ml,,,,0.5,ak,ak024bg184h7,2024-09-05T14:14:09.047Z,"27 km NE of Chignik, Alaska",earthquake,,2.6,,,automatic,ak,ak
