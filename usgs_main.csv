@@ -17513,3 +17513,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-05T09:36:00.852Z,61.6852,-151.4085,14.6,1.2,ml,,,,0.16,ak,ak024bfye191,2024-09-05T09:37:25.181Z,"34 km S of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-09-05T09:32:54.060Z,33.4713333,-116.7548333,8.71,0.79,ml,51.0,27.0,0.05494,0.18,ci,ci40725463,2024-09-05T09:39:00.464Z,"11 km ENE of Aguanga, CA",earthquake,0.15,0.47,0.169,24.0,automatic,ci,ci
 2024-09-05T09:17:15.940Z,17.956,-67.0141666666667,8.1,2.55,md,18.0,198.0,0.03157,0.27,pr,pr71459328,2024-09-05T09:37:27.780Z,"4 km ESE of La Parguera, Puerto Rico",earthquake,0.6,1.11,0.0767357286490333,5.0,reviewed,pr,pr
+2024-09-05T09:38:31.870Z,33.6438333,-116.7206667,15.31,0.31,ml,22.0,56.0,0.0464,0.11,ci,ci40725471,2024-09-05T09:44:30.518Z,"11 km S of Idyllwild, CA",earthquake,0.22,0.37,0.32,7.0,automatic,ci,ci
