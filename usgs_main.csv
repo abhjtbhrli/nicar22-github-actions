@@ -17578,3 +17578,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-05T15:07:01.279Z,60.9387,-147.3314,18.3,2.0,ml,,,,1.13,ak,ak024bg1sf4d,2024-09-05T15:09:13.854Z,"36 km WNW of Tatitlek, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2024-09-05T14:56:35.119Z,31.598,-103.979,4.5933,1.5,ml,14.0,61.0,0.0,0.3,tx,tx2024rmgj,2024-09-05T15:15:33.365Z,"36 km NNW of Toyah, Texas",earthquake,0.0,1.33421754837036,0.1,12.0,automatic,tx,tx
 2024-09-05T00:53:26.664Z,31.773,-101.926,8.374,1.5,ml,24.0,61.0,0.1,0.1,tx,tx2024rlen,2024-09-05T15:20:54.392Z,"28 km SSE of Midland, Texas",earthquake,0.7412298722573971,1.2321800866592936,0.1,37.0,reviewed,tx,tx
+2024-09-05T14:55:08.449Z,31.692,-104.123,3.6337,1.8,ml,19.0,80.0,0.1,0.4,tx,tx2024rmgh,2024-09-05T15:30:08.451Z,"49 km W of Mentone, Texas",earthquake,0.0,1.22512102127075,0.2,15.0,automatic,tx,tx
