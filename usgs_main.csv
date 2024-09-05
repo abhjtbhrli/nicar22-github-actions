@@ -17636,3 +17636,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-05T17:45:39.720Z,38.4968333333333,-112.881,1.51,0.27,md,11.0,59.0,0.006484,0.07,uu,uu80081526,2024-09-05T18:33:21.510Z,"15 km NE of Milford, Utah",earthquake,0.25,0.39,0.561561322319264,4.0,reviewed,uu,uu
 2024-09-05T17:43:44.050Z,38.4993333333333,-112.8795,1.24,1.07,md,12.0,84.0,0.006035,0.07,uu,uu80081521,2024-09-05T18:28:42.500Z,"16 km NE of Milford, Utah",earthquake,0.22,0.38,0.390783454157815,4.0,reviewed,uu,uu
 2024-09-05T03:17:22.410Z,33.878,-116.2888333,4.83,0.63,ml,17.0,82.0,0.0985,0.15,ci,ci40725335,2024-09-05T18:30:12.318Z,"11 km NE of Thousand Palms, CA",earthquake,0.23,0.55,0.104,8.0,reviewed,ci,ci
+2024-09-05T16:59:17.170Z,4.4352,128.0952,72.116,4.4,mb,28.0,120.0,3.622,0.83,us,us6000npw9,2024-09-05T18:46:37.040Z,"299 km N of Tobelo, Indonesia",earthquake,5.84,9.279,0.12,22.0,reviewed,us,us
