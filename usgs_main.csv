@@ -17684,3 +17684,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-04T22:17:13.440Z,58.2841666666667,-155.035333333333,2.74,-0.06,ml,5.0,243.0,0.0191,0.11,av,av93020104,2024-09-05T21:57:08.430Z,"86 km NNW of Karluk, Alaska",earthquake,0.66,0.34,0.153135887095234,5.0,reviewed,av,av
 2024-09-05T22:14:49.741Z,37.5487,-116.8759,16.0,0.7,ml,10.0,124.94,0.394,0.6201,nn,nn00884178,2024-09-05T22:16:56.083Z,"36 km ESE of Goldfield, Nevada",earthquake,,1.9,0.25,5.0,automatic,nn,nn
 2024-09-05T22:11:18.784Z,36.6378,-115.7554,5.7,1.2,ml,24.0,235.14,0.168,0.1989,nn,nn00884176,2024-09-05T22:13:29.365Z,"10 km NW of Indian Springs, Nevada",earthquake,,1.0,0.2,15.0,automatic,nn,nn
+2024-09-05T22:25:12.928Z,60.6559,-150.9255,38.9,2.0,ml,,,,0.2,ak,ak024bg62c64,2024-09-05T22:26:41.099Z,"15 km NNW of Sterling, Alaska",earthquake,,1.3,,,automatic,ak,ak
