@@ -17474,3 +17474,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-05T05:58:12.572Z,59.9571,-152.2471,85.9,1.6,ml,,,,0.21,ak,ak024bfw51hl,2024-09-05T06:00:07.399Z,"28 km W of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-09-05T05:52:46.440Z,33.6908333,-116.6376667,14.62,0.3,ml,24.0,70.0,0.03723,0.1,ci,ci40725399,2024-09-05T05:58:49.831Z,"9 km SE of Idyllwild, CA",earthquake,0.22,0.3,0.169,7.0,automatic,ci,ci
 2024-09-05T05:26:58.720Z,4.6982,-82.756,10.0,4.9,mww,52.0,141.0,3.731,1.08,us,us6000npsw,2024-09-05T06:23:58.040Z,south of Panama,earthquake,9.84,1.921,0.061,26.0,reviewed,us,us
+2024-09-05T06:29:38.870Z,33.8856667,-116.2181667,2.43,0.64,ml,30.0,68.0,0.05441,0.2,ci,ci40725423,2024-09-05T06:35:52.684Z,"18 km ENE of Thousand Palms, CA",earthquake,0.26,0.45,0.131,12.0,automatic,ci,ci
+2024-09-05T06:29:24.163Z,37.7795,-117.0991,0.0,1.0,ml,10.0,184.41,0.565,0.3255,nn,nn00884071,2024-09-05T06:31:47.023Z,"14 km ENE of Goldfield, Nevada",earthquake,,84.4,0.28,6.0,automatic,nn,nn
+2024-09-05T05:45:26.730Z,19.1153,-64.0933,50.0,3.59,md,8.0,325.0,0.8754,0.41,pr,pr2024249000,2024-09-05T06:34:47.700Z,"113 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,10.83,19.8,0.16,6.0,reviewed,pr,pr
