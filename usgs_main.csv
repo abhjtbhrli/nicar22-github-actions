@@ -17543,3 +17543,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-05T11:23:17.150Z,31.609,-104.213,2.7513,1.7,ml,5.0,166.0,0.1,0.3,tx,tx2024rlzo,2024-09-05T11:55:15.369Z,"51 km NW of Toyah, Texas",earthquake,0.0,2.33599066734314,0.6,5.0,automatic,tx,tx
 2024-09-04T22:47:13.053Z,31.876,-103.488,6.0614,2.2,ml,17.0,49.0,0.1,0.1,tx,tx2024rlaj,2024-09-05T12:08:58.566Z,"21 km NNE of Mentone, Texas",earthquake,0.5655146943118754,1.04398413611887,0.1,18.0,reviewed,tx,tx
 2024-09-04T20:55:34.430Z,31.878,-103.486,6.1127,2.1,ml,15.0,52.0,0.1,0.1,tx,tx2024rkws,2024-09-05T12:16:47.613Z,"21 km NNE of Mentone, Texas",earthquake,0.3606786253420602,0.873843961611536,0.2,10.0,reviewed,tx,tx
+2024-09-05T12:33:02.770Z,33.8751667,-116.3176667,3.58,1.3,ml,51.0,40.0,0.07079,0.2,ci,ci40725575,2024-09-05T12:44:04.940Z,"9 km NE of Thousand Palms, CA",earthquake,0.19,0.67,0.222,12.0,automatic,ci,ci
+2024-09-05T12:32:27.419Z,65.8812,-152.2179,4.1,1.3,ml,,,,0.33,ak,ak024bg05j91,2024-09-05T12:34:36.936Z,"76 km SSE of New Allakaket, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-09-05T12:29:53.860Z,61.0378,-149.8284,38.8,1.6,ml,,,,0.55,ak,ak024bg04y56,2024-09-05T12:32:30.067Z,"16 km NW of Hope, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-09-05T12:28:12.810Z,34.0928333,-118.1958333,9.78,1.06,ml,23.0,114.0,0.05756,0.16,ci,ci40725567,2024-09-05T12:34:38.739Z,"3 km S of Highland Park, CA",earthquake,0.32,0.58,0.266,32.0,automatic,ci,ci
+2024-09-05T12:24:26.239Z,31.599,-103.979,5.0402,1.6,ml,15.0,61.0,0.0,0.3,tx,tx2024rmbi,2024-09-05T12:38:54.732Z,"36 km NNW of Toyah, Texas",earthquake,0.0,2.36579275131226,0.2,12.0,automatic,tx,tx
+2024-09-05T11:44:30.228Z,-31.455,-69.5706,104.783,4.5,mb,31.0,74.0,0.762,0.93,us,us6000npuc,2024-09-05T12:36:17.040Z,"19 km SW of Calingasta, Argentina",earthquake,5.31,5.95,0.115,22.0,reviewed,us,us
+2024-09-05T08:24:50.750Z,35.35016667,-97.94866667,6.58,0.76,ml,49.0,67.0,0.04769064147,0.33,ok,ok2024rltk,2024-09-05T12:38:28.560Z,"4 km N of Minco, Oklahoma",earthquake,,0.6,0.24,22.0,reviewed,ok,ok
+2024-09-05T07:02:25.541Z,31.876,-103.482,7.074,2.0,ml,10.0,73.0,0.1,0.1,tx,tx2024rlqs,2024-09-05T12:35:25.715Z,"21 km NNE of Mentone, Texas",earthquake,0.7627284203893687,1.3803905140817616,0.1,6.0,reviewed,tx,tx
+2024-09-04T21:57:54.313Z,32.408,-101.389,7.666,1.7,ml,20.0,62.0,0.0,0.1,tx,tx2024rkyt,2024-09-05T12:29:00.655Z,"14 km NNW of Sand Springs, Texas",earthquake,0.5225761508455984,0.5610642162970476,0.1,20.0,reviewed,tx,tx
