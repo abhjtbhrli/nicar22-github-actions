@@ -17663,3 +17663,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-05T00:15:38.330Z,37.7388,-117.1263,2.0,1.8,ml,16.0,118.7,0.207,0.1673,nn,nn00884153,2024-09-05T20:35:15.588Z,"10 km ENE of Goldfield, Nevada",earthquake,,6.7,0.19,4.0,reviewed,nn,nn
 2024-09-05T20:46:56.885Z,63.2208,-148.5731,43.6,3.5,ml,,,,0.84,ak,ak024bg502ak,2024-09-05T20:48:37.517Z,"26 km SE of Cantwell, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2024-09-05T10:19:16.140Z,53.5034,-164.7633,44.0,2.7,ml,,,,0.36,ak,ak024bfyvvig,2024-09-05T20:48:42.549Z,"96 km SE of Akutan, Alaska",earthquake,,5.8,,,reviewed,ak,ak
+2024-09-05T20:53:30.490Z,38.836498260498,-122.798835754395,2.4300000667572,0.75,md,14.0,66.0,0.006901,0.02,nc,nc75057896,2024-09-05T20:55:08.729Z,"7 km WNW of Cobb, CA",earthquake,0.29,0.870000005,0.26,15.0,automatic,nc,nc
+2024-09-05T07:41:23.330Z,19.1816666666667,-155.379666666667,36.57,1.87,ml,36.0,190.0,0.05804,0.14,hv,hv74442386,2024-09-05T20:56:05.840Z,"10 km ESE of Pāhala, Hawaii",earthquake,0.79,0.62,0.198933610002828,28.0,reviewed,hv,hv
