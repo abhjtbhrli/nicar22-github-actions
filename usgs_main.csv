@@ -17655,3 +17655,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-05T20:03:07.880Z,38.7615013122559,-122.727333068848,1.80999994277954,0.78,md,7.0,152.0,0.001935,0.02,nc,nc75057876,2024-09-05T20:04:44.173Z,"3 km SE of The Geysers, CA",earthquake,0.76,0.939999998,0.3,8.0,automatic,nc,nc
 2024-09-05T20:01:58.542Z,64.7801,-148.8451,14.3,1.0,ml,,,,0.76,ak,ak024bg4qfan,2024-09-05T20:04:41.356Z,"23 km NNE of Four Mile Road, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-05T19:45:00.020Z,36.46866667,-96.7965,0.0,0.82,ml,20.0,179.0,0.04769064147,0.13,ok,ok2024rmpw,2024-09-05T20:15:09.034Z,"6 km SW of Ralston, Oklahoma",quarry blast,,0.2,0.19,11.0,reviewed,ok,ok
+2024-09-05T20:23:39.870Z,38.7786674499512,-122.757835388184,1.13999998569489,1.1,md,16.0,61.0,0.01006,0.02,nc,nc75057891,2024-09-05T20:25:14.497Z,"0 km NNW of The Geysers, CA",earthquake,0.23,0.430000007,0.16,15.0,automatic,nc,nc
+2024-09-05T20:23:16.700Z,38.7793350219727,-122.758003234863,1.0900000333786,1.06,md,17.0,62.0,0.01052,0.03,nc,nc75057886,2024-09-05T20:24:54.597Z,"0 km NNW of The Geysers, CA",earthquake,0.22,0.400000006,0.14,17.0,automatic,nc,nc
+2024-09-05T20:22:57.156Z,36.7043,-115.6497,1.8,0.9,ml,9.0,298.95,0.424,0.4007,nn,nn00884150,2024-09-05T20:24:54.581Z,"15 km N of Indian Springs, Nevada",earthquake,,28.5,0.19,7.0,automatic,nn,nn
+2024-09-05T20:13:35.739Z,31.675,-104.42,7.7588,1.5,ml,14.0,70.0,0.0,0.3,tx,tx2024rmqu,2024-09-05T20:25:45.395Z,"55 km S of Whites City, New Mexico",earthquake,0.0,2.63527917861938,0.2,9.0,automatic,tx,tx
