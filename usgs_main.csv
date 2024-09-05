@@ -17454,3 +17454,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-05T03:36:31.970Z,17.6645,-67.5138333333333,33.44,3.27,md,24.0,227.0,0.5137,0.24,pr,pr71459288,2024-09-05T04:09:42.070Z,"48 km SW of Pole Ojea, Puerto Rico",earthquake,1.0,3.16,0.13324775322675,10.0,reviewed,pr,pr
 2024-09-05T04:20:59.060Z,33.0291672,-116.2750015,6.07,1.09,ml,13.0,218.0,0.1275,0.22,ci,ci40725359,2024-09-05T04:34:15.647Z,"18 km SW of Ocotillo Wells, CA",earthquake,0.92,2.42,0.427,4.0,automatic,ci,ci
 2024-09-05T04:17:17.982Z,37.7854,-117.217,2.0,0.7,ml,9.0,335.14,0.752,0.2783,nn,nn00884062,2024-09-05T04:19:35.753Z,"8 km N of Goldfield, Nevada",earthquake,,0.6,0.33,5.0,automatic,nn,nn
+2024-09-05T04:34:34.100Z,37.644832611084,-119.019996643066,-0.159999996423721,0.64,md,10.0,99.0,0.008227,0.02,nc,nc75057576,2024-09-05T04:36:12.071Z,"4 km WNW of Mammoth Lakes, CA",earthquake,0.31,0.430000007,0.29,9.0,automatic,nc,nc
+2024-09-05T04:29:10.492Z,31.994,-103.798,6.6089,2.1,ml,10.0,135.0,0.0,0.2,tx,tx2024rllq,2024-09-05T04:40:13.486Z,"36 km SE of Malaga, New Mexico",earthquake,0.0,3.52118945121765,0.3,8.0,automatic,tx,tx
