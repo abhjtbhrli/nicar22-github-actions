@@ -17671,3 +17671,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-05T20:58:28.607Z,60.6767,-148.259,18.7,2.8,ml,,,,0.68,ak,ak024bg52kss,2024-09-05T21:00:33.166Z,"25 km ESE of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-09-05T20:30:30.350Z,38.4973333333333,-112.880666666667,1.26,-0.23,md,11.0,63.0,0.00632,0.07,uu,uu80081556,2024-09-05T21:04:58.940Z,"15 km NE of Milford, Utah",earthquake,0.25,0.38,0.47221004295052,3.0,reviewed,uu,uu
 2024-09-05T12:46:34.440Z,19.1366666666667,-155.3405,26.4,1.38,md,21.0,232.0,0.1139,0.11,hv,hv74442661,2024-09-05T21:10:59.570Z,"16 km ESE of Pāhala, Hawaii",earthquake,0.68,0.76,0.108171767285326,6.0,reviewed,hv,hv
+2024-09-05T21:21:09.740Z,19.4181671142578,-155.268173217773,1.10000002384186,1.74,ml,22.0,94.0,0.008876,0.340000004,hv,hv74443291,2024-09-05T21:24:01.380Z,"4 km SW of Volcano, Hawaii",earthquake,0.44,0.25999999,0.26,9.0,automatic,hv,hv
+2024-09-05T21:21:02.347Z,60.1296,-141.2942,16.5,2.2,ml,,,,0.73,ak,ak024bg5g0vu,2024-09-05T21:22:57.945Z,"109 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
