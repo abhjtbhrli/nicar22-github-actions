@@ -17447,3 +17447,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-05T03:11:45.730Z,37.0543327331543,-121.497001647949,8.21000003814697,1.59,md,20.0,90.0,0.05583,0.19,nc,nc75057546,2024-09-05T03:13:21.695Z,"8 km ENE of Gilroy, CA",earthquake,0.48,1.35000002,0.23,18.0,automatic,nc,nc
 2024-09-05T02:56:10.934Z,37.2009,-116.6423,16.0,1.8,ml,11.0,165.26999999999998,0.408,0.3825,nn,nn00884055,2024-09-05T02:58:26.227Z,"34 km NNE of Beatty, Nevada",earthquake,,3.3,0.14,9.0,automatic,nn,nn
 2024-09-05T02:55:33.935Z,37.7671,-117.1134,3.2,2.1,ml,20.0,181.73,0.562,0.28,nn,nn00884053,2024-09-05T02:58:07.767Z,"12 km ENE of Goldfield, Nevada",earthquake,,9.9,0.24,14.0,automatic,nn,nn
+2024-09-05T03:23:06.461Z,37.5737,-117.8896,13.4,0.6,ml,9.0,254.01,0.523,0.2377,nn,nn00884060,2024-09-05T03:25:55.400Z,"18 km SE of Dyer, Nevada",earthquake,,0.7,0.4,4.0,automatic,nn,nn
+2024-09-05T02:57:03.932Z,48.5055,154.4504,65.355,4.5,mb,59.0,128.0,5.047,0.57,us,us6000npsh,2024-09-05T03:32:59.040Z,"270 km SSW of Severo-Kuril’sk, Russia",earthquake,11.25,7.757,0.078,48.0,reviewed,us,us
