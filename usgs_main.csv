@@ -17675,3 +17675,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-05T21:21:02.347Z,60.1296,-141.2942,16.5,2.2,ml,,,,0.73,ak,ak024bg5g0vu,2024-09-05T21:22:57.945Z,"109 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-09-05T21:33:44.183Z,38.6664,-117.1652,14.7,1.6,ml,8.0,211.09,0.727,0.3019,nn,nn00884161,2024-09-05T21:36:25.348Z,"60 km S of Kingston, Nevada",earthquake,,1.7,0.83,5.0,automatic,nn,nn
 2024-09-05T21:31:14.800Z,35.9403343,-117.680336,5.38,1.37,ml,17.0,64.0,0.02545,0.13,ci,ci40726087,2024-09-05T21:33:34.634Z,"20 km E of Little Lake, CA",earthquake,0.37,0.9,0.156,7.0,automatic,ci,ci
+2024-09-05T21:45:42.690Z,33.8621674,-117.5090027,-0.24,1.44,ml,33.0,84.0,0.06948,0.28,ci,ci40726119,2024-09-05T21:47:45.124Z,"2 km SSE of Home Gardens, CA",earthquake,0.58,0.9,0.18,7.0,automatic,ci,ci
+2024-09-05T21:43:45.153Z,37.7331,-117.1354,13.2,3.2,ml,29.0,101.96000000000004,0.444,0.2518,nn,nn00884163,2024-09-05T21:46:31.598Z,"9 km ENE of Goldfield, Nevada",earthquake,,0.6,0.17,19.0,automatic,nn,nn
