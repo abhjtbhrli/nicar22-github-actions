@@ -17516,3 +17516,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-05T09:38:31.870Z,33.6438333,-116.7206667,15.31,0.31,ml,22.0,56.0,0.0464,0.11,ci,ci40725471,2024-09-05T09:44:30.518Z,"11 km S of Idyllwild, CA",earthquake,0.22,0.37,0.32,7.0,automatic,ci,ci
 2024-09-05T09:56:06.950Z,19.1844997406006,-155.492828369141,30.9500007629395,2.07999992,md,47.0,85.0,0.04099,0.129999995,hv,hv74442501,2024-09-05T09:57:42.550Z,"2 km SW of Pāhala, Hawaii",earthquake,0.49,0.639999986,0.330000013,7.0,automatic,hv,hv
 2024-09-05T09:53:22.940Z,32.9323349,-116.3361664,10.36,1.58,ml,18.0,110.0,0.07396,0.15,ci,ci40725479,2024-09-05T09:55:36.565Z,"22 km NE of Pine Valley, CA",earthquake,0.33,0.79,0.465,3.0,automatic,ci,ci
+2024-09-05T09:58:49.254Z,61.6075,-147.3973,20.3,1.8,ml,,,,1.22,ak,ak024bfyiuql,2024-09-05T10:00:51.985Z,"26 km SSE of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-09-05T09:55:54.580Z,65.1421,-148.8169,14.8,1.2,ml,,,,0.48,ak,ak024bfyi80p,2024-09-05T09:58:24.777Z,"25 km E of Minto, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-09-05T09:51:15.622Z,31.611,-104.183,4.8054,1.9,ml,17.0,66.0,0.1,0.3,tx,tx2024rlwg,2024-09-05T10:14:26.658Z,"49 km NW of Toyah, Texas",earthquake,0.0,1.33192443847656,0.2,13.0,automatic,tx,tx
