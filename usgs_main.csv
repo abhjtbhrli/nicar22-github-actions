@@ -17440,3 +17440,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-05T02:15:26.810Z,38.8113327026367,-122.832496643066,5.34000015258789,0.83,md,10.0,148.0,0.02126,0.09,nc,nc75057521,2024-09-05T02:17:02.237Z,"8 km NW of The Geysers, CA",earthquake,1.05,2.29999995,0.18,10.0,automatic,nc,nc
 2024-09-05T01:44:07.894Z,31.436,-103.524,3.9297,1.5,ml,11.0,117.0,0.0,0.7,tx,tx2024rlgf,2024-09-05T02:19:47.466Z,"3 km WNW of Pecos, Texas",earthquake,0.0,1.7196744680404703,0.2,9.0,automatic,tx,tx
 2024-09-04T14:46:05.928Z,36.7205,-116.0387,5.2,-0.3,ml,15.0,109.06,0.04,0.0454,nn,nn00884050,2024-09-05T02:41:03.783Z,"36 km WNW of Indian Springs, Nevada",earthquake,,1.1,0.33,4.0,reviewed,nn,nn
+2024-09-05T02:41:52.320Z,34.4206667,-116.4638333,7.62,1.29,ml,37.0,52.0,0.1345,0.13,ci,ci40725303,2024-09-05T02:54:08.068Z,"34 km N of Yucca Valley, CA",earthquake,0.14,0.52,0.185,27.0,automatic,ci,ci
+2024-09-04T10:22:51.351Z,36.7117,-116.3332,7.3,0.0,ml,19.0,134.67000000000002,0.017,0.0786,nn,nn00883872,2024-09-05T02:47:16.438Z,"43 km ESE of Beatty, Nevada",earthquake,,0.8,0.27,9.0,reviewed,nn,nn
