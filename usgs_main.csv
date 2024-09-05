@@ -17687,3 +17687,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-05T22:25:12.928Z,60.6559,-150.9255,38.9,2.0,ml,,,,0.2,ak,ak024bg62c64,2024-09-05T22:26:41.099Z,"15 km NNW of Sterling, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2024-09-05T22:24:28.329Z,31.966,-103.815,8.4329,1.7,ml,7.0,142.0,0.0,0.2,tx,tx2024rmvc,2024-09-05T22:50:34.954Z,"35 km NW of Mentone, Texas",earthquake,0.0,4.28313589096069,0.3,7.0,automatic,tx,tx
 2024-09-05T22:21:15.920Z,31.967,-103.811,7.3192,1.5,ml,6.0,153.0,0.0,0.1,tx,tx2024rmva,2024-09-05T22:50:30.961Z,"35 km NW of Mentone, Texas",earthquake,0.0,5.03676748275757,0.3,6.0,automatic,tx,tx
+2024-09-05T23:04:46.085Z,61.7416,-150.7045,40.3,2.4,ml,,,,0.21,ak,ak024bg6jcao,2024-09-05T23:06:14.448Z,"24 km NNW of Susitna, Alaska",earthquake,,1.8,,,automatic,ak,ak
+2024-09-05T22:56:43.596Z,37.7582,-117.1162,6.7,1.1,ml,10.0,180.35,0.565,0.1417,nn,nn00884183,2024-09-05T22:59:16.795Z,"11 km ENE of Goldfield, Nevada",earthquake,,8.9,0.25,7.0,automatic,nn,nn
+2024-09-05T22:51:03.445Z,37.725,-117.175,7.7,0.8,ml,9.0,171.59999999999997,0.549,0.2759,nn,nn00884181,2024-09-05T22:53:56.307Z,"5 km ENE of Goldfield, Nevada",earthquake,,2.7,0.27,5.0,automatic,nn,nn
+2024-09-05T22:31:53.830Z,41.5943333333333,-112.3925,5.81,1.53,ml,20.0,87.0,0.08975,0.17,uu,uu80081571,2024-09-05T22:53:59.790Z,"13 km SW of Thatcher, Utah",earthquake,0.35,1.36,0.211316789609576,4.0,reviewed,uu,uu
+2024-09-05T21:05:42.580Z,46.87766666666667,-121.94566666666668,9.16,0.58,ml,19.0,108.0,0.01197,0.1,uw,uw62043846,2024-09-05T23:08:05.220Z,"14 km NNE of Ashford, Washington",earthquake,0.34,0.37,0.1079159576925133,11.0,reviewed,uw,uw
+2024-09-05T18:11:39.050Z,46.129666666666665,-123.40516666666667,-0.48,0.59,md,6.0,144.0,0.1067,0.09,uw,uw62043801,2024-09-05T22:59:10.850Z,"2 km W of Westport, Oregon",explosion,0.7,31.61,0.4316982704947117,6.0,reviewed,uw,uw
