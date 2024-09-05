@@ -17480,3 +17480,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-05T06:47:14.354Z,36.5297,-116.2573,9.6,0.2,ml,16.0,268.2,0.133,0.1907,nn,nn00884074,2024-09-05T06:49:17.919Z,"43 km NW of Pahrump, Nevada",earthquake,,1.1,0.18,9.0,automatic,nn,nn
 2024-09-05T06:44:32.712Z,64.4814,-149.2378,0.0,1.6,ml,,,,1.0,ak,ak024bfwnimf,2024-09-05T06:46:57.486Z,"11 km SW of Nenana, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-05T06:31:13.658Z,31.975,-103.786,9.5781,1.6,ml,9.0,126.0,0.0,0.3,tx,tx2024rlpr,2024-09-05T06:48:31.376Z,"34 km NNW of Mentone, Texas",earthquake,0.0,3.91468691825867,0.3,7.0,automatic,tx,tx
+2024-09-05T07:05:25.310Z,36.2181664,-118.2686691,2.92,2.16,ml,28.0,94.0,0.07515,0.23,ci,ci40725431,2024-09-05T07:08:08.780Z,"25 km WSW of Olancha, CA",earthquake,0.4,1.37,0.281,26.0,automatic,ci,ci
+2024-09-05T06:11:53.260Z,18.867,-67.3298333333333,13.95,3.36,md,27.0,214.0,0.4094,0.31,pr,pr71459313,2024-09-05T07:03:23.630Z,"48 km NNW of San Antonio, Puerto Rico",earthquake,0.8,1.06,0.0660071904442145,11.0,reviewed,pr,pr
