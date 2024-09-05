@@ -17579,3 +17579,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-05T14:56:35.119Z,31.598,-103.979,4.5933,1.5,ml,14.0,61.0,0.0,0.3,tx,tx2024rmgj,2024-09-05T15:15:33.365Z,"36 km NNW of Toyah, Texas",earthquake,0.0,1.33421754837036,0.1,12.0,automatic,tx,tx
 2024-09-05T00:53:26.664Z,31.773,-101.926,8.374,1.5,ml,24.0,61.0,0.1,0.1,tx,tx2024rlen,2024-09-05T15:20:54.392Z,"28 km SSE of Midland, Texas",earthquake,0.7412298722573971,1.2321800866592936,0.1,37.0,reviewed,tx,tx
 2024-09-05T14:55:08.449Z,31.692,-104.123,3.6337,1.8,ml,19.0,80.0,0.1,0.4,tx,tx2024rmgh,2024-09-05T15:30:08.451Z,"49 km W of Mentone, Texas",earthquake,0.0,1.22512102127075,0.2,15.0,automatic,tx,tx
+2024-09-05T15:50:33.915Z,60.0777,-153.5221,166.4,2.2,ml,,,,0.48,ak,ak024bg21pgz,2024-09-05T15:52:27.767Z,"45 km NE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-09-05T15:28:58.088Z,-32.8304,-178.9542,38.057,5.2,mb,31.0,124.0,3.666,1.11,us,us6000npv3,2024-09-05T15:46:55.040Z,south of the Kermadec Islands,earthquake,9.09,6.164,0.066,78.0,reviewed,us,us
