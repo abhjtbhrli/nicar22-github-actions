@@ -17552,3 +17552,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-05T08:24:50.750Z,35.35016667,-97.94866667,6.58,0.76,ml,49.0,67.0,0.04769064147,0.33,ok,ok2024rltk,2024-09-05T12:38:28.560Z,"4 km N of Minco, Oklahoma",earthquake,,0.6,0.24,22.0,reviewed,ok,ok
 2024-09-05T07:02:25.541Z,31.876,-103.482,7.074,2.0,ml,10.0,73.0,0.1,0.1,tx,tx2024rlqs,2024-09-05T12:35:25.715Z,"21 km NNE of Mentone, Texas",earthquake,0.7627284203893687,1.3803905140817616,0.1,6.0,reviewed,tx,tx
 2024-09-04T21:57:54.313Z,32.408,-101.389,7.666,1.7,ml,20.0,62.0,0.0,0.1,tx,tx2024rkyt,2024-09-05T12:29:00.655Z,"14 km NNW of Sand Springs, Texas",earthquake,0.5225761508455984,0.5610642162970476,0.1,20.0,reviewed,tx,tx
+2024-09-05T13:15:08.583Z,31.554,-104.011,5.2699,1.8,ml,15.0,57.0,0.0,0.6,tx,tx2024rmcz,2024-09-05T13:23:29.192Z,"33 km NW of Toyah, Texas",earthquake,0.0,3.0845148563385,0.1,13.0,automatic,tx,tx
+2024-09-05T12:49:38.770Z,31.581,-104.331,4.0429,1.6,ml,17.0,86.0,0.1,0.2,tx,tx2024rmcf,2024-09-05T13:02:40.069Z,"59 km WNW of Toyah, Texas",earthquake,0.0,1.4319304227829,0.2,12.0,automatic,tx,tx
