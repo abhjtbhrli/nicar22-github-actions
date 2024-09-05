@@ -17568,3 +17568,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-05T14:12:33.561Z,63.0585,-150.6494,105.2,2.1,ml,,,,0.42,ak,ak024bg184m4,2024-09-05T14:14:39.917Z,"62 km N of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-09-05T14:12:31.798Z,56.4463,-158.0627,102.3,2.0,ml,,,,0.5,ak,ak024bg184h7,2024-09-05T14:14:09.047Z,"27 km NE of Chignik, Alaska",earthquake,,2.6,,,automatic,ak,ak
 2024-09-05T14:37:35.020Z,36.662,-115.7776,2.5,1.7,ml,26.0,230.35,0.148,0.1886,nn,nn00884096,2024-09-05T14:39:54.219Z,"14 km NW of Indian Springs, Nevada",earthquake,,1.3,0.26,17.0,automatic,nn,nn
+2024-09-05T14:47:47.750Z,19.1935005187988,-155.488327026367,31.3099994659424,1.88999999,md,50.0,73.0,0.04527,0.119999997,hv,hv74442756,2024-09-05T14:49:53.480Z,"1 km SW of Pāhala, Hawaii",earthquake,0.51,0.670000017,0.119999997,9.0,automatic,hv,hv
+2024-09-05T14:45:10.912Z,36.5358,-115.5454,7.5,0.8,ml,15.0,319.2,0.358,0.1441,nn,nn00884098,2024-09-05T14:47:21.900Z,"11 km ESE of Indian Springs, Nevada",earthquake,,30.7,0.26,11.0,automatic,nn,nn
+2024-09-05T14:44:47.530Z,34.4193344,-116.4639969,6.68,1.33,ml,22.0,54.0,0.1339,0.18,ci,ci40725631,2024-09-05T14:46:51.953Z,"34 km N of Yucca Valley, CA",earthquake,0.32,1.07,0.195,2.0,automatic,ci,ci
