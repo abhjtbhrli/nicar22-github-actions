@@ -17850,3 +17850,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-06T13:54:33.005Z,28.88,-99.14,1.5747,2.3,ml,14.0,175.0,0.4,0.8,tx,tx2024rnzu,2024-09-06T14:24:10.894Z,"3 km WSW of West Pearsall, Texas",earthquake,0.0,2.25005838530341,0.1,12.0,automatic,tx,tx
 2024-09-06T11:51:36.564Z,32.412,-102.055,8.5693,1.7,ml,29.0,85.0,0.0,0.1,tx,tx2024rnvt,2024-09-06T14:24:05.928Z,"34 km WSW of Ackerly, Texas",earthquake,0.5256230316777853,0.667555191796176,0.2,36.0,reviewed,tx,tx
 2024-09-06T04:50:03.756Z,31.04,-103.342,1.2292,1.4,ml,11.0,83.0,0.1,0.1,tx,tx2024rnhv,2024-09-06T14:24:41.907Z,"34 km SW of Coyanosa, Texas",earthquake,0.6949014473028247,1.7125342282399885,0.4,5.0,reviewed,tx,tx
+2024-09-06T14:24:59.302Z,-49.0581,164.6322,30.26,5.2,mww,53.0,85.0,3.208,1.09,us,us6000nq21,2024-09-06T14:42:56.040Z,"Auckland Islands, New Zealand region",earthquake,7.99,5.086,0.075,17.0,reviewed,us,us
+2024-09-06T10:01:01.776Z,31.036,-103.341,1.9214,1.6,ml,19.0,83.0,0.1,0.2,tx,tx2024rnsa,2024-09-06T14:36:43.005Z,"34 km SW of Coyanosa, Texas",earthquake,1.2942988787852088,1.5159249756827833,0.1,10.0,reviewed,tx,tx
