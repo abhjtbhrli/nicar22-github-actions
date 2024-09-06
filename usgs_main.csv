@@ -17980,3 +17980,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-06T18:46:00.180Z,58.3828333333333,-154.9245,2.82,-0.23,ml,10.0,132.0,0.0649,0.13,av,av93254218,2024-09-06T23:36:50.500Z,"94 km NNW of Karluk, Alaska",earthquake,0.35,1.81,0.238954447429592,10.0,reviewed,av,av
 2024-09-06T18:07:59.530Z,52.3175,-174.1635,3.36,0.91,ml,7.0,91.0,0.0242,0.3,av,av93020219,2024-09-06T23:32:20.100Z,"13 km N of Atka, Alaska",earthquake,0.62,1.4,0.336736596283571,6.0,reviewed,av,av
 2024-09-06T23:19:19.705Z,31.605,-104.319,6.9202,3.2,ml,29.0,77.0,0.1,0.2,tx,tx2024rosl,2024-09-06T23:41:42.043Z,"59 km WNW of Toyah, Texas",earthquake,0.7795696191576877,1.4324231432868886,0.1,17.0,reviewed,tx,tx
+2024-09-06T23:54:15.980Z,60.8496,-149.0716,23.7,1.4,ml,,,,0.23,ak,ak024bhudc9q,2024-09-06T23:55:57.230Z,"11 km SSE of Girdwood, Alaska",earthquake,,0.3,,,automatic,ak,ak
