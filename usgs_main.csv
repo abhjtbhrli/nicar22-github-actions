@@ -17886,3 +17886,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-06T17:16:18.122Z,51.997,-173.5705,67.586,4.3,mb,109.0,138.0,0.438,0.67,us,us6000nq4h,2024-09-06T17:43:32.040Z,"48 km ESE of Atka, Alaska",earthquake,8.73,7.361,0.052,106.0,reviewed,us,us
 2024-09-06T17:45:37.848Z,59.9077,-153.1601,123.9,1.6,ml,,,,0.12,ak,ak024bhqquvs,2024-09-06T17:47:12.263Z,"54 km ENE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-09-06T17:30:41.183Z,-35.3686,-179.4987,23.443,5.0,mww,75.0,51.0,2.814,1.05,us,us6000nq4k,2024-09-06T17:49:49.040Z,east of the North Island of New Zealand,earthquake,9.09,5.206,0.11,8.0,reviewed,us,us
+2024-09-06T18:12:02.173Z,36.45372772,-98.80695343,5.02644968,2.26,ml,16.0,67.87348938,0.006179803517,0.4700944949,ok,ok2024roih,2024-09-06T18:19:41.421Z,"15 km SSE of Waynoka, Oklahoma",earthquake,2.796283835,3.835477962,0.41,12.0,automatic,ok,ok
+2024-09-06T17:34:31.865Z,31.62,-104.211,1.0236,1.6,ml,17.0,67.0,0.1,0.7,tx,tx2024rohb,2024-09-06T17:55:43.299Z,"52 km NW of Toyah, Texas",earthquake,0.0,1.3634227514267,0.2,13.0,automatic,tx,tx
