@@ -17931,3 +17931,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-06T20:35:20.330Z,19.3645000457764,-155.176666259766,1.57000005245209,1.79,ml,18.0,141.0,0.01642,0.209999993,hv,hv74445646,2024-09-06T20:38:16.180Z,"10 km SE of Volcano, Hawaii",earthquake,0.67,0.479999989,0.64,5.0,automatic,hv,hv
 2024-09-06T20:31:19.158Z,62.3431,-150.9606,71.4,1.9,ml,,,,0.34,ak,ak024bhsg48b,2024-09-06T20:33:41.420Z,"19 km SSW of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-06T02:55:07.400Z,60.798,-152.9475,6.19,0.31,ml,14.0,194.0,0.2196,0.09,av,av93253443,2024-09-06T20:32:49.950Z,"91 km WNW of Salamatof, Alaska",earthquake,0.67,3.07,0.136140915845363,14.0,reviewed,av,av
+2024-09-06T20:39:36.800Z,32.5975,-116.9888333,3.28,1.25,ml,22.0,108.0,0.05053,0.21,ci,ci40726759,2024-09-06T20:45:39.942Z,"6 km ESE of Chula Vista, CA",earthquake,0.4,0.44,0.12,12.0,automatic,ci,ci
