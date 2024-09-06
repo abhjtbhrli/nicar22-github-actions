@@ -17748,3 +17748,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-06T02:51:13.200Z,32.9783333,-116.2716667,9.67,0.79,ml,35.0,48.0,0.03565,0.19,ci,ci40726247,2024-09-06T02:57:17.252Z,"22 km SW of Ocotillo Wells, CA",earthquake,0.22,0.47,0.198,14.0,automatic,ci,ci
 2024-09-06T02:50:44.980Z,38.8066673278809,-122.792335510254,0.529999971389771,0.67,md,10.0,62.0,0.002658,0.02,nc,nc75057986,2024-09-06T02:52:21.215Z,"5 km NNW of The Geysers, CA",earthquake,0.3,0.589999974,0.26,10.0,automatic,nc,nc
 2024-09-06T02:43:01.551Z,31.646,-104.585,3.9387,1.6,ml,7.0,187.0,0.1,0.1,tx,tx2024rndq,2024-09-06T03:05:43.714Z,"61 km SSW of Whites City, New Mexico",earthquake,0.0,2.49405193328857,0.1,7.0,automatic,tx,tx
+2024-09-06T03:16:31.770Z,33.4736667,-116.923,5.92,0.55,ml,36.0,43.0,0.01264,0.18,ci,ci40726263,2024-09-06T03:22:28.349Z,"6 km WNW of Aguanga, CA",earthquake,0.18,0.46,0.142,16.0,automatic,ci,ci
+2024-09-06T03:15:54.770Z,17.9628333333333,-66.934,9.67,2.58,md,9.0,173.0,0.02587,0.13,pr,pr71459398,2024-09-06T03:28:31.130Z,"2 km WSW of Guánica, Puerto Rico",earthquake,0.54,0.42,0.0861979005724385,4.0,reviewed,pr,pr
+2024-09-06T03:10:07.562Z,60.4365,-152.2568,82.3,1.4,ml,,,,0.66,ak,ak024bhi780k,2024-09-06T03:12:14.057Z,"52 km WNW of Clam Gulch, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-09-06T02:41:40.880Z,19.6023,-64.9466,71.0,3.68,md,9.0,292.0,1.2317,0.45,pr,pr2024250000,2024-09-06T03:17:49.575Z,"139 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,10.58,23.95,0.08,6.0,reviewed,pr,pr
