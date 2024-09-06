@@ -17768,3 +17768,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-06T05:27:46.723Z,37.5352,-116.956,0.0,1.1,ml,17.0,250.36,0.337,0.333,nn,nn00884214,2024-09-06T05:30:10.240Z,"31 km SE of Goldfield, Nevada",earthquake,,36.8,0.21,11.0,automatic,nn,nn
 2024-09-05T07:24:15.160Z,37.1438333333333,-121.563666666667,6.31,0.83,md,19.0,43.0,0.05385,0.12,nc,nc75057661,2024-09-06T05:36:48.742Z,"8 km NE of San Martin, CA",earthquake,0.3,0.64,0.236,14.0,reviewed,nc,nc
 2024-09-05T11:29:23.260Z,37.839,-121.801,11.24,1.33,md,21.0,147.0,0.02857,0.06,nc,nc75057731,2024-09-06T05:50:23.621Z,"10 km E of Blackhawk, CA",earthquake,0.24,0.36,0.228,14.0,reviewed,nc,nc
+2024-09-05T23:25:07.629Z,50.2656,177.5204,17.2,3.3,ml,,,,0.6,ak,ak024bg6nsgu,2024-09-06T06:15:55.133Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,3.0,,,reviewed,ak,ak
+2024-09-05T18:31:08.090Z,37.0703333333333,-121.493,7.3,0.73,md,22.0,68.0,0.04275,0.16,nc,nc75057851,2024-09-06T06:02:56.878Z,"10 km NE of Gilroy, CA",earthquake,0.42,0.82,0.262,14.0,reviewed,nc,nc
+2024-09-05T17:52:24.360Z,36.2821666666667,-120.420333333333,9.03,1.16,md,19.0,79.0,0.06641,0.08,nc,nc75057836,2024-09-06T05:58:25.479Z,"17 km  of Coalinga, CA",earthquake,0.7,0.84,0.204,10.0,reviewed,nc,nc
