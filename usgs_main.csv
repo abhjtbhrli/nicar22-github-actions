@@ -17884,3 +17884,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-06T11:25:28.800Z,51.8151666666667,-178.8165,7.83,-0.22,ml,5.0,205.0,0.007774,0.15,av,av93253828,2024-09-06T17:27:50.920Z,"150 km W of Adak, Alaska",earthquake,0.75,0.73,0.214712344023134,5.0,reviewed,av,av
 2024-09-06T17:34:49.617Z,36.1322,-115.3076,15.8,1.6,ml,9.0,300.42,0.862,0.3955,nn,nn00884242,2024-09-06T17:37:42.644Z,"2 km NE of Summerlin South, Nevada",earthquake,,0.0,0.32,7.0,automatic,nn,nn
 2024-09-06T17:16:18.122Z,51.997,-173.5705,67.586,4.3,mb,109.0,138.0,0.438,0.67,us,us6000nq4h,2024-09-06T17:43:32.040Z,"48 km ESE of Atka, Alaska",earthquake,8.73,7.361,0.052,106.0,reviewed,us,us
+2024-09-06T17:45:37.848Z,59.9077,-153.1601,123.9,1.6,ml,,,,0.12,ak,ak024bhqquvs,2024-09-06T17:47:12.263Z,"54 km ENE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-09-06T17:30:41.183Z,-35.3686,-179.4987,23.443,5.0,mww,75.0,51.0,2.814,1.05,us,us6000nq4k,2024-09-06T17:49:49.040Z,east of the North Island of New Zealand,earthquake,9.09,5.206,0.11,8.0,reviewed,us,us
