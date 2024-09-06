@@ -17771,3 +17771,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-05T23:25:07.629Z,50.2656,177.5204,17.2,3.3,ml,,,,0.6,ak,ak024bg6nsgu,2024-09-06T06:15:55.133Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,3.0,,,reviewed,ak,ak
 2024-09-05T18:31:08.090Z,37.0703333333333,-121.493,7.3,0.73,md,22.0,68.0,0.04275,0.16,nc,nc75057851,2024-09-06T06:02:56.878Z,"10 km NE of Gilroy, CA",earthquake,0.42,0.82,0.262,14.0,reviewed,nc,nc
 2024-09-05T17:52:24.360Z,36.2821666666667,-120.420333333333,9.03,1.16,md,19.0,79.0,0.06641,0.08,nc,nc75057836,2024-09-06T05:58:25.479Z,"17 km  of Coalinga, CA",earthquake,0.7,0.84,0.204,10.0,reviewed,nc,nc
+2024-09-06T06:36:34.600Z,38.8216667175293,-122.791999816895,0.740000009536743,1.04,md,15.0,40.0,0.01219,0.02,nc,nc75058036,2024-09-06T06:38:12.772Z,"6 km NNW of The Geysers, CA",earthquake,0.23,0.419999987,0.27,17.0,automatic,nc,nc
+2024-09-06T06:20:50.390Z,33.8693333,-116.3206667,2.81,0.76,ml,35.0,66.0,0.1021,0.18,ci,ci40726343,2024-09-06T06:31:06.706Z,"8 km NE of Thousand Palms, CA",earthquake,0.21,0.45,0.152,19.0,automatic,ci,ci
