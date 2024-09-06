@@ -17928,3 +17928,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-06T19:58:33.208Z,-32.3238,150.7448,8.069,4.5,mb,22.0,103.0,2.045,0.66,us,us6000nq6h,2024-09-06T20:27:06.622Z,"8 km NE of Denman, Australia",earthquake,7.61,4.464,0.121,20.0,reviewed,us,us
 2024-09-06T14:03:15.040Z,35.6345,-117.4656667,7.58,-0.18,ml,5.0,132.0,0.04798,0.09,ci,ci40726503,2024-09-06T20:21:05.592Z,"16 km SSW of Searles Valley, CA",earthquake,0.36,0.82,0.081,3.0,reviewed,ci,ci
 2024-09-06T00:21:30.240Z,35.9416667,-117.6855,5.24,0.48,ml,11.0,114.0,0.02917,0.1,ci,ci40726175,2024-09-06T20:23:55.913Z,"20 km E of Little Lake, CA",earthquake,0.36,0.65,0.148,5.0,reviewed,ci,ci
+2024-09-06T20:35:20.330Z,19.3645000457764,-155.176666259766,1.57000005245209,1.79,ml,18.0,141.0,0.01642,0.209999993,hv,hv74445646,2024-09-06T20:38:16.180Z,"10 km SE of Volcano, Hawaii",earthquake,0.67,0.479999989,0.64,5.0,automatic,hv,hv
+2024-09-06T20:31:19.158Z,62.3431,-150.9606,71.4,1.9,ml,,,,0.34,ak,ak024bhsg48b,2024-09-06T20:33:41.420Z,"19 km SSW of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-09-06T02:55:07.400Z,60.798,-152.9475,6.19,0.31,ml,14.0,194.0,0.2196,0.09,av,av93253443,2024-09-06T20:32:49.950Z,"91 km WNW of Salamatof, Alaska",earthquake,0.67,3.07,0.136140915845363,14.0,reviewed,av,av
