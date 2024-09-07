@@ -18063,3 +18063,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-07T08:01:12.510Z,33.1508333,-115.9801667,7.15,1.64,ml,73.0,49.0,0.02269,0.22,ci,ci40727111,2024-09-07T08:12:06.500Z,"14 km E of Ocotillo Wells, CA",earthquake,0.16,0.42,0.132,26.0,automatic,ci,ci
 2024-09-07T08:27:11.061Z,57.9269,-154.5519,46.9,1.1,ml,,,,0.77,ak,ak024bj8tdz6,2024-09-07T08:28:27.168Z,"40 km N of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-09-07T08:21:49.490Z,33.036,-115.9071667,4.15,0.82,ml,35.0,94.0,0.1071,0.24,ci,ci40727119,2024-09-07T08:27:43.885Z,"24 km ESE of Ocotillo Wells, CA",earthquake,0.26,1.1,0.15,10.0,automatic,ci,ci
+2024-09-07T08:31:36.380Z,34.63,-118.9688333,8.54,1.2,ml,31.0,58.0,0.1516,0.17,ci,ci40727127,2024-09-07T08:37:51.934Z,"21 km SSW of Gorman, CA",earthquake,0.2,0.86,0.369,16.0,automatic,ci,ci
+2024-09-07T08:21:27.115Z,-35.7779,-100.6566,10.0,5.4,mww,62.0,85.0,11.363,0.95,us,us6000nq9r,2024-09-07T08:40:47.040Z,southeast of Easter Island,earthquake,12.56,1.881,0.083,14.0,reviewed,us,us
