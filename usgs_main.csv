@@ -18087,3 +18087,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-07T10:11:59.380Z,35.9275,-117.8665,6.78,0.96,ml,23.0,45.0,0.08239,0.11,ci,ci40727167,2024-09-07T10:17:44.651Z,"4 km ESE of Little Lake, CA",earthquake,0.15,0.51,0.236,13.0,automatic,ci,ci
 2024-09-07T10:08:27.400Z,38.8208351135254,-122.842163085938,2.26999998092651,0.79,md,18.0,103.0,0.00602,0.02,nc,nc75058531,2024-09-07T10:27:15.693Z,"9 km NW of The Geysers, CA",earthquake,0.26,0.430000007,0.21,18.0,automatic,nc,nc
 2024-09-07T09:51:39.521Z,-23.9151,-66.6322,191.846,4.6,mb,54.0,45.0,1.714,0.94,us,us6000nqa2,2024-09-07T10:11:54.040Z,"46 km NW of San Antonio de los Cobres, Argentina",earthquake,8.66,7.455,0.054,103.0,reviewed,us,us
+2024-09-07T10:37:25.290Z,19.1991672515869,-155.539672851562,-0.28999999165535,1.88,md,42.0,90.0,0.06225,0.310000002,hv,hv74446566,2024-09-07T10:39:06.800Z,"6 km W of Pāhala, Hawaii",earthquake,0.48,0.25999999,0.280000001,10.0,automatic,hv,hv
+2024-09-07T10:37:05.469Z,61.3482,-150.1082,36.4,2.6,ml,,,,0.82,ak,ak024bja2dvl,2024-09-07T10:38:59.316Z,"7 km W of Point MacKenzie, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-09-07T10:33:06.263Z,63.5184,-147.7102,17.9,1.9,ml,,,,0.16,ak,ak024bja1j42,2024-09-07T10:34:38.046Z,"63 km ENE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
