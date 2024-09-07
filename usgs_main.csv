@@ -18218,3 +18218,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-07T18:55:23.090Z,34.028,-117.5886667,5.92,1.18,ml,20.0,66.0,0.1012,0.16,ci,ci40727711,2024-09-07T19:02:22.384Z,"4 km SE of Ontario, CA",earthquake,0.26,0.93,0.439,29.0,automatic,ci,ci
 2024-09-07T19:21:27.863Z,61.6452,-148.0081,9.8,2.0,ml,,,,0.59,ak,ak024bjfbwmq,2024-09-07T19:23:20.780Z,"26 km SW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-09-07T19:31:21.250Z,19.1431674957275,-155.368835449219,29.4099998474121,2.24000001,md,39.0,223.0,0.08902,0.119999997,hv,hv74447336,2024-09-07T19:33:09.490Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.84,0.660000026,0.200000003,5.0,automatic,hv,hv
+2024-09-07T19:42:44.440Z,35.6910019,-117.5088348,8.11,1.25,ml,13.0,134.0,0.07396,0.1,ci,ci40727775,2024-09-07T19:44:50.836Z,"13 km SW of Searles Valley, CA",earthquake,0.57,1.57,0.107,4.0,automatic,ci,ci
+2024-09-07T19:36:16.725Z,37.2778,-115.3773,0.0,0.7,ml,10.0,160.22000000000003,0.289,0.3027,nn,nn00884300,2024-09-07T19:38:20.684Z,"21 km WSW of Alamo, Nevada",earthquake,,62.6,0.38,6.0,automatic,nn,nn
