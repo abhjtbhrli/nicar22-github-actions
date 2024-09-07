@@ -18254,3 +18254,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-07T22:07:51.843Z,61.188,-146.8976,2.6,1.5,ml,,,,0.58,ak,ak024bjh199s,2024-09-07T22:09:59.588Z,"30 km WNW of Valdez, Alaska",earthquake,,7.2,,,automatic,ak,ak
 2024-09-07T22:06:06.270Z,33.2728333,-116.4193333,4.56,0.7,ml,31.0,41.0,0.004967,0.16,ci,ci40727903,2024-09-07T22:12:01.425Z,"4 km WNW of Borrego Springs, CA",earthquake,0.2,0.27,0.124,10.0,automatic,ci,ci
 2024-09-07T21:54:26.306Z,-15.3331,-173.207,10.0,4.8,mb,35.0,111.0,1.976,0.83,us,us6000nqd0,2024-09-07T22:11:04.040Z,"93 km NE of Hihifo, Tonga",earthquake,4.48,1.852,0.049,130.0,reviewed,us,us
+2024-09-07T22:29:55.241Z,63.1517,-150.8474,27.0,1.2,ml,,,,1.61,ak,ak024bjh5zac,2024-09-07T22:31:57.674Z,"61 km SE of Denali National Park, Alaska",earthquake,,2.3,,,automatic,ak,ak
+2024-09-07T22:22:05.500Z,38.7916679382324,-122.778831481934,1.30999994277954,0.74,md,11.0,108.0,0.007259,0.03,nc,nc75058991,2024-09-07T22:23:43.490Z,"3 km NW of The Geysers, CA",earthquake,0.33,0.75999999,0.06,11.0,automatic,nc,nc
+2024-09-07T22:20:08.934Z,57.5315,-154.4833,23.8,1.7,ml,,,,0.52,ak,ak024bjh3y9p,2024-09-07T22:22:04.787Z,"4 km SSW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-09-07T22:17:55.663Z,59.8931,-152.3077,69.4,1.6,ml,,,,0.34,ak,ak024bjh3eq6,2024-09-07T22:19:39.933Z,"29 km WNW of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-09-07T22:02:12.707Z,36.0469,70.5137,100.412,4.4,mb,73.0,81.0,1.9,0.89,us,us6000nqd3,2024-09-07T22:22:05.040Z,"78 km NNW of Pārūn, Afghanistan",earthquake,7.25,8.53,0.077,49.0,reviewed,us,us
