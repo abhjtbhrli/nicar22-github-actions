@@ -18217,3 +18217,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-07T19:00:25.720Z,34.0193333,-117.5886667,5.06,1.49,ml,76.0,25.0,0.02076,0.16,ci,ci40727719,2024-09-07T19:11:41.450Z,"5 km SE of Ontario, CA",earthquake,0.11,0.22,0.158,29.0,automatic,ci,ci
 2024-09-07T18:55:23.090Z,34.028,-117.5886667,5.92,1.18,ml,20.0,66.0,0.1012,0.16,ci,ci40727711,2024-09-07T19:02:22.384Z,"4 km SE of Ontario, CA",earthquake,0.26,0.93,0.439,29.0,automatic,ci,ci
 2024-09-07T19:21:27.863Z,61.6452,-148.0081,9.8,2.0,ml,,,,0.59,ak,ak024bjfbwmq,2024-09-07T19:23:20.780Z,"26 km SW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-09-07T19:31:21.250Z,19.1431674957275,-155.368835449219,29.4099998474121,2.24000001,md,39.0,223.0,0.08902,0.119999997,hv,hv74447336,2024-09-07T19:33:09.490Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.84,0.660000026,0.200000003,5.0,automatic,hv,hv
