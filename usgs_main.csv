@@ -18147,3 +18147,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-07T15:24:41.933Z,59.2199,-153.8334,127.2,2.6,ml,,,,0.2,ak,ak024bjcyuf5,2024-09-07T15:26:09.068Z,"53 km SE of Pope-Vannoy Landing, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-09-07T15:19:11.350Z,41.3148345947266,-122.077499389648,8.96000003814697,2.11,md,12.0,76.0,0.05267,0.08,nc,nc75058731,2024-09-07T15:28:03.966Z,"8 km NE of McCloud, CA",earthquake,0.58,1.40999997,0.18,12.0,automatic,nc,nc
 2024-09-07T15:39:07.850Z,38.8305015563965,-122.857833862305,1.99000000953674,1.07,md,21.0,111.0,0.003046,0.03,nc,nc75058761,2024-09-07T15:40:45.479Z,"11 km NW of The Geysers, CA",earthquake,0.24,0.409999996,0.18,23.0,automatic,nc,nc
+2024-09-07T16:17:29.727Z,62.9365,-149.5646,64.6,1.5,ml,,,,0.38,ak,ak024bjdir3g,2024-09-07T16:19:16.380Z,"59 km SSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-09-07T15:57:29.910Z,38.7723350524902,-122.747169494629,-0.0299999993294477,0.69,md,8.0,83.0,0.01361,0.02,nc,nc75058786,2024-09-07T15:59:05.381Z,"1 km SE of The Geysers, CA",earthquake,0.27,0.850000024,0.37,9.0,automatic,nc,nc
+2024-09-07T14:01:00.942Z,24.7538,125.4001,48.55,4.6,mb,32.0,117.0,2.193,1.24,us,us6000nqaw,2024-09-07T16:02:38.040Z,"9 km ESE of Miyakojima, Japan",earthquake,5.36,8.014,0.077,51.0,reviewed,us,us
