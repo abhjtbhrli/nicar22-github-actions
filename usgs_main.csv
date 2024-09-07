@@ -18259,3 +18259,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-07T22:20:08.934Z,57.5315,-154.4833,23.8,1.7,ml,,,,0.52,ak,ak024bjh3y9p,2024-09-07T22:22:04.787Z,"4 km SSW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-09-07T22:17:55.663Z,59.8931,-152.3077,69.4,1.6,ml,,,,0.34,ak,ak024bjh3eq6,2024-09-07T22:19:39.933Z,"29 km WNW of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-07T22:02:12.707Z,36.0469,70.5137,100.412,4.4,mb,73.0,81.0,1.9,0.89,us,us6000nqd3,2024-09-07T22:22:05.040Z,"78 km NNW of Pārūn, Afghanistan",earthquake,7.25,8.53,0.077,49.0,reviewed,us,us
+2024-09-07T22:37:52.160Z,32.9889984,-116.2423325,9.66,1.05,ml,20.0,63.0,0.06173,0.18,ci,ci40727919,2024-09-07T22:40:12.069Z,"20 km SSW of Ocotillo Wells, CA",earthquake,0.36,1.03,0.272,5.0,automatic,ci,ci
