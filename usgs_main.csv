@@ -18205,3 +18205,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-07T17:55:36.095Z,61.6537,-148.0613,13.4,1.2,ml,,,,0.53,ak,ak024bjecceh,2024-09-07T17:57:14.439Z,"26 km SE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-09-07T17:53:15.540Z,34.0245,-117.584,4.66,1.02,ml,10.0,148.0,0.0272,0.09,ci,ci40727623,2024-09-07T18:00:04.502Z,"5 km SE of Ontario, CA",earthquake,0.72,0.9,0.396,30.0,automatic,ci,ci
 2024-09-07T00:47:05.360Z,48.9355,-122.1295,11.01,1.76,ml,16.0,79.0,0.02078,0.12,uw,uw62044106,2024-09-07T18:22:01.050Z,"1 km ESE of Peaceful Valley, Washington",earthquake,0.24,0.42,0.1366433326419787,15.0,reviewed,uw,uw
+2024-09-07T18:29:32.824Z,61.6467,-150.835,44.9,0.9,ml,,,,0.25,ak,ak024bjes74y,2024-09-07T18:31:43.571Z,"20 km WNW of Susitna, Alaska",earthquake,,2.3,,,automatic,ak,ak
