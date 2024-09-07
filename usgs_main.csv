@@ -18268,3 +18268,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-07T23:12:25.222Z,57.5065,-155.1397,63.0,2.3,ml,,,,0.29,ak,ak024bjhnpei,2024-09-07T23:14:20.912Z,"41 km W of Karluk, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2024-09-07T23:06:00.364Z,64.9879,-147.4361,1.7,1.2,ml,,,,0.26,ak,ak024bjhmd6s,2024-09-07T23:07:53.011Z,"9 km ENE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-07T22:51:15.963Z,39.8939,143.1514,28.272,4.9,mb,65.0,151.0,1.829,0.78,us,us6000nqd9,2024-09-07T23:08:26.040Z,"107 km ENE of Miyako, Japan",earthquake,6.41,5.937,0.082,47.0,reviewed,us,us
+2024-09-07T23:09:55.985Z,19.5872,-75.6481,10.0,4.5,mb,53.0,62.0,0.608,0.97,us,us6000nqdg,2024-09-07T23:28:33.040Z,"51 km SSE of Santiago de Cuba, Cuba",earthquake,6.55,1.905,0.059,85.0,reviewed,us,us
