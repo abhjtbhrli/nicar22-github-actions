@@ -18010,3 +18010,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-06T22:37:31.221Z,53.5549,-165.2958,2.7,3.0,ml,,,,0.59,ak,ak024bhtoaxi,2024-09-07T01:29:31.044Z,"71 km SSE of Akutan, Alaska",earthquake,,0.7,,,reviewed,ak,ak
 2024-09-07T02:38:24.551Z,61.2313,-150.642,34.7,1.5,ml,,,,0.32,ak,ak024bj5b69j,2024-09-07T02:40:59.443Z,"25 km ENE of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-07T02:07:17.172Z,31.668,-104.399,3.5803,2.4,ml,17.0,70.0,0.0,0.5,tx,tx2024roya,2024-09-07T02:30:41.233Z,"56 km S of Whites City, New Mexico",earthquake,0.0,1.29918396472931,0.1,12.0,automatic,tx,tx
+2024-09-07T03:05:54.400Z,38.8241653442383,-122.898666381836,3.44000005722046,0.24,md,9.0,179.0,0.008164,0.04,nc,nc75058401,2024-09-07T03:07:31.827Z,"10 km E of Cloverdale, CA",earthquake,0.91,1.64999998,0.05,9.0,automatic,nc,nc
+2024-09-07T03:05:47.000Z,38.8266677856445,-122.900665283203,4.0,0.39,md,11.0,130.0,0.01085,0.04,nc,nc75058396,2024-09-07T03:07:22.083Z,"10 km E of Cloverdale, CA",earthquake,0.58,0.99000001,0.24,11.0,automatic,nc,nc
+2024-09-07T02:53:41.420Z,38.8361663818359,-122.811500549316,1.97000002861023,0.73,md,13.0,76.0,0.0128,0.01,nc,nc75058391,2024-09-07T02:55:16.671Z,"8 km WNW of Cobb, CA",earthquake,0.28,0.660000026,0.08,12.0,automatic,nc,nc
