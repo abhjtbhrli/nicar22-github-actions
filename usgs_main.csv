@@ -18264,3 +18264,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-07T22:51:23.720Z,47.1441650390625,-121.3671646118164,3.9300000667572,1.6969332695007324,ml,8.0,160.0,,0.300000012,uw,uw62044261,2024-09-07T22:54:22.470Z,"17 km SW of Easton, Washington",earthquake,5.92,21.4300003,0.2875768542289734,24.0,automatic,uw,uw
 2024-09-07T22:39:07.160Z,-21.2926,-173.7204,10.0,6.0,mww,98.0,26.0,1.156,1.65,us,us6000nqd8,2024-09-07T23:06:55.888Z,"128 km E of ‘Ohonua, Tonga",earthquake,6.86,1.772,0.063,24.0,reviewed,us,us
 2024-09-07T22:08:14.750Z,18.99,-66.7403,21.0,3.7,md,12.0,199.0,0.8724,0.29,pr,pr2024251001,2024-09-07T23:03:00.805Z,"56 km N of Hatillo, Puerto Rico",earthquake,1.06,24.09,0.11,9.0,reviewed,pr,pr
+2024-09-07T23:14:38.150Z,33.2681667,-116.422,4.74,0.81,ml,48.0,45.0,0.004055,0.2,ci,ci40727951,2024-09-07T23:20:38.291Z,"5 km WNW of Borrego Springs, CA",earthquake,0.18,0.33,0.126,17.0,automatic,ci,ci
+2024-09-07T23:12:25.222Z,57.5065,-155.1397,63.0,2.3,ml,,,,0.29,ak,ak024bjhnpei,2024-09-07T23:14:20.912Z,"41 km W of Karluk, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2024-09-07T23:06:00.364Z,64.9879,-147.4361,1.7,1.2,ml,,,,0.26,ak,ak024bjhmd6s,2024-09-07T23:07:53.011Z,"9 km ENE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-09-07T22:51:15.963Z,39.8939,143.1514,28.272,4.9,mb,65.0,151.0,1.829,0.78,us,us6000nqd9,2024-09-07T23:08:26.040Z,"107 km ENE of Miyako, Japan",earthquake,6.41,5.937,0.082,47.0,reviewed,us,us
