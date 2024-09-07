@@ -18092,3 +18092,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-07T10:33:06.263Z,63.5184,-147.7102,17.9,1.9,ml,,,,0.16,ak,ak024bja1j42,2024-09-07T10:34:38.046Z,"63 km ENE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-07T10:51:28.560Z,33.8808333,-116.2861667,4.79,0.61,ml,34.0,83.0,0.09962,0.15,ci,ci40727175,2024-09-07T10:57:31.375Z,"12 km NE of Thousand Palms, CA",earthquake,0.18,0.45,0.096,17.0,automatic,ci,ci
 2024-09-07T11:16:33.583Z,37.7315,-117.1356,0.0,1.3,ml,20.0,150.62,0.442,0.3179,nn,nn00884271,2024-09-07T11:19:10.185Z,"9 km ENE of Goldfield, Nevada",earthquake,,30.3,0.18,10.0,automatic,nn,nn
+2024-09-07T11:25:16.540Z,19.2014999389648,-155.471160888672,31.3799991607666,2.68,ml,57.0,98.0,0.04664,0.129999995,hv,hv74446636,2024-09-07T11:34:21.984Z,"0 km ESE of Pāhala, Hawaii",earthquake,0.42,0.479999989,0.47,41.0,automatic,hv,hv
