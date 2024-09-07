@@ -18017,3 +18017,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-07T03:32:33.432Z,37.7241,-117.1607,11.6,0.7,ml,8.0,172.57,0.558,0.1255,nn,nn00884255,2024-09-07T03:35:25.737Z,"6 km ENE of Goldfield, Nevada",earthquake,,153.7,0.26,5.0,automatic,nn,nn
 2024-09-07T03:50:30.664Z,62.7848,-148.7566,54.3,1.5,ml,,,,0.66,ak,ak024bj5z6xm,2024-09-07T03:52:36.467Z,"68 km S of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-07T04:20:07.423Z,58.9624,-152.1444,56.7,1.5,ml,,,,0.38,ak,ak024bj6e592,2024-09-07T04:22:16.020Z,"45 km SSW of Nanwalek, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2024-09-07T04:29:41.944Z,59.4348,-152.6003,83.9,1.4,ml,,,,0.42,ak,ak024bj6g5de,2024-09-07T04:32:07.413Z,"39 km WNW of Nanwalek, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2024-09-07T04:13:46.417Z,-19.9013,-69.2846,99.7,4.5,mb,35.0,75.0,0.269,0.65,us,us6000nq8t,2024-09-07T04:38:11.040Z,"52 km ENE of Huara, Chile",earthquake,5.89,5.068,0.113,23.0,reviewed,us,us
