@@ -18054,3 +18054,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-07T07:24:46.250Z,32.6383333,-115.7428333,8.99,1.4,ml,29.0,62.0,0.1517,0.18,ci,ci40727095,2024-09-07T07:30:58.673Z,"16 km WNW of Progreso, B.C., MX",earthquake,0.24,0.7,0.229,20.0,automatic,ci,ci
 2024-09-07T07:23:42.671Z,60.384,-148.4035,85.1,1.8,ml,,,,1.21,ak,ak024bj875y3,2024-09-07T07:26:25.592Z,"41 km NNW of Chenega, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2024-09-07T06:59:28.278Z,28.555,-98.439,3.7123,1.8,ml,15.0,81.0,0.1,1.1,tx,tx2024rphp,2024-09-07T07:31:21.298Z,"14 km NE of Tilden, Texas",earthquake,0.0,1.46648215664954,0.1,13.0,automatic,tx,tx
+2024-09-07T07:50:12.660Z,34.8486671,-118.9681702,10.68,1.42,ml,19.0,93.0,0.07712,0.12,ci,ci40727103,2024-09-07T07:52:18.046Z,"4 km NW of Frazier Park, CA",earthquake,0.5,1.21,0.178,4.0,automatic,ci,ci
+2024-09-07T07:47:18.043Z,37.7217,-117.1458,0.5,0.8,ml,9.0,171.83999999999995,0.569,0.2324,nn,nn00884264,2024-09-07T07:49:46.658Z,"8 km E of Goldfield, Nevada",earthquake,,42.1,0.35,6.0,automatic,nn,nn
+2024-09-07T07:46:01.860Z,19.3811664581299,-155.174667358398,3.6800000667572,2.11,ml,31.0,99.0,0.005351,0.300000012,hv,hv74446351,2024-09-07T07:48:55.010Z,"9 km SE of Volcano, Hawaii",earthquake,0.79,1.33000004,0.36,3.0,automatic,hv,hv
