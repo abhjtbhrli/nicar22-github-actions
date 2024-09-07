@@ -18119,3 +18119,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-07T14:03:31.978Z,61.3928,-149.945,36.3,2.6,ml,,,,0.23,ak,ak024bjc8w19,2024-09-07T14:04:53.038Z,"4 km NNE of Point MacKenzie, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2024-09-07T13:59:19.405Z,37.7512,-117.1345,0.0,1.1,ml,18.0,178.10000000000002,0.462,0.2737,nn,nn00884286,2024-09-07T14:01:39.928Z,"10 km ENE of Goldfield, Nevada",earthquake,,40.7,0.1,7.0,automatic,nn,nn
 2024-09-07T13:42:52.344Z,32.1843,137.763,383.938,5.2,mww,80.0,57.0,1.963,0.67,us,us6000nqat,2024-09-07T14:01:51.040Z,"234 km SE of Kushimoto, Japan",earthquake,8.59,6.812,0.083,14.0,reviewed,us,us
+2024-09-07T14:22:57.550Z,38.8351669311523,-122.790336608887,1.55999994277954,0.2,md,7.0,83.0,0.003237,0.01,nc,nc75058586,2024-09-07T14:24:34.696Z,"6 km WNW of Cobb, CA",earthquake,0.47,1.15999997,0.12,9.0,automatic,nc,nc
+2024-09-07T10:13:13.750Z,47.71333333333333,-120.0545,4.3,0.47,ml,8.0,113.0,0.09175,0.08,uw,uw62044171,2024-09-07T14:25:27.100Z,"7 km N of Waterville, Washington",earthquake,0.29,1.02,0.1096214796135872,7.0,reviewed,uw,uw
+2024-09-07T03:09:39.510Z,46.9108333333333,-112.8125,0.15,1.35,ml,13.0,99.0,0.1987,0.06,mb,mb90060863,2024-09-07T14:20:29.460Z,"11 km WSW of Lincoln, Montana",earthquake,0.41,0.97,0.152687928107146,8.0,reviewed,mb,mb
