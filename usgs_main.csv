@@ -18051,3 +18051,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-07T06:52:55.230Z,38.8349990844727,-122.799331665039,2.15000009536743,1.28,md,22.0,60.0,0.007802,0.03,nc,nc75058476,2024-09-07T06:54:31.764Z,"7 km WNW of Cobb, CA",earthquake,0.2,0.50999999,0.17,24.0,automatic,nc,nc
 2024-09-07T07:07:00.126Z,61.1986,-149.6414,38.2,1.6,ml,,,,0.32,ak,ak024bj83n7g,2024-09-07T07:08:22.988Z,"6 km S of Elmendorf Air Force Base, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-07T01:51:14.279Z,35.61783333,-96.43383333,17.97,1.23,ml,20.0,110.0,0.2303547965,0.11,ok,ok2024roxl,2024-09-07T07:21:45.320Z,"11 km NNW of IXL, Oklahoma",earthquake,,0.8,0.21,10.0,reviewed,ok,ok
+2024-09-07T07:24:46.250Z,32.6383333,-115.7428333,8.99,1.4,ml,29.0,62.0,0.1517,0.18,ci,ci40727095,2024-09-07T07:30:58.673Z,"16 km WNW of Progreso, B.C., MX",earthquake,0.24,0.7,0.229,20.0,automatic,ci,ci
+2024-09-07T07:23:42.671Z,60.384,-148.4035,85.1,1.8,ml,,,,1.21,ak,ak024bj875y3,2024-09-07T07:26:25.592Z,"41 km NNW of Chenega, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2024-09-07T06:59:28.278Z,28.555,-98.439,3.7123,1.8,ml,15.0,81.0,0.1,1.1,tx,tx2024rphp,2024-09-07T07:31:21.298Z,"14 km NE of Tilden, Texas",earthquake,0.0,1.46648215664954,0.1,13.0,automatic,tx,tx
