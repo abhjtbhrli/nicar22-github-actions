@@ -18031,3 +18031,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-07T05:31:29.595Z,61.8032,-151.2262,55.5,1.8,ml,,,,0.51,ak,ak024bj71zgf,2024-09-07T05:33:27.801Z,"22 km SSE of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-07T05:27:33.370Z,33.7023333,-118.6248333,-0.09,2.52,ml,64.0,173.0,0.1885,0.42,ci,ci40727015,2024-09-07T05:34:42.884Z,"22 km WSW of Rancho Palos Verdes, CA",earthquake,0.57,0.97,0.118,26.0,automatic,ci,ci
 2024-09-07T05:16:50.799Z,23.9169,121.7303,21.917,5.1,mb,59.0,72.0,0.284,0.9,us,us6000nq8y,2024-09-07T05:34:48.040Z,"14 km ESE of Hualien City, Taiwan",earthquake,2.15,4.329,0.055,108.0,reviewed,us,us
+2024-09-07T05:47:42.340Z,33.8756676,-116.3154984,4.25,1.22,ml,38.0,62.0,0.07228,0.21,ci,ci40727039,2024-09-07T05:49:46.743Z,"9 km NE of Thousand Palms, CA",earthquake,0.34,0.89,0.195,12.0,automatic,ci,ci
+2024-09-07T05:43:10.740Z,38.787166595459,-122.766166687012,2.45000004768372,1.17,md,23.0,76.0,0.01435,0.03,nc,nc75058441,2024-09-07T05:44:46.944Z,"1 km NNW of The Geysers, CA",earthquake,0.26,0.449999988,0.13,21.0,automatic,nc,nc
+2024-09-07T05:43:01.050Z,34.0361667,-116.3525,7.86,1.09,ml,45.0,40.0,0.04537,0.17,ci,ci40727023,2024-09-07T05:49:19.633Z,"11 km SE of Yucca Valley, CA",earthquake,0.18,0.48,0.177,29.0,automatic,ci,ci
+2024-09-07T05:05:14.684Z,31.629,-104.22,3.3826,2.6,ml,41.0,66.0,0.1,0.1,tx,tx2024rpdv,2024-09-07T05:45:09.505Z,"53 km NW of Toyah, Texas",earthquake,0.6006756846651065,0.8857164736049118,0.1,24.0,reviewed,tx,tx
