@@ -18008,3 +18008,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-07T01:29:35.720Z,37.7680015563965,-122.163833618164,6.67000007629395,1.61,md,18.0,54.0,0.05623,0.11,nc,nc75058366,2024-09-07T01:54:26.988Z,"5 km N of San Leandro, CA",earthquake,0.28,0.930000007,0.16,15.0,automatic,nc,nc
 2024-09-07T01:14:06.072Z,-4.0151,136.9179,136.728,4.5,mb,49.0,76.0,4.062,0.79,us,us6000nq8b,2024-09-07T01:36:44.040Z,"173 km ESE of Nabire, Indonesia",earthquake,8.71,7.361,0.09,40.0,reviewed,us,us
 2024-09-06T22:37:31.221Z,53.5549,-165.2958,2.7,3.0,ml,,,,0.59,ak,ak024bhtoaxi,2024-09-07T01:29:31.044Z,"71 km SSE of Akutan, Alaska",earthquake,,0.7,,,reviewed,ak,ak
+2024-09-07T02:38:24.551Z,61.2313,-150.642,34.7,1.5,ml,,,,0.32,ak,ak024bj5b69j,2024-09-07T02:40:59.443Z,"25 km ENE of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-09-07T02:07:17.172Z,31.668,-104.399,3.5803,2.4,ml,17.0,70.0,0.0,0.5,tx,tx2024roya,2024-09-07T02:30:41.233Z,"56 km S of Whites City, New Mexico",earthquake,0.0,1.29918396472931,0.1,12.0,automatic,tx,tx
