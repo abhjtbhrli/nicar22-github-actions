@@ -18206,3 +18206,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-07T17:53:15.540Z,34.0245,-117.584,4.66,1.02,ml,10.0,148.0,0.0272,0.09,ci,ci40727623,2024-09-07T18:00:04.502Z,"5 km SE of Ontario, CA",earthquake,0.72,0.9,0.396,30.0,automatic,ci,ci
 2024-09-07T00:47:05.360Z,48.9355,-122.1295,11.01,1.76,ml,16.0,79.0,0.02078,0.12,uw,uw62044106,2024-09-07T18:22:01.050Z,"1 km ESE of Peaceful Valley, Washington",earthquake,0.24,0.42,0.1366433326419787,15.0,reviewed,uw,uw
 2024-09-07T18:29:32.824Z,61.6467,-150.835,44.9,0.9,ml,,,,0.25,ak,ak024bjes74y,2024-09-07T18:31:43.571Z,"20 km WNW of Susitna, Alaska",earthquake,,2.3,,,automatic,ak,ak
+2024-09-07T18:45:53.550Z,34.0238342,-117.597168,4.83,2.76,ml,123.0,19.0,0.01257,0.19,ci,ci40727695,2024-09-07T18:47:59.740Z,"4 km SE of Ontario, CA",earthquake,0.15,0.32,0.29,24.0,automatic,ci,ci
+2024-09-07T18:44:13.930Z,34.027668,-117.5898361,5.82,1.25,ml,22.0,77.0,0.01552,0.13,ci,ci40727687,2024-09-07T18:46:16.417Z,"4 km SE of Ontario, CA",earthquake,0.33,0.58,0.255,19.0,automatic,ci,ci
+2024-09-07T18:43:16.470Z,34.0241661,-117.5996704,4.82,2.3,ml,81.0,31.0,0.01102,0.19,ci,ci40727679,2024-09-07T18:45:23.737Z,"4 km SE of Ontario, CA",earthquake,0.22,0.38,0.335,25.0,automatic,ci,ci
