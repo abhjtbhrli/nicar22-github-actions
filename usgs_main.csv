@@ -18114,3 +18114,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-07T13:03:31.023Z,67.2026,-144.0116,16.2,2.0,ml,,,,0.63,ak,ak024bjbngcu,2024-09-07T13:07:25.663Z,"62 km NNW of Chalkyitsik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-07T12:45:33.563Z,28.529,-98.3919,10.014,2.7,mb_lg,16.0,132.0,0.274,0.7,us,us6000nqan,2024-09-07T12:57:24.040Z,"17 km ENE of Tilden, Texas",earthquake,1.73,8.566,0.083,38.0,reviewed,us,us
 2024-09-07T13:22:29.700Z,19.2203330993652,-155.481002807617,32.1199989318848,1.87,md,30.0,94.0,0.03266,0.119999997,hv,hv74446796,2024-09-07T13:24:08.080Z,"1 km N of Pāhala, Hawaii",earthquake,0.56,0.870000005,0.270000011,3.0,automatic,hv,hv
+2024-09-07T13:39:57.540Z,40.1421661376953,-123.096664428711,41.7799987792969,2.58,md,42.0,39.0,,0.26,nc,nc75058566,2024-09-07T13:47:17.086Z,"41 km NNE of Covelo, CA",earthquake,0.56,1.63,0.14,20.0,automatic,nc,nc
