@@ -18491,3 +18491,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-07T22:40:42.781Z,56.8307,-155.2918,61.0,1.8,ml,,,,0.4,ak,ak024bjh8a1a,2024-09-08T20:26:15.194Z,"69 km W of Akhiok, Alaska",earthquake,,2.3,,,reviewed,ak,ak
 2024-09-08T20:19:40.202Z,64.6472,-147.3358,0.0,0.3,ml,,,,1.08,ak,ak024bl3ga9m,2024-09-08T20:31:37.214Z,"11 km SW of Moose Creek, Alaska",earthquake,,113.7,,,automatic,ak,ak
 2024-09-08T09:05:52.657Z,50.2846,176.8902,58.3,3.0,ml,,,,0.83,ak,ak024bkwto52,2024-09-08T20:37:20.907Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,9.8,,,reviewed,ak,ak
+2024-09-08T20:51:56.889Z,57.1675,-155.217,14.8,1.7,ml,,,,0.54,ak,ak024bl3n6g8,2024-09-08T20:53:56.521Z,"64 km SW of Karluk, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-09-08T20:13:10.454Z,-24.0084,179.87,520.472,4.4,mb,65.0,50.0,5.447,0.7,us,us6000nqid,2024-09-08T20:52:16.040Z,south of the Fiji Islands,earthquake,8.58,6.622,0.079,46.0,reviewed,us,us
