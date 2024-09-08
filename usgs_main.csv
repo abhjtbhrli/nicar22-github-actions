@@ -18453,3 +18453,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-08T16:26:17.660Z,28.555,-98.394,4.3413,1.5,ml,9.0,66.0,0.1,0.8,tx,tx2024rrvz,2024-09-08T16:41:31.252Z,"18 km NE of Tilden, Texas",earthquake,0.0,1.8671792640664,0.2,6.0,automatic,tx,tx
 2024-09-08T16:12:27.296Z,28.532,-98.363,6.6313,1.6,ml,8.0,115.0,0.1,0.5,tx,tx2024rrvj,2024-09-08T16:41:28.251Z,"19 km WNW of Three Rivers, Texas",earthquake,0.0,2.96629521119666,0.2,6.0,automatic,tx,tx
 2024-09-08T16:50:38.510Z,35.4884987,-118.5208359,2.32,1.48,ml,32.0,65.0,0.178,0.12,ci,ci40728383,2024-09-08T16:52:45.497Z,"11 km SSW of Bodfish, CA",earthquake,0.28,1.01,0.176,5.0,automatic,ci,ci
+2024-09-08T17:01:26.860Z,38.6656684875488,-122.839668273926,0.100000001490116,1.16,md,5.0,160.0,0.1258,0.23,nc,nc75059286,2024-09-08T17:03:05.873Z,"7 km NE of Healdsburg, CA",earthquake,1.32,20.1900005,0.02,5.0,automatic,nc,nc
+2024-09-08T17:00:47.944Z,61.2315,-147.1824,0.0,1.5,ml,,,,1.47,ak,ak024bl1jxfe,2024-09-08T17:02:51.444Z,"46 km WNW of Valdez, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-09-08T16:57:32.590Z,38.917667388916,-123.248336791992,5.03999996185303,2.31,md,32.0,102.0,0.04914,0.07,nc,nc75059281,2024-09-08T17:07:15.739Z,"14 km SE of Boonville, CA",earthquake,0.22,0.589999974,0.14,35.0,automatic,nc,nc
