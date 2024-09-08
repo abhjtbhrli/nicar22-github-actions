@@ -18379,3 +18379,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-07T14:33:20.330Z,38.7613333333333,-122.722333333333,1.88,0.84,md,9.0,89.0,0.001993,0.06,nc,nc75058621,2024-09-08T09:43:10.597Z,"3 km WSW of Anderson Springs, CA",earthquake,0.38,0.84,0.23,24.0,reviewed,nc,nc
 2024-09-08T09:32:09.756Z,31.602,-103.938,6.0108,2.2,ml,16.0,82.0,0.0,0.3,tx,tx2024rrid,2024-09-08T09:49:56.218Z,"34 km WSW of Mentone, Texas",earthquake,0.0,2.47931981086731,0.2,12.0,automatic,tx,tx
 2024-09-08T09:18:55.935Z,28.568,-98.413,6.3827,1.9,ml,21.0,61.0,0.1,1.2,tx,tx2024rrhs,2024-09-08T09:46:31.213Z,"17 km NE of Tilden, Texas",earthquake,0.0,2.06949826909445,0.1,17.0,automatic,tx,tx
+2024-09-08T10:01:38.530Z,34.4656677,-116.5178299,8.21,1.42,ml,34.0,48.0,0.1264,0.18,ci,ci40728231,2024-09-08T10:03:44.936Z,"38 km NE of Big Bear City, CA",earthquake,0.29,0.86,0.063,3.0,automatic,ci,ci
+2024-09-07T14:34:39.050Z,38.8223333333333,-122.757833333333,0.73,1.5,md,16.0,104.0,0.01245,0.04,nc,nc75058636,2024-09-08T10:04:46.310Z,"3 km WNW of Cobb, CA",earthquake,0.23,0.38,0.049,7.0,reviewed,nc,nc
