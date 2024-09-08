@@ -18486,3 +18486,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-08T19:31:32.178Z,61.9908,-150.8126,62.0,1.4,ml,,,,0.54,ak,ak024bl2xem9,2024-09-08T19:33:56.757Z,"30 km E of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-08T19:24:17.510Z,33.0391667,-115.549,7.76,1.14,ml,20.0,74.0,0.02766,0.25,ci,ci40728463,2024-09-08T19:30:08.409Z,"7 km E of Westmorland, CA",earthquake,0.34,0.58,0.185,11.0,automatic,ci,ci
 2024-09-08T19:28:00.228Z,10.9868,125.7902,41.55,4.9,mww,94.0,42.0,10.268,0.77,us,us6000nqi6,2024-09-08T19:45:55.040Z,"6 km NW of Sulangan, Philippines",earthquake,5.53,6.268,0.083,14.0,reviewed,us,us
+2024-09-08T10:08:32.444Z,36.7765,-116.0031,2.9,-0.3,ml,8.0,263.99,0.034,0.0685,nn,nn00884337,2024-09-08T19:58:13.304Z,"37 km NW of Indian Springs, Nevada",earthquake,,2.3,0.36,4.0,reviewed,nn,nn
+2024-09-08T05:17:29.946Z,36.6386,-115.7063,8.4,-0.1,ml,10.0,344.55,0.207,0.0481,nn,nn00884339,2024-09-08T20:01:19.449Z,"8 km NNW of Indian Springs, Nevada",earthquake,,10.6,0.0,1.0,reviewed,nn,nn
