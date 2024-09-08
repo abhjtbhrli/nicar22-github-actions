@@ -18305,3 +18305,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-08T01:57:39.939Z,28.543,-98.391,5.3218,1.6,ml,14.0,98.0,0.1,0.9,tx,tx2024rqte,2024-09-08T02:21:56.377Z,"17 km ENE of Tilden, Texas",earthquake,0.0,2.1975433852217,0.1,12.0,automatic,tx,tx
 2024-09-08T02:45:01.767Z,-12.4555,166.5282,55.283,5.1,mb,55.0,153.0,7.123,0.84,us,us6000nqej,2024-09-08T03:03:49.040Z,"192 km NW of Sola, Vanuatu",earthquake,11.54,7.989,0.083,47.0,reviewed,us,us
 2024-09-08T02:43:51.172Z,28.541,-98.367,7.1779,1.5,ml,10.0,76.0,0.1,0.7,tx,tx2024rquz,2024-09-08T02:56:03.615Z,"19 km ENE of Tilden, Texas",earthquake,0.0,2.85431845231212,0.1,8.0,automatic,tx,tx
+2024-09-08T03:24:06.228Z,37.6199,-116.9291,0.0,0.7,ml,8.0,175.94,0.663,0.1172,nn,nn00884317,2024-09-08T03:27:02.559Z,"28 km ESE of Goldfield, Nevada",earthquake,,71.1,0.55,5.0,automatic,nn,nn
