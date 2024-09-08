@@ -18310,3 +18310,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-08T03:31:26.615Z,61.4624,-146.5045,25.6,1.8,ml,,,,0.6,ak,ak024bktegid,2024-09-08T03:33:03.522Z,"37 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-09-08T03:02:56.703Z,31.74,-104.632,2.5191,1.7,ml,8.0,223.0,0.1,0.2,tx,tx2024rqvi,2024-09-08T03:48:47.963Z,"54 km SSW of Whites City, New Mexico",earthquake,0.0,2.8973708152771,0.1,6.0,automatic,tx,tx
 2024-09-07T04:30:01.280Z,61.3105,-152.249666666667,-0.41,0.17,ml,10.0,121.0,0.06426,0.09,av,av93020249,2024-09-08T03:49:28.520Z,"65 km WNW of Beluga, Alaska",earthquake,0.22,2.66,0.28895840359915,10.0,reviewed,av,av
+2024-09-08T04:03:36.720Z,38.8206672668457,-122.811332702637,3.17000007629395,0.93,md,12.0,101.0,0.002896,0.01,nc,nc75059086,2024-09-08T04:05:13.438Z,"7 km NNW of The Geysers, CA",earthquake,0.51,0.910000026,0.19,16.0,automatic,nc,nc
+2024-09-08T04:01:59.730Z,35.7916679,-117.6156693,4.85,1.09,ml,18.0,136.0,0.1225,0.14,ci,ci40728095,2024-09-08T04:04:14.988Z,"19 km W of Searles Valley, CA",earthquake,0.46,0.93,0.18,5.0,automatic,ci,ci
+2024-09-08T03:52:01.820Z,61.4153,-146.6352,27.9,2.8,ml,,,,0.32,ak,ak024bktiwmu,2024-09-08T04:03:18.040Z,"35 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-09-07T06:30:48.980Z,60.5336666666667,-152.797666666667,10.39,-0.82,ml,5.0,135.0,0.05223,0.22,av,av93254698,2024-09-08T04:07:29.160Z,"81 km W of Salamatof, Alaska",earthquake,1.46,1.79,0.339081435902343,4.0,reviewed,av,av
