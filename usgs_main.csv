@@ -18422,3 +18422,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-08T14:08:21.370Z,19.1609992980957,-155.489501953125,30.7000007629395,2.18000007,md,35.0,160.0,0.08738,0.129999995,hv,hv74448381,2024-09-08T14:10:03.900Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.65,0.860000014,0.360000014,3.0,automatic,hv,hv
 2024-09-08T14:05:04.947Z,61.2386,-147.824,0.0,1.7,ml,,,,0.63,ak,ak024bkzslvi,2024-09-08T14:07:17.105Z,"63 km ESE of Knik River, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-08T14:04:35.510Z,63.3147,-145.0644,0.0,1.2,ml,,,,0.64,ak,ak024bkzsgin,2024-09-08T14:06:25.879Z,"37 km NE of Paxson, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-09-08T14:22:19.800Z,35.8763333,-117.7171667,10.21,0.81,ml,21.0,50.0,0.07795,0.13,ci,ci40728311,2024-09-08T14:28:06.394Z,"18 km ESE of Little Lake, CA",earthquake,0.2,0.4,0.202,10.0,automatic,ci,ci
+2024-09-08T14:13:25.910Z,33.5916667,-116.8,9.68,0.02,ml,8.0,132.0,0.03003,0.04,ci,ci40728303,2024-09-08T14:19:44.864Z,"12 km WNW of Anza, CA",earthquake,0.52,0.68,0.096,3.0,automatic,ci,ci
