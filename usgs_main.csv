@@ -18464,3 +18464,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-08T17:45:18.746Z,63.0019,-150.5163,85.2,1.1,ml,,,,0.55,ak,ak024bl1tiea,2024-09-08T17:47:17.228Z,"57 km NNE of Petersville, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2024-09-08T17:43:56.530Z,38.8354988098145,-122.807662963867,2.00999999046326,0.44,md,12.0,61.0,0.01223,0.01,nc,nc75059306,2024-09-08T17:45:31.344Z,"7 km WNW of Cobb, CA",earthquake,0.3,0.839999974,0.32,13.0,automatic,nc,nc
 2024-09-08T17:39:24.190Z,33.2733333,-116.435,4.36,1.1,ml,65.0,26.0,0.0158,0.19,ci,ci40728407,2024-09-08T17:45:55.750Z,"6 km WNW of Borrego Springs, CA",earthquake,0.13,0.31,0.166,26.0,automatic,ci,ci
+2024-09-08T17:55:09.840Z,38.8310012817383,-122.795501708984,5.55999994277954,0.39,md,10.0,127.0,0.008423,0.04,nc,nc75059316,2024-09-08T17:56:46.360Z,"6 km WNW of Cobb, CA",earthquake,0.75,1.02999997,0.2,6.0,automatic,nc,nc
