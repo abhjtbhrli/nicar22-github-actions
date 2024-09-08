@@ -18369,3 +18369,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-08T08:23:05.860Z,38.7683334350586,-122.728668212891,0.779999971389771,0.74,md,5.0,175.0,0.007359,0.0,nc,nc75059161,2024-09-08T08:24:43.507Z,"3 km SE of The Geysers, CA",earthquake,0.72,1.38999999,0.18,5.0,automatic,nc,nc
 2024-09-08T08:18:45.550Z,35.085,-119.137,10.14,1.2,ml,29.0,97.0,0.05097,0.23,ci,ci40728199,2024-09-08T08:29:37.289Z,"24 km E of Maricopa, CA",earthquake,0.33,0.56,0.17,18.0,automatic,ci,ci
 2024-09-08T08:26:33.488Z,61.8037,-150.5086,26.1,0.9,ml,,,,0.61,ak,ak024bkwckhg,2024-09-08T08:36:21.665Z,"25 km WNW of Willow, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-09-08T08:32:25.208Z,31.575,-104.02,6.7546,1.8,ml,16.0,54.0,0.0,0.2,tx,tx2024rrge,2024-09-08T08:45:32.751Z,"36 km NW of Toyah, Texas",earthquake,0.0,2.56616353988647,0.1,12.0,automatic,tx,tx
