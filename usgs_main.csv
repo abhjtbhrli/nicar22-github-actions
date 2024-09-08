@@ -18339,3 +18339,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-08T05:47:20.680Z,19.2730007171631,-155.379501342773,29.4799995422363,2.26999998,md,50.0,120.0,0.03919,0.140000001,hv,hv74448001,2024-09-08T05:49:03.600Z,"12 km NE of Pāhala, Hawaii",earthquake,0.42,0.49000001,0.280000001,16.0,automatic,hv,hv
 2024-09-08T05:29:01.031Z,-22.0787,169.6732,10.0,5.3,mww,43.0,98.0,2.129,1.37,us,us6000nqf8,2024-09-08T05:48:44.040Z,"194 km ESE of Tadine, New Caledonia",earthquake,5.69,1.79,0.093,11.0,reviewed,us,us
 2024-09-08T05:06:19.853Z,12.536,-87.79,69.619,4.2,mb,39.0,140.0,1.063,0.58,us,us6000nqf5,2024-09-08T05:54:42.040Z,"43 km WSW of Jiquilillo, Nicaragua",earthquake,6.52,10.431,0.053,99.0,reviewed,us,us
+2024-09-08T06:11:28.520Z,39.4043350219727,-122.891334533691,9.6899995803833,1.7,md,6.0,141.0,0.07196,0.02,nc,nc75059101,2024-09-08T06:13:03.576Z,"6 km ESE of Lake Pillsbury, CA",earthquake,0.46,1.02999997,0.06,4.0,automatic,nc,nc
+2024-09-08T05:57:42.100Z,60.2087,-139.7749,0.0,1.8,ml,,,,1.01,ak,ak024bkuqxj6,2024-09-08T05:59:25.273Z,"73 km N of Yakutat, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-09-07T14:32:54.240Z,38.8085,-122.7435,1.59,1.23,md,20.0,76.0,0.01111,0.15,nc,nc75058616,2024-09-08T06:19:19.043Z,"2 km WSW of Cobb, CA",earthquake,0.41,1.09,0.187,12.0,reviewed,nc,nc
