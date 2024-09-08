@@ -18437,3 +18437,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-08T14:59:45.776Z,35.15256119,-96.3351593,7.383434296,1.59,ml,11.0,107.8627319,0.2249987423,0.2177397944,ok,ok2024rrsy,2024-09-08T15:08:22.596Z,"0 km SE of Yeager, Oklahoma",earthquake,4.422043483,5.586322511,0.35,5.0,automatic,ok,ok
 2024-09-08T14:53:25.794Z,-10.7908,166.2272,199.809,5.3,mb,49.0,59.0,6.327,0.68,us,us6000nqh7,2024-09-08T15:06:46.040Z,"47 km E of Lata, Solomon Islands",earthquake,7.19,8.596,0.063,86.0,reviewed,us,us
 2024-09-08T15:14:12.617Z,31.632,-104.003,4.8077,1.6,ml,16.0,43.0,0.0,0.5,tx,tx2024rrtl,2024-09-08T15:32:53.833Z,"39 km WSW of Mentone, Texas",earthquake,0.0,1.20216226577759,0.2,12.0,automatic,tx,tx
+2024-09-08T15:40:23.746Z,37.7704,-117.1137,2.3,0.9,ml,15.0,182.15000000000003,0.56,0.2695,nn,nn00884329,2024-09-08T15:42:57.671Z,"12 km ENE of Goldfield, Nevada",earthquake,,19.6,0.28,6.0,automatic,nn,nn
+2024-09-08T15:36:40.660Z,34.0571667,-116.4125,8.42,0.83,ml,36.0,57.0,0.02231,0.18,ci,ci40728343,2024-09-08T15:42:51.446Z,"7 km SSE of Yucca Valley, CA",earthquake,0.2,0.46,0.169,16.0,automatic,ci,ci
