@@ -18517,3 +18517,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-08T22:36:05.782Z,61.8977,-150.3334,3.1,1.8,ml,,,,0.76,ak,ak024bl4qpz6,2024-09-08T22:39:13.250Z,"22 km NW of Willow, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-09-08T22:34:21.113Z,63.3413,-151.5253,0.0,1.5,ml,,,,1.04,ak,ak024bl4qbq7,2024-09-08T22:36:13.235Z,"24 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-08T22:46:56.912Z,62.9005,-150.5858,77.4,1.0,ml,,,,0.4,ak,ak024bl4sz2z,2024-09-08T22:48:48.752Z,"45 km NNE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-09-08T07:55:23.020Z,48.744166666666665,-121.82966666666668,-0.7,1.44,ml,7.0,103.0,0.08237,0.39,uw,uw62044371,2024-09-08T23:06:13.090Z,"18 km SSE of Glacier, Washington",earthquake,1.5,3.65,0.0554223295790938,6.0,reviewed,uw,uw
