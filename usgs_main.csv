@@ -18308,3 +18308,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-08T03:24:06.228Z,37.6199,-116.9291,0.0,0.7,ml,8.0,175.94,0.663,0.1172,nn,nn00884317,2024-09-08T03:27:02.559Z,"28 km ESE of Goldfield, Nevada",earthquake,,71.1,0.55,5.0,automatic,nn,nn
 2024-09-08T03:35:41.499Z,59.2762,-153.673,106.8,1.3,ml,,,,0.26,ak,ak024bktfcit,2024-09-08T03:37:26.715Z,"56 km SE of Pope-Vannoy Landing, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2024-09-08T03:31:26.615Z,61.4624,-146.5045,25.6,1.8,ml,,,,0.6,ak,ak024bktegid,2024-09-08T03:33:03.522Z,"37 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-09-08T03:02:56.703Z,31.74,-104.632,2.5191,1.7,ml,8.0,223.0,0.1,0.2,tx,tx2024rqvi,2024-09-08T03:48:47.963Z,"54 km SSW of Whites City, New Mexico",earthquake,0.0,2.8973708152771,0.1,6.0,automatic,tx,tx
+2024-09-07T04:30:01.280Z,61.3105,-152.249666666667,-0.41,0.17,ml,10.0,121.0,0.06426,0.09,av,av93020249,2024-09-08T03:49:28.520Z,"65 km WNW of Beluga, Alaska",earthquake,0.22,2.66,0.28895840359915,10.0,reviewed,av,av
