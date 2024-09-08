@@ -18376,3 +18376,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-08T08:54:39.980Z,33.8853333,-116.215,2.74,1.11,ml,36.0,68.0,0.0529,0.21,ci,ci40728215,2024-09-08T09:00:42.739Z,"18 km ENE of Thousand Palms, CA",earthquake,0.22,0.34,0.196,3.0,automatic,ci,ci
 2024-09-08T09:12:36.835Z,37.1117,-117.4351,9.8,1.1,ml,21.0,241.77,0.128,0.184,nn,nn00884326,2024-09-08T09:15:06.091Z,"64 km WNW of Beatty, Nevada",earthquake,,1.1,0.15,8.0,automatic,nn,nn
 2024-09-08T09:09:17.503Z,68.8602,-148.1959,2.2,2.4,ml,,,,0.65,ak,ak024bkwubom,2024-09-08T09:12:05.941Z,"136 km NW of Arctic Village, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-09-07T14:33:20.330Z,38.7613333333333,-122.722333333333,1.88,0.84,md,9.0,89.0,0.001993,0.06,nc,nc75058621,2024-09-08T09:43:10.597Z,"3 km WSW of Anderson Springs, CA",earthquake,0.38,0.84,0.23,24.0,reviewed,nc,nc
