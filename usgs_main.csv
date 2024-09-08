@@ -18424,3 +18424,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-08T14:04:35.510Z,63.3147,-145.0644,0.0,1.2,ml,,,,0.64,ak,ak024bkzsgin,2024-09-08T14:06:25.879Z,"37 km NE of Paxson, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-08T14:22:19.800Z,35.8763333,-117.7171667,10.21,0.81,ml,21.0,50.0,0.07795,0.13,ci,ci40728311,2024-09-08T14:28:06.394Z,"18 km ESE of Little Lake, CA",earthquake,0.2,0.4,0.202,10.0,automatic,ci,ci
 2024-09-08T14:13:25.910Z,33.5916667,-116.8,9.68,0.02,ml,8.0,132.0,0.03003,0.04,ci,ci40728303,2024-09-08T14:19:44.864Z,"12 km WNW of Anza, CA",earthquake,0.52,0.68,0.096,3.0,automatic,ci,ci
+2024-09-08T14:35:58.670Z,37.6858,-117.0946,1.6,1.3,ml,15.0,282.77,0.407,0.3349,nn,nn00884328,2024-09-08T14:38:26.924Z,"12 km ESE of Goldfield, Nevada",earthquake,,25.7,0.24,8.0,automatic,nn,nn
+2024-09-08T14:30:37.389Z,61.4385,-150.0064,31.2,1.2,ml,,,,0.63,ak,ak024bkzy1a2,2024-09-08T14:33:33.196Z,"8 km N of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-09-08T14:18:40.055Z,31.109,-103.764,3.7801,1.7,ml,14.0,68.0,0.1,0.5,tx,tx2024rrrr,2024-09-08T14:36:43.476Z,"13 km N of Balmorhea, Texas",earthquake,0.0,1.50125157833099,0.2,12.0,automatic,tx,tx
