@@ -18346,3 +18346,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-08T06:26:12.008Z,68.8371,-148.3819,0.0,2.2,ml,,,,0.66,ak,ak024bkv5nm8,2024-09-08T06:30:11.765Z,"140 km WNW of Arctic Village, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-08T06:10:50.182Z,31.634,-104.459,4.1584,1.9,ml,16.0,106.0,0.0,0.3,tx,tx2024rrbo,2024-09-08T06:27:27.004Z,"60 km S of Whites City, New Mexico",earthquake,0.0,1.6845002174377397,0.1,12.0,automatic,tx,tx
 2024-09-08T06:23:45.312Z,-20.9824,-68.8331,107.886,4.7,mb,46.0,82.0,0.889,0.85,us,us6000nqfe,2024-09-08T06:45:50.190Z,"65 km WNW of Ollagüe, Chile",earthquake,6.69,6.387,0.037,223.0,reviewed,us,us
+2024-09-08T06:56:50.320Z,38.8424987792969,-122.813003540039,14.5799999237061,0.76,md,7.0,154.0,0.01459,0.04,nc,nc75059116,2024-09-08T06:58:22.826Z,"8 km WNW of Cobb, CA",earthquake,2.31,8.81999969,0.06,3.0,automatic,nc,nc
+2024-09-08T06:53:41.930Z,33.6973343,-116.8148346,15.59,1.51,ml,59.0,48.0,0.07257,0.2,ci,ci40728159,2024-09-08T06:55:45.922Z,"9 km SE of Valle Vista, CA",earthquake,0.24,0.47,0.293,20.0,automatic,ci,ci
