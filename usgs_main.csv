@@ -18319,3 +18319,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-07T07:59:51.110Z,53.8636666666667,-166.995,37.62,0.91,ml,7.0,245.0,0.06431,0.09,av,av93254763,2024-09-08T04:21:54.310Z,"29 km W of Dutch Harbor, Alaska",earthquake,1.52,0.7,0.257078905309352,8.0,reviewed,av,av
 2024-09-07T07:05:21.840Z,61.3058333333333,-152.335833333333,-3.17,-0.38,ml,10.0,121.0,0.05008,0.33,av,av93254723,2024-09-08T04:17:39.150Z,"69 km WNW of Tyonek, Alaska",earthquake,0.65,3.28,0.128673070458568,10.0,reviewed,av,av
 2024-09-07T06:26:32.200Z,58.251,-155.166666666667,2.69,-0.7,ml,6.0,106.0,0.03127,0.23,av,av93020254,2024-09-08T04:11:35.300Z,"86 km NNW of Karluk, Alaska",earthquake,0.57,0.72,0.164128594272298,6.0,reviewed,av,av
+2024-09-08T04:38:02.027Z,61.182,-147.1439,0.1,1.4,ml,,,,1.12,ak,ak024bku1c8a,2024-09-08T04:40:27.770Z,"43 km W of Valdez, Alaska",earthquake,,0.7,,,automatic,ak,ak
