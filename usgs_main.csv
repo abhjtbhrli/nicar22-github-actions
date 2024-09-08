@@ -18500,3 +18500,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-08T21:13:08.881Z,-56.6204,-27.2589,143.358,5.1,mb,61.0,51.0,5.75,0.85,us,us6000nqim,2024-09-08T21:27:15.040Z,South Sandwich Islands region,earthquake,10.93,7.028,0.078,53.0,reviewed,us,us
 2024-09-08T21:32:01.389Z,62.7012,-145.9292,60.8,2.5,ml,,,,1.15,ak,ak024bl44f62,2024-09-08T21:33:55.410Z,"46 km SSW of Paxson, Alaska",earthquake,,3.7,,,automatic,ak,ak
 2024-09-08T21:15:05.733Z,57.6456,-152.3718,35.0,2.5,ml,16.0,177.0,0.178,0.58,us,us6000nqik,2024-09-08T21:31:43.040Z,"6 km NW of Chiniak, Alaska",earthquake,3.02,1.998,0.052,48.0,reviewed,us,us
+2024-09-08T21:45:14.650Z,33.8603325,-118.2243347,17.08,1.86,ml,19.0,205.0,0.312,0.33,ci,ci40728519,2024-09-08T21:47:48.195Z,"4 km S of Compton, CA",earthquake,1.75,5.38,0.278,29.0,automatic,ci,ci
+2024-09-08T21:37:49.183Z,37.7296,-117.1514,0.0,1.2,ml,11.0,173.98999999999995,0.438,0.2761,nn,nn00884341,2024-09-08T21:40:09.374Z,"7 km ENE of Goldfield, Nevada",earthquake,,72.6,0.16,7.0,automatic,nn,nn
