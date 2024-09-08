@@ -18468,3 +18468,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-08T18:21:40.770Z,35.0764999,-119.0491638,15.28,1.57,ml,26.0,39.0,0.1785,0.23,ci,ci40728439,2024-09-08T18:23:53.031Z,"18 km NW of Grapevine, CA",earthquake,0.38,1.51,0.279,6.0,automatic,ci,ci
 2024-09-08T18:04:19.820Z,35.3556667,-118.6166667,4.5,1.15,ml,29.0,84.0,0.1376,0.14,ci,ci40728431,2024-09-08T18:10:40.828Z,"25 km NE of Arvin, CA",earthquake,0.19,0.78,0.104,13.0,automatic,ci,ci
 2024-09-07T20:30:23.830Z,37.0756666666667,-121.503833333333,5.63,0.9,md,27.0,56.0,0.04756,0.19,nc,nc75058931,2024-09-08T18:22:53.702Z,"9 km ESE of San Martin, CA",earthquake,0.34,0.82,0.305,19.0,reviewed,nc,nc
+2024-09-08T18:31:19.471Z,62.2195,-150.9786,73.1,1.7,ml,,,,0.28,ak,ak024bl2by17,2024-09-08T18:33:09.078Z,"32 km SSW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-09-08T07:26:41.360Z,37.4738333333333,-118.8455,7.2,0.84,md,15.0,140.0,0.1167,0.02,nc,nc75059131,2024-09-08T18:39:28.532Z,"18 km WSW of Toms Place, CA",earthquake,1.11,1.98,0.195,9.0,reviewed,nc,nc
+2024-09-08T03:44:11.740Z,38.7986666666667,-122.433166666667,10.58,1.23,md,26.0,77.0,0.01326,0.11,nc,nc75059081,2024-09-08T18:37:27.862Z,"11 km ESE of Hidden Valley Lake, CA",earthquake,0.23,0.35,0.131,21.0,reviewed,nc,nc
