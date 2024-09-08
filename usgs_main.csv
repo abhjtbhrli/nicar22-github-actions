@@ -18520,3 +18520,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-08T07:55:23.020Z,48.744166666666665,-121.82966666666668,-0.7,1.44,ml,7.0,103.0,0.08237,0.39,uw,uw62044371,2024-09-08T23:06:13.090Z,"18 km SSE of Glacier, Washington",earthquake,1.5,3.65,0.0554223295790938,6.0,reviewed,uw,uw
 2024-09-08T23:28:23.600Z,38.8255004882812,-122.790168762207,0.550000011920929,0.74,md,8.0,76.0,0.01289,0.01,nc,nc75059391,2024-09-08T23:30:01.720Z,"6 km WNW of Cobb, CA",earthquake,0.36,1.20000005,0.26,9.0,automatic,nc,nc
 2024-09-08T23:15:32.053Z,-4.1556,142.9697,61.603,5.2,mb,86.0,65.0,2.789,0.72,us,us6000nqja,2024-09-08T23:32:19.831Z,"18 km ENE of Ambunti, Papua New Guinea",earthquake,7.88,7.186,0.062,85.0,reviewed,us,us
+2024-09-08T23:39:31.419Z,64.9885,-147.4569,1.7,1.2,ml,,,,0.89,ak,ak024bl5cuph,2024-09-08T23:41:26.924Z,"8 km ENE of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-09-08T23:03:02.120Z,18.7688333333333,-64.8925,69.06,3.38,md,8.0,249.0,0.4186,0.03,pr,pr71459523,2024-09-08T23:42:05.060Z,"47 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.88,2.03,0.130024827449438,6.0,reviewed,pr,pr
+2024-09-07T23:57:54.490Z,52.774,-169.8825,9.27,1.49,ml,5.0,224.0,0.03387,0.08,av,av93255643,2024-09-08T23:40:02.420Z,"71 km WSW of Nikolski, Alaska",earthquake,0.94,0.57,0.104957800073626,5.0,reviewed,av,av
