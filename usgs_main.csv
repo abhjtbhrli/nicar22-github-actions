@@ -18581,3 +18581,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-09T04:25:34.670Z,19.1998329162598,-155.475997924805,33.6800003051758,1.76999998,md,30.0,92.0,0.04609,0.129999995,hv,hv74448901,2024-09-09T04:27:12.400Z,"0 km SE of Pāhala, Hawaii",earthquake,0.59,0.779999971,0.0900000036,5.0,automatic,hv,hv
 2024-09-09T04:41:04.329Z,37.7566,-117.1229,2.1,1.2,ml,12.0,179.66000000000005,0.562,0.2626,nn,nn00884379,2024-09-09T04:43:50.087Z,"11 km ENE of Goldfield, Nevada",earthquake,,13.6,0.2,8.0,automatic,nn,nn
 2024-09-09T04:17:50.249Z,28.544,-98.403,5.0289,1.9,ml,16.0,66.0,0.1,0.7,tx,tx2024rsti,2024-09-09T04:46:33.208Z,"16 km ENE of Tilden, Texas",earthquake,0.0,2.47018111070748,0.1,12.0,automatic,tx,tx
+2024-09-09T04:52:59.880Z,37.766,-117.1107,0.0,0.8,ml,8.0,181.79,0.565,0.2217,nn,nn00884381,2024-09-09T04:55:59.573Z,"12 km ENE of Goldfield, Nevada",earthquake,,88.3,0.25,6.0,automatic,nn,nn
