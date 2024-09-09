@@ -18629,3 +18629,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-09T08:42:16.360Z,32.779,-115.4445,8.86,1.05,ml,19.0,102.0,0.02632,0.24,ci,ci40728823,2024-09-09T08:48:12.993Z,"7 km WSW of Holtville, CA",earthquake,0.43,0.78,0.124,13.0,automatic,ci,ci
 2024-09-09T08:33:19.984Z,31.59,-104.553,3.6099,1.9,ml,8.0,164.0,0.1,0.1,tx,tx2024rtbs,2024-09-09T08:52:03.846Z,"66 km NNE of Van Horn, Texas",earthquake,0.0,2.36751985549927,0.1,6.0,automatic,tx,tx
 2024-09-09T08:20:15.509Z,31.591,-104.554,3.6856,1.5,ml,8.0,165.0,0.1,0.1,tx,tx2024rtbh,2024-09-09T08:51:58.846Z,"66 km NNE of Van Horn, Texas",earthquake,0.0,2.27362155914307,0.1,6.0,automatic,tx,tx
+2024-09-09T09:20:40.247Z,61.0915,-147.868,4.7,1.6,ml,,,,1.0,ak,ak024bmkg2t4,2024-09-09T09:22:24.953Z,"56 km NE of Whittier, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-09-09T09:16:15.359Z,59.5938,-149.01,0.0,2.1,ml,,,,0.88,ak,ak024bmkf5z6,2024-09-09T09:20:08.547Z,"58 km SSE of Lowell Point, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-09-09T09:11:04.161Z,60.6281,-141.5515,14.3,1.1,ml,,,,0.35,ak,ak024bmke2kw,2024-09-09T09:12:22.654Z,"116 km SE of McCarthy, Alaska",earthquake,,2.8,,,automatic,ak,ak
+2024-09-09T08:53:06.277Z,31.592,-104.555,3.7029,1.9,ml,8.0,165.0,0.1,0.1,tx,tx2024rtcj,2024-09-09T09:23:30.063Z,"66 km NNE of Van Horn, Texas",earthquake,0.0,2.8982264995575,0.1,6.0,automatic,tx,tx
+2024-09-09T06:47:23.404Z,29.2589,130.3063,17.568,4.8,mb,67.0,102.0,2.246,0.56,us,us6000nqku,2024-09-09T09:11:20.040Z,"109 km S of Yudomari, Japan",earthquake,8.31,4.714,0.056,99.0,reviewed,us,us
