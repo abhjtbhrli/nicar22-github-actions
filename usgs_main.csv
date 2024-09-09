@@ -18833,3 +18833,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-09T03:40:14.040Z,52.7725,-169.874666666667,-0.24,1.1,ml,4.0,240.0,0.05258,0.2,av,av93020359,2024-09-09T21:20:38.040Z,"70 km WSW of Nikolski, Alaska",earthquake,1.03,0.47,0.133451217039843,4.0,reviewed,av,av
 2024-09-09T21:23:25.652Z,60.9048,-148.7097,27.7,2.1,ml,,,,1.16,ak,ak024bmrlw39,2024-09-09T21:26:00.064Z,"14 km N of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-09-09T05:57:38.767Z,32.108,-101.468,9.3018,1.7,ml,17.0,50.0,0.1,0.1,tx,tx2024rswo,2024-09-09T21:25:39.941Z,"9 km W of Forsan, Texas",earthquake,0.775784150916509,2.3846893653613663,0.2,27.0,reviewed,tx,tx
+2024-09-09T21:34:40.154Z,36.2257,-115.3148,16.0,1.8,ml,13.0,330.6,0.679,0.3309,nn,nn00884461,2024-09-09T21:37:09.838Z,"12 km N of Summerlin South, Nevada",earthquake,,1.4,0.24,11.0,automatic,nn,nn
+2024-09-09T21:33:53.101Z,61.1741,-148.906,0.0,1.5,ml,,,,0.96,ak,ak024bmro3nc,2024-09-09T21:36:25.267Z,"29 km NNE of Girdwood, Alaska",earthquake,,2.5,,,automatic,ak,ak
+2024-09-09T04:31:36.850Z,61.305,-152.2595,2.9,-0.3,ml,9.0,140.0,0.06417,0.15,av,av93256988,2024-09-09T21:35:48.800Z,"65 km WNW of Beluga, Alaska",earthquake,0.48,0.7,0.233992512391936,10.0,reviewed,av,av
+2024-09-09T02:49:41.730Z,53.3831666666667,-168.236333333333,-0.99,0.45,ml,5.0,282.0,0.05203,0.22,av,av93020364,2024-09-09T21:41:01.510Z,"64 km NE of Nikolski, Alaska",earthquake,0.69,0.86,0.339263031927236,5.0,reviewed,av,av
