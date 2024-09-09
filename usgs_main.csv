@@ -18691,3 +18691,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-09T13:54:37.660Z,37.7286,-117.1511,0.0,2.1,ml,25.0,151.56,0.437,0.2331,nn,nn00884422,2024-09-09T13:57:28.234Z,"7 km ENE of Goldfield, Nevada",earthquake,,23.1,0.18,18.0,automatic,nn,nn
 2024-09-09T13:51:45.310Z,19.4258327484131,-155.186660766602,33.4500007629395,2.23000002,md,51.0,47.0,0.04897,0.150000006,hv,hv74448497,2024-09-09T13:53:47.130Z,"5 km ESE of Volcano, Hawaii",earthquake,0.38,0.409999996,0.129999995,14.0,automatic,hv,hv
 2024-09-08T15:56:37.340Z,37.0713333333333,-112.8535,10.07,1.82,ml,19.0,105.0,0.06016,0.18,uu,uu80081911,2024-09-09T13:53:19.150Z,"12 km NE of Hildale, Utah",earthquake,0.36,0.72,0.0963005424402392,10.0,reviewed,uu,uu
+2024-09-09T14:14:52.166Z,37.7446,-117.1353,0.0,0.7,ml,12.0,177.15999999999997,0.455,0.2034,nn,nn00884429,2024-09-09T14:17:24.699Z,"9 km ENE of Goldfield, Nevada",earthquake,,73.1,0.28,6.0,automatic,nn,nn
+2024-09-09T14:08:07.739Z,37.7401,-117.1456,0.0,1.0,ml,13.0,175.8,0.449,0.2964,nn,nn00884425,2024-09-09T14:10:45.207Z,"8 km ENE of Goldfield, Nevada",earthquake,,70.4,0.14,7.0,automatic,nn,nn
+2024-09-09T14:07:36.664Z,61.2137,-147.802,0.0,1.9,ml,,,,0.88,ak,ak024bmncg8y,2024-09-09T14:10:12.267Z,"65 km ESE of Knik River, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-09-09T14:05:02.670Z,60.2722,-152.1375,75.8,1.4,ml,,,,0.45,ak,ak024bmnby6z,2024-09-09T14:06:54.018Z,"35 km NW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-09-09T13:18:56.646Z,22.4729,121.8432,10.0,4.4,mb,27.0,97.0,0.784,0.62,us,us6000nqml,2024-09-09T14:15:01.040Z,"124 km ENE of Hengchun, Taiwan",earthquake,3.82,1.89,0.169,11.0,reviewed,us,us
+2024-09-09T07:21:14.800Z,46.8905,-112.533,11.23,1.2,ml,12.0,125.0,0.06082,0.06,mb,mb90061008,2024-09-09T14:17:01.830Z,"13 km ESE of Lincoln, Montana",earthquake,0.32,0.47,0.253562712791886,7.0,reviewed,mb,mb
+2024-09-08T20:30:49.310Z,19.7492,121.3632,30.874,4.3,mb,35.0,123.0,3.065,0.41,us,us6000nqih,2024-09-09T14:18:03.040Z,"100 km SW of Basco, Philippines",earthquake,5.77,6.977,0.119,20.0,reviewed,us,us
+2024-09-08T20:18:11.337Z,36.7702,-116.0071,3.2,0.1,ml,9.0,254.18,0.029,0.0782,nn,nn00884430,2024-09-09T14:17:48.808Z,"37 km NW of Indian Springs, Nevada",earthquake,,1.8,0.57,3.0,reviewed,nn,nn
+2024-09-08T17:05:55.740Z,44.7488333333333,-110.928333333333,9.97,1.39,ml,17.0,97.0,0.05644,0.1,uu,uu80081916,2024-09-09T14:10:16.790Z,"16 km NE of West Yellowstone, Montana",earthquake,0.32,0.79,0.179516406796905,4.0,reviewed,uu,uu
