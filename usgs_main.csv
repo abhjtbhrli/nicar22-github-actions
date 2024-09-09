@@ -18750,3 +18750,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-09T16:47:49.960Z,38.5919990539551,-122.791831970215,5.84000015258789,1.25,md,9.0,100.0,0.07139,0.02,nc,nc75059706,2024-09-09T16:49:25.865Z,"5 km NE of Windsor, CA",earthquake,0.36,0.970000029,0.27,7.0,automatic,nc,nc
 2024-09-09T16:42:48.251Z,60.9963,-151.7357,79.5,2.5,ml,,,,0.48,ak,ak024bmoqufz,2024-09-09T16:44:19.957Z,"33 km WSW of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-09T11:02:34.398Z,37.7353,-117.1521,8.5,2.7,ml,14.0,114.62,0.187,0.161,nn,nn00884404,2024-09-09T16:50:34.333Z,"7 km ENE of Goldfield, Nevada",earthquake,,5.5,0.26,4.0,reviewed,nn,nn
+2024-09-09T17:02:13.705Z,62.3744,-149.1919,0.0,1.4,ml,,,,0.81,ak,ak024bmp3mpm,2024-09-09T17:04:59.921Z,"41 km NE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-09-09T16:56:14.015Z,59.3629,-150.5058,36.0,2.2,ml,,,,0.72,ak,ak024bmotrsp,2024-09-09T16:58:22.001Z,"48 km ESE of Halibut Cove, Alaska",earthquake,,3.5,,,automatic,ak,ak
+2024-09-09T16:55:40.495Z,60.0019,-146.2138,20.4,3.5,ml,,,,0.38,ak,ak024bmotm5n,2024-09-09T17:07:31.436Z,"65 km SSW of Cordova, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-09-09T16:28:19.322Z,-6.2784,151.9632,43.505,4.8,mb,45.0,75.0,5.682,0.93,us,us6000nqp4,2024-09-09T16:54:23.040Z,"216 km S of Kokopo, Papua New Guinea",earthquake,11.22,7.673,0.061,82.0,reviewed,us,us
+2024-09-09T16:25:17.995Z,51.5773,177.8293,60.66,3.8,mb,36.0,196.0,0.597,0.34,us,us6000nqp5,2024-09-09T17:03:10.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,8.67,8.972,0.098,27.0,reviewed,us,us
+2024-09-09T05:56:21.900Z,33.9546667,-116.6385,14.82,0.24,ml,19.0,69.0,0.08401,0.13,ci,ci37683236,2024-09-09T17:06:16.806Z,"10 km NW of Garnet, CA",earthquake,0.25,0.58,0.221,13.0,reviewed,ci,ci
