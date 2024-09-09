@@ -18587,3 +18587,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-09T05:03:05.536Z,64.4853,-146.9146,3.3,1.4,ml,,,,0.6,ak,ak024bmhymjd,2024-09-09T05:14:41.860Z,"4 km S of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-09-09T05:01:53.770Z,60.2906,-152.4468,77.6,1.4,ml,,,,0.59,ak,ak024bmhyatt,2024-09-09T05:03:13.043Z,"50 km WNW of Ninilchik, Alaska",earthquake,,2.9,,,automatic,ak,ak
 2024-09-09T05:01:30.958Z,37.754,-117.1269,0.1,1.1,ml,14.0,179.02999999999997,0.561,0.221,nn,nn00884382,2024-09-09T05:04:00.894Z,"10 km ENE of Goldfield, Nevada",earthquake,,40.6,0.22,11.0,automatic,nn,nn
+2024-09-09T05:30:51.380Z,56.6436,-157.8051,84.8,1.1,ml,,,,0.12,ak,ak024bmi4ieq,2024-09-09T05:32:16.703Z,"53 km NE of Chignik, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2024-09-09T05:28:42.500Z,34.0223351,-117.590332,4.85,1.0,ml,21.0,77.0,0.01778,0.12,ci,ci40728711,2024-09-09T05:30:44.947Z,"5 km SE of Ontario, CA",earthquake,0.33,0.43,0.15,8.0,automatic,ci,ci
+2024-09-09T05:24:59.640Z,19.0656661987305,-155.383666992188,35.6699981689453,1.86000001,md,32.0,240.0,0.1161,0.119999997,hv,hv74448936,2024-09-09T05:26:36.090Z,"18 km SSE of Pāhala, Hawaii",earthquake,0.72,0.899999976,0.119999997,4.0,automatic,hv,hv
