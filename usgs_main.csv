@@ -18831,3 +18831,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-09T21:17:54.190Z,19.8306674957275,-154.986663818359,5.11999988555908,2.31,ml,13.0,305.0,0.3699,0.189999998,hv,hv74448792,2024-09-09T21:20:48.570Z,"12 km ENE of Pāpa‘ikou, Hawaii",earthquake,1.42,2.3499999,0.79,11.0,automatic,hv,hv
 2024-09-09T21:01:31.712Z,4.3537,126.7401,72.165,5.4,mb,74.0,108.0,2.935,0.77,us,us6000nqrs,2024-09-09T21:21:43.799Z,"183 km SE of Sarangani, Philippines",earthquake,8.08,7.531,0.07,70.0,reviewed,us,us
 2024-09-09T03:40:14.040Z,52.7725,-169.874666666667,-0.24,1.1,ml,4.0,240.0,0.05258,0.2,av,av93020359,2024-09-09T21:20:38.040Z,"70 km WSW of Nikolski, Alaska",earthquake,1.03,0.47,0.133451217039843,4.0,reviewed,av,av
+2024-09-09T21:23:25.652Z,60.9048,-148.7097,27.7,2.1,ml,,,,1.16,ak,ak024bmrlw39,2024-09-09T21:26:00.064Z,"14 km N of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-09-09T05:57:38.767Z,32.108,-101.468,9.3018,1.7,ml,17.0,50.0,0.1,0.1,tx,tx2024rswo,2024-09-09T21:25:39.941Z,"9 km W of Forsan, Texas",earthquake,0.775784150916509,2.3846893653613663,0.2,27.0,reviewed,tx,tx
