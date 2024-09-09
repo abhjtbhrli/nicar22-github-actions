@@ -18819,3 +18819,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-09T09:32:46.322Z,28.551,-98.374,9.7412,1.6,ml,18.0,66.0,0.1,0.4,tx,tx2024rtdr,2024-09-09T19:58:30.948Z,"19 km ENE of Tilden, Texas",earthquake,1.4695079835605716,3.53482922943008,0.1,14.0,reviewed,tx,tx
 2024-09-09T01:07:49.750Z,60.4926666666667,-152.769,1.05,-0.81,ml,5.0,105.0,0.03733,0.06,av,av93256838,2024-09-09T19:58:59.170Z,"78 km NW of Ninilchik, Alaska",earthquake,0.46,0.47,0.197806714355699,5.0,reviewed,av,av
 2024-09-09T20:20:36.024Z,60.0583,-153.0982,126.5,1.7,ml,,,,0.41,ak,ak024bmqzu5t,2024-09-09T20:23:05.199Z,"63 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-09-09T20:35:12.140Z,59.5462,-152.7382,86.1,0.9,ml,,,,0.22,ak,ak024bmr2vv4,2024-09-09T20:37:39.819Z,"50 km WNW of Nanwalek, Alaska",earthquake,,2.2,,,automatic,ak,ak
+2024-09-09T19:41:06.810Z,47.11216666666667,-123.09783333333333,-0.17,0.77,md,7.0,189.0,0.1232,0.12,uw,uw62044746,2024-09-09T20:35:16.700Z,"11 km S of Shelton, Washington",explosion,1.22,31.61,0.2864739594262775,5.0,reviewed,uw,uw
