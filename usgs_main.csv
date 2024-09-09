@@ -18582,3 +18582,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-09T04:41:04.329Z,37.7566,-117.1229,2.1,1.2,ml,12.0,179.66000000000005,0.562,0.2626,nn,nn00884379,2024-09-09T04:43:50.087Z,"11 km ENE of Goldfield, Nevada",earthquake,,13.6,0.2,8.0,automatic,nn,nn
 2024-09-09T04:17:50.249Z,28.544,-98.403,5.0289,1.9,ml,16.0,66.0,0.1,0.7,tx,tx2024rsti,2024-09-09T04:46:33.208Z,"16 km ENE of Tilden, Texas",earthquake,0.0,2.47018111070748,0.1,12.0,automatic,tx,tx
 2024-09-09T04:52:59.880Z,37.766,-117.1107,0.0,0.8,ml,8.0,181.79,0.565,0.2217,nn,nn00884381,2024-09-09T04:55:59.573Z,"12 km ENE of Goldfield, Nevada",earthquake,,88.3,0.25,6.0,automatic,nn,nn
+2024-09-09T05:17:15.000Z,33.5854988,-116.7565002,9.28,1.26,ml,13.0,80.0,0.02567,0.24,ci,ci40728703,2024-09-09T05:19:17.446Z,"8 km WNW of Anza, CA",earthquake,0.69,1.43,0.415,7.0,automatic,ci,ci
+2024-09-09T05:07:23.763Z,64.485,-146.9309,10.3,1.7,ml,,,,0.14,ak,ak024bmhzit4,2024-09-09T05:11:44.834Z,"4 km SSW of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-09-09T05:03:05.536Z,64.4853,-146.9146,3.3,1.4,ml,,,,0.6,ak,ak024bmhymjd,2024-09-09T05:14:41.860Z,"4 km S of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-09-09T05:01:53.770Z,60.2906,-152.4468,77.6,1.4,ml,,,,0.59,ak,ak024bmhyatt,2024-09-09T05:03:13.043Z,"50 km WNW of Ninilchik, Alaska",earthquake,,2.9,,,automatic,ak,ak
+2024-09-09T05:01:30.958Z,37.754,-117.1269,0.1,1.1,ml,14.0,179.02999999999997,0.561,0.221,nn,nn00884382,2024-09-09T05:04:00.894Z,"10 km ENE of Goldfield, Nevada",earthquake,,40.6,0.22,11.0,automatic,nn,nn
