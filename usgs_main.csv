@@ -18612,3 +18612,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-09T07:10:02.010Z,19.2900009155273,-155.223159790039,5.82999992370605,1.79999995,md,42.0,134.0,0.008837,0.159999996,hv,hv74449006,2024-09-09T07:11:54.130Z,"16 km S of Volcano, Hawaii",earthquake,0.36,0.639999986,0.289999992,24.0,automatic,hv,hv
 2024-09-09T07:23:11.120Z,35.3406667,-117.999,4.41,1.62,ml,37.0,54.0,0.033,0.16,ci,ci40728775,2024-09-09T07:29:46.561Z,"24 km N of California City, CA",earthquake,0.16,0.33,0.278,13.0,automatic,ci,ci
 2024-09-09T07:41:13.342Z,57.9028,-154.4161,69.3,2.2,ml,,,,0.27,ak,ak024bmjdnk6,2024-09-09T07:43:13.821Z,"37 km N of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-09-09T07:42:19.259Z,37.7983,-117.082,0.0,1.2,ml,19.0,181.01,0.567,0.3292,nn,nn00884391,2024-09-09T07:44:53.439Z,"16 km NE of Goldfield, Nevada",earthquake,,42.8,0.08,13.0,automatic,nn,nn
+2024-09-09T07:39:21.320Z,33.7113333,-116.8071667,16.43,0.48,ml,13.0,149.0,0.07752,0.11,ci,ci40728783,2024-09-09T07:45:20.451Z,"9 km WSW of Idyllwild, CA",earthquake,0.92,0.58,0.084,10.0,automatic,ci,ci
