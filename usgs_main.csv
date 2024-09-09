@@ -18808,3 +18808,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-09T19:37:29.138Z,62.3782,-149.1883,0.0,0.9,ml,,,,0.77,ak,ak024bmqi169,2024-09-09T19:39:09.103Z,"42 km NE of Susitna North, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-09T11:59:21.840Z,36.016,-117.7975,2.28,0.44,ml,4.0,126.0,0.02771,0.04,ci,ci37683268,2024-09-09T19:47:10.401Z,"13 km NE of Little Lake, CA",earthquake,0.2,0.67,0.181,4.0,reviewed,ci,ci
 2024-09-09T00:38:58.670Z,54.5226666666667,-164.376166666667,1.96,1.42,ml,10.0,191.0,0.1289,0.3,av,av93256818,2024-09-09T19:48:15.250Z,"72 km WSW of False Pass, Alaska",earthquake,0.95,2.05,0.3925749974055,10.0,reviewed,av,av
+2024-09-09T19:54:24.802Z,37.799,-115.1431,15.6,1.8,ml,8.0,335.91,0.979,0.2686,nn,nn00884459,2024-09-09T19:56:57.720Z,"23 km NNE of Hiko, Nevada",earthquake,,33.2,0.39,5.0,automatic,nn,nn
+2024-09-09T19:31:28.625Z,17.8394,119.837,10.0,4.5,mb,48.0,118.0,5.088,0.79,us,us6000nqre,2024-09-09T19:52:56.040Z,"58 km WNW of Puro Pinget, Philippines",earthquake,9.66,1.906,0.082,44.0,reviewed,us,us
+2024-09-08T21:16:56.710Z,38.4915,-112.8725,0.84,1.34,md,11.0,132.0,0.003498,0.09,uu,uu80081931,2024-09-09T19:58:10.870Z,"16 km NE of Milford, Utah",earthquake,0.32,0.52,0.502816299276319,4.0,reviewed,uu,uu
