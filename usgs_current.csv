@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-09T04:25:34.670Z,19.1998329162598,-155.475997924805,33.6800003051758,1.76999998,md,30,92,0.04609,0.129999995,hv,hv74448901,2024-09-09T04:27:12.400Z,"0 km SE of Pāhala, Hawaii",earthquake,0.59,0.779999971,0.0900000036,5,automatic,hv,hv
 2024-09-09T04:21:12.970Z,38.5914993286133,-122.78800201416,7.71000003814697,1.59,md,27,49,0.06835,0.11,nc,nc75059511,2024-09-09T04:22:50.817Z,"6 km NE of Windsor, CA",earthquake,0.23,0.810000002,0.1,17,automatic,nc,nc
 2024-09-09T04:18:17.366Z,61.6254,-149.8903,38.6,1.5,ml,,,,0.54,ak,ak024bmhgfl7,2024-09-09T04:23:46.396Z,"3 km W of Houston, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2024-09-09T04:13:17.295Z,67.1956,-153.5419,0,1.8,ml,,,,0.76,ak,ak024bmhfd01,2024-09-09T04:16:09.769Z,"80 km NNW of Alatna, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -142,7 +143,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-08T14:05:04.947Z,61.2386,-147.824,0,1.7,ml,,,,0.63,ak,ak024bkzslvi,2024-09-08T14:07:17.105Z,"63 km ESE of Knik River, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-08T14:04:35.510Z,63.3147,-145.0644,0,1.2,ml,,,,0.64,ak,ak024bkzsgin,2024-09-08T14:06:25.879Z,"37 km NE of Paxson, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-08T13:49:30.912Z,56.528,-157.34,83.1,2.7,ml,,,,0.34,ak,ak024bkzgns3,2024-09-08T16:56:10.040Z,"70 km ENE of Chignik, Alaska",earthquake,,2.5,,,automatic,ak,ak
-2024-09-08T13:49:07.740Z,38.8409996032715,-122.823165893555,2.07999992370605,1.2,md,19,66,0.009919,0.02,nc,nc75059241,2024-09-08T15:34:25.089Z,"9 km WNW of Cobb, CA",earthquake,0.24,0.469999999,0.1,22,automatic,nc,nc
+2024-09-08T13:49:07.740Z,38.8409996032715,-122.823165893555,2.07999992370605,1.2,md,19,66,0.009919,0.02,nc,nc75059241,2024-09-08T14:24:26.622Z,"9 km WNW of Cobb, CA",earthquake,0.24,0.469999999,0.1,22,automatic,nc,nc
 2024-09-08T13:48:39.010Z,38.8429985046387,-122.823997497559,1.57000005245209,0.22,md,8,109,0.009995,0.01,nc,nc75059236,2024-09-08T15:09:26.013Z,"9 km WNW of Cobb, CA",earthquake,0.4,1.05999994,0.1,7,automatic,nc,nc
 2024-09-08T13:47:47.200Z,33.5831667,-116.8065,8.47,0.48,ml,28,56,0.03692,0.12,ci,ci40728295,2024-09-08T13:53:47.987Z,"13 km WNW of Anza, CA",earthquake,0.18,0.37,0.191,12,automatic,ci,ci
 2024-09-08T13:46:33.290Z,33.8825,-116.0111667,7.79,0.73,ml,33,82,0.1183,0.14,ci,ci40728287,2024-09-08T14:39:32.656Z,"26 km NE of Indio, CA",earthquake,0.19,0.76,0.13,9,reviewed,ci,ci
@@ -239,4 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-08T05:01:41.165Z,-7.4177,156.1219,42.328,5.5,mb,84,36,4.284,0.71,us,us6000nqf4,2024-09-08T07:53:47.301Z,"109 km NW of Gizo, Solomon Islands",earthquake,7.31,6.663,0.067,77,reviewed,us,us
 2024-09-08T05:00:12.695Z,31.629,-104.449,5.4261,2,ml,17,103,0,0.6,tx,tx2024rqzg,2024-09-08T05:19:37.684Z,"61 km S of Whites City, New Mexico",earthquake,0,3.32912230491638,0.2,13,automatic,tx,tx
 2024-09-08T04:40:27.540Z,35.0806667,-119.1326667,10.48,1.99,ml,43,38,0.04573,0.23,ci,ci40728111,2024-09-08T04:51:05.340Z,"24 km NW of Grapevine, CA",earthquake,0.28,0.5,0.202,26,automatic,ci,ci
-2024-09-08T04:38:02.027Z,61.182,-147.1439,0.1,1.4,ml,,,,1.12,ak,ak024bku1c8a,2024-09-08T04:40:27.770Z,"43 km W of Valdez, Alaska",earthquake,,0.7,,,automatic,ak,ak
