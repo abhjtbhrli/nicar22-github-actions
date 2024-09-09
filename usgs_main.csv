@@ -18626,3 +18626,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-09T08:16:57.560Z,33.347,-116.2145,10.37,0.61,ml,51.0,67.0,0.08106,0.2,ci,ci40728815,2024-09-09T08:22:58.761Z,"17 km SW of Oasis, CA",earthquake,0.19,0.42,0.126,12.0,automatic,ci,ci
 2024-09-09T08:15:43.231Z,31.589,-104.554,3.626,2.5,ml,8.0,165.0,0.1,0.1,tx,tx2024rtbd,2024-09-09T08:20:26.614Z,"66 km NNE of Van Horn, Texas",earthquake,0.0,2.36562490463257,0.1,6.0,automatic,tx,tx
 2024-09-09T08:14:46.199Z,62.3691,-149.1928,0.0,1.2,ml,,,,1.15,ak,ak024bmjtdd7,2024-09-09T08:16:45.233Z,"41 km NE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-09-09T08:42:16.360Z,32.779,-115.4445,8.86,1.05,ml,19.0,102.0,0.02632,0.24,ci,ci40728823,2024-09-09T08:48:12.993Z,"7 km WSW of Holtville, CA",earthquake,0.43,0.78,0.124,13.0,automatic,ci,ci
