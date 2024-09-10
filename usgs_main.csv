@@ -19012,3 +19012,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-10T09:22:42.380Z,46.20783333333333,-122.19133333333332,3.89,0.12,md,9.0,77.0,0.008062,0.05,uw,uw62044891,2024-09-10T13:31:00.240Z,"38 km NNE of Amboy, Washington",earthquake,0.4,0.95,0.268690785762908,6.0,reviewed,uw,uw
 2024-09-10T05:28:15.809Z,13.9502,145.4822,101.473,4.5,mb,30.0,127.0,1.311,0.76,us,us6000nqvb,2024-09-10T13:40:28.040Z,"78 km NE of Yigo Village, Guam",earthquake,13.58,8.143,0.072,57.0,reviewed,us,us
 2024-09-10T02:32:26.170Z,47.7168333333333,-116.111833333333,5.73,1.93,ml,22.0,85.0,0.7011,0.15,mb,mb90061068,2024-09-10T13:39:33.990Z,"19 km N of Kellogg, Idaho",earthquake,0.34,2.17,0.288146083418458,19.0,reviewed,mb,mb
+2024-09-10T13:47:21.764Z,61.6517,-148.1469,16.9,0.8,ml,,,,0.36,ak,ak024boaiwmo,2024-09-10T13:49:19.644Z,"23 km SE of Chickaloon, Alaska",earthquake,,0.4,,,automatic,ak,ak
