@@ -19099,3 +19099,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-10T15:03:38.350Z,37.5973333333333,-119.0095,1.91,0.42,md,8.0,179.0,0.01805,0.02,nc,nc75060036,2024-09-10T19:04:28.043Z,"5 km SW of Mammoth Lakes, CA",earthquake,0.56,0.34,0.043,4.0,reviewed,nc,nc
 2024-09-10T13:33:37.800Z,36.1545,-120.151333333333,10.03,1.24,md,28.0,157.0,0.08635,0.21,nc,nc75059991,2024-09-10T18:59:56.667Z,"7 km SW of Huron, CA",earthquake,0.4,0.48,0.132,10.0,reviewed,nc,nc
 2024-09-10T19:24:35.312Z,61.1836,-146.8924,8.3,1.4,ml,,,,0.38,ak,ak024bodylu3,2024-09-10T19:26:07.327Z,"29 km W of Valdez, Alaska",earthquake,,5.0,,,automatic,ak,ak
+2024-09-10T19:29:49.340Z,19.11549949646,-155.363327026367,28.2999992370605,2.1099999,md,17.0,238.0,0.1015,0.0900000036,hv,hv74449887,2024-09-10T19:31:30.330Z,"15 km SE of Pāhala, Hawaii",earthquake,1.12,0.889999986,0.449999988,5.0,automatic,hv,hv
