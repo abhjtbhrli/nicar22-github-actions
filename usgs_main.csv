@@ -19046,3 +19046,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-10T16:04:18.020Z,35.1053333,-119.1256667,10.23,1.4,ml,30.0,106.0,0.0579,0.23,ci,ci40729927,2024-09-10T16:10:33.473Z,"25 km NW of Grapevine, CA",earthquake,0.35,0.68,0.148,28.0,automatic,ci,ci
 2024-09-10T15:58:46.952Z,61.2111,-146.9994,0.0,1.9,ml,,,,0.74,ak,ak024bobs6nr,2024-09-10T16:00:53.103Z,"36 km WNW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-10T15:56:54.730Z,33.5846667,-116.8046667,8.48,0.55,ml,24.0,43.0,0.03504,0.12,ci,ci40729911,2024-09-10T16:02:54.820Z,"13 km WNW of Anza, CA",earthquake,0.2,0.39,0.209,13.0,automatic,ci,ci
+2024-09-10T16:32:35.673Z,60.5109,-143.7477,2.0,1.7,ml,,,,0.4,ak,ak024boc80rz,2024-09-10T16:33:57.976Z,"110 km E of Cordova, Alaska",earthquake,,5.3,,,automatic,ak,ak
+2024-09-10T16:26:22.150Z,36.7050018310547,-121.219833374023,9.14999961853027,2.23,md,28.0,115.0,0.03152,0.09,nc,nc75060061,2024-09-10T16:29:42.730Z,"13 km SSE of Tres Pinos, CA",earthquake,0.32,0.639999986,0.18,27.0,automatic,nc,nc
