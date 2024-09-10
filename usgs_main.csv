@@ -19106,3 +19106,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-10T03:09:48.440Z,19.2696666666667,-155.377833333333,31.74,1.43,md,26.0,126.0,0.037,0.1,hv,hv74449077,2024-09-10T20:12:22.090Z,"12 km NE of Pāhala, Hawaii",earthquake,0.53,0.55,0.0345379064466216,6.0,reviewed,hv,hv
 2024-09-10T06:21:22.841Z,32.412,-102.091,7.8857,1.3,ml,17.0,55.0,0.0,0.2,tx,tx2024rusw,2024-09-10T20:19:52.558Z,"37 km WSW of Ackerly, Texas",earthquake,0.7349980778609277,0.9686400622951302,0.0,7.0,reviewed,tx,tx
 2024-09-09T23:36:02.830Z,35.98983333,-97.9685,6.18,1.09,ml,26.0,57.0,0.03869240723,0.28,ok,ok2024rufm,2024-09-10T20:32:30.984Z,"5 km W of Dover, Oklahoma",earthquake,,0.7,0.24,11.0,reviewed,ok,ok
+2024-09-10T20:30:22.388Z,64.6086,-151.9916,33.7,1.6,ml,,,,1.24,ak,ak024boelaqm,2024-09-10T20:32:05.565Z,"62 km S of Tanana, Alaska",earthquake,,2.9,,,automatic,ak,ak
+2024-09-10T20:10:40.720Z,44.7673333333333,-111.216833333333,12.74,0.85,md,8.0,174.0,0.08696,0.15,uu,uu80082106,2024-09-10T20:34:58.690Z,"2 km W of Hebgen Lake Estates, Montana",earthquake,1.28,1.72,0.286021963605237,3.0,reviewed,uu,uu
