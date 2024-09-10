@@ -18935,3 +18935,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-10T04:59:06.853Z,-30.5091,-176.8139,10.0,5.0,mb,24.0,168.0,1.571,0.69,us,us6000nqtr,2024-09-10T05:15:41.040Z,Kermadec Islands region,earthquake,4.8,1.978,0.126,20.0,reviewed,us,us
 2024-09-09T19:14:55.850Z,37.8805,-118.647666666667,8.53,1.39,md,14.0,266.0,0.2232,0.14,nc,nc75059741,2024-09-10T05:07:52.024Z,"36 km NNE of Toms Place, CA",earthquake,1.78,3.06,0.2,10.0,reviewed,nc,nc
 2024-09-10T05:11:06.526Z,-8.582,124.2354,125.494,4.8,mww,58.0,46.0,1.976,1.04,us,us6000nqtv,2024-09-10T05:29:02.040Z,"70 km NNW of Pante Makasar, Timor Leste",earthquake,6.1,6.772,0.103,9.0,reviewed,us,us
+2024-09-10T05:33:33.525Z,37.7336,-117.1504,1.7,1.1,ml,11.0,172.58999999999995,0.558,0.2876,nn,nn00884471,2024-09-10T05:36:02.117Z,"8 km ENE of Goldfield, Nevada",earthquake,,21.4,0.23,7.0,automatic,nn,nn
+2024-09-10T05:32:00.865Z,65.4336,-148.1987,10.0,1.1,ml,,,,0.55,ak,ak024bo5o6e6,2024-09-10T05:34:31.927Z,"18 km ESE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-09-09T19:49:23.600Z,36.4156666666667,-120.975333333333,10.62,1.21,md,20.0,109.0,0.07749,0.04,nc,nc75059761,2024-09-10T05:37:30.426Z,"20 km SE of Pinnacles, CA",earthquake,0.28,0.32,0.26,13.0,reviewed,nc,nc
