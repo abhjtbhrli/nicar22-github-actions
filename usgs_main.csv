@@ -19030,3 +19030,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-10T14:24:25.614Z,62.3635,-149.1064,1.5,1.2,ml,,,,0.59,ak,ak024boazf29,2024-09-10T14:26:36.411Z,"44 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-09-10T14:00:52.262Z,31.508,-104.081,4.1652,1.7,ml,13.0,140.0,0.0,0.4,tx,tx2024rvic,2024-09-10T14:30:53.254Z,"34 km NW of Toyah, Texas",earthquake,0.0,1.71892321109772,0.1,10.0,automatic,tx,tx
 2024-09-10T10:51:16.900Z,38.775,-119.6192,6.6,0.1,ml,5.0,249.36,0.119,0.0325,nn,nn00884492,2024-09-10T14:23:26.562Z,"9 km S of Carter Springs, Nevada",earthquake,,4.1,0.0,1.0,reviewed,nn,nn
+2024-09-10T14:49:13.268Z,62.0067,-148.7479,7.5,1.6,ml,,,,0.89,ak,ak024bob4r0e,2024-09-10T14:50:58.533Z,"25 km N of Sutton-Alpine, Alaska",earthquake,,0.2,,,automatic,ak,ak
