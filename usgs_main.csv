@@ -18980,3 +18980,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-10T10:38:54.380Z,34.5183334,-116.5321655,2.18,1.78,ml,58.0,46.0,0.1465,0.12,ci,ci40729663,2024-09-10T10:41:18.827Z,"40 km NE of Big Bear City, CA",earthquake,0.17,0.68,0.239,26.0,automatic,ci,ci
 2024-09-10T10:32:28.470Z,38.7765007019043,-122.745666503906,2.5,0.95,md,12.0,77.0,0.0097,0.01,nc,nc75059946,2024-09-10T10:34:03.784Z,"1 km ESE of The Geysers, CA",earthquake,0.28,0.610000014,0.18,13.0,automatic,nc,nc
 2024-09-10T10:07:11.230Z,19.0051,-64.3101,49.0,3.78,md,13.0,313.0,0.6659,0.41,pr,pr2024254001,2024-09-10T10:37:58.615Z,"90 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,9.75,14.93,0.13,7.0,reviewed,pr,pr
+2024-09-10T10:45:09.602Z,64.4799,-147.2117,10.5,0.5,ml,,,,0.33,ak,ak024bo8q5g0,2024-09-10T10:47:09.174Z,"15 km WSW of Salcha, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-09-10T10:18:19.258Z,31.676,-104.421,7.6523,1.6,ml,15.0,65.0,0.0,0.3,tx,tx2024rvar,2024-09-10T10:50:54.707Z,"55 km S of Whites City, New Mexico",earthquake,0.0,2.76270031929016,0.2,13.0,automatic,tx,tx
