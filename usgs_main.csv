@@ -18971,3 +18971,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-10T09:07:20.300Z,33.1603333,-115.6481667,3.56,1.17,ml,26.0,75.0,0.03127,0.2,ci,ci40729639,2024-09-10T09:13:30.994Z,"13 km WNW of Calipatria, CA",earthquake,0.36,0.45,0.429,13.0,automatic,ci,ci
 2024-09-10T09:01:05.420Z,33.3793333,-116.3695,6.28,0.93,ml,38.0,67.0,0.0525,0.18,ci,ci40729631,2024-09-10T09:07:14.962Z,"14 km N of Borrego Springs, CA",earthquake,0.21,0.58,0.32,4.0,automatic,ci,ci
 2024-09-10T08:49:40.226Z,-20.1116,-177.8082,552.212,4.4,mb,62.0,64.0,2.657,0.74,us,us6000nqul,2024-09-10T09:17:55.040Z,"286 km WNW of Houma, Tonga",earthquake,6.99,7.63,0.044,151.0,reviewed,us,us
+2024-09-10T09:31:18.940Z,38.8208351135254,-122.760833740234,0.870000004768372,0.75,md,8.0,125.0,0.01195,0.01,nc,nc75059936,2024-09-10T09:32:53.614Z,"3 km W of Cobb, CA",earthquake,0.3,0.649999976,0.36,10.0,automatic,nc,nc
+2024-09-10T09:23:17.113Z,61.6861,-150.8156,35.4,1.8,ml,,,,0.42,ak,ak024bo800nz,2024-09-10T09:25:03.083Z,"22 km NW of Susitna, Alaska",earthquake,,8.0,,,automatic,ak,ak
