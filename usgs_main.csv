@@ -19129,3 +19129,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-10T22:01:20.964Z,-55.7692,-26.1845,10.0,5.0,mb,37.0,105.0,6.11,0.67,us,us7000ncyh,2024-09-10T22:15:45.040Z,South Sandwich Islands region,earthquake,12.57,1.918,0.096,35.0,reviewed,us,us
 2024-09-10T21:48:45.082Z,-55.8424,-26.1467,10.0,4.9,mb,23.0,118.0,6.144,0.59,us,us7000ncyc,2024-09-10T22:05:03.040Z,South Sandwich Islands region,earthquake,4.75,1.918,0.122,21.0,reviewed,us,us
 2024-09-10T01:27:36.918Z,-55.9917,-28.018,117.636,4.6,mb,29.0,101.0,5.152,0.75,us,us6000nquj,2024-09-10T21:59:07.040Z,South Sandwich Islands region,earthquake,11.03,7.824,0.107,26.0,reviewed,us,us
+2024-09-10T22:25:36.850Z,33.137,-116.6431667,4.76,0.94,ml,17.0,148.0,0.06208,0.15,ci,ci40730255,2024-09-10T22:32:00.048Z,"8 km NNW of Julian, CA",earthquake,0.92,0.81,0.138,23.0,automatic,ci,ci
+2024-09-10T22:23:07.950Z,38.8236656188965,-122.843330383301,1.64999997615814,0.76,md,9.0,140.0,0.006507,0.02,nc,nc75060216,2024-09-10T22:24:41.878Z,"9 km NW of The Geysers, CA",earthquake,0.55,0.75,0.27,11.0,automatic,nc,nc
+2024-09-10T20:53:09.810Z,19.2655,-155.407,31.96,1.55,md,31.0,78.0,0.02926,0.11,hv,hv74449957,2024-09-10T22:31:31.760Z,"10 km NE of Pāhala, Hawaii",earthquake,0.52,0.65,0.103818827082894,10.0,reviewed,hv,hv
