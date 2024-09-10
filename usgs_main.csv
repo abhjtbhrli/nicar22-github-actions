@@ -19032,3 +19032,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-10T10:51:16.900Z,38.775,-119.6192,6.6,0.1,ml,5.0,249.36,0.119,0.0325,nn,nn00884492,2024-09-10T14:23:26.562Z,"9 km S of Carter Springs, Nevada",earthquake,,4.1,0.0,1.0,reviewed,nn,nn
 2024-09-10T14:49:13.268Z,62.0067,-148.7479,7.5,1.6,ml,,,,0.89,ak,ak024bob4r0e,2024-09-10T14:50:58.533Z,"25 km N of Sutton-Alpine, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-09-10T15:11:14.800Z,38.824333190918,-122.80916595459,2.72000002861023,1.08,md,26.0,36.0,0.001175,0.02,nc,nc75060041,2024-09-10T15:12:51.117Z,"7 km NNW of The Geysers, CA",earthquake,0.2,0.400000006,0.12,26.0,automatic,nc,nc
+2024-09-10T15:16:19.400Z,19.4191665649414,-155.27099609375,2.88000011444092,1.95000005,md,22.0,69.0,0.008469,0.310000002,hv,hv74449677,2024-09-10T15:18:00.870Z,"4 km SW of Volcano, Hawaii",earthquake,0.6,0.449999988,0.209999993,4.0,automatic,hv,hv
