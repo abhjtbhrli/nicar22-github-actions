@@ -19141,3 +19141,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-10T15:56:29.070Z,33.4388333,-116.442,13.67,0.15,ml,9.0,77.0,0.1345,0.06,ci,ci37683348,2024-09-10T23:23:49.323Z,"21 km NNW of Borrego Springs, CA",earthquake,0.19,0.51,0.103,6.0,reviewed,ci,ci
 2024-09-10T23:37:31.700Z,33.1951667,-116.0105,9.94,1.06,ml,39.0,60.0,0.03496,0.23,ci,ci40730335,2024-09-10T23:43:34.135Z,"13 km SSW of Salton City, CA",earthquake,0.25,0.5,0.142,27.0,automatic,ci,ci
 2024-09-10T23:36:33.109Z,63.114,-151.5451,0.0,1.6,ml,,,,0.97,ak,ak024bogewoe,2024-09-10T23:38:29.519Z,"48 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-09-10T22:59:46.880Z,46.1975,-122.1855,6.94,0.19,ml,12.0,58.0,0.002701,0.08,uw,uw62045031,2024-09-10T23:47:05.300Z,"37 km NNE of Amboy, Washington",earthquake,0.3,0.35,0.0466011683744113,5.0,reviewed,uw,uw
