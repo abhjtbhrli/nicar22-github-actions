@@ -18938,3 +18938,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-10T05:33:33.525Z,37.7336,-117.1504,1.7,1.1,ml,11.0,172.58999999999995,0.558,0.2876,nn,nn00884471,2024-09-10T05:36:02.117Z,"8 km ENE of Goldfield, Nevada",earthquake,,21.4,0.23,7.0,automatic,nn,nn
 2024-09-10T05:32:00.865Z,65.4336,-148.1987,10.0,1.1,ml,,,,0.55,ak,ak024bo5o6e6,2024-09-10T05:34:31.927Z,"18 km ESE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-09-09T19:49:23.600Z,36.4156666666667,-120.975333333333,10.62,1.21,md,20.0,109.0,0.07749,0.04,nc,nc75059761,2024-09-10T05:37:30.426Z,"20 km SE of Pinnacles, CA",earthquake,0.28,0.32,0.26,13.0,reviewed,nc,nc
+2024-09-10T05:48:19.998Z,62.195,-148.9436,11.9,1.2,ml,,,,0.27,ak,ak024bo5rnde,2024-09-10T05:50:33.285Z,"47 km E of Susitna North, Alaska",earthquake,,1.2,,,automatic,ak,ak
