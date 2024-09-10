@@ -19000,3 +19000,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-10T12:05:15.433Z,37.7436,-117.1422,4.1,1.2,ml,16.0,176.51999999999998,0.557,0.3646,nn,nn00884481,2024-09-10T12:07:44.890Z,"9 km ENE of Goldfield, Nevada",earthquake,,4.9,0.21,12.0,automatic,nn,nn
 2024-09-10T10:02:31.779Z,-7.0097,130.1013,126.123,4.6,mb,54.0,104.0,2.479,1.03,us,us6000nqur,2024-09-10T12:30:29.040Z,"Pulau Pulau Tanimbar, Indonesia",earthquake,8.67,1.774,0.083,43.0,reviewed,us,us
 2024-09-10T07:24:34.049Z,36.423,-96.89716667,8.2,0.89,ml,63.0,69.0,0.03329346669,0.24,ok,ok2024ruuy,2024-09-10T12:43:25.999Z,"12 km NW of Pawnee, Oklahoma",earthquake,,0.5,0.19,25.0,reviewed,ok,ok
+2024-09-10T12:46:00.010Z,38.8313331604004,-122.819000244141,1.75999999046326,1.23,md,22.0,52.0,0.01056,0.02,nc,nc75059986,2024-09-10T13:09:26.913Z,"8 km NNW of The Geysers, CA",earthquake,0.2,0.409999996,0.18,24.0,automatic,nc,nc
+2024-09-10T12:45:46.561Z,59.9265,-152.2311,65.1,1.8,ml,,,,0.57,ak,ak024bo9x3i8,2024-09-10T12:47:20.100Z,"27 km NW of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-09-10T11:58:54.540Z,38.4941666666667,-112.879666666667,0.85,0.73,md,11.0,64.0,0.00584,0.08,uu,uu80082056,2024-09-10T13:10:19.650Z,"15 km NE of Milford, Utah",earthquake,0.23,0.35,0.221031587306019,3.0,reviewed,uu,uu
+2024-09-10T06:37:15.240Z,36.42233333,-96.89916667,8.37,0.51,ml,23.0,69.0,0.05848852256,0.15,ok,ok2024rutj,2024-09-10T13:05:57.927Z,"12 km NW of Pawnee, Oklahoma",earthquake,,0.6,0.17,12.0,reviewed,ok,ok
