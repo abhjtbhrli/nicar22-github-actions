@@ -18990,3 +18990,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-10T11:11:16.240Z,33.676,-116.7483333,14.15,0.32,ml,14.0,274.0,0.06256,0.12,ci,ci40729679,2024-09-10T11:17:38.194Z,"8 km SSW of Idyllwild, CA",earthquake,0.53,0.53,0.152,7.0,automatic,ci,ci
 2024-09-10T11:10:31.833Z,59.7071,-153.719,158.8,0.9,ml,,,,0.1,ak,ak024bo944pb,2024-09-10T11:11:56.991Z,"23 km ESE of Pedro Bay, Alaska",earthquake,,12.4,,,automatic,ak,ak
 2024-09-10T11:08:41.710Z,19.1626663208008,-155.466171264648,31.2199993133545,2.49,ml,59.0,84.0,0.008172,0.140000001,hv,hv74449432,2024-09-10T11:11:32.530Z,"4 km SSE of Pāhala, Hawaii",earthquake,0.44,0.5,0.29,31.0,automatic,hv,hv
+2024-09-10T11:31:03.690Z,33.6686668,-116.7841644,0.99,0.17,ml,8.0,147.0,0.07213,0.03,ci,ci40729711,2024-09-10T11:36:44.859Z,"10 km SW of Idyllwild, CA",earthquake,1.27,2.66,0.128,9.0,automatic,ci,ci
+2024-09-10T11:26:50.900Z,33.6708333,-116.753,14.14,0.52,ml,29.0,67.0,0.05164,0.12,ci,ci40729703,2024-09-10T11:32:48.879Z,"8 km SSW of Idyllwild, CA",earthquake,0.2,0.33,0.155,10.0,automatic,ci,ci
+2024-09-10T10:39:39.080Z,18.1793,-68.5383,134.0,3.76,md,11.0,210.0,0.3696,0.11,pr,pr2024254002,2024-09-10T11:38:20.594Z,"23 km SSE of Boca de Yuma, Dominican Republic",earthquake,2.31,0.89,0.02,5.0,reviewed,pr,pr
