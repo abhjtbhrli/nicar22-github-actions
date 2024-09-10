@@ -18958,3 +18958,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-10T06:55:18.550Z,17.9701666666667,-66.9986666666667,7.79,2.84,md,13.0,185.0,0.04337,0.08,pr,pr71459603,2024-09-10T07:11:40.960Z,"5 km E of La Parguera, Puerto Rico",earthquake,0.44,0.39,0.123114682849439,7.0,reviewed,pr,pr
 2024-09-09T08:20:03.120Z,36.2468,70.0263,143.46,4.3,mb,46.0,73.0,1.875,0.68,us,us6000nqlc,2024-09-10T07:14:18.040Z,"39 km SSE of Farkhār, Afghanistan",earthquake,6.39,7.998,0.116,21.0,reviewed,us,us
 2024-09-10T07:16:19.150Z,33.967,-116.8083333,15.27,1.45,ml,72.0,22.0,0.05681,0.17,ci,ci40729591,2024-09-10T07:27:18.870Z,"6 km NNW of Cabazon, CA",earthquake,0.13,0.36,0.152,26.0,automatic,ci,ci
+2024-09-10T07:26:23.920Z,34.0278333,-117.223,9.62,0.72,ml,38.0,75.0,0.09216,0.18,ci,ci40729599,2024-09-10T07:32:53.569Z,"4 km ESE of Loma Linda, CA",earthquake,0.24,0.59,0.118,16.0,automatic,ci,ci
