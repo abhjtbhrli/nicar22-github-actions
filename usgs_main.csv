@@ -18982,3 +18982,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-10T10:07:11.230Z,19.0051,-64.3101,49.0,3.78,md,13.0,313.0,0.6659,0.41,pr,pr2024254001,2024-09-10T10:37:58.615Z,"90 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,9.75,14.93,0.13,7.0,reviewed,pr,pr
 2024-09-10T10:45:09.602Z,64.4799,-147.2117,10.5,0.5,ml,,,,0.33,ak,ak024bo8q5g0,2024-09-10T10:47:09.174Z,"15 km WSW of Salcha, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-10T10:18:19.258Z,31.676,-104.421,7.6523,1.6,ml,15.0,65.0,0.0,0.3,tx,tx2024rvar,2024-09-10T10:50:54.707Z,"55 km S of Whites City, New Mexico",earthquake,0.0,2.76270031929016,0.2,13.0,automatic,tx,tx
+2024-09-10T11:04:28.069Z,37.7288,-117.1668,2.8,1.7,ml,18.0,154.14,0.551,0.4548,nn,nn00884478,2024-09-10T11:06:55.943Z,"6 km ENE of Goldfield, Nevada",earthquake,,2.6,0.27,11.0,automatic,nn,nn
+2024-09-10T11:04:06.250Z,35.088501,-119.1001663,14.77,1.82,ml,35.0,45.0,0.03271,0.27,ci,ci40729671,2024-09-10T11:06:15.973Z,"22 km NW of Grapevine, CA",earthquake,0.35,0.82,0.274,27.0,automatic,ci,ci
+2024-09-10T10:56:04.540Z,38.7868347167969,-122.766334533691,3.17000007629395,1.01,md,18.0,76.0,0.0161,0.02,nc,nc75059951,2024-09-10T10:57:43.164Z,"1 km NNW of The Geysers, CA",earthquake,0.28,0.689999998,0.24,21.0,automatic,nc,nc
