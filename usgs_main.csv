@@ -19063,3 +19063,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-10T17:36:25.980Z,38.7849998474121,-122.734497070312,1.96000003814697,0.33,md,8.0,108.0,0.002476,0.01,nc,nc75060086,2024-09-10T17:38:00.894Z,"2 km ENE of The Geysers, CA",earthquake,0.34,0.860000014,0.13,7.0,automatic,nc,nc
 2024-09-10T14:17:13.680Z,34.2566667,-117.931,11.7,0.59,ml,8.0,103.0,0.1028,0.12,ci,ci37683324,2024-09-10T17:42:06.000Z,"13 km NNE of Bradbury, CA",earthquake,0.32,0.88,0.112,8.0,reviewed,ci,ci
 2024-09-09T18:15:10.990Z,35.98583333,-97.9625,5.89,1.2,ml,39.0,55.0,0.03779258381,0.26,ok,ok2024rtux,2024-09-10T17:52:52.602Z,"4 km W of Dover, Oklahoma",earthquake,,0.5,0.23,15.0,reviewed,ok,ok
+2024-09-10T17:51:36.409Z,62.2931,-150.4634,23.8,1.2,ml,,,,0.66,ak,ak024bocxj1k,2024-09-10T17:53:57.806Z,"12 km WSW of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-09-10T17:49:44.590Z,36.081665,-117.6378326,2.42,2.2,ml,28.0,112.0,0.1176,0.13,ci,ci40729983,2024-09-10T17:51:49.054Z,"28 km E of Coso Junction, CA",earthquake,0.29,1.1,0.242,23.0,automatic,ci,ci
+2024-09-10T14:11:46.192Z,35.2075,-106.774,6.934,2.8,ml,34.0,49.0,0.367,0.47,us,usa000p771,2024-09-10T17:55:00.231Z,"6 km W of Paradise Hills, New Mexico",earthquake,3.21,1.207,0.06,36.0,reviewed,us,us
