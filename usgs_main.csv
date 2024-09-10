@@ -18904,3 +18904,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-09T12:19:25.240Z,61.31,-152.285833333333,2.37,0.04,ml,10.0,144.0,0.07737,0.11,av,av93020434,2024-09-10T02:58:47.490Z,"67 km WNW of Beluga, Alaska",earthquake,0.28,1.23,0.157603973818129,11.0,reviewed,av,av
 2024-09-10T03:23:12.619Z,61.6962,-148.1354,21.1,0.8,ml,,,,0.54,ak,ak024bo4feov,2024-09-10T03:25:27.769Z,"20 km ESE of Chickaloon, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-09T12:30:44.300Z,58.1826666666667,-155.304333333333,2.61,-0.44,ml,7.0,101.0,0.03017,0.24,av,av93020439,2024-09-10T03:04:15.760Z,"84 km NW of Karluk, Alaska",earthquake,0.61,1.05,0.399895815849441,7.0,reviewed,av,av
+2024-09-10T03:31:51.940Z,33.2756653,-116.7911682,16.12,0.97,ml,25.0,68.0,0.048,0.14,ci,ci40729495,2024-09-10T03:34:12.230Z,"5 km NW of Lake Henshaw, CA",earthquake,0.34,0.69,0.338,5.0,automatic,ci,ci
+2024-09-10T03:27:53.021Z,60.8051,-151.0947,60.1,1.2,ml,,,,0.34,ak,ak024bo4gcls,2024-09-10T03:30:33.453Z,"16 km NE of Nikiski, Alaska",earthquake,,0.7,,,automatic,ak,ak
