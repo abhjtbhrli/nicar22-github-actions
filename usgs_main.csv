@@ -18965,3 +18965,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-10T07:54:13.213Z,31.625,-104.457,3.7837,1.7,ml,15.0,111.0,0.0,0.5,tx,tx2024ruvx,2024-09-10T08:08:20.641Z,"61 km S of Whites City, New Mexico",earthquake,0.0,1.59499967098236,0.1,12.0,automatic,tx,tx
 2024-09-10T08:24:13.076Z,61.5502,-146.3697,25.9,1.5,ml,,,,0.57,ak,ak024bo7esgr,2024-09-10T08:25:51.416Z,"46 km N of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-09-10T08:22:10.960Z,38.7903327941895,-122.760833740234,1.42999994754791,0.86,md,9.0,76.0,0.01031,0.01,nc,nc75059916,2024-09-10T08:23:47.070Z,"1 km  of The Geysers, CA",earthquake,0.38,0.689999998,0.23,11.0,automatic,nc,nc
+2024-09-10T08:49:58.150Z,33.51,-116.4841667,14.7,0.5,ml,24.0,62.0,0.06144,0.11,ci,ci40729623,2024-09-10T08:56:02.216Z,"18 km ESE of Anza, CA",earthquake,0.21,0.37,0.068,11.0,automatic,ci,ci
