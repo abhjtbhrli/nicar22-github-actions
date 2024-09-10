@@ -19118,3 +19118,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-10T21:02:53.565Z,-15.5999,-173.434,82.832,5.0,mb,44.0,79.0,2.319,1.09,us,us7000ncxz,2024-09-10T21:20:57.040Z,"55 km NE of Hihifo, Tonga",earthquake,4.92,7.553,0.033,293.0,reviewed,us,us
 2024-09-10T21:18:56.344Z,-55.8033,-26.1633,10.0,5.0,mb,38.0,69.0,6.128,0.81,us,us7000ncy0,2024-09-10T21:33:28.040Z,South Sandwich Islands region,earthquake,10.04,1.699,0.094,36.0,reviewed,us,us
 2024-09-10T21:16:19.510Z,17.9645,-67.4136666666667,24.74,2.95,md,7.0,326.0,0.2924,0.09,pr,pr71459688,2024-09-10T21:32:24.590Z,"24 km W of Pole Ojea, Puerto Rico",earthquake,1.18,1.8,0.106249409105364,6.0,reviewed,pr,pr
+2024-09-10T21:24:58.660Z,18.0313333333333,-66.7991666666667,16.18,2.94,md,20.0,94.0,0.01341,0.16,pr,pr71459698,2024-09-10T21:40:52.520Z,"1 km NNW of Guayanilla, Puerto Rico",earthquake,0.41,0.6,0.135194331523905,7.0,reviewed,pr,pr
+2024-09-10T21:16:45.010Z,49.358,-120.49516666666666,-0.37,1.99,ml,9.0,179.0,0.57,0.38,uw,uw62045011,2024-09-10T21:40:28.440Z,"11 km S of Princeton, Canada",explosion,2.12,31.61,0.0871604430078831,7.0,reviewed,uw,uw
