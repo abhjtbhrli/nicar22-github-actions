@@ -19250,3 +19250,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-11T10:05:17.085Z,64.7789,-147.419,15.1,0.5,ml,,,,0.12,ak,ak024bpw0xvv,2024-09-11T10:07:43.389Z,"4 km NW of North Pole, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-09-11T10:00:12.470Z,34.088,-118.1831667,10.81,1.58,ml,61.0,45.0,0.05103,0.2,ci,ci40730591,2024-09-11T10:16:03.904Z,"4 km SSE of Highland Park, CA",earthquake,0.18,0.28,0.18,28.0,automatic,ci,ci
 2024-09-11T09:56:08.954Z,31.644,-104.274,4.2658,1.6,ml,17.0,68.0,0.1,0.2,tx,tx2024rwvj,2024-09-11T10:15:42.125Z,"58 km NW of Toyah, Texas",earthquake,0.0,1.30451738834381,0.1,12.0,automatic,tx,tx
+2024-09-11T10:30:10.740Z,38.7931671142578,-122.802833557129,1.80999994277954,0.44,md,6.0,106.0,0.004838,0.01,nc,nc75060421,2024-09-11T10:31:49.111Z,"4 km NW of The Geysers, CA",earthquake,0.5,0.870000005,0.18,7.0,automatic,nc,nc
