@@ -19285,3 +19285,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-11T13:06:21.548Z,61.3736,-151.0008,27.2,0.9,ml,,,,1.02,ak,ak024bpxtgqy,2024-09-11T13:08:37.855Z,"26 km N of Beluga, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-09-11T13:02:50.770Z,34.1518333,-116.4298333,6.28,0.85,ml,27.0,89.0,0.04905,0.12,ci,ci40730711,2024-09-11T13:08:45.888Z,"4 km N of Yucca Valley, CA",earthquake,0.18,0.41,0.132,14.0,automatic,ci,ci
 2024-09-11T01:32:36.720Z,38.4538333333333,-112.805333333333,4.62,0.71,md,14.0,146.0,0.03856,0.1,uu,uu80082131,2024-09-11T13:26:59.900Z,"19 km ENE of Milford, Utah",earthquake,0.47,0.73,0.362186815769659,7.0,reviewed,uu,uu
+2024-09-11T11:02:24.840Z,37.1836666666667,-112.8905,20.84,1.55,ml,11.0,87.0,0.1755,0.11,uu,uu80082151,2024-09-11T13:29:37.730Z,"9 km E of Springdale, Utah",earthquake,0.46,1.06,0.35892378942017,6.0,reviewed,uu,uu
+2024-09-10T23:38:54.799Z,35.023,-97.7885,10.96,0.97,ml,32.0,140.0,0.09628110636,0.4,ok,ok2024rwbc,2024-09-11T13:41:20.192Z,"12 km N of Alex, Oklahoma",earthquake,,2.1,0.24,15.0,reviewed,ok,ok
