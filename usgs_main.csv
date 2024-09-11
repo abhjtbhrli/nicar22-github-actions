@@ -19180,3 +19180,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-10T06:10:27.350Z,60.0236666666667,-153.105333333333,-0.35,-0.83,ml,4.0,186.0,0.03976,0.15,av,av93258618,2024-09-11T03:35:24.230Z,"61 km ENE of Pedro Bay, Alaska",earthquake,0.57,3.25,0.186915820682222,4.0,reviewed,av,av
 2024-09-11T03:49:31.380Z,34.0320015,-117.0134964,13.52,1.09,ml,21.0,108.0,0.2423,0.14,ci,ci40730455,2024-09-11T03:51:36.819Z,"3 km E of Yucaipa, CA",earthquake,0.37,1.48,0.308,9.0,automatic,ci,ci
 2024-09-11T03:39:08.970Z,33.9208333,-117.0636667,7.51,0.79,ml,38.0,52.0,0.0945,0.16,ci,ci40730447,2024-09-11T03:52:11.883Z,"8 km S of Calimesa, CA",earthquake,0.17,1.14,0.132,23.0,automatic,ci,ci
+2024-09-11T04:15:46.500Z,19.3396663665771,-155.130661010742,5.03000020980835,1.99000001,md,12.0,139.0,0.04523,0.219999999,hv,hv74450292,2024-09-11T04:17:23.960Z,"13 km S of Fern Forest, Hawaii",earthquake,0.74,2.4000001,0.25,4.0,automatic,hv,hv
+2024-09-11T04:13:31.521Z,58.4619,-155.5008,158.4,0.9,ml,,,,0.77,ak,ak024bpsi334,2024-09-11T04:16:11.935Z,"72 km ESE of King Salmon, Alaska",earthquake,,4.4,,,automatic,ak,ak
+2024-09-11T03:59:02.100Z,33.8865,-116.8985,12.4,1.56,ml,70.0,28.0,0.07662,0.17,ci,ci40730463,2024-09-11T04:10:12.760Z,"5 km SSW of Banning, CA",earthquake,0.15,0.39,0.187,27.0,automatic,ci,ci
+2024-09-11T03:56:11.449Z,61.859,-149.9405,36.3,1.4,ml,,,,0.47,ak,ak024bps5tq0,2024-09-11T03:58:00.023Z,"13 km NNE of Willow, Alaska",earthquake,,3.5,,,automatic,ak,ak
+2024-09-11T03:42:35.224Z,31.74,-104.109,4.8268,2.3,ml,21.0,69.0,0.0,0.2,tx,tx2024rwjd,2024-09-11T04:13:41.003Z,"48 km W of Mentone, Texas",earthquake,0.0,1.19618487358093,0.2,17.0,automatic,tx,tx
+2024-09-11T02:13:29.138Z,-24.2339,-66.8447,216.988,4.0,mb,29.0,101.0,1.768,0.83,us,us7000nd04,2024-09-11T04:02:51.040Z,"53 km W of San Antonio de los Cobres, Argentina",earthquake,8.93,9.748,0.232,5.0,reviewed,us,us
