@@ -19332,3 +19332,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-11T16:53:11.680Z,38.8586654663086,-122.978164672852,3.63000011444092,1.35,md,18.0,144.0,0.02834,0.02,nc,nc75060511,2024-09-11T16:54:47.401Z,"7 km NE of Cloverdale, CA",earthquake,0.49,0.660000026,0.15,18.0,automatic,nc,nc
 2024-09-11T16:44:22.280Z,63.299,-151.1213,0.0,1.7,ml,,,,0.63,ak,ak024bpztwtw,2024-09-11T16:46:23.111Z,"40 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-09-11T09:15:51.100Z,47.70016666666667,-121.85333333333334,21.54,1.07,ml,32.0,73.0,0.06271,0.14,uw,uw62045086,2024-09-11T16:50:11.040Z,"4 km E of Lake Marcel-Stillwater, Washington",earthquake,0.25,0.41,0.1185527390320935,10.0,reviewed,uw,uw
+2024-09-11T17:02:08.126Z,61.4151,-151.5654,79.1,2.8,ml,,,,0.51,ak,ak024bq06bae,2024-09-11T17:12:50.040Z,"40 km NW of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-09-11T16:56:57.094Z,61.2681,-150.4503,23.7,1.0,ml,,,,0.33,ak,ak024bpzwk3x,2024-09-11T16:58:56.791Z,"27 km WSW of Point MacKenzie, Alaska",earthquake,,2.5,,,automatic,ak,ak
+2024-09-11T16:46:04.677Z,-3.2728,146.36,10.0,6.3,mww,79.0,62.0,1.582,1.25,us,us7000nd4f,2024-09-11T17:09:21.509Z,"170 km SW of Lorengau, Papua New Guinea",earthquake,6.73,1.861,0.062,25.0,reviewed,us,us
+2024-09-11T13:57:38.500Z,46.85316666666667,-121.7585,1.62,0.61,ml,20.0,88.0,0.02376,0.06,uw,uw62045151,2024-09-11T16:59:34.930Z,"23 km ENE of Ashford, Washington",earthquake,0.26,0.45,0.2787324251869061,9.0,reviewed,uw,uw
+2024-09-11T12:24:38.770Z,46.85366666666667,-121.76,1.32,0.43,ml,18.0,86.0,0.02279,0.06,uw,uw62045116,2024-09-11T17:03:38.330Z,"23 km ENE of Ashford, Washington",earthquake,0.24,0.41,0.1572537986970421,7.0,reviewed,uw,uw
+2024-09-11T12:20:03.740Z,46.85416666666666,-121.75966666666666,0.79,0.5,ml,15.0,85.0,0.02308,0.1,uw,uw62045111,2024-09-11T16:59:38.020Z,"23 km ENE of Ashford, Washington",earthquake,0.24,0.57,0.1510211843997376,5.0,reviewed,uw,uw
