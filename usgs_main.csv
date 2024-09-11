@@ -19178,3 +19178,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-11T03:26:31.018Z,58.4638,-154.2078,92.6,1.1,ml,,,,0.18,ak,ak024bprzfr1,2024-09-11T03:28:20.632Z,"88 km WNW of Aleneva, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-09-11T02:57:02.501Z,-7.8866,118.3419,191.111,4.5,mb,28.0,79.0,3.927,0.75,us,us7000nd0c,2024-09-11T03:27:55.040Z,"73 km N of Dompu, Indonesia",earthquake,10.12,8.578,0.135,16.0,reviewed,us,us
 2024-09-10T06:10:27.350Z,60.0236666666667,-153.105333333333,-0.35,-0.83,ml,4.0,186.0,0.03976,0.15,av,av93258618,2024-09-11T03:35:24.230Z,"61 km ENE of Pedro Bay, Alaska",earthquake,0.57,3.25,0.186915820682222,4.0,reviewed,av,av
+2024-09-11T03:49:31.380Z,34.0320015,-117.0134964,13.52,1.09,ml,21.0,108.0,0.2423,0.14,ci,ci40730455,2024-09-11T03:51:36.819Z,"3 km E of Yucaipa, CA",earthquake,0.37,1.48,0.308,9.0,automatic,ci,ci
+2024-09-11T03:39:08.970Z,33.9208333,-117.0636667,7.51,0.79,ml,38.0,52.0,0.0945,0.16,ci,ci40730447,2024-09-11T03:52:11.883Z,"8 km S of Calimesa, CA",earthquake,0.17,1.14,0.132,23.0,automatic,ci,ci
