@@ -19435,3 +19435,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-11T14:42:13.360Z,46.2,-122.17433333333334,-0.82,-0.03,mh,5.0,194.0,0.007759,0.17,uw,uw62045166,2024-09-11T23:34:21.520Z,"38 km NNE of Amboy, Washington",earthquake,1.38,1.61,,0.0,reviewed,uw,uw
 2024-09-11T09:55:13.200Z,53.8318333333333,-166.910666666667,5.57,0.85,ml,9.0,124.0,0.02965,0.23,av,av93259463,2024-09-11T23:35:41.500Z,"25 km WSW of Dutch Harbor, Alaska",earthquake,0.53,1.12,0.235696051447495,9.0,reviewed,av,av
 2024-09-11T09:53:40.780Z,53.8285,-166.899166666667,6.76,1.27,ml,22.0,117.0,0.03195,0.11,av,av93259453,2024-09-11T23:28:39.490Z,"24 km WSW of Dutch Harbor, Alaska",earthquake,0.27,0.14,0.217247584745258,22.0,reviewed,av,av
+2024-09-11T23:41:27.078Z,64.9457,-147.5103,0.0,1.2,ml,,,,0.79,ak,ak024bq3zb8m,2024-09-11T23:43:41.761Z,"5 km ESE of Fox, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-09-11T10:04:42.720Z,59.355,-153.4415,-0.27,-0.59,ml,6.0,143.0,0.007799,0.11,av,av93259468,2024-09-11T23:43:19.570Z,"61 km SE of Pedro Bay, Alaska",earthquake,0.18,0.13,0.189589521168669,6.0,reviewed,av,av
