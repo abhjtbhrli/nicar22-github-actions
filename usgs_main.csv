@@ -19695,3 +19695,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-12T20:28:59.628Z,62.4804,-149.3672,45.3,1.8,ml,,,,0.89,ak,ak024brpnn62,2024-09-12T20:31:17.736Z,"38 km E of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-09-12T20:21:17.666Z,31.713,-104.271,3.9453,1.8,ml,16.0,76.0,0.0,0.2,tx,tx2024rzlo,2024-09-12T20:34:44.752Z,"52 km S of Whites City, New Mexico",earthquake,0.0,1.36590528488159,0.2,12.0,automatic,tx,tx
 2024-09-12T11:12:34.430Z,45.029833333333336,-122.50766666666668,11.57,0.8300000000000001,ml,5.0,140.0,0.1196,0.11,uw,uw62045431,2024-09-12T20:29:54.890Z,"12 km E of Scotts Mills, Oregon",earthquake,0.61,1.95,0.0831429979644007,4.0,reviewed,uw,uw
+2024-09-12T20:47:12.240Z,39.7244987487793,-123.587997436523,1.57000005245209,1.35,md,7.0,137.0,0.03919,0.03,nc,nc75061071,2024-09-12T20:48:47.761Z,"10 km NW of Laytonville, CA",earthquake,0.47,1.35000002,0.13,5.0,automatic,nc,nc
+2024-09-12T20:42:18.561Z,62.9596,-151.0269,122.3,2.1,ml,,,,0.28,ak,ak024brpqk0w,2024-09-12T20:44:44.549Z,"53 km NNW of Petersville, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-09-12T11:43:23.120Z,46.617333333333335,-119.87516666666669,5.68,0.61,ml,6.0,193.0,0.06051,0.03,uw,uw62045436,2024-09-12T20:46:57.410Z,"7 km SSE of Desert Aire, Washington",earthquake,0.34,0.24,0.112528494398065,7.0,reviewed,uw,uw
