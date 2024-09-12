@@ -19491,3 +19491,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-11T17:16:12.160Z,56.314,-159.022666666667,3.5,0.61,ml,5.0,286.0,0.1036,0.24,av,av93020669,2024-09-12T03:36:07.830Z,"17 km WNW of Chignik Lake, Alaska",earthquake,1.67,1.9,0.27438924358102,5.0,reviewed,av,av
 2024-09-12T03:25:14.114Z,-8.7969,110.2155,80.089,4.3,mb,19.0,73.0,1.751,1.06,us,us7000nd7p,2024-09-12T03:48:25.040Z,"93 km S of Bambanglipuro, Indonesia",earthquake,7.98,8.959,0.147,13.0,reviewed,us,us
 2024-09-11T18:24:02.650Z,51.6965,-178.574,18.33,2.37,ml,12.0,146.0,0.1383,0.14,av,av93260058,2024-09-12T03:48:57.550Z,"135 km W of Adak, Alaska",earthquake,0.56,1.25,0.288744253438565,16.0,reviewed,av,av
+2024-09-12T03:58:44.353Z,63.0626,-149.4215,77.1,1.2,ml,,,,0.65,ak,ak024brfpo6r,2024-09-12T04:01:28.336Z,"43 km SSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-09-12T02:55:34.806Z,51.2731,-178.6331,25.7,4.0,ml,,,,0.53,ak,ak024brf3kl8,2024-09-12T04:03:18.347Z,"153 km WSW of Adak, Alaska",earthquake,,1.4,,,reviewed,ak,ak
