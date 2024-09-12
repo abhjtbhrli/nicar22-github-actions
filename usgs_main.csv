@@ -19713,3 +19713,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-12T21:44:54.134Z,59.2292,-154.5842,1.2,2.0,ml,,,,0.71,ak,ak024brqcht1,2024-09-12T21:47:05.712Z,"25 km SSE of Kokhanok, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-12T21:34:28.938Z,61.1766,-146.7435,29.5,2.3,ml,,,,1.44,ak,ak024brqaap9,2024-09-12T21:41:17.188Z,"21 km WNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-09-12T04:50:37.840Z,19.3711666666667,-155.178833333333,1.96,0.71,md,12.0,132.0,0.0122,0.09,hv,hv74452891,2024-09-12T21:40:30.740Z,"9 km SE of Volcano, Hawaii",earthquake,0.56,0.33,0.174034373722907,4.0,reviewed,hv,hv
+2024-09-12T21:30:50.140Z,18.8916666666667,-67.2955,8.59,3.29,md,12.0,231.0,0.4567,0.24,pr,pr71459868,2024-09-12T21:51:40.070Z,"48 km NNW of San Antonio, Puerto Rico",earthquake,1.22,0.88,0.243026747428668,6.0,reviewed,pr,pr
+2024-09-12T08:47:32.240Z,58.2941666666667,-154.981833333333,2.88,0.03,ml,8.0,147.0,0.04302,0.09,av,av93020734,2024-09-12T21:52:15.720Z,"86 km NNW of Karluk, Alaska",earthquake,0.33,0.7,0.283900120621207,8.0,reviewed,av,av
