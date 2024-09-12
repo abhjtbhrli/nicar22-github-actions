@@ -19698,3 +19698,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-12T20:47:12.240Z,39.7244987487793,-123.587997436523,1.57000005245209,1.35,md,7.0,137.0,0.03919,0.03,nc,nc75061071,2024-09-12T20:48:47.761Z,"10 km NW of Laytonville, CA",earthquake,0.47,1.35000002,0.13,5.0,automatic,nc,nc
 2024-09-12T20:42:18.561Z,62.9596,-151.0269,122.3,2.1,ml,,,,0.28,ak,ak024brpqk0w,2024-09-12T20:44:44.549Z,"53 km NNW of Petersville, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2024-09-12T11:43:23.120Z,46.617333333333335,-119.87516666666669,5.68,0.61,ml,6.0,193.0,0.06051,0.03,uw,uw62045436,2024-09-12T20:46:57.410Z,"7 km SSE of Desert Aire, Washington",earthquake,0.34,0.24,0.112528494398065,7.0,reviewed,uw,uw
+2024-09-12T12:58:36.010Z,48.925,-122.087,6.48,0.91,ml,8.0,122.0,0.07337,0.11,uw,uw62045446,2024-09-12T20:57:09.820Z,"0 km W of Maple Falls, Washington",earthquake,0.34,1.05,0.0745906571300368,6.0,reviewed,uw,uw
