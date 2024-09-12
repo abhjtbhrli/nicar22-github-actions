@@ -19642,3 +19642,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-12T17:24:52.569Z,36.6379,-115.622,0.8,0.8,ml,11.0,303.61,0.274,0.3817,nn,nn00884593,2024-09-12T17:26:45.886Z,"8 km NNE of Indian Springs, Nevada",earthquake,,70.8,0.09,7.0,automatic,nn,nn
 2024-09-12T17:18:07.980Z,34.0553333,-118.8066667,10.71,2.16,ml,72.0,95.0,0.02734,0.23,ci,ci40731887,2024-09-12T17:25:05.970Z,"6 km N of Malibu, CA",earthquake,0.21,0.3,0.133,26.0,automatic,ci,ci
 2024-09-12T17:10:25.064Z,61.6902,-149.9916,27.9,1.9,ml,,,,0.59,ak,ak024brnresq,2024-09-12T17:12:16.215Z,"6 km SSE of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-09-12T17:34:11.500Z,19.3888339996338,-155.25016784668,1.19000005722046,1.83,ml,25.0,53.0,0.003478,0.189999998,hv,hv74454321,2024-09-12T17:37:04.850Z,"6 km SSW of Volcano, Hawaii",earthquake,0.21,0.150000006,0.28,11.0,automatic,hv,hv
+2024-09-12T17:31:51.727Z,36.6462,-115.5431,1.7,0.8,ml,10.0,308.7800000000001,0.337,0.3093,nn,nn00884595,2024-09-12T17:34:05.421Z,"14 km NE of Indian Springs, Nevada",earthquake,,26.7,0.16,7.0,automatic,nn,nn
