@@ -19538,3 +19538,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-12T07:18:38.350Z,33.4825,-116.5851667,6.36,0.32,ml,23.0,51.0,0.01873,0.12,ci,ci40731391,2024-09-12T07:24:56.381Z,"12 km SE of Anza, CA",earthquake,0.17,0.36,0.215,5.0,automatic,ci,ci
 2024-09-12T06:50:37.000Z,19.389,-155.247666666667,1.71,2.77,ml,36.0,57.0,0.004887,0.09,hv,hv74453126,2024-09-12T07:25:48.485Z,"6 km SSW of Volcano, Hawaii",earthquake,0.14,0.13,0.52918447527158,29.0,reviewed,hv,hv
 2024-09-12T06:46:13.539Z,17.9099,40.0717,10.0,4.9,mb,54.0,109.0,13.946,0.83,us,us7000nd8a,2024-09-12T07:24:56.040Z,"226 km WSW of Bariq, Saudi Arabia",earthquake,13.23,1.926,0.093,36.0,reviewed,us,us
+2024-09-12T07:25:01.700Z,33.509,-116.4835,14.55,0.57,ml,26.0,63.0,0.06256,0.11,ci,ci40731399,2024-09-12T07:30:59.278Z,"18 km ESE of Anza, CA",earthquake,0.2,0.33,0.128,10.0,automatic,ci,ci
