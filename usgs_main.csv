@@ -19493,3 +19493,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-11T18:24:02.650Z,51.6965,-178.574,18.33,2.37,ml,12.0,146.0,0.1383,0.14,av,av93260058,2024-09-12T03:48:57.550Z,"135 km W of Adak, Alaska",earthquake,0.56,1.25,0.288744253438565,16.0,reviewed,av,av
 2024-09-12T03:58:44.353Z,63.0626,-149.4215,77.1,1.2,ml,,,,0.65,ak,ak024brfpo6r,2024-09-12T04:01:28.336Z,"43 km SSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-12T02:55:34.806Z,51.2731,-178.6331,25.7,4.0,ml,,,,0.53,ak,ak024brf3kl8,2024-09-12T04:03:18.347Z,"153 km WSW of Adak, Alaska",earthquake,,1.4,,,reviewed,ak,ak
+2024-09-12T04:24:19.468Z,60.0998,-140.9323,14.7,1.8,ml,,,,0.56,ak,ak024brg3riy,2024-09-12T04:25:50.282Z,"91 km NW of Yakutat, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2024-09-12T03:13:07.560Z,19.172,-155.483166666667,32.74,1.37,md,16.0,140.0,0.02585,0.09,hv,hv74452766,2024-09-12T04:13:46.170Z,"3 km S of Pāhala, Hawaii",earthquake,0.69,0.79,0.0727124837105859,3.0,reviewed,hv,hv
+2024-09-12T02:55:36.043Z,51.3453,-178.6382,44.338,3.9,mb,51.0,200.0,0.236,0.95,us,us7000nd7s,2024-09-12T04:15:34.040Z,"150 km WSW of Adak, Alaska",earthquake,5.68,11.575,0.107,23.0,reviewed,us,us
+2024-09-11T21:11:34.370Z,58.1785,-155.362333333333,2.02,-0.05,ml,8.0,82.0,0.07342,0.13,av,av93260318,2024-09-12T04:25:52.430Z,"86 km NW of Karluk, Alaska",earthquake,0.26,0.74,0.165196965089083,8.0,reviewed,av,av
