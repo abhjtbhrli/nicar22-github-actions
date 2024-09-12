@@ -19497,3 +19497,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-12T03:13:07.560Z,19.172,-155.483166666667,32.74,1.37,md,16.0,140.0,0.02585,0.09,hv,hv74452766,2024-09-12T04:13:46.170Z,"3 km S of Pāhala, Hawaii",earthquake,0.69,0.79,0.0727124837105859,3.0,reviewed,hv,hv
 2024-09-12T02:55:36.043Z,51.3453,-178.6382,44.338,3.9,mb,51.0,200.0,0.236,0.95,us,us7000nd7s,2024-09-12T04:15:34.040Z,"150 km WSW of Adak, Alaska",earthquake,5.68,11.575,0.107,23.0,reviewed,us,us
 2024-09-11T21:11:34.370Z,58.1785,-155.362333333333,2.02,-0.05,ml,8.0,82.0,0.07342,0.13,av,av93260318,2024-09-12T04:25:52.430Z,"86 km NW of Karluk, Alaska",earthquake,0.26,0.74,0.165196965089083,8.0,reviewed,av,av
+2024-09-12T04:24:54.530Z,63.1706,-150.9108,117.6,1.6,ml,,,,0.2,ak,ak024brg3uhq,2024-09-12T04:36:59.481Z,"57 km SE of Denali National Park, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2024-09-12T04:09:00.630Z,41.915,142.3581,66.731,4.4,mb,20.0,108.0,0.604,0.38,us,us7000nd7u,2024-09-12T04:42:00.040Z,"44 km SW of Urakawa, Japan",earthquake,4.6,9.305,0.162,11.0,reviewed,us,us
+2024-09-11T22:36:51.650Z,51.945,179.621166666667,3.28,-0.27,ml,5.0,114.0,0.01536,0.15,av,av93020684,2024-09-12T04:35:32.070Z,"257 km W of Adak, Alaska",earthquake,0.59,1.27,0.0880229601291902,5.0,reviewed,av,av
