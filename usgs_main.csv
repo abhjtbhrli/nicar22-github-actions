@@ -19600,3 +19600,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-12T14:30:48.370Z,34.061,-118.8203333,11.61,2.76,ml,33.0,105.0,0.04,0.2,ci,ci40731639,2024-09-12T14:38:12.015Z,"6 km N of Malibu, CA",earthquake,0.34,0.42,0.263,4.0,automatic,ci,ci
 2024-09-12T14:28:21.820Z,34.0703316,-118.8083344,11.55,4.66,mw,108.0,116.0,0.03696,0.33,ci,ci40731623,2024-09-12T14:40:08.317Z,"7 km N of Malibu, CA",earthquake,0.49,0.9,,6.0,reviewed,ci,ci
 2024-09-12T04:42:03.350Z,32.281,-102.199,9.4971,1.8,ml,25.0,83.0,0.1,0.1,tx,tx2024rygp,2024-09-12T14:32:07.136Z,"31 km E of McKinney Acres, Texas",earthquake,0.7204407425022191,0.8326533894574359,0.1,15.0,reviewed,tx,tx
+2024-09-12T14:47:05.877Z,60.9913,-151.1909,28.7,1.7,ml,,,,0.64,ak,ak024brm6zzv,2024-09-12T14:49:01.095Z,"9 km SSW of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-09-12T14:42:49.140Z,34.0661667,-118.8143333,10.59,2.13,ml,65.0,97.0,0.03818,0.27,ci,ci40731671,2024-09-12T14:50:44.681Z,"7 km N of Malibu, CA",earthquake,0.25,0.41,0.145,27.0,automatic,ci,ci
+2024-09-12T14:42:28.600Z,34.0598333,-118.795,11.08,1.48,ml,16.0,114.0,0.02172,0.21,ci,ci40731663,2024-09-12T14:49:10.668Z,"6 km NNE of Malibu, CA",earthquake,0.37,0.46,0.319,34.0,automatic,ci,ci
