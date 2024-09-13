@@ -19876,3 +19876,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-13T10:58:55.100Z,19.3815002441406,-155.248992919922,1.32000005245209,1.82,ml,30.0,47.0,0.004549,0.219999999,hv,hv74456466,2024-09-13T11:01:48.460Z,"6 km SSW of Volcano, Hawaii",earthquake,0.2,0.189999998,0.29,15.0,automatic,hv,hv
 2024-09-13T10:01:08.259Z,33.7848,82.1484,10.0,4.6,mb,81.0,73.0,6.544,0.77,us,us7000ndhb,2024-09-13T11:10:13.040Z,"297 km S of Aqqan, China",earthquake,2.94,1.862,0.073,60.0,reviewed,us,us
 2024-09-13T09:53:40.010Z,39.0055,-123.101833333333,2.48,1.27,md,35.0,37.0,0.096,0.1,nc,nc75061296,2024-09-13T11:07:17.650Z,"15 km S of Talmage, CA",earthquake,0.17,1.05,0.245,28.0,reviewed,nc,nc
+2024-09-13T11:16:26.040Z,35.9529991,-117.9775009,3.46,1.79,ml,15.0,83.0,0.0893,0.11,ci,ci40732503,2024-09-13T11:18:54.266Z,"7 km WNW of Little Lake, CA",earthquake,0.35,1.2,0.616,6.0,automatic,ci,ci
+2024-09-13T11:15:38.114Z,36.7591,-116.2535,1.5,-0.2,ml,10.0,115.95,0.065,0.2624,nn,nn00884623,2024-09-13T11:17:19.325Z,"48 km ESE of Beatty, Nevada",earthquake,,4.8,0.15,7.0,automatic,nn,nn
+2024-09-13T11:14:54.405Z,60.7066,-152.827,126.9,3.3,ml,,,,0.49,ak,ak024bt7r2py,2024-09-13T11:17:14.227Z,"83 km W of Salamatof, Alaska",earthquake,,0.5,,,automatic,ak,ak
