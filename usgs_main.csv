@@ -19905,3 +19905,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-13T12:27:23.165Z,33.6175,85.2978,10.0,4.6,mb,51.0,93.0,5.799,0.68,us,us7000ndi0,2024-09-13T13:13:18.040Z,western Xizang,earthquake,10.23,1.903,0.098,31.0,reviewed,us,us
 2024-09-13T09:09:00.232Z,32.407,-102.053,8.5693,1.9,ml,36.0,73.0,0.0,0.1,tx,tx2024sakx,2024-09-13T13:12:21.907Z,"34 km WSW of Ackerly, Texas",earthquake,0.4163180646803168,0.5878997826352952,0.2,29.0,reviewed,tx,tx
 2024-09-12T18:47:19.760Z,34.3795,-96.84616667,0.0,1.4,ml,46.0,139.0,0.2573494992,0.46,ok,ok2024rzim,2024-09-13T13:05:40.759Z,"3 km SSW of Mill Creek, Oklahoma",quarry blast,,0.6,0.21,15.0,reviewed,ok,ok
+2024-09-13T13:22:08.390Z,33.268,-116.8438333,13.25,0.65,ml,31.0,35.0,0.07811,0.15,ci,ci40732607,2024-09-13T13:28:17.668Z,"8 km WNW of Lake Henshaw, CA",earthquake,0.18,0.51,0.114,16.0,automatic,ci,ci
+2024-09-12T17:34:16.280Z,35.67016667,-96.47333333,19.03,1.16,ml,47.0,73.0,0.1727660974,0.23,ok,ok2024rzgb,2024-09-13T13:33:14.700Z,"8 km SW of Iron Post, Oklahoma",earthquake,,1.0,0.21,20.0,reviewed,ok,ok
