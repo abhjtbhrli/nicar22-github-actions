@@ -19840,3 +19840,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-13T05:49:52.500Z,31.443,-103.547,4.6276,1.6,ml,11.0,96.0,0.0,0.5,tx,tx2024saei,2024-09-13T06:00:53.100Z,"5 km WNW of Pecos, Texas",earthquake,0.0,1.73208260536194,0.2,8.0,automatic,tx,tx
 2024-09-13T04:59:32.957Z,23.9065,121.7356,23.768,4.6,mb,51.0,78.0,0.651,0.76,us,us7000ndfw,2024-09-13T06:01:37.040Z,"15 km ESE of Hualien City, Taiwan",earthquake,2.45,5.293,0.096,32.0,reviewed,us,us
 2024-09-13T06:36:27.500Z,33.5108333,-116.5071667,11.96,1.04,ml,62.0,35.0,0.05062,0.17,ci,ci40732447,2024-09-13T06:43:01.731Z,"16 km ESE of Anza, CA",earthquake,0.15,0.32,0.197,27.0,automatic,ci,ci
+2024-09-13T06:43:03.970Z,19.3754997253418,-155.161834716797,2.70000004768372,1.76,ml,17.0,139.0,0.008065,0.129999995,hv,hv74455756,2024-09-13T06:45:55.930Z,"10 km SSW of Fern Forest, Hawaii",earthquake,1.03,0.620000005,0.28,6.0,automatic,hv,hv
+2024-09-13T06:33:49.388Z,4.5327,126.5069,79.356,5.1,mb,72.0,80.0,2.684,1.12,us,us7000ndg9,2024-09-13T06:50:46.040Z,"150 km SE of Sarangani, Philippines",earthquake,8.4,6.636,0.067,73.0,reviewed,us,us
