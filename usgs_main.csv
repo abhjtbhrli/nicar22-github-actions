@@ -19879,3 +19879,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-13T11:16:26.040Z,35.9529991,-117.9775009,3.46,1.79,ml,15.0,83.0,0.0893,0.11,ci,ci40732503,2024-09-13T11:18:54.266Z,"7 km WNW of Little Lake, CA",earthquake,0.35,1.2,0.616,6.0,automatic,ci,ci
 2024-09-13T11:15:38.114Z,36.7591,-116.2535,1.5,-0.2,ml,10.0,115.95,0.065,0.2624,nn,nn00884623,2024-09-13T11:17:19.325Z,"48 km ESE of Beatty, Nevada",earthquake,,4.8,0.15,7.0,automatic,nn,nn
 2024-09-13T11:14:54.405Z,60.7066,-152.827,126.9,3.3,ml,,,,0.49,ak,ak024bt7r2py,2024-09-13T11:17:14.227Z,"83 km W of Salamatof, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-09-13T11:32:00.367Z,58.0969,-154.083,37.5,1.8,ml,,,,1.24,ak,ak024bt7utic,2024-09-13T11:33:33.632Z,"62 km N of Larsen Bay, Alaska",earthquake,,3.3,,,automatic,ak,ak
