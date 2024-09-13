@@ -19965,3 +19965,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-13T02:18:48.570Z,33.7021667,-116.8053333,16.89,0.41,ml,15.0,89.0,0.07652,0.08,ci,ci40732279,2024-09-13T17:36:46.338Z,"9 km WSW of Idyllwild, CA",earthquake,0.26,0.41,0.11,7.0,reviewed,ci,ci
 2024-09-13T00:26:22.130Z,33.6288333,-116.6803333,12.08,-0.08,ml,8.0,98.0,0.07233,0.03,ci,ci40732255,2024-09-13T17:31:27.496Z,"8 km N of Anza, CA",earthquake,0.25,0.55,0.061,4.0,reviewed,ci,ci
 2024-09-13T17:46:02.582Z,62.1006,-151.4019,75.9,2.0,ml,,,,0.51,ak,ak024btbifc2,2024-09-13T17:48:20.084Z,"12 km N of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-09-13T01:50:35.390Z,34.26,-117.6108333,4.27,0.65,ml,17.0,82.0,0.1058,0.15,ci,ci40732271,2024-09-13T17:55:02.484Z,"10 km W of Lytle Creek, CA",earthquake,0.27,0.71,0.134,7.0,reviewed,ci,ci
