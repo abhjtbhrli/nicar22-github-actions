@@ -19859,3 +19859,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-13T07:49:50.957Z,21.6136,143.7938,190.411,4.5,mb,50.0,115.0,5.651,0.92,us,us7000ndgn,2024-09-13T08:23:52.040Z,Mariana Islands region,earthquake,11.76,8.461,0.071,58.0,reviewed,us,us
 2024-09-13T00:15:43.830Z,37.5493333333333,-118.816666666667,5.31,0.06,md,8.0,195.0,0.04181,0.04,nc,nc75061166,2024-09-13T08:30:06.906Z,"12 km W of Toms Place, CA",earthquake,1.21,0.99,0.125,9.0,reviewed,nc,nc
 2024-09-12T23:49:20.540Z,35.9923333333333,-121.344,3.3,0.98,md,19.0,127.0,0.07461,0.07,nc,nc75061146,2024-09-13T08:28:36.394Z,"20 km ESE of Lopez Point, CA",earthquake,0.16,0.46,0.15,11.0,reviewed,nc,nc
+2024-09-13T08:40:14.100Z,34.055,-118.8051667,11.47,1.52,ml,49.0,94.0,0.02606,0.25,ci,ci40732479,2024-09-13T08:46:45.337Z,"6 km N of Malibu, CA",earthquake,0.25,0.32,0.188,33.0,automatic,ci,ci
+2024-09-13T08:37:54.160Z,33.8111667,-117.1281667,4.87,0.85,ml,43.0,68.0,0.07848,0.18,ci,ci40732471,2024-09-13T08:44:05.140Z,"2 km ENE of Nuevo, CA",earthquake,0.21,0.42,0.155,23.0,automatic,ci,ci
+2024-09-13T08:23:57.459Z,-35.1626,-179.3358,13.248,5.0,mww,30.0,59.0,3.059,0.96,us,us7000ndgu,2024-09-13T08:43:10.040Z,east of the North Island of New Zealand,earthquake,13.53,5.678,0.075,17.0,reviewed,us,us
