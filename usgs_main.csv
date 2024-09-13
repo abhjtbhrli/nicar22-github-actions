@@ -19907,3 +19907,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-12T18:47:19.760Z,34.3795,-96.84616667,0.0,1.4,ml,46.0,139.0,0.2573494992,0.46,ok,ok2024rzim,2024-09-13T13:05:40.759Z,"3 km SSW of Mill Creek, Oklahoma",quarry blast,,0.6,0.21,15.0,reviewed,ok,ok
 2024-09-13T13:22:08.390Z,33.268,-116.8438333,13.25,0.65,ml,31.0,35.0,0.07811,0.15,ci,ci40732607,2024-09-13T13:28:17.668Z,"8 km WNW of Lake Henshaw, CA",earthquake,0.18,0.51,0.114,16.0,automatic,ci,ci
 2024-09-12T17:34:16.280Z,35.67016667,-96.47333333,19.03,1.16,ml,47.0,73.0,0.1727660974,0.23,ok,ok2024rzgb,2024-09-13T13:33:14.700Z,"8 km SW of Iron Post, Oklahoma",earthquake,,1.0,0.21,20.0,reviewed,ok,ok
+2024-09-13T03:44:59.960Z,47.3578333333333,-113.1235,17.74,2.17,ml,27.0,80.0,0.2773,0.17,mb,mb90061298,2024-09-13T13:43:13.400Z,"33 km NE of Seeley Lake, Montana",earthquake,0.36,1.14,0.197955244045421,24.0,reviewed,mb,mb
+2024-09-12T16:30:33.159Z,36.24483333,-95.802,0.0,1.42,ml,68.0,121.0,0.3338344903,0.45,ok,ok2024rzdy,2024-09-13T13:50:58.584Z,"5 km ESE of Owasso, Oklahoma",quarry blast,,0.4,0.18,23.0,reviewed,ok,ok
