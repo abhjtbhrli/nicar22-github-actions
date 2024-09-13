@@ -19839,3 +19839,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-13T06:11:15.315Z,61.6606,-150.3598,26.9,1.6,ml,,,,0.79,ak,ak024bt4r6ln,2024-09-13T06:12:49.568Z,"15 km NNE of Susitna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-13T05:49:52.500Z,31.443,-103.547,4.6276,1.6,ml,11.0,96.0,0.0,0.5,tx,tx2024saei,2024-09-13T06:00:53.100Z,"5 km WNW of Pecos, Texas",earthquake,0.0,1.73208260536194,0.2,8.0,automatic,tx,tx
 2024-09-13T04:59:32.957Z,23.9065,121.7356,23.768,4.6,mb,51.0,78.0,0.651,0.76,us,us7000ndfw,2024-09-13T06:01:37.040Z,"15 km ESE of Hualien City, Taiwan",earthquake,2.45,5.293,0.096,32.0,reviewed,us,us
+2024-09-13T06:36:27.500Z,33.5108333,-116.5071667,11.96,1.04,ml,62.0,35.0,0.05062,0.17,ci,ci40732447,2024-09-13T06:43:01.731Z,"16 km ESE of Anza, CA",earthquake,0.15,0.32,0.197,27.0,automatic,ci,ci
