@@ -19993,3 +19993,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-13T18:29:54.200Z,31.5125,86.5605,17.731,4.9,mb,116.0,35.0,3.864,0.65,us,us7000ndmh,2024-09-13T19:20:35.040Z,"274 km NNE of Saga, China",earthquake,9.07,4.046,0.051,129.0,reviewed,us,us
 2024-09-13T04:35:08.042Z,62.4238,-150.6703,72.9,1.2,ml,,,,0.4,ak,ak024bt3pfsn,2024-09-13T19:18:28.595Z,"9 km SSE of Petersville, Alaska",earthquake,,1.1,,,reviewed,ak,ak
 2024-09-12T23:41:03.247Z,32.118,-102.188,6.2744,1.1,ml,24.0,79.0,0.0,0.1,tx,tx2024rzse,2024-09-13T19:17:12.556Z,"16 km NW of Midland, Texas",earthquake,0.6547828212631067,0.7462358584754678,0.1,13.0,reviewed,tx,tx
+2024-09-13T19:02:13.137Z,31.724,-104.359,4.0805,1.9,ml,15.0,83.0,0.1,0.2,tx,tx2024sben,2024-09-13T19:26:10.618Z,"50 km S of Whites City, New Mexico",earthquake,0.0,1.3820880651474,0.2,13.0,automatic,tx,tx
+2024-09-13T11:58:10.550Z,33.7481667,-117.9746667,3.23,1.23,ml,11.0,83.0,0.04938,0.2,ci,ci37683828,2024-09-13T19:31:12.449Z,"3 km ESE of Westminster, CA",earthquake,0.35,0.62,0.157,8.0,reviewed,ci,ci
+2024-09-13T00:42:06.670Z,54.122,-165.975,4.11,-1.14,ml,6.0,137.0,0.008471,0.31,av,av93020814,2024-09-13T19:24:38.980Z,"13 km W of Akutan, Alaska",earthquake,1.29,0.88,0.236594985289891,6.0,reviewed,av,av
