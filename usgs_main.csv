@@ -20071,3 +20071,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-13T11:53:09.950Z,53.958,-166.597,9.85,0.7,ml,16.0,139.0,0.0508,0.17,av,av93263478,2024-09-13T23:34:37.420Z,"8 km NNW of Dutch Harbor, Alaska",earthquake,0.5,0.53,0.261830593457339,16.0,reviewed,av,av
 2024-09-13T10:44:25.346Z,40.1078,-119.7322,14.6,0.4,ml,3.0,203.45,0.063,0.047,nn,nn00884652,2024-09-13T23:38:27.039Z,"20 km NNW of Sutcliffe, Nevada",earthquake,,3.9,0.32,2.0,reviewed,nn,nn
 2024-09-13T01:09:37.018Z,40.2619,-118.7422,0.3,1.9,ml,6.0,228.73,0.683,0.0888,nn,nn00884647,2024-09-13T23:29:16.198Z,"24 km WNW of Lovelock, Nevada",explosion,,11.1,0.11,5.0,reviewed,nn,nn
+2024-09-13T12:08:39.430Z,53.9528333333333,-166.594333333333,9.85,0.43,ml,11.0,144.0,0.05357,0.21,av,av93263513,2024-09-13T23:43:40.870Z,"7 km NNW of Dutch Harbor, Alaska",earthquake,0.61,0.72,0.275074330404987,11.0,reviewed,av,av
