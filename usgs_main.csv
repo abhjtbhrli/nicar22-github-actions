@@ -20028,3 +20028,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-13T20:26:35.119Z,36.01166667,-96.53383333,0.0,1.16,ml,24.0,109.0,0.1709664506,0.23,ok,ok2024sbhg,2024-09-13T21:34:57.177Z,"6 km ENE of Drumright, Oklahoma",quarry blast,,0.4,0.21,12.0,reviewed,ok,ok
 2024-09-13T05:52:49.100Z,51.8626666666667,179.5685,9.78,1.31,ml,6.0,278.0,0.03755,0.31,av,av93262773,2024-09-13T21:21:35.350Z,"261 km W of Adak, Alaska",earthquake,1.81,2.15,0.266722211340638,6.0,reviewed,av,av
 2024-09-13T04:05:56.855Z,-24.0213,-66.8655,196.523,4.3,mb,24.0,73.0,2.728,0.64,us,us7000ndfn,2024-09-13T21:18:30.040Z,"59 km WNW of San Antonio de los Cobres, Argentina",earthquake,10.23,10.411,0.168,10.0,reviewed,us,us
+2024-09-13T21:05:01.702Z,31.651,-104.318,4.4557,1.8,ml,17.0,69.0,0.1,0.2,tx,tx2024sbin,2024-09-13T21:33:22.518Z,"58 km S of Whites City, New Mexico",earthquake,0.0,1.45463883876801,0.1,12.0,automatic,tx,tx
