@@ -19957,3 +19957,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-13T16:46:43.940Z,35.9006667,-117.6931667,4.57,0.89,ml,19.0,55.0,0.05855,0.11,ci,ci40732799,2024-09-13T16:52:35.076Z,"20 km ESE of Little Lake, CA",earthquake,0.15,0.32,0.124,11.0,automatic,ci,ci
 2024-09-13T16:46:42.735Z,60.6781,-145.0341,28.4,1.5,ml,,,,0.64,ak,ak024btax2tm,2024-09-13T16:48:56.320Z,"42 km ENE of Cordova, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-09-13T15:20:35.680Z,37.6501666666667,-122.482833333333,8.8,0.95,md,11.0,150.0,0.06544,0.06,nc,nc75061366,2024-09-13T16:48:45.416Z,"4 km SW of Colma, CA",earthquake,0.39,0.57,0.237,7.0,reviewed,nc,nc
+2024-09-13T16:52:26.130Z,34.2328333,-117.5786667,9.73,0.92,ml,9.0,202.0,0.1701,0.14,ci,ci40732815,2024-09-13T17:05:05.557Z,"8 km WSW of Lytle Creek, CA",earthquake,0.61,1.12,0.491,17.0,reviewed,ci,ci
+2024-09-13T10:37:07.860Z,41.5915,-112.401,2.39,1.19,ml,20.0,117.0,0.0891,0.17,uu,uu80082431,2024-09-13T17:14:11.640Z,"14 km SW of Thatcher, Utah",earthquake,0.39,2.44,0.0928345517101568,2.0,reviewed,uu,uu
