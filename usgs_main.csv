@@ -19856,3 +19856,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-13T08:14:32.506Z,57.4431,-155.543,54.3,2.1,ml,,,,0.56,ak,ak024bt5yqaa,2024-09-13T08:18:11.665Z,"66 km WSW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-09-13T08:12:30.000Z,33.5796667,-116.807,9.52,0.77,ml,43.0,34.0,0.03845,0.14,ci,ci40732463,2024-09-13T08:18:38.634Z,"13 km WNW of Anza, CA",earthquake,0.14,0.32,0.215,23.0,automatic,ci,ci
 2024-09-12T18:09:13.490Z,36.9993333333333,-119.804666666667,-0.38,1.91,md,6.0,149.0,0.078,0.02,nc,nc75060996,2024-09-13T08:19:33.907Z,"6 km E of Bonadelle Ranchos-Madera Ranchos, CA",quarry blast,0.64,31.61,0.169,9.0,reviewed,nc,nc
+2024-09-13T07:49:50.957Z,21.6136,143.7938,190.411,4.5,mb,50.0,115.0,5.651,0.92,us,us7000ndgn,2024-09-13T08:23:52.040Z,Mariana Islands region,earthquake,11.76,8.461,0.071,58.0,reviewed,us,us
+2024-09-13T00:15:43.830Z,37.5493333333333,-118.816666666667,5.31,0.06,md,8.0,195.0,0.04181,0.04,nc,nc75061166,2024-09-13T08:30:06.906Z,"12 km W of Toms Place, CA",earthquake,1.21,0.99,0.125,9.0,reviewed,nc,nc
+2024-09-12T23:49:20.540Z,35.9923333333333,-121.344,3.3,0.98,md,19.0,127.0,0.07461,0.07,nc,nc75061146,2024-09-13T08:28:36.394Z,"20 km ESE of Lopez Point, CA",earthquake,0.16,0.46,0.15,11.0,reviewed,nc,nc
