@@ -19842,3 +19842,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-13T06:36:27.500Z,33.5108333,-116.5071667,11.96,1.04,ml,62.0,35.0,0.05062,0.17,ci,ci40732447,2024-09-13T06:43:01.731Z,"16 km ESE of Anza, CA",earthquake,0.15,0.32,0.197,27.0,automatic,ci,ci
 2024-09-13T06:43:03.970Z,19.3754997253418,-155.161834716797,2.70000004768372,1.76,ml,17.0,139.0,0.008065,0.129999995,hv,hv74455756,2024-09-13T06:45:55.930Z,"10 km SSW of Fern Forest, Hawaii",earthquake,1.03,0.620000005,0.28,6.0,automatic,hv,hv
 2024-09-13T06:33:49.388Z,4.5327,126.5069,79.356,5.1,mb,72.0,80.0,2.684,1.12,us,us7000ndg9,2024-09-13T06:50:46.040Z,"150 km SE of Sarangani, Philippines",earthquake,8.4,6.636,0.067,73.0,reviewed,us,us
+2024-09-13T06:53:33.529Z,60.6846,-150.9708,40.1,1.9,ml,,,,0.38,ak,ak024bt5082w,2024-09-13T06:55:44.661Z,"17 km E of Nikiski, Alaska",earthquake,,1.2,,,automatic,ak,ak
