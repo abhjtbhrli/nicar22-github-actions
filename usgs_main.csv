@@ -20029,3 +20029,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-13T05:52:49.100Z,51.8626666666667,179.5685,9.78,1.31,ml,6.0,278.0,0.03755,0.31,av,av93262773,2024-09-13T21:21:35.350Z,"261 km W of Adak, Alaska",earthquake,1.81,2.15,0.266722211340638,6.0,reviewed,av,av
 2024-09-13T04:05:56.855Z,-24.0213,-66.8655,196.523,4.3,mb,24.0,73.0,2.728,0.64,us,us7000ndfn,2024-09-13T21:18:30.040Z,"59 km WNW of San Antonio de los Cobres, Argentina",earthquake,10.23,10.411,0.168,10.0,reviewed,us,us
 2024-09-13T21:05:01.702Z,31.651,-104.318,4.4557,1.8,ml,17.0,69.0,0.1,0.2,tx,tx2024sbin,2024-09-13T21:33:22.518Z,"58 km S of Whites City, New Mexico",earthquake,0.0,1.45463883876801,0.1,12.0,automatic,tx,tx
+2024-09-13T21:39:23.800Z,39.2960014343262,-123.219665527344,5.98000001907349,1.16,md,7.0,104.0,0.1051,0.03,nc,nc75061481,2024-09-13T21:41:01.145Z,"4 km  of Redwood Valley, CA",earthquake,0.39,1.80999994,0.07,4.0,automatic,nc,nc
+2024-09-13T21:21:11.125Z,13.1479,-89.893,47.612,4.9,mww,177.0,137.0,0.663,1.15,us,us7000ndnm,2024-09-13T21:46:29.989Z,"49 km S of Acajutla, El Salvador",earthquake,5.83,6.007,0.061,26.0,reviewed,us,us
+2024-09-13T17:32:15.692Z,41.2202,78.3458,13.745,4.4,mb,58.0,128.0,0.651,0.97,us,us7000ndlx,2024-09-13T21:45:42.040Z,"127 km SSE of Kyzyl-Suu, Kyrgyzstan",earthquake,4.06,4.479,0.083,44.0,reviewed,us,us
