@@ -20032,3 +20032,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-13T21:39:23.800Z,39.2960014343262,-123.219665527344,5.98000001907349,1.16,md,7.0,104.0,0.1051,0.03,nc,nc75061481,2024-09-13T21:41:01.145Z,"4 km  of Redwood Valley, CA",earthquake,0.39,1.80999994,0.07,4.0,automatic,nc,nc
 2024-09-13T21:21:11.125Z,13.1479,-89.893,47.612,4.9,mww,177.0,137.0,0.663,1.15,us,us7000ndnm,2024-09-13T21:46:29.989Z,"49 km S of Acajutla, El Salvador",earthquake,5.83,6.007,0.061,26.0,reviewed,us,us
 2024-09-13T17:32:15.692Z,41.2202,78.3458,13.745,4.4,mb,58.0,128.0,0.651,0.97,us,us7000ndlx,2024-09-13T21:45:42.040Z,"127 km SSE of Kyzyl-Suu, Kyrgyzstan",earthquake,4.06,4.479,0.083,44.0,reviewed,us,us
+2024-09-13T21:51:14.148Z,38.292,-118.3828,3.1,1.8,ml,14.0,164.61,0.326,0.2024,nn,nn00884642,2024-09-13T21:54:24.659Z,"26 km WSW of Mina, Nevada",earthquake,,2.0,0.28,8.0,automatic,nn,nn
