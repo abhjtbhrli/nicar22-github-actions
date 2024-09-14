@@ -20140,3 +20140,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-14T04:43:16.517Z,62.1501,-148.1117,34.6,1.5,ml,,,,0.39,ak,ak024buraiw3,2024-09-14T04:44:41.321Z,"43 km NNE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-09-14T04:37:05.014Z,28.524,-98.438,5.4303,2.5,ml,27.0,85.0,0.1,0.7,tx,tx2024sbxm,2024-09-14T04:50:37.040Z,"12 km ENE of Tilden, Texas",earthquake,0.0,1.82638153667767,0.1,21.0,automatic,tx,tx
 2024-09-13T19:10:56.680Z,53.9515,-166.622333333333,9.31,-0.36,ml,7.0,272.0,0.03852,0.13,av,av93263968,2024-09-14T04:48:33.550Z,"8 km NW of Dutch Harbor, Alaska",earthquake,0.62,0.62,0.20477342967836,7.0,reviewed,av,av
+2024-09-14T05:00:17.360Z,19.3463325500488,-155.136993408203,3.99000000953674,1.8,ml,40.0,116.0,0.03985,0.230000004,hv,hv74458611,2024-09-14T05:03:11.400Z,"13 km S of Fern Forest, Hawaii",earthquake,0.48,1.63999999,1.37,3.0,automatic,hv,hv
+2024-09-14T04:50:30.750Z,35.0885,-119.1055,11.64,1.03,ml,19.0,127.0,0.03474,0.21,ci,ci40733327,2024-09-14T04:56:48.339Z,"23 km NW of Grapevine, CA",earthquake,0.5,0.62,0.1,13.0,automatic,ci,ci
+2024-09-14T03:08:01.343Z,11.0748,138.7083,10.0,4.7,mb,28.0,126.0,13.645,0.7,us,us7000ndqz,2024-09-14T05:00:03.040Z,"183 km NNE of Colonia, Micronesia",earthquake,14.81,1.894,0.104,28.0,reviewed,us,us
+2024-09-13T19:56:00.740Z,52.3245,-174.145333333333,5.51,0.97,ml,5.0,255.0,0.03499,0.13,av,av93264023,2024-09-14T05:03:08.250Z,"14 km NNE of Atka, Alaska",earthquake,0.71,0.85,0.309305396645268,5.0,reviewed,av,av
