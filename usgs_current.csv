@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-10-05T15:14:22.170Z,33.5228333,-116.7298333,3.55,0.23,ml,19,67,0.04291,0.08,ci,ci40752351,2024-10-05T15:20:27.370Z,"6 km SW of Anza, CA",earthquake,0.17,0.34,0.082,6,automatic,ci,ci
 2024-10-05T15:04:52.730Z,19.1653327941895,-155.479507446289,32.0499992370605,1.97000003,md,47,100,0.01918,0.140000001,hv,hv74489077,2024-10-05T15:06:27.050Z,"4 km S of Pāhala, Hawaii",earthquake,0.4,0.560000002,0.219999999,9,automatic,hv,hv
 2024-10-05T15:00:49.898Z,31.639,-104.006,5.9073,1.8,ml,16,44,0,0.3,tx,tx2024tpbt,2024-10-05T15:14:45.795Z,"39 km W of Mentone, Texas",earthquake,0,2.53494811058044,0.1,12,automatic,tx,tx
 2024-10-05T14:44:54.780Z,33.948,-118.3021667,13.43,1.43,ml,19,154,0.1127,0.22,ci,ci40752335,2024-10-05T14:52:00.793Z,"4 km ESE of Inglewood, CA",earthquake,0.52,1.07,0.269,34,automatic,ci,ci
