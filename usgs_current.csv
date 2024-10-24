@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-10-24T23:34:06.910Z,36.1818333,-117.319,-1,1.39,ml,18,241,0.2383,0.19,ci,ci40963840,2024-10-24T23:40:38.163Z,"47 km N of Searles Valley, CA",earthquake,2.63,2.81,0.26,10,automatic,ci,ci
+2024-10-24T23:28:20.411Z,-16.1652,-173.9707,93.856,5.1,mb,88,44,3.083,0.95,us,us7000nn19,2024-10-24T23:50:05.040Z,"29 km SW of Hihifo, Tonga",earthquake,9.33,4.868,0.028,422,reviewed,us,us
 2024-10-24T23:27:13.620Z,35.6538333,-117.4698333,7.44,0.53,ml,20,52,0.03921,0.15,ci,ci40963824,2024-10-24T23:33:12.018Z,"14 km SSW of Searles Valley, CA",earthquake,0.28,0.52,0.105,4,automatic,ci,ci
 2024-10-24T22:52:20.310Z,34.4448333,-117.9375,9.91,0.88,ml,14,126,0.01536,0.1,ci,ci40963776,2024-10-24T23:25:34.037Z,"7 km SSW of Pearblossom, CA",earthquake,0.21,0.29,0.283,21,reviewed,ci,ci
 2024-10-24T22:24:08.310Z,36.5998333,-117.0983333,4.34,3.07,ml,23,146,0.4502,0.14,ci,ci40963760,2024-10-24T23:43:00.141Z,"4 km E of Stovepipe Wells, CA",earthquake,0.38,31.61,0.179,113,reviewed,ci,ci
@@ -282,4 +283,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-24T00:09:21.390Z,36.4235,-92.761,4.72,1.89,md,9,123,0.1003,0.12,nm,nm60502643,2024-10-24T15:07:17.450Z,"13 km ENE of South Lead Hill, Arkansas",earthquake,0.58,2.04,0.080485932232239,8,reviewed,nm,nm
 2024-10-24T00:07:01.140Z,33.7098333,-116.7501667,15.48,0.78,ml,37,69,0.03004,0.12,ci,ci40962480,2024-10-24T14:38:06.474Z,"4 km SW of Idyllwild, CA",earthquake,0.16,0.26,0.195,25,reviewed,ci,ci
 2024-10-24T00:03:11.808Z,63.5447,-151.9824,0,1.7,ml,,,,0.99,ak,ak024dou637w,2024-10-24T00:05:20.421Z,"12 km W of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-10-23T23:54:58.959Z,61.5674,-146.3517,36.3,1.4,ml,,,,1.04,ak,ak024dnkmqsn,2024-10-23T23:57:22.508Z,"48 km N of Valdez, Alaska",earthquake,,1.8,,,automatic,ak,ak
