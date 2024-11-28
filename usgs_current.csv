@@ -17,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-28T01:30:00.190Z,34.0928333,-118.183,10.91,1.37,ml,31,46,0.03368,0.15,ci,ci40989144,2024-11-28T01:34:45.028Z,"3 km SSE of Highland Park, CA",earthquake,0.22,0.35,0.25,34,automatic,ci,ci
 2024-11-28T01:18:07.886Z,62.7949,-152.2603,100.7,1.7,ml,,,,0.81,ak,ak024faqnvk7,2024-11-28T01:26:24.577Z,"83 km WNW of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-11-28T01:01:02.990Z,32.9856667,-116.3173333,5.62,0.92,ml,30,52,0.07964,0.17,ci,ci40989128,2024-11-28T01:04:45.862Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.22,0.86,0.188,14,automatic,ci,ci
-2024-11-28T00:19:14.590Z,19.388166666667,-155.24683333333,1.82,3.14,ml,32,60,0.004984,0.1,hv,hv74544237,2024-11-28T01:55:20.941Z,"6 km SSW of Volcano, Hawaii",earthquake,0.14,0.13,0.56739569481175,25,reviewed,hv,hv
+2024-11-28T00:19:14.590Z,19.388166666667,-155.24683333333,1.82,3.14,ml,32,60,0.004984,0.1,hv,hv74544237,2024-11-28T03:45:21.025Z,"6 km SSW of Volcano, Hawaii",earthquake,0.14,0.13,0.56739569481175,25,reviewed,hv,hv
 2024-11-28T00:15:44.534Z,-21.2725,-67.8414,197.06,4.1,mb,20,98,1.404,0.94,us,us7000nulz,2024-11-28T00:37:48.040Z,"43 km E of Ollagüe, Chile",earthquake,9.46,10.568,0.184,8,reviewed,us,us
 2024-11-28T00:15:37.896Z,38.1755,-117.8159,12.4,3,ml,13,97.07,0.13,0.2045,nn,nn00888048,2024-11-28T02:52:14.261Z,"35 km SE of Mina, Nevada",earthquake,,0.9,0.41,5,reviewed,nn,nn
 2024-11-28T00:10:30.430Z,31.641,-104.386,3.9462,1.7,ml,16,90,0,0.3,tx,tx2024xipl,2024-11-28T00:17:55.367Z,"59 km S of Whites City, New Mexico",earthquake,0,1.3933392763138,0.2,13,automatic,tx,tx
