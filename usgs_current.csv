@@ -206,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-27T23:55:53.405Z,63.1731,-142.8668,0.3,1.4,ml,,,,0.53,ak,ak024f9gg3g7,2024-11-27T23:58:19.997Z,"17 km WNW of Tetlin, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-11-27T23:54:35.692Z,60.9029,-146.8758,21.2,1.5,ml,,,,0.42,ak,ak024f9gfua9,2024-11-27T23:56:46.997Z,"11 km WNW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-11-27T23:53:11.519Z,36.6312,-115.7261,7.7,0.9,ml,34,143.07,0.192,0.0949,nn,nn00888045,2024-11-28T01:00:45.715Z,"8 km NW of Indian Springs, Nevada",earthquake,,1.6,0.32,15,reviewed,nn,nn
-2024-11-27T23:52:13.340Z,38.792835235596,-122.77866363525,2.7400000095367,1.1,md,21,78,0.00724,0.03,nc,nc75091886,2024-11-28T03:34:28.661Z,"3 km NW of The Geysers, CA",earthquake,0.27,0.519999981,0.15,21,automatic,nc,nc
