@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-24T15:53:40.258Z,60.3918,-151.8921,69.8,1.6,ml,,,,0.53,ak,ak024ghz6jex,2024-12-24T15:55:05.873Z,"32 km W of Cohoe, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-12-24T15:50:15.290Z,38.834999084473,-122.8004989624,2.2200000286102,1.09,md,11,78,0.008631,0.02,nc,nc75107391,2024-12-24T15:51:52.114Z,"7 km WNW of Cobb, CA",earthquake,0.33,0.879999995,0.29,14,automatic,nc,nc
 2024-12-24T15:38:30.640Z,36.596000671387,-121.23899841309,4.9400000572205,2.66,md,45,40,0.04949,0.23,nc,nc75107386,2024-12-24T15:47:17.476Z,"11 km NW of Pinnacles, CA",earthquake,0.3,1.17999995,0.11,47,automatic,nc,nc
 2024-12-24T15:37:45.981Z,60.6846,-151.2097,51.5,1.9,ml,,,,0.47,ak,ak024ghz34ee,2024-12-24T15:39:14.166Z,"4 km E of Nikiski, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-12-24T15:34:46.150Z,38.799331665039,-122.81033325195,3.3599998950958,0.77,md,16,71,0.01237,0.02,nc,nc75107381,2024-12-24T15:36:20.707Z,"5 km NW of The Geysers, CA",earthquake,0.38,0.579999983,0.35,15,automatic,nc,nc
@@ -49,7 +51,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-24T08:09:00.681Z,60.0436,-152.1526,65.5,1.7,ml,,,,0.29,ak,ak024ghuqzmc,2024-12-24T08:11:33.461Z,"25 km WNW of Happy Valley, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-12-24T07:59:53.730Z,38.837833404541,-122.78583526611,0.89999997615814,0.95,md,7,116,0.003568,0.01,nc,nc75107291,2024-12-24T08:01:32.059Z,"6 km WNW of Cobb, CA",earthquake,0.84,1.55999994,0.21,8,automatic,nc,nc
 2024-12-24T07:57:50.060Z,33.163,-116.0288333,7.87,1.06,ml,50,53,0.1169,0.22,ci,ci40827927,2024-12-24T08:08:40.030Z,"10 km ENE of Ocotillo Wells, CA",earthquake,0.21,0.75,0.134,26,automatic,ci,ci
-2024-12-24T07:40:23.930Z,37.342834472656,-118.53182983398,5.1500000953674,2.88,ml,56,74,0.2279,0.12,nc,nc75107286,2024-12-24T15:31:58.403Z,"7 km W of West Bishop, CA",earthquake,0.28,2.53999996,0.305,26,automatic,nc,nc
+2024-12-24T07:40:23.930Z,37.342834472656,-118.53182983398,5.1500000953674,2.88,ml,56,74,0.2279,0.12,nc,nc75107286,2024-12-24T15:56:56.662Z,"7 km W of West Bishop, CA",earthquake,0.28,2.53999996,0.305,26,automatic,nc,nc
 2024-12-24T07:36:13.150Z,18.1778,-68.4606,84,3.82,md,20,184,1.3164,0.34,pr,pr2024359000,2024-12-24T08:07:07.867Z,"27 km SE of Boca de Yuma, Dominican Republic",earthquake,1.82,2.02,0.04,13,reviewed,pr,pr
 2024-12-24T07:35:45.593Z,36.6984,-116.3012,6.2,0.5,ml,17,126.01,0.061,0.1097,nn,nn00890470,2024-12-24T07:37:40.228Z,"47 km ESE of Beatty, Nevada",earthquake,,1.1,0.32,9,automatic,nn,nn
 2024-12-24T07:33:03.189Z,63.1951,-150.2835,79.5,2.2,ml,,,,0.67,ak,ak024ghuapcw,2024-12-24T07:34:56.633Z,"70 km WSW of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
