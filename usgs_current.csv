@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-01-26T07:29:33.590Z,38.797668457031,-122.81433105469,2.8099999427795,1.94,md,37,65,0.01282,0.04,nc,nc75123176,2025-01-26T07:31:10.558Z,"6 km NW of The Geysers, CA",earthquake,0.19,0.340000004,0.17,41,automatic,nc,nc
+2025-01-26T07:32:36.420Z,38.798332214355,-122.81483459473,3.9300000667572,0.44,md,7,116,0.01358,0.01,nc,nc75123186,2025-01-26T07:34:15.252Z,"6 km NW of The Geysers, CA",earthquake,1.11,1.82000005,0.19,8,automatic,nc,nc
+2025-01-26T07:29:33.590Z,38.797668457031,-122.81433105469,2.8099999427795,1.94,md,37,65,0.01282,0.04,nc,nc75123176,2025-01-26T07:32:57.240Z,"6 km NW of The Geysers, CA",earthquake,0.19,0.340000004,0.17,41,automatic,nc,nc
 2025-01-26T07:15:40.960Z,34.5248333,-117.1388333,7.48,1.03,ml,5,234,0.312,0.07,ci,ci40851463,2025-01-26T07:19:45.834Z,"5 km ENE of Apple Valley, CA",earthquake,0.83,7,0.214,7,automatic,ci,ci
 2025-01-26T07:12:45.420Z,33.3946667,-116.373,2.05,1.14,ml,63,28,0.06206,0.23,ci,ci40851455,2025-01-26T07:16:46.953Z,"15 km N of Borrego Springs, CA",earthquake,0.17,0.33,0.162,27,automatic,ci,ci
 2025-01-26T07:07:04.521Z,63.8687,-145.5401,16.3,1.4,ml,,,,0.67,ak,ak0251746kfo,2025-01-26T07:08:52.775Z,"8 km SSE of Fort Greely, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -108,7 +109,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-25T16:40:07.840Z,35.9221667,-117.6823333,2.34,0.4,ml,10,90,0.03649,0.12,ci,ci40851127,2025-01-25T16:43:32.334Z,"20 km E of Little Lake, CA",earthquake,0.33,0.38,0.126,7,automatic,ci,ci
 2025-01-25T16:38:49.552Z,31.628,-104.452,2.5633,1.9,ml,15,105,0,0.5,tx,tx2025btda,2025-01-25T17:02:38.293Z,"61 km S of Whites City, New Mexico",earthquake,0,1.684858083725,0.1,12,automatic,tx,tx
 2025-01-25T16:37:59.252Z,37.4131,-117.2679,2.3,1.1,ml,14,285.45,0.113,0.4592,nn,nn00892506,2025-01-25T16:40:23.310Z,"32 km S of Goldfield, Nevada",earthquake,,2.8,0.37,9,automatic,nn,nn
-2025-01-25T16:37:15.690Z,38.0733,-118.5094,11.4,1.8,ml,10,108.56,0.513,0.2204,nn,nn00892505,2025-01-25T16:40:12.168Z,"28 km N of Benton, California",earthquake,,0.8,0.56,6,automatic,nn,nn
+2025-01-25T16:37:13.180Z,37.917166666667,-118.557,6.43,1.5,md,21,113,0.1972,0.08,nc,nc75122861,2025-01-26T07:41:58.290Z,"41 km NNE of Toms Place, CA",earthquake,0.47,2.2,0.069,14,reviewed,nc,nc
 2025-01-25T16:31:58.909Z,62.1511,-152.076,108.6,1.6,ml,,,,0.34,ak,ak02515m5drm,2025-01-25T16:33:46.981Z,"39 km WNW of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-01-25T16:30:54.980Z,34.043,-116.643,11.59,2.29,ml,81,20,0.006072,0.17,ci,ci40851119,2025-01-25T16:41:31.840Z,"6 km W of Morongo Valley, CA",earthquake,0.12,0.37,0.235,25,automatic,ci,ci
 2025-01-25T16:20:49.342Z,31.795,-103.753,7.443,1.7,ml,16,198,0.1,0.3,tx,tx2025btcj,2025-01-25T16:25:11.664Z,"17 km NW of Mentone, Texas",earthquake,0,3.718780040741,0.2,12,automatic,tx,tx
