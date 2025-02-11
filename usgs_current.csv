@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-11T03:36:27.573Z,39.1525,-119.0524,7.8,1.1,ml,9,131.04,0.019,0.0839,nn,nn00893268,2025-02-11T03:38:44.813Z,"20 km NNE of Yerington, Nevada",earthquake,,0.7,0.33,4,automatic,nn,nn
 2025-02-11T03:15:38.490Z,38.828498840332,-122.82150268555,1.75,0.27,md,8,115,0.01028,0.01,nc,nc75131517,2025-02-11T03:17:16.648Z,"8 km NNW of The Geysers, CA",earthquake,0.42,1.04999995,0.15,8,automatic,nc,nc
 2025-02-11T03:00:00.870Z,38.822334289551,-122.84366607666,2.2599999904633,1.25,md,26,103,0.01155,0.02,nc,nc75131512,2025-02-11T03:01:38.049Z,"9 km NW of The Geysers, CA",earthquake,0.21,0.360000014,0.14,27,automatic,nc,nc
 2025-02-11T02:50:55.710Z,33.6555,-116.737,14.91,0.53,ml,24,57,0.06208,0.16,ci,ci40184018,2025-02-11T02:55:20.679Z,"10 km S of Idyllwild, CA",earthquake,0.28,0.52,0.193,12,automatic,ci,ci
@@ -162,8 +163,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-10T11:23:17.621Z,36.6826,25.6831,10,4.8,mb,57,58,1.533,0.92,us,us7000pcmg,2025-02-10T20:24:32.273Z,"25 km SW of Amorgós, Greece",earthquake,5.66,1.86,0.069,65,reviewed,us,us
 2025-02-10T11:22:59.286Z,36.7615,-116.2406,5.2,-0.5,ml,10,96.35,0.041,0.0647,nn,nn00893176,2025-02-10T11:25:00.104Z,"49 km ESE of Beatty, Nevada",earthquake,,1.4,0.57,4,automatic,nn,nn
 2025-02-10T11:17:27.966Z,-7.092,155.062,10,5,mb,32,126,4.077,0.83,us,us7000pcmf,2025-02-10T12:05:02.040Z,"97 km SSW of Panguna, Papua New Guinea",earthquake,11.31,1.911,0.127,21,reviewed,us,us
+2025-02-10T11:14:06.664Z,36.6503,-116.2725,6.8,-0.2,ml,8,195.97,0.054,0.0699,nn,nn00893269,2025-02-11T03:46:40.237Z,"52 km ESE of Beatty, Nevada",earthquake,,2.3,0,1,reviewed,nn,nn
 2025-02-10T11:13:16.870Z,38.820167541504,-122.84216308594,2.329999923706,0.75,md,15,77,0.006302,0.02,nc,nc75131127,2025-02-10T11:14:52.269Z,"9 km NW of The Geysers, CA",earthquake,0.27,0.600000024,0.19,15,automatic,nc,nc
-2025-02-10T11:11:16.114Z,36.6429,-116.2737,9.3,-0.1,ml,12,179.86,0.052,0.1575,nn,nn00893175,2025-02-10T11:13:10.295Z,"52 km SE of Beatty, Nevada",earthquake,,1.1,0.3,4,automatic,nn,nn
+2025-02-10T11:11:16.863Z,36.6575,-116.2713,7,-0.1,ml,24,158.92,0.056,0.0802,nn,nn00893175,2025-02-11T03:43:32.780Z,"51 km ESE of Beatty, Nevada",earthquake,,0.9,0.2,4,reviewed,nn,nn
 2025-02-10T11:05:49.191Z,64.8486,-149.0614,14.4,1.1,ml,,,,0.58,ak,ak0251vzm69z,2025-02-11T01:37:17.749Z,"27 km N of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-02-10T11:04:17.040Z,38.821166666667,-122.85383333333,2.89,0.28,md,29,93,0.006797,0.02,nc,nc75131122,2025-02-10T21:50:20.912Z,"10 km NW of The Geysers, CA",earthquake,0.16,0.36,0.221,27,reviewed,nc,nc
 2025-02-10T11:00:30.030Z,38.792835235596,-122.77799987793,1.460000038147,0.75,md,9,102,0.007758,0.03,nc,nc75131117,2025-02-10T11:02:07.262Z,"3 km NW of The Geysers, CA",earthquake,0.39,0.74000001,0.07,10,automatic,nc,nc
