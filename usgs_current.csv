@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-03-22T14:49:15.390Z,33.7885017,-116.0788345,0.88,1.17,ml,23,105,0.1191,0.24,ci,ci40907183,2025-03-22T14:51:22.436Z,"15 km ENE of Indio, CA",earthquake,0.34,0.64,0.207,8,automatic,ci,ci
+2025-03-22T14:51:14.000Z,38.837665557861,-122.80233001709,2.2200000286102,0.7,md,8,114,0.00939,0.01,nc,nc75153232,2025-03-22T14:52:50.833Z,"7 km WNW of Cobb, CA",earthquake,0.52,1.37,0.42,8,automatic,nc,nc
+2025-03-22T14:49:15.400Z,33.7866667,-116.0763333,1.67,1.1,ml,39,86,0.1213,0.17,ci,ci40907183,2025-03-22T14:53:36.510Z,"15 km ENE of Indio, CA",earthquake,0.17,0.29,0.122,27,automatic,ci,ci
 2025-03-22T14:37:42.790Z,17.987333333333,-66.8405,16.24,2.62,md,12,165,0.03036,0.15,pr,pr71477148,2025-03-22T14:49:04.390Z,"2 km WSW of Indios, Puerto Rico",earthquake,0.46,0.64,0.20930257801727,7,reviewed,pr,pr
 2025-03-22T14:28:12.090Z,17.977666666667,-66.8075,15.47,2.29,md,7,197,0.06835,0.07,pr,pr71477143,2025-03-22T14:42:07.560Z,"2 km SE of Indios, Puerto Rico",earthquake,0.47,0.79,0.098010307976309,6,reviewed,pr,pr
 2025-03-22T14:20:08.671Z,31.607,-104.341,4.7752,2.4,ml,18,80,0.1,0.2,tx,tx2025frgq,2025-03-22T14:30:37.668Z,"61 km WNW of Toyah, Texas",earthquake,0,1.5044889450073,0.2,14,automatic,tx,tx
@@ -196,7 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-21T15:12:39.714Z,51.2629,-176.1501,37.501,4.6,mb,54,181,0.621,0.55,us,us7000plm0,2025-03-21T16:20:14.259Z,"75 km SSE of Adak, Alaska",earthquake,5.19,7.867,0.063,75,reviewed,us,us
 2025-03-21T15:08:57.545Z,51.1297,-176.0209,35,3.2,ml,13,254,0.772,0.64,us,us7000plm3,2025-03-22T13:05:47.040Z,"93 km SSE of Adak, Alaska",earthquake,5.73,2.02,0.128,8,reviewed,us,us
 2025-03-21T15:03:21.433Z,51.0362,-175.9569,11.499,5,mb,47,182,0.873,0.77,us,us7000pllz,2025-03-21T16:10:08.336Z,"104 km SSE of Adak, Alaska",earthquake,4.31,5.212,0.103,30,reviewed,us,us
-2025-03-21T14:58:26.528Z,51.1207,-176.0236,18.533,5.7,mb,100,70,0.78,0.77,us,us7000pllx,2025-03-21T19:37:30.040Z,"93 km SSE of Adak, Alaska",earthquake,5.03,4.5,0.034,320,reviewed,us,us
-2025-03-21T14:54:47.950Z,33.4581667,-116.6136667,9.29,0.79,ml,34,40,0.02558,0.17,ci,ci40906231,2025-03-21T15:02:29.007Z,"12 km SSE of Anza, CA",earthquake,0.21,0.45,0.215,20,automatic,ci,ci
-2025-03-21T14:53:41.330Z,51.1704,-176.1424,17,6.2,mww,131,55,0.712,0.93,us,us7000pllu,2025-03-22T09:03:43.025Z,"85 km SSE of Adak, Alaska",earthquake,3.64,1.826,0.035,78,reviewed,us,us
-2025-03-21T14:53:32.430Z,33.4566667,-116.6213333,8.82,0.93,ml,47,39,0.01932,0.17,ci,ci40906223,2025-03-21T20:53:30.360Z,"12 km SSE of Anza, CA",earthquake,0.16,0.36,0.172,27,reviewed,ci,ci
