@@ -20,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-30T21:42:25.740Z,38.822834014893,-122.80383300781,2.7599999904633,0.71,md,7,83,0.004907,0.01,nc,nc75157832,2025-03-30T21:44:32.095Z,"7 km NNW of The Geysers, CA",earthquake,0.91,2.25999999,0.07,9,automatic,nc,nc
 2025-03-30T21:16:15.161Z,36.7921,-115.9045,5.8,1.1,ml,27,126.47,0.032,0.2367,nn,nn00895416,2025-03-30T21:18:37.326Z,"32 km NW of Indian Springs, Nevada",earthquake,,0.5,0.28,17,automatic,nn,nn
 2025-03-30T21:08:37.250Z,33.3785,-116.9751667,8.57,1.33,ml,58,21,0.04856,0.23,ci,ci40913183,2025-03-30T21:19:40.960Z,"10 km E of Pala, CA",earthquake,0.18,0.54,0.141,26,automatic,ci,ci
-2025-03-30T21:05:03.399Z,64.9454,-147.5834,16.2,3.2,ml,,,,0.79,ak,ak02543jd2i5,2025-03-30T23:52:34.300Z,"2 km SE of Fox, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2025-03-30T21:05:03.399Z,64.9454,-147.5834,16.2,3.2,ml,,,,0.79,ak,ak02543jd2i5,2025-03-31T00:01:21.718Z,"2 km SE of Fox, Alaska",earthquake,,0.1,,,reviewed,ak,ak
 2025-03-30T21:03:49.333Z,59.8881,-152.9839,115.8,1.8,ml,,,,0.28,ak,ak02543jcqmv,2025-03-30T21:10:27.716Z,"63 km E of Pedro Bay, Alaska",earthquake,,2.9,,,automatic,ak,ak
 2025-03-30T20:59:45.066Z,31.649,-104.286,4.8649,1.6,ml,18,68,0,0.4,tx,tx2025ggjv,2025-03-30T21:13:39.121Z,"59 km S of Whites City, New Mexico",earthquake,0,1.2652196884155,0.1,13,automatic,tx,tx
 2025-03-30T20:59:21.237Z,61.0727,-152.3883,109.9,0.5,ml,,,,0.23,ak,ak02543j38xn,2025-03-30T21:01:08.319Z,"67 km W of Tyonek, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -216,4 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-30T00:28:46.070Z,37.6985,-122.528,9.24,1.13,md,23,171,0.03981,0.06,nc,nc75157487,2025-03-30T04:45:26.199Z,"4 km SW of San Francisco Zoo, CA",earthquake,0.37,0.59,0.225,16,reviewed,nc,nc
 2025-03-30T00:15:16.734Z,38.1738,-117.9325,2.6,2.6,ml,35,86.36,0.048,0.4942,nn,nn00895348,2025-03-30T00:30:40.040Z,"28 km SSE of Mina, Nevada",earthquake,,0.9,0.27,17,automatic,nn,nn
 2025-03-30T00:14:33.791Z,63.7946,-148.8376,40.3,0.9,ml,,,,0.9,ak,ak025436wy2n,2025-03-30T00:16:49.714Z,"7 km NNE of Denali Park, Alaska",earthquake,,1.9,,,automatic,ak,ak
-2025-03-30T00:00:45.500Z,38.78783416748,-122.749168396,3.4100000858307,1.05,md,17,82,0.01075,0.03,nc,nc75157477,2025-03-30T00:02:53.025Z,"1 km NE of The Geysers, CA",earthquake,0.31,0.670000017,0.26,17,automatic,nc,nc
