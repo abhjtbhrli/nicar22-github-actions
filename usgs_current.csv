@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-04-17T12:00:02.890Z,38.833667755127,-122.78283691406,-0.03999999910593,0.28,md,8,74,0.01024,0.02,nc,nc75166951,2025-04-17T12:01:39.671Z,"5 km WNW of Cobb, CA",earthquake,0.3,0.910000026,0.12,8,automatic,nc,nc
+2025-04-17T11:56:42.170Z,33.4701667,-116.5551667,11.38,0.74,ml,29,48,0.0463,0.14,ci,ci40931095,2025-04-17T12:00:24.839Z,"14 km SE of Anza, CA",earthquake,0.18,0.46,0.218,23,automatic,ci,ci
 2025-04-17T11:46:10.450Z,35.2421667,-118.5211667,7.05,1.37,ml,27,50,0.09565,0.14,ci,ci40931087,2025-04-17T11:49:41.772Z,"14 km NNW of Tehachapi, CA",earthquake,0.2,0.46,0.219,27,automatic,ci,ci
 2025-04-17T11:35:33.060Z,38.819667816162,-122.84700012207,2.3800001144409,0.88,md,9,93,0.009964,0.02,nc,nc75166926,2025-04-17T11:37:08.958Z,"9 km NW of The Geysers, CA",earthquake,0.43,0.819999993,0.2,13,automatic,nc,nc
 2025-04-17T11:22:42.090Z,38.798667907715,-122.78283691406,3.170000076294,0.59,md,6,137,0.006768,0.01,nc,nc75166921,2025-04-17T11:24:19.715Z,"3 km NNW of The Geysers, CA",earthquake,0.54,1.75,0.18,7,automatic,nc,nc
@@ -220,4 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-16T12:17:36.650Z,34.3073333,-119.116,3.35,1.55,ml,16,187,0.05873,0.33,ci,ci40929903,2025-04-16T12:21:29.135Z,"7 km SW of Santa Paula, CA",earthquake,1.73,1,0.242,30,automatic,ci,ci
 2025-04-16T12:06:08.940Z,38.788501739502,-122.74700164795,-0.15999999642372,0.41,md,7,101,0.009599,0.01,nc,nc75166241,2025-04-16T13:57:16.904Z,"1 km NE of The Geysers, CA",earthquake,0.39,0.959999979,0.2,7,automatic,nc,nc
 2025-04-16T12:05:59.912Z,61.4091,-145.262,21.4,1.4,ml,,,,0.75,ak,ak0254vi56t3,2025-04-16T12:07:41.003Z,"27 km S of Tonsina, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-04-16T11:56:51.890Z,33.7838333,-116.9405,14.59,0.95,ml,50,24,0.03319,0.19,ci,ci40929895,2025-04-16T12:00:19.699Z,"2 km E of San Jacinto, CA",earthquake,0.17,0.33,0.148,28,automatic,ci,ci
