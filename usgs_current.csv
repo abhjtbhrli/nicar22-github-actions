@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-05-19T11:53:29.760Z,33.9888333,-118.3415,9.3,1.17,ml,33,59,0.03237,0.27,ci,ci41156216,2025-05-19T11:57:38.403Z,"1 km SE of View Park-Windsor Hills, CA",earthquake,0.34,0.61,0.21,30,automatic,ci,ci
 2025-05-19T11:47:06.490Z,38.810665130615,-122.82917022705,2.1099998950958,0.76,md,15,61,0.001795,0.02,nc,nc75184362,2025-05-19T11:48:44.018Z,"7 km NW of The Geysers, CA",earthquake,0.3,0.579999983,0.13,15,automatic,nc,nc
 2025-05-19T11:39:17.390Z,33.7591667,-117.5213333,12.14,1.18,ml,36,76,0.08147,0.18,ci,ci41156200,2025-05-19T11:42:54.293Z,"12 km NNE of Trabuco Canyon, CA",earthquake,0.24,0.41,0.239,31,automatic,ci,ci
 2025-05-19T11:36:39.680Z,60.0548,-140.9644,10.7,1.3,ml,,,,0.89,ak,ak0256e2gt4w,2025-05-19T11:38:49.266Z,"89 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
