@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-10T05:59:53.861Z,64.9269,-147.5833,7.4,1.6,ml,,,,0.61,ak,ak0257ecusxm,2025-06-10T06:02:44.170Z,"3 km SSE of Fox, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-06-10T05:57:51.439Z,61.3941,-150.639,49.7,1.3,ml,,,,0.47,ak,ak0257ecudbb,2025-06-10T05:59:50.600Z,"17 km SSW of Susitna, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-06-10T05:55:33.939Z,31.653,-104.297,4.0787,1.9,ml,39,68,0,0.3,tx,tx2025lgug,2025-06-10T05:58:48.754Z,"58 km S of Whites City, New Mexico",earthquake,0,0.88969284296036,0.2,31,automatic,tx,tx
 2025-06-10T05:17:14.980Z,38.814498901367,-122.81816864014,1.3799999952316,1.41,md,25,51,0.01028,0.02,nc,nc75193601,2025-06-10T05:18:48.987Z,"7 km NW of The Geysers, CA",earthquake,0.16,0.300000012,0.11,27,automatic,nc,nc
 2025-06-10T05:01:20.743Z,63.3604,-147.0722,122.9,1.4,ml,,,,1.15,ak,ak0257eciaui,2025-06-10T05:03:44.778Z,"79 km WNW of Paxson, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-06-10T04:47:20.436Z,31.644,-104.408,3.6212,2.2,ml,37,77,0,0.4,tx,tx2025lgrz,2025-06-10T05:01:08.316Z,"59 km S of Whites City, New Mexico",earthquake,0,1.0184013843536,0.1,25,automatic,tx,tx
@@ -16,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-10T03:25:23.674Z,31.668,-104.208,3.579,2.4,ml,42,63,0,0.4,tx,tx2025lgpi,2025-06-10T04:00:46.769Z,"55 km NW of Toyah, Texas",earthquake,0,0.8507239818573,0.2,31,automatic,tx,tx
 2025-06-10T03:23:14.199Z,31.758,-101.948,4.9678,1,ml,12,92,0.1,0.5,tx,tx2025lgpg,2025-06-10T04:00:09.014Z,"29 km SSE of Midland, Texas",earthquake,0,1.5558542013168,0.3,9,automatic,tx,tx
 2025-06-10T03:08:13.580Z,38.817832946777,-122.82216644287,1.789999961853,0.77,md,8,78,0.01049,0.01,nc,nc75193576,2025-06-10T03:09:47.862Z,"7 km NW of The Geysers, CA",earthquake,0.44,1.01999998,0.16,12,automatic,nc,nc
-2025-06-10T03:04:13.891Z,40.2433,24.0957,10,4.4,mb,21,69,1.239,0.83,us,us6000qj9n,2025-06-10T05:02:52.040Z,"12 km W of Karyes, Greece",earthquake,2.86,1.939,0.239,5,reviewed,us,us
+2025-06-10T03:04:13.891Z,40.2433,24.0957,10,4.4,mb,21,69,1.239,0.83,us,us6000qj9n,2025-06-10T06:00:25.150Z,"12 km W of Karyes, Greece",earthquake,2.86,1.939,0.239,5,reviewed,us,us
 2025-06-10T02:33:52.993Z,57.4945,-156.7834,113.1,1.7,ml,,,,0.24,ak,ak0257eawxfn,2025-06-10T02:35:34.976Z,"36 km E of Ugashik, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2025-06-10T02:30:38.710Z,32.387,-115.1915,15.87,2.41,ml,25,59,0.09263,0.28,ci,ci41181000,2025-06-10T02:34:06.158Z,"4 km N of Delta, B.C., MX",earthquake,0.36,0.7,0.255,26,automatic,ci,ci
 2025-06-10T02:26:50.989Z,66.6963,-145.5329,19.4,4,ml,,,,0.72,ak,ak0257eavf86,2025-06-10T02:43:20.040Z,"18 km NW of Fort Yukon, Alaska",earthquake,,0.5,,,reviewed,ak,ak
