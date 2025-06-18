@@ -137,6 +137,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-17T11:21:37.110Z,33.2313333,-116.7351667,11.49,0.88,ml,47,33,0.02031,0.17,ci,ci40996583,2025-06-17T13:49:28.420Z,"3 km ESE of Lake Henshaw, CA",earthquake,0.16,0.38,0.196,27,reviewed,ci,ci
 2025-06-17T11:14:01.677Z,39.7155,-119.9636,6.2,0.5,ml,5,134.59,0.108,0.1151,nn,nn00899054,2025-06-17T14:38:04.344Z,"4 km NNE of Cold Springs, Nevada",earthquake,,3.4,0.46,4,reviewed,nn,nn
 2025-06-17T11:07:48.706Z,60.2368,-153.1364,139.8,1.7,ml,,,,0.43,ak,ak0257q0vody,2025-06-17T11:10:11.644Z,"65 km E of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-06-17T11:07:07.911Z,41.0825,-116.2618,3.5,0.9,ml,5,242.61,0.129,0.207,nn,nn00899075,2025-06-17T23:58:32.012Z,"43 km NNW of Carlin, Nevada",earthquake,,5.8,0.08,2,reviewed,nn,nn
 2025-06-17T11:04:43.352Z,41.1234,-116.2584,3.7,2.7,ml,7,79.84,0.159,0.1459,nn,nn00899047,2025-06-17T11:28:44.047Z,"47 km NNW of Carlin, Nevada",earthquake,,4.4,0.26,4,reviewed,nn,nn
 2025-06-17T11:03:38.090Z,17.9435,-66.9325,10.3,2.2,md,7,216,0.05961,0.16,pr,pr71486018,2025-06-17T11:18:57.550Z,"4 km SW of Guánica, Puerto Rico",earthquake,0.76,0.77,0.065638979952709,6,reviewed,pr,pr
 2025-06-17T10:59:19.810Z,44.836666666667,-111.4575,7.15,0.1,ml,8,148,0.02046,0.06,mb,mb90097068,2025-06-17T16:16:47.670Z,"22 km WNW of Hebgen Lake Estates, Montana",earthquake,0.35,0.46,0.05685735736335,4,reviewed,mb,mb
