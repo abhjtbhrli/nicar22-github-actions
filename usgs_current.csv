@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-07-06T09:52:47.280Z,35.9763336,-118.3376694,2.9,1.03,ml,18,67,0.1765,0.17,ci,ci41015375,2025-07-06T09:55:07.818Z,"26 km NNE of Kernville, CA",earthquake,0.31,1.12,0.187,3,automatic,ci,ci
+2025-07-06T09:52:47.210Z,35.974,-118.3383333,2.52,0.91,ml,26,43,0.1789,0.21,ci,ci41015375,2025-07-06T09:56:17.140Z,"26 km NNE of Kernville, CA",earthquake,0.24,1.02,0.165,15,automatic,ci,ci
 2025-07-06T09:49:48.400Z,35.7726667,-117.6596667,12.98,0.28,ml,19,80,0.09274,0.17,ci,ci41015367,2025-07-06T09:53:18.123Z,"17 km N of Ridgecrest, CA",earthquake,0.33,0.67,0.038,5,automatic,ci,ci
 2025-07-06T09:47:45.371Z,38.3063,-118.3744,3.3,1.2,ml,14,104.85,0.116,0.2434,nn,nn00900163,2025-07-06T09:50:11.899Z,"25 km WSW of Mina, Nevada",earthquake,,0.9,0.08,8,automatic,nn,nn
 2025-07-06T09:44:24.837Z,57.0733,-156.7546,99.9,2.5,ml,,,,0.48,ak,ak0258lf4a7t,2025-07-06T09:47:23.129Z,"62 km SE of Ugashik, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-07-06T09:40:37.234Z,43.6578,146.9558,67.63,5,mb,97,97,3.187,0.71,us,us7000qaza,2025-07-06T10:02:39.040Z,"24 km SE of Shikotan, Russia",earthquake,8.71,5.428,0.024,560,reviewed,us,us
 2025-07-06T09:29:42.012Z,36.6634,-116.2907,8.5,-0.4,ml,8,99.99,0.043,0.2362,nn,nn00900162,2025-07-06T09:31:40.352Z,"49 km ESE of Beatty, Nevada",earthquake,,1,0.4,5,automatic,nn,nn
 2025-07-06T09:28:59.858Z,69.6531,-145.1252,0,2.1,ml,,,,0.77,ak,ak0258lf0xgh,2025-07-06T09:31:00.556Z,"78 km SW of Kaktovik, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-07-06T09:20:02.091Z,39.413,-119.9005,3.8,0.6,ml,9,123.92,0.123,0.1649,nn,nn00900160,2025-07-06T09:21:50.692Z,"10 km E of Floriston, California",earthquake,,0,0.19,7,automatic,nn,nn
