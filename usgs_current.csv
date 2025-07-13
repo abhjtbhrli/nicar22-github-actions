@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-13T15:59:46.465Z,58.3342,-154.9693,30.4,0.4,ml,,,,0.36,ak,ak0258x3jkpi,2025-07-13T16:01:45.474Z,"90 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-07-13T15:54:21.430Z,34.0328333,-117.2448333,17.75,1.13,ml,62,29,0.09073,0.16,ci,ci41021831,2025-07-13T15:58:11.348Z,"2 km SE of Loma Linda, CA",earthquake,0.15,0.31,0.284,28,automatic,ci,ci
 2025-07-13T15:51:00.026Z,60.9863,-150.3687,33.6,1.4,ml,,,,0.47,ak,ak0258x3hrea,2025-07-13T15:53:13.065Z,"18 km ENE of Point Possession, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-07-13T15:49:38.610Z,36.1743333,-118.0326667,2.4,1.06,ml,25,78,0.1547,0.17,ci,ci41021823,2025-07-13T15:53:07.854Z,"12 km SSW of Olancha, CA",earthquake,0.24,0.9,0.117,19,automatic,ci,ci
 2025-07-13T15:48:14.760Z,36.1738333,-118.0285,4.58,0.88,ml,21,56,0.1513,0.15,ci,ci41021815,2025-07-13T15:51:51.847Z,"12 km S of Olancha, CA",earthquake,0.24,1.59,0.115,13,automatic,ci,ci
-2025-07-13T15:45:05.720Z,36.176,-118.0311667,2.28,2.67,ml,38,52,0.08972,0.17,ci,ci41021807,2025-07-13T15:48:45.826Z,"12 km SSW of Olancha, CA",earthquake,0.18,0.57,0.193,25,automatic,ci,ci
+2025-07-13T15:45:05.720Z,36.176,-118.0311667,2.28,2.67,ml,38,52,0.08972,0.17,ci,ci41021807,2025-07-13T15:55:40.040Z,"12 km SSW of Olancha, CA",earthquake,0.18,0.57,0.193,25,automatic,ci,ci
 2025-07-13T15:43:26.580Z,36.1768333,-118.0261667,3.06,0.87,ml,22,55,0.1507,0.17,ci,ci41021799,2025-07-13T15:46:58.297Z,"12 km S of Olancha, CA",earthquake,0.28,0.74,0.197,11,automatic,ci,ci
 2025-07-13T15:43:17.980Z,46.845001220703,-121.76850128174,0.23000000417232,0.360000014,md,19,64,,0.0399999991,uw,uw62141097,2025-07-13T15:44:58.070Z,"22 km ENE of Ashford, Washington",earthquake,0.26,0.709999979,0.349999994,2,automatic,uw,uw
 2025-07-13T15:29:19.110Z,33.5345,-116.719,6.33,1.38,ml,10,132,0.0344,0.12,ci,ci41021791,2025-07-13T15:33:17.516Z,"5 km WSW of Anza, CA",earthquake,0.33,0.53,0.283,20,automatic,ci,ci
@@ -252,4 +254,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-12T16:09:44.520Z,38.546666666667,-122.75766666667,8.2,2.2,md,102,32,0.05542,0.1,nc,nc75208917,2025-07-13T06:47:18.954Z,"4 km N of Larkfield-Wikiup, CA",earthquake,0.12,0.4,0.208,78,reviewed,nc,nc
 2025-07-12T16:09:01.890Z,38.793334960938,-122.72333526611,1.3200000524521,1.93,md,30,73,0.01453,0.06,nc,nc75208912,2025-07-12T16:42:19.896Z,"3 km SSW of Cobb, CA",earthquake,0.2,0.349999994,0.11,33,automatic,nc,nc
 2025-07-12T16:06:54.250Z,33.9743333,-117.8725,13.43,1.25,ml,45,65,0.04679,0.19,ci,ci41021223,2025-07-12T16:10:19.568Z,"3 km E of Rowland Heights, CA",earthquake,0.25,0.38,0.26,32,automatic,ci,ci
-2025-07-12T16:00:23.906Z,-17.5085,-178.7021,537.852,4.5,mb,46,55,2.11,0.83,us,us7000qca5,2025-07-12T16:28:10.040Z,"218 km ENE of Levuka, Fiji",earthquake,13.82,7.722,0.09,39,reviewed,us,us
