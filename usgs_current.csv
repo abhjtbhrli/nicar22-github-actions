@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-07-21T05:44:40.819Z,64.6459,-149.3971,19.7,2.2,ml,,,,0.77,ak,ak0259a5ssfl,2025-07-21T05:46:56.248Z,"14 km WNW of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-07-21T05:28:30.153Z,32.451,-102.083,4.9956,1.1,ml,13,110,0,0.5,tx,tx2025ofjvzn,2025-07-21T05:31:10.333Z,"33 km SSW of Los Ybanez, Texas",earthquake,0,1.6672539710999,0.2,6,automatic,tx,tx
+2025-07-21T05:28:30.153Z,32.451,-102.083,4.9957,1.1,ml,13,110,0,0.5,tx,tx2025ofjvzn,2025-07-21T06:00:14.519Z,"33 km SSW of Los Ybanez, Texas",earthquake,0,1.6672539710999,0.2,6,automatic,tx,tx
 2025-07-21T05:22:41.240Z,60.1708,-151.8771,34.5,1.1,ml,,,,0.56,ak,ak0259a5o2po,2025-07-21T05:24:34.941Z,"17 km NW of Ninilchik, Alaska",earthquake,,3.7,,,automatic,ak,ak
 2025-07-21T05:18:53.420Z,38.838001251221,-122.7988357544,2.1900000572205,1.34,md,23,82,0.006644,0.02,nc,nc75212782,2025-07-21T05:47:19.006Z,"7 km WNW of Cobb, CA",earthquake,0.22,0.360000014,0.13,24,automatic,nc,nc
 2025-07-21T05:18:01.580Z,38.760501861572,-122.71216583252,0.34999999403954,1.5,md,10,118,0.009985,0.07,nc,nc75212777,2025-07-21T05:37:20.931Z,"2 km WSW of Anderson Springs, CA",earthquake,0.37,0.469999999,0.15,10,automatic,nc,nc
@@ -302,6 +302,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-20T06:10:05.116Z,54.1672,-159.8192,37.76,3.4,ml,31,213,0.679,0.6,us,us7000qdy6,2025-07-20T06:24:20.917Z,"137 km SSE of Sand Point, Alaska",earthquake,7.86,18.306,0.076,23,reviewed,us,us
 2025-07-20T06:08:34.110Z,33.534,-116.7191667,5.95,0.83,ml,44,27,0.03479,0.17,ci,ci41026791,2025-07-20T14:17:27.420Z,"5 km WSW of Anza, CA",earthquake,0.15,0.37,0.155,24,reviewed,ci,ci
 2025-07-20T06:07:31.130Z,33.5108333,-116.4496667,7.03,0.5,ml,20,71,0.1285,0.15,ci,ci41026783,2025-07-20T14:16:31.457Z,"21 km ESE of Anza, CA",earthquake,0.23,1.28,0.105,9,reviewed,ci,ci
-2025-07-20T06:02:50.043Z,52.8894,160.6514,10,5,mb,159,92,1.218,0.7,us,us7000qdy4,2025-07-20T09:45:39.040Z,"137 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,7.99,1.797,0.025,514,reviewed,us,us
-2025-07-20T06:02:06.910Z,38.835666656494,-122.88066864014,2.6300001144409,1.05,md,18,66,0.003353,0.02,nc,nc75212327,2025-07-20T06:03:44.159Z,"12 km E of Cloverdale, CA",earthquake,0.3,0.519999981,0.25,17,automatic,nc,nc
-2025-07-20T05:56:41.470Z,38.825164794922,-122.80300140381,2.4400000572205,1.08,md,22,46,0.0058,0.02,nc,nc75212317,2025-07-20T05:58:19.025Z,"7 km NNW of The Geysers, CA",earthquake,0.22,0.479999989,0.14,26,automatic,nc,nc
