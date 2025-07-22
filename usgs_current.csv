@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-07-22T21:41:42.225Z,63.482,-150.8732,0.1,1.4,ml,,,,0.32,ak,ak0259c2ufke,2025-07-22T21:43:23.863Z,"42 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-07-22T21:39:24.316Z,32.132,-101.635,2.998,1.5,ml,30,63,0,0.5,tx,tx2025oiltlh,2025-07-22T21:42:15.472Z,"14 km E of Stanton, Texas",earthquake,0,0.97293299436569,0.2,20,automatic,tx,tx
+2025-07-22T21:39:24.318Z,32.132,-101.635,3.0969,1.5,ml,35,46,0,0.5,tx,tx2025oiltlh,2025-07-22T22:01:18.427Z,"14 km E of Stanton, Texas",earthquake,0,0.89961212873459,0.2,22,automatic,tx,tx
 2025-07-22T21:37:27.071Z,63.5136,-150.9224,0,1.2,ml,,,,1.33,ak,ak0259c2tjj7,2025-07-22T21:39:44.564Z,"39 km E of Denali National Park, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-07-22T21:34:14.410Z,33.7136667,-116.8158333,13.66,0.98,ml,29,103,0.0876,0.17,ci,ci41029167,2025-07-22T21:37:45.940Z,"8 km ESE of Valle Vista, CA",earthquake,0.39,0.56,0.29,23,automatic,ci,ci
 2025-07-22T21:27:46.459Z,61.9026,-150.0575,32.2,1.9,ml,,,,0.59,ak,ak0259c2rfv9,2025-07-22T21:29:11.890Z,"17 km N of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -280,4 +280,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-21T22:20:30.040Z,19.3325,-66.257666666667,26.17,3.03,md,11,306,0.8889,0.28,pr,pr71490008,2025-07-21T22:38:44.560Z,"96 km N of Brenas, Puerto Rico",earthquake,1.82,21.25,0.13803898025639,6,reviewed,pr,pr
 2025-07-21T22:12:27.400Z,38.840999603271,-122.81966400147,0.25,1,md,17,57,0.01259,0.02,nc,nc75213112,2025-07-21T22:14:01.589Z,"9 km WNW of Cobb, CA",earthquake,0.17,0.479999989,0.26,18,automatic,nc,nc
 2025-07-21T22:06:30.087Z,52.3627,160.9226,10,4.4,mb,29,177,1.533,0.87,us,us6000qu0q,2025-07-22T01:47:26.040Z,"173 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,11.15,1.985,0.105,26,reviewed,us,us
-2025-07-21T22:01:10.410Z,39.1389,139.8246,128.458,4.5,mb,26,157,2.889,0.93,us,us6000qu0n,2025-07-22T01:35:15.040Z,"16 km NNW of Yuza, Japan",earthquake,11.8,10.182,0.127,18,reviewed,us,us
