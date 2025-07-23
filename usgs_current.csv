@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-23T20:57:36.590Z,33.6853333,-116.7893333,14.78,0.84,ml,29,80,0.07365,0.22,ci,ci41030399,2025-07-23T21:01:05.855Z,"9 km SW of Idyllwild, CA",earthquake,0.37,0.6,0.246,20,automatic,ci,ci
 2025-07-23T20:39:47.480Z,33.6841667,-116.7923333,16.77,1.01,ml,33,61,0.07113,0.14,ci,ci41030375,2025-07-23T20:44:20.001Z,"9 km SW of Idyllwild, CA",earthquake,0.18,0.37,0.178,30,automatic,ci,ci
 2025-07-23T20:37:58.670Z,38.822166442871,-122.8424987793,2.289999961853,0.91,md,14,102,0.005911,0.01,nc,nc75214112,2025-07-23T20:48:06.922Z,"9 km NW of The Geysers, CA",earthquake,0.28,0.449999988,0.18,16,automatic,nc,nc
 2025-07-23T20:33:14.320Z,38.75,-122.69783020019,-0.38999998569488,0.94,md,9,137,0.01819,0.09,nc,nc75214107,2025-07-23T20:34:49.438Z,"3 km SSW of Anderson Springs, CA",earthquake,0.51,1.15999997,0.1,8,automatic,nc,nc
@@ -258,4 +259,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-22T21:06:39.700Z,46.310166666667,-111.6275,-2,1.78,ml,8,92,0.3111,0.14,mb,mb90103263,2025-07-23T17:18:04.490Z,"8 km W of Townsend, Montana",quarry blast,0.78,31.61,0.26929019562264,20,reviewed,mb,mb
 2025-07-22T21:06:15.763Z,64.8865,-149.1433,1.1,0.7,ml,,,,1,ak,ak0259c2mvgo,2025-07-22T21:08:01.134Z,"30 km SSE of Minto, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-07-22T21:05:13.290Z,58.399833333333,-154.9025,3.75,0.09,ml,8,141,0.05591,0.19,av,av93683611,2025-07-23T20:20:46.640Z,"96 km NNW of Karluk, Alaska",earthquake,0.99,1.73,0.17600957574536,8,reviewed,av,av
-2025-07-22T20:58:35.970Z,60.507333333333,-152.75716666667,0.91,-1.03,ml,5,136,0.03638,0.07,av,av93683596,2025-07-23T20:06:08.200Z,"78 km NW of Ninilchik, Alaska",earthquake,0.44,0.6,0.12612556061557,5,reviewed,av,av
