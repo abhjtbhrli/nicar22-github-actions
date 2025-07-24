@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-24T17:53:46.464Z,62.7144,-150.765,78,1.2,ml,,,,0.38,ak,ak0259fblz1u,2025-07-24T17:56:13.103Z,"24 km N of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-07-24T17:26:26.650Z,38.838001251221,-122.78199768066,1.75,0.72,md,14,73,0.006343,0.01,nc,nc75214507,2025-07-24T17:28:02.765Z,"5 km WNW of Cobb, CA",earthquake,0.3,0.469999999,0.08,14,automatic,nc,nc
 2025-07-24T17:14:55.200Z,61.6391,-153.0244,180,1.6,ml,,,,0.85,ak,ak0259fbdmsw,2025-07-24T17:17:20.734Z,"94 km WSW of Skwentna, Alaska",earthquake,,1.6,,,automatic,ak,ak
-2025-07-24T17:11:25.104Z,32.4165,-104.1394,5,3,ml,32,159,0.249,0.52,us,us6000qunb,2025-07-24T17:50:21.898Z,"6 km ENE of Livingston Wheeler, New Mexico",earthquake,2.2,1.842,0.077,22,reviewed,us,us
+2025-07-24T17:11:25.104Z,32.4165,-104.1394,5,3,ml,32,159,0.249,0.52,us,us6000qunb,2025-07-24T17:55:39.500Z,"6 km ENE of Livingston Wheeler, New Mexico",earthquake,2.2,1.842,0.077,22,reviewed,us,us
 2025-07-24T17:11:05.000Z,33.9961667,-117.206,12.48,1.12,ml,39,54,0.05595,0.21,ci,ci41031151,2025-07-24T17:15:09.808Z,"7 km SSW of Redlands, CA",earthquake,0.25,0.57,0.43,34,automatic,ci,ci
 2025-07-24T17:06:23.290Z,35.872501373291,-120.21516418457,10.340000152588,1.44,md,14,213,0.1112,0.11,nc,nc75214497,2025-07-24T17:37:20.456Z,"17 km SW of Avenal, CA",earthquake,1.4,1.99000001,0.17,6,automatic,nc,nc
 2025-07-24T17:01:59.059Z,31.691,-104.163,6.0999,1.5,ml,25,93,0.1,0.1,tx,tx2025oluabw,2025-07-24T17:51:29.464Z,"53 km W of Mentone, Texas",earthquake,0.46959373922072,0.73560955070902,0.2,18,reviewed,tx,tx
@@ -232,6 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-23T18:13:27.671Z,52.5271,-163.6903,29.4,2.4,ml,,,,0.43,ak,ak0259doffmp,2025-07-23T23:41:02.094Z,"226 km SE of Akutan, Alaska",earthquake,,1.6,,,reviewed,ak,ak
 2025-07-23T18:09:53.429Z,61.9263,-150.0616,30.8,1.4,ml,,,,0.58,ak,ak0259doen72,2025-07-23T18:12:20.622Z,"19 km N of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-07-23T18:05:31.418Z,52.1937,160.3993,10,4.6,mb,77,117,1.352,0.73,us,us6000que3,2025-07-23T19:33:40.040Z,"154 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.79,1.893,0.064,72,reviewed,us,us
-2025-07-23T18:03:52.169Z,61.7788,-149.9998,35.7,1.4,ml,,,,0.74,ak,ak0259dodcsw,2025-07-23T18:06:09.326Z,"4 km NNE of Willow, Alaska",earthquake,,3.2,,,automatic,ak,ak
-2025-07-23T18:03:12.870Z,45.082833333333,-111.74216666667,-2,1.56,ml,19,113,0.116,0.24,mb,mb90103288,2025-07-23T18:19:22.950Z,"28 km SE of Virginia City, Montana",quarry blast,0.73,31.61,0.19585887783315,23,reviewed,mb,mb
-2025-07-23T17:57:53.940Z,33.4131667,-116.4535,12.68,0.76,ml,45,63,0.1093,0.19,ci,ci41030079,2025-07-23T18:01:54.824Z,"19 km NNW of Borrego Springs, CA",earthquake,0.2,0.53,0.112,20,automatic,ci,ci
