@@ -135,6 +135,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-01T05:34:51.880Z,35.7188333,-117.5531667,5.33,0.55,ml,23,68,0.1032,0.16,ci,ci41250288,2025-08-01T17:03:04.341Z,"14 km WSW of Searles Valley, CA",earthquake,0.24,1.44,0.087,11,reviewed,ci,ci
 2025-08-01T05:27:04.381Z,50.0597,159.3973,10,4.8,mb,55,127,3.004,0.48,us,us6000qx7p,2025-08-01T05:56:14.040Z,"242 km ESE of Severo-Kuril’sk, Russia",earthquake,9.37,1.897,0.036,246,reviewed,us,us
 2025-08-01T05:24:32.607Z,50.9512,158.7239,35,4.5,mb,42,129,2.076,1.02,us,us6000qx7l,2025-08-01T06:25:48.040Z,"166 km ESE of Ozernovskiy, Russia",earthquake,9.23,1.927,0.059,86,reviewed,us,us
+2025-08-01T05:23:19.020Z,39.3975,-123.326,1.22,1.44,md,20,81,0.07194,0.06,nc,nc75217762,2025-08-01T18:05:01.429Z,"3 km SE of Willits, CA",earthquake,0.25,1.69,0.141,13,reviewed,nc,nc
 2025-08-01T05:16:57.508Z,62.3047,-148.7574,17.6,0.9,ml,,,,0.41,ak,ak0259scjn3q,2025-08-01T05:19:30.688Z,"58 km NNW of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-01T05:14:34.957Z,50.9921,158.7627,41.108,4.8,mb,58,125,2.036,0.92,us,us6000qx7k,2025-08-01T05:48:44.040Z,"167 km ESE of Ozernovskiy, Russia",earthquake,8.99,7.054,0.038,213,reviewed,us,us
 2025-08-01T05:10:33.370Z,35.7758333,-117.5991667,7.59,0.65,ml,23,55,0.03984,0.13,ci,ci41250280,2025-08-01T17:03:01.118Z,"18 km W of Searles Valley, CA",earthquake,0.2,0.45,0.086,13,reviewed,ci,ci
@@ -168,7 +169,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-01T02:25:45.812Z,39.2271,-120.0828,7.5,0.8,ml,13,64.27,0.039,0.1406,nn,nn00901845,2025-08-01T17:55:23.436Z,"0 km WNW of Carnelian Bay, California",earthquake,,1,0.28,8,reviewed,nn,nn
 2025-08-01T02:09:02.507Z,32.103,-102.119,7.8369,0.7,ml,25,73,0,0.2,tx,tx2025oziftc,2025-08-01T14:55:11.997Z,"12 km NNW of Midland, Texas",earthquake,0.56050032150215,0.76044965625599,0.2,13,reviewed,tx,tx
 2025-08-01T02:05:26.978Z,51.7464,158.3351,67.277,4.3,mb,44,124,1.293,0.68,us,us6000qx6k,2025-08-01T03:40:04.040Z,"130 km ENE of Ozernovskiy, Russia",earthquake,9.75,7.372,0.091,35,reviewed,us,us
-2025-08-01T02:04:48.820Z,39.244834899902,-123.19916534424,5.6300001144409,1.77,md,13,63,0.08828,0.06,nc,nc75217707,2025-08-01T02:06:24.441Z,"2 km S of Redwood Valley, CA",earthquake,0.28,1.25,0.08,11,automatic,nc,nc
+2025-08-01T02:04:48.820Z,39.243666666667,-123.19883333333,4.98,1.74,md,33,47,0.06103,0.06,nc,nc75217707,2025-08-01T18:02:00.043Z,"2 km S of Redwood Valley, CA",earthquake,0.12,0.45,0.151,26,reviewed,nc,nc
 2025-08-01T02:04:45.480Z,65.2418,-149.0257,2,1.1,ml,,,,0.55,ak,ak0259saoqro,2025-08-01T02:06:56.033Z,"18 km ENE of Minto, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-08-01T02:00:30.450Z,33.4981667,-116.5105,14.46,0.89,ml,31,57,0.0767,0.15,ci,ci41250176,2025-08-01T16:36:36.970Z,"16 km ESE of Anza, CA",earthquake,0.23,0.41,0.148,26,reviewed,ci,ci
 2025-08-01T01:59:24.255Z,60.2073,-152.6457,99.5,2.7,ml,,,,0.25,ak,ak0259saf1wg,2025-08-01T03:15:20.040Z,"57 km WNW of Ninilchik, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -243,7 +244,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-31T21:44:23.335Z,63.1673,-152.6239,14.1,1.1,ml,,,,0.36,ak,ak0259qyp5p9,2025-07-31T21:46:17.196Z,"61 km SW of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-07-31T21:42:53.620Z,33.6993333,-116.713,17.61,0.83,ml,25,74,0.1123,0.13,ci,ci41249952,2025-08-01T17:09:35.951Z,"5 km S of Idyllwild, CA",earthquake,0.23,0.5,0.163,23,reviewed,ci,ci
 2025-07-31T21:37:20.760Z,61.312,-152.49116666667,2.98,-0.19,ml,8,120,0.05068,0.07,av,av93697138,2025-08-01T02:15:50.970Z,"77 km WNW of Tyonek, Alaska",earthquake,0.46,0.54,0.28058823350266,9,reviewed,av,av
-2025-07-31T21:34:30.598Z,-34.0308,-70.4043,10,5,mb,75,86,0.303,1.02,us,us6000qx3m,2025-08-01T16:08:42.539Z,"28 km NE of Machalí, Chile",earthquake,4.82,1.2,0.033,290,reviewed,us,us
+2025-07-31T21:34:30.598Z,-34.0308,-70.4043,10,5,mb,75,86,0.303,1.02,us,us6000qx3m,2025-08-01T18:06:00.359Z,"28 km NE of Machalí, Chile",earthquake,4.82,1.2,0.033,290,reviewed,us,us
 2025-07-31T21:12:48.782Z,51.3647,157.8652,79.161,4.8,mb,64,113,1.73,0.71,us,us6000qx3f,2025-07-31T23:58:46.040Z,"95 km E of Ozernovskiy, Russia",earthquake,4.42,6.781,0.037,222,reviewed,us,us
 2025-07-31T21:10:50.440Z,41.564334869385,-121.93433380127,2.329999923706,2.18,md,10,117,0.06482,0.1,nc,nc75217612,2025-07-31T21:32:17.598Z,"3 km SW of Tennant, CA",earthquake,0.59,1.38999999,0.25,12,automatic,nc,nc
 2025-07-31T21:09:15.753Z,61.6474,-149.5612,37.8,2,ml,,,,0.22,ak,ak0259qyhn1z,2025-07-31T21:10:52.830Z,"3 km NE of Meadow Lakes, Alaska",earthquake,,0.7,,,automatic,ak,ak
