@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-10T09:02:30.251Z,60.6073,-151.9365,13.2,1.9,ml,,,,0.4,ak,ak025a7aofu9,2025-08-10T09:03:53.224Z,"33 km W of Salamatof, Alaska",earthquake,,7.2,,,automatic,ak,ak
+2025-08-10T08:52:39.540Z,33.2578333,-116.3803333,2.89,0.12,ml,25,92,0.03254,0.19,ci,ci41257784,2025-08-10T08:56:08.084Z,"0 km WNW of Borrego Springs, CA",earthquake,0.21,0.23,0.112,3,automatic,ci,ci
 2025-08-10T08:42:50.220Z,37.1893,-117.3054,9.3,0.5,ml,8,254.01,0.199,0.2043,nn,nn00902366,2025-08-10T08:45:08.567Z,"57 km WNW of Beatty, Nevada",earthquake,,2.7,0.41,5,automatic,nn,nn
 2025-08-10T08:35:32.124Z,62.473,-149.2095,0,1.5,ml,,,,0.91,ak,ak025a7aa30c,2025-08-10T08:37:28.381Z,"46 km E of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-10T08:23:50.250Z,33.5088333,-116.4553333,5.16,0.5,ml,25,70,0.1235,0.19,ci,ci41257776,2025-08-10T08:27:22.280Z,"21 km ESE of Anza, CA",earthquake,0.23,1.78,0.152,9,automatic,ci,ci
@@ -19,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-10T06:19:24.160Z,38.82816696167,-122.87516784668,2.4900000095367,0.46,md,7,174,0.01287,0.02,nc,nc75221337,2025-08-10T06:21:00.081Z,"12 km NW of The Geysers, CA",earthquake,0.79,1.01999998,0.29,9,automatic,nc,nc
 2025-08-10T06:14:29.993Z,13.4646,-92.2951,10,4.5,mb,39,237,1.303,1.09,us,us6000qzkr,2025-08-10T08:36:46.040Z,"100 km SSW of Champerico, Guatemala",earthquake,9.84,1.984,0.036,223,reviewed,us,us
 2025-08-10T06:06:49.720Z,38.837665557861,-122.8004989624,1.5800000429153,1.02,md,13,67,0.007965,0.02,nc,nc75221327,2025-08-10T06:08:25.171Z,"7 km WNW of Cobb, CA",earthquake,0.29,0.479999989,0.2,13,automatic,nc,nc
-2025-08-10T06:03:35.971Z,23.7445,121.5793,20.846,4.8,mwr,46,73,0.427,0.87,us,us6000qzkq,2025-08-10T07:13:35.290Z,"25 km S of Hualien City, Taiwan",earthquake,3.77,5.032,0.057,30,reviewed,us,us
+2025-08-10T06:03:35.971Z,23.7445,121.5793,20.846,4.8,mwr,46,73,0.427,0.87,us,us6000qzkq,2025-08-10T09:02:42.565Z,"25 km S of Hualien City, Taiwan",earthquake,3.77,5.032,0.057,30,reviewed,us,us
 2025-08-10T06:00:50.417Z,65.3803,-149.8667,0,1.4,ml,,,,0.77,ak,ak025a78vr5d,2025-08-10T06:02:36.395Z,"19 km SE of Rampart, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-08-10T05:58:13.870Z,33.4665,-116.4701667,11.89,0.42,ml,21,66,0.1139,0.15,ci,ci41257720,2025-08-10T06:02:01.947Z,"21 km ESE of Anza, CA",earthquake,0.2,0.65,0.04,6,automatic,ci,ci
 2025-08-10T05:57:29.508Z,13.0951,145.5205,10,5.4,mb,62,120,0.803,1.03,us,us6000qzkp,2025-08-10T08:07:45.572Z,"84 km SE of Yigo Village, Guam",earthquake,8.43,1.886,0.03,373,reviewed,us,us
@@ -222,5 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-09T09:09:13.492Z,37.3219,-117.8442,1.9,1.4,ml,25,170.05,0.112,0.1547,nn,nn00902322,2025-08-09T09:12:06.112Z,"43 km SSE of Dyer, Nevada",earthquake,,2.5,0.17,15,automatic,nn,nn
 2025-08-09T09:04:33.960Z,38.097999572754,-122.23850250244,5.9200000762939,1.52,md,18,89,0.02703,0.08,nc,nc75221057,2025-08-09T09:06:13.088Z,"2 km SSW of Vallejo, CA",earthquake,0.27,0.50999999,0.16,12,automatic,nc,nc
 2025-08-09T09:04:28.381Z,-57.7012,157.5475,10,4.9,mb,28,106,3.304,0.76,us,us6000qzic,2025-08-09T20:38:23.040Z,"Macquarie Island region",earthquake,11.27,1.882,0.115,24,reviewed,us,us
-2025-08-09T08:58:08.950Z,39.26216506958,-123.22699737549,5.3699998855591,1.35,md,9,104,0.08054,0.04,nc,nc75221052,2025-08-09T08:59:48.382Z,"2 km W of Redwood Valley, CA",earthquake,0.37,1.25,0.06,6,automatic,nc,nc
-2025-08-09T08:57:42.170Z,38.101665496826,-122.24500274658,7,1.59,md,26,57,0.02774,0.15,nc,nc75221047,2025-08-09T08:59:18.085Z,"1 km SW of Vallejo, CA",earthquake,0.3,0.680000007,0.12,19,automatic,nc,nc
