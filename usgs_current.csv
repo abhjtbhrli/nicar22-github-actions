@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-13T15:55:39.650Z,33.4821667,-116.9308333,6.72,0.66,ml,23,58,0.01625,0.21,ci,ci41260072,2025-08-13T16:00:17.814Z,"8 km NW of Aguanga, CA",earthquake,0.29,0.55,0.129,12,reviewed,ci,ci
 2025-08-13T15:43:18.000Z,38.817665100098,-122.81266784668,3.0599999427795,1.08,md,15,80,0.00607,0.02,nc,nc75222707,2025-08-13T15:44:53.063Z,"7 km NW of The Geysers, CA",earthquake,0.29,0.720000029,0.19,17,automatic,nc,nc
-2025-08-13T15:37:56.910Z,34.6231667,-119.6743333,7.39,2.37,ml,4,135,0.06518,0.09,ci,ci41260024,2025-08-13T15:46:37.337Z,"21 km N of Montecito, CA",earthquake,4.26,5.18,0.31,35,automatic,ci,ci
 2025-08-13T15:29:49.490Z,35.7115,-117.5605,6.73,0.88,ml,27,65,0.1083,0.15,ci,ci41260016,2025-08-13T15:33:21.374Z,"14 km NE of Ridgecrest, CA",earthquake,0.2,0.57,0.157,17,automatic,ci,ci
 2025-08-13T15:24:41.120Z,59.7811,-153.4379,123.9,1.2,ml,,,,0.24,ak,ak025accztjk,2025-08-13T15:26:24.840Z,"37 km E of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-08-13T15:12:55.010Z,63.4577,-150.1736,96.3,1.3,ml,,,,0.62,ak,ak025accxa0t,2025-08-13T15:15:11.748Z,"61 km W of Cantwell, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -10,11 +10,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-13T14:45:24.320Z,34.1426667,-117.422,4.54,1.08,ml,42,50,0.04518,0.17,ci,ci41259984,2025-08-13T14:48:58.000Z,"6 km NNE of Fontana, CA",earthquake,0.18,0.38,0.197,31,automatic,ci,ci
 2025-08-13T14:44:50.425Z,58.1076,-154.5245,12.4,1.6,ml,,,,0.26,ak,ak025accioz6,2025-08-13T14:46:18.615Z,"60 km N of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-08-13T14:42:57.909Z,61.4384,-151.5335,65.3,1.2,ml,,,,0.69,ak,ak025accia4e,2025-08-13T14:45:15.682Z,"41 km NW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-08-13T14:42:52.300Z,17.9445,-67.076833333333,10.43,2.11,md,3,283,0.03973,0.01,pr,pr71492728,2025-08-13T15:53:41.560Z,"4 km SW of La Parguera, Puerto Rico",earthquake,0.8,0.6,0.0075845619255914,3,reviewed,pr,pr
 2025-08-13T14:26:26.140Z,33.5345,-116.7183333,5.38,0.98,ml,40,28,0.03465,0.18,ci,ci41259968,2025-08-13T14:29:58.453Z,"5 km WSW of Anza, CA",earthquake,0.17,0.47,0.26,29,automatic,ci,ci
 2025-08-13T14:18:51.885Z,32.017,-101.716,8.6182,1.1,ml,23,60,0.1,0.2,tx,tx2025pwhdgf,2025-08-13T14:34:37.746Z,"14 km SSE of Stanton, Texas",earthquake,0.55875577247526,0.89146210377457,0.1,11,reviewed,tx,tx
 2025-08-13T14:04:05.910Z,38.80899810791,-122.82233428955,2.8699998855591,0.76,md,12,63,0.005349,0.01,nc,nc75222682,2025-08-13T14:05:42.549Z,"7 km NW of The Geysers, CA",earthquake,0.3,0.810000002,0.34,12,automatic,nc,nc
 2025-08-13T14:02:51.170Z,34.0596667,-117.1351667,11.4,2.42,ml,115,17,0.03065,0.17,ci,ci41259936,2025-08-13T14:13:49.440Z,"1 km S of Mentone, CA",earthquake,0.1,0.18,0.173,24,automatic,ci,ci
-2025-08-13T13:50:06.450Z,32.8501667,-116.5988333,8.2,0.72,ml,11,230,0.06069,0.21,ci,ci41259920,2025-08-13T13:53:43.007Z,"7 km WNW of Pine Valley, CA",earthquake,2.74,1.54,0.072,9,automatic,ci,ci
 2025-08-13T13:24:40.610Z,38.809665679932,-122.81900024414,3.1300001144409,0.39,md,12,86,0.007992,0.01,nc,nc75222677,2025-08-13T13:26:17.158Z,"7 km NW of The Geysers, CA",earthquake,0.35,0.870000005,0.29,13,automatic,nc,nc
 2025-08-13T13:23:03.052Z,59.7888,-159.3055,98.8,2.5,ml,,,,1.32,ak,ak025acbsnoh,2025-08-13T13:25:42.377Z,"69 km NW of Aleknagik, Alaska",earthquake,,5.1,,,automatic,ak,ak
 2025-08-13T13:12:19.297Z,59.2605,-153.5028,99.3,1.3,ml,,,,0.41,ak,ak025acbqc21,2025-08-13T13:14:52.724Z,"65 km ESE of Pope-Vannoy Landing, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -242,4 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-12T16:21:50.716Z,-6.8737,125.2736,524.209,5.4,mww,92,26,3.031,0.87,us,us6000r04e,2025-08-12T18:45:38.290Z,"189 km N of Dili, Timor Leste",earthquake,9.47,6.99,0.069,20,reviewed,us,us
 2025-08-12T16:20:52.790Z,47.712833333333,-122.611,23.36,1.49,ml,13,80,0.06942,0.14,uw,uw62169811,2025-08-12T17:50:17.620Z,"1 km NNE of Keyport, Washington",earthquake,0.57,0.97,0.25443539039733,8,reviewed,uw,uw
 2025-08-12T16:02:49.540Z,53.844166666667,-166.47016666667,10.93,0.67,ml,12,208,0.02037,0.08,av,av93713618,2025-08-13T02:55:34.450Z,"5 km SE of Unalaska, Alaska",earthquake,0.45,0.35,0.31150491226037,12,reviewed,av,av
-2025-08-12T16:00:04.262Z,51.7095,159.3376,30.228,4.6,mb,99,115,1.382,0.66,us,us6000r04c,2025-08-12T17:34:00.040Z,"150 km SSE of Vilyuchinsk, Russia",earthquake,8.54,5.882,0.053,108,reviewed,us,us
