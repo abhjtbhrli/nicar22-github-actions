@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-21T11:57:07.014Z,35.68198013,-98.09060669,10,2.16,ml,11,65.56768036,0.1059951037,1.176964748,ok,ok2025qiuj,2025-08-21T12:01:47.864Z,"9 km NNE of Calumet, Oklahoma",earthquake,,0,0.28,7,automatic,ok,ok
 2025-08-21T11:41:13.200Z,36.67499923706,-121.34183502197,2.1900000572205,1.79,md,28,52,0.03261,0.15,nc,nc75226707,2025-08-21T11:44:32.360Z,"13 km SSW of Tres Pinos, CA",earthquake,0.29,0.870000005,0.23,27,automatic,nc,nc
 2025-08-21T11:31:57.950Z,33.4018333,-116.4261667,13.78,1.01,ml,35,54,0.08973,0.17,ci,ci41270792,2025-08-21T11:35:28.722Z,"17 km NNW of Borrego Springs, CA",earthquake,0.26,0.52,0.223,12,automatic,ci,ci
 2025-08-21T11:24:33.310Z,17.988,-66.804333333333,12.74,2.32,md,11,187,0.03408,0.36,pr,pr71493213,2025-08-21T11:44:46.140Z,"1 km ESE of Indios, Puerto Rico",earthquake,1.2,0.92,0.075092481365496,5,reviewed,pr,pr
@@ -105,7 +106,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-21T03:10:10.570Z,19.0436668396,-155.38533020019,29.370000839233,2.27,ml,52,208,0.1328,0.180000007,hv,hv74756867,2025-08-21T03:13:42.400Z,"20 km SSE of Pāhala, Hawaii",earthquake,0.58,0.949999988,0.76,6,automatic,hv,hv
 2025-08-21T03:05:10.982Z,49.7977,156.0464,62.583,4.5,mb,48,139,3.472,0.59,us,us6000r2pi,2025-08-21T03:24:45.040Z,"97 km S of Severo-Kuril’sk, Russia",earthquake,10.95,7.771,0.054,101,reviewed,us,us
 2025-08-21T03:01:11.730Z,38.795333862305,-122.77866363525,2.7000000476837,1.08,md,16,83,0.007545,0.02,nc,nc75226537,2025-08-21T03:02:48.648Z,"3 km NNW of The Geysers, CA",earthquake,0.3,0.589999974,0.17,18,automatic,nc,nc
-2025-08-21T02:58:07.085Z,16.1721,96.5348,10,4.6,mb,55,66,3.058,0.91,us,us6000r2pe,2025-08-21T11:14:00.628Z,"65 km S of Thongwa, Burma (Myanmar)",earthquake,7.79,1.91,0.09,37,reviewed,us,us
+2025-08-21T02:58:07.085Z,16.1721,96.5348,10,4.6,mb,55,66,3.058,0.91,us,us6000r2pe,2025-08-21T12:01:28.455Z,"65 km S of Thongwa, Burma (Myanmar)",earthquake,7.79,1.91,0.09,37,reviewed,us,us
 2025-08-21T02:25:25.360Z,38.825832366943,-122.80283355713,2.5599999427795,0.82,md,11,67,0.006157,0.02,nc,nc75226527,2025-08-21T02:27:03.237Z,"7 km NNW of The Geysers, CA",earthquake,0.36,1.00999999,0.12,11,automatic,nc,nc
 2025-08-21T02:10:57.019Z,64.7525,-149.0948,16,1,ml,,,,0.27,ak,ak025apdgztx,2025-08-21T02:12:42.991Z,"16 km N of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-21T02:10:07.980Z,34.1483333,-117.4223333,5.77,1.16,ml,63,29,0.04436,0.2,ci,ci41270288,2025-08-21T02:14:13.200Z,"6 km NNE of Fontana, CA",earthquake,0.16,0.39,0.164,28,automatic,ci,ci
@@ -267,7 +268,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-20T12:16:39.770Z,36.7615,-116.2542,8.9,-0.5,ml,9,171.4,0.027,0.048,nn,nn00902867,2025-08-21T03:00:27.238Z,"47 km ESE of Beatty, Nevada",earthquake,,1.5,0.11,2,reviewed,nn,nn
 2025-08-20T12:10:37.770Z,44.8035,-110.85216666667,10.31,2.17,ml,27,112,0.1182,0.17,uu,uu80114196,2025-08-20T13:16:17.970Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.3,0.73,0.25310301520551,9,reviewed,uu,uu
 2025-08-20T12:10:26.250Z,60.0545,-153.0815,0.36,-0.79,ml,4,228,0.009424,0.07,av,av93724488,2025-08-21T03:02:47.840Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.43,0.32,0.35483936551923,4,reviewed,av,av
-2025-08-20T12:02:27.039Z,35.6325,-98.03266667,6.87,2.39,ml,73,44,0.1583689226,0.27,ok,ok2025qgzb,2025-08-20T12:24:15.269Z,"8 km ENE of Calumet, Oklahoma",earthquake,,0.8,0.26,37,reviewed,ok,ok
-2025-08-20T12:01:07.150Z,44.800166666667,-110.86616666667,8.1,1,ml,13,112,0.1077,0.13,uu,uu80114191,2025-08-20T15:19:52.900Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.37,1.45,0.23122175876559,5,reviewed,uu,uu
-2025-08-20T11:56:14.133Z,64.5294,-149.3211,7.7,0.9,ml,,,,0.64,ak,ak025anvkbet,2025-08-20T11:58:23.778Z,"11 km WSW of Nenana, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-08-20T11:55:49.200Z,47.692833333333,-120.19366666667,4.39,1.43,ml,19,62,0.03633,0.23,uw,uw62173841,2025-08-20T18:23:11.280Z,"2 km NNE of Entiat, Washington",earthquake,0.3,1,0.14470365610049,15,reviewed,uw,uw
