@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-27T00:00:42.352Z,65.497,-148.1789,1.8,0.6,ml,,,,0.54,ak,ak025az9g1aj,2025-08-27T00:02:30.658Z,"17 km E of Livengood, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2025-08-26T23:55:18.910Z,38.838165283203,-122.87983703613,2.6400001049042,0.91,md,14,111,0.002825,0.02,nc,nc75229202,2025-08-26T23:56:57.277Z,"12 km E of Cloverdale, CA",earthquake,0.4,0.660000026,0.18,16,automatic,nc,nc
 2025-08-26T23:33:49.490Z,33.775,-117.5603333,6.19,1.57,ml,60,53,0.04535,0.2,ci,ci41276072,2025-08-26T23:37:52.830Z,"11 km S of Corona, CA",earthquake,0.18,0.49,0.165,33,automatic,ci,ci
 2025-08-26T23:30:24.646Z,60.3921,-152.0939,86.3,1.4,ml,,,,0.29,ak,ak025axzs1ts,2025-08-26T23:32:39.683Z,"42 km WNW of Clam Gulch, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -117,6 +118,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-26T11:15:05.760Z,44.798333333333,-110.867,8.94,1.35,ml,20,111,0.1065,0.12,uu,uu80114726,2025-08-26T13:29:10.900Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.29,0.94,0.4820781126125,5,reviewed,uu,uu
 2025-08-26T11:14:47.750Z,44.8,-110.86733333333,8.94,0.32,ml,13,113,0.1069,0.1,uu,uu80114721,2025-08-26T13:33:18.620Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.34,1.02,0.019215891405063,2,reviewed,uu,uu
 2025-08-26T11:10:18.040Z,37.622666666667,-119.06966666667,14.33,0.7,md,13,122,0.01229,0.06,nc,nc75228907,2025-08-26T23:02:00.610Z,"8 km W of Mammoth Lakes, CA",earthquake,0.8,0.41,0.22,9,reviewed,nc,nc
+2025-08-26T11:10:01.680Z,37.6245,-119.14483333333,10.66,0.57,md,7,223,0.05256,0.05,nc,nc75004093,2025-08-27T00:03:22.406Z,"15 km W of Mammoth Lakes, CA",earthquake,1.74,1.06,0.062,5,reviewed,nc,nc
 2025-08-26T10:32:15.165Z,51.1748,159.1973,34.278,4.8,mb,41,123,1.882,1.09,us,us7000qqzu,2025-08-26T12:29:54.040Z,"191 km ESE of Ozernovskiy, Russia",earthquake,9.1,5.969,0.079,49,reviewed,us,us
 2025-08-26T10:26:56.920Z,33.2886667,-116.2668333,4.64,0.33,ml,24,91,0.08176,0.17,ci,ci41275128,2025-08-26T18:03:09.430Z,"11 km ENE of Borrego Springs, CA",earthquake,0.3,0.49,0.133,14,reviewed,ci,ci
 2025-08-26T10:23:05.490Z,38.835334777832,-122.78849792481,1.5700000524521,0.23,md,9,71,0.003391,0.02,nc,nc75228902,2025-08-26T10:24:41.006Z,"6 km WNW of Cobb, CA",earthquake,0.45,0.850000024,0.16,10,automatic,nc,nc
@@ -139,7 +141,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-26T08:28:21.950Z,33.4713333,-116.4608333,2.69,0.86,ml,47,33,0.1204,0.23,ci,ci41275096,2025-08-26T13:35:34.640Z,"22 km ESE of Anza, CA",earthquake,0.2,0.8,0.189,25,reviewed,ci,ci
 2025-08-26T08:15:29.138Z,61.7155,-149.8195,35.4,2,ml,,,,0.19,ak,ak025axqrccx,2025-08-26T08:17:21.363Z,"9 km N of Houston, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2025-08-26T08:03:48.231Z,54.5665,-160.0511,32.632,5.1,mb,21,207,0.377,0.81,us,us7000qqzj,2025-08-26T15:29:11.040Z,"90 km SSE of Sand Point, Alaska",earthquake,7.39,12.484,0.027,439,reviewed,us,us
-2025-08-26T07:49:07.766Z,44.0121,-68.8689,10.143,2.5,mb_lg,15,160,0.793,0.55,us,us7000qqzg,2025-08-26T23:55:44.162Z,"4 km SW of Vinalhaven, Maine",earthquake,2.62,8.546,0.18,8,reviewed,us,us
+2025-08-26T07:49:07.766Z,44.0121,-68.8689,10.143,2.5,mb_lg,15,160,0.793,0.55,us,us7000qqzg,2025-08-27T00:00:50.624Z,"4 km SW of Vinalhaven, Maine",earthquake,2.62,8.546,0.18,8,reviewed,us,us
 2025-08-26T07:46:28.280Z,33.1463333,-115.6248333,8.33,1.18,ml,29,96,0.032,0.21,ci,ci41275088,2025-08-26T17:58:57.222Z,"11 km WNW of Calipatria, CA",earthquake,0.31,0.56,0.121,8,reviewed,ci,ci
 2025-08-26T07:46:27.180Z,38.796333312988,-122.81099700928,3.3499999046326,2.1,md,55,50,0.01011,0.06,nc,nc75228867,2025-08-26T08:12:18.391Z,"5 km NW of The Geysers, CA",earthquake,0.15,0.25,0.13,49,automatic,nc,nc
 2025-08-26T07:45:31.950Z,33.139,-115.636,8.08,1.75,ml,58,41,0.042,0.23,ci,ci41275080,2025-08-26T18:01:09.630Z,"11 km N of Westmorland, CA",earthquake,0.21,0.49,0.139,26,reviewed,ci,ci
@@ -219,4 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-26T00:13:24.880Z,33.2621667,-116.3703333,2.52,-0.04,ml,3,253,0.03969,0.01,ci,ci41274936,2025-08-26T19:19:16.111Z,"1 km NNE of Borrego Springs, CA",earthquake,0.55,0.23,0.101,3,reviewed,ci,ci
 2025-08-26T00:10:00.650Z,55.9715,-159.73033333333,25.34,1.43,ml,6,314,0.1382,0.07,av,av93734253,2025-08-26T20:15:51.400Z,"17 km WNW of Ivanof Bay, Alaska",earthquake,0.84,0.66,0.17529209824899,6,reviewed,av,av
 2025-08-26T00:08:03.700Z,61.408833333333,-152.31566666667,3.56,0.28,ml,7,200,0.1511,0.28,av,av93734243,2025-08-26T20:11:14.990Z,"72 km WNW of Beluga, Alaska",earthquake,0.68,0.88,0.10770046152569,7,reviewed,av,av
-2025-08-26T00:03:58.155Z,33.9045,87.686,10,5.1,mb,60,81,5.111,0.77,us,us7000qqxi,2025-08-26T02:56:37.040Z,"western Xizang",earthquake,7.61,1.818,0.052,119,reviewed,us,us
