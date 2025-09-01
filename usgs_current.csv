@@ -250,5 +250,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-31T07:14:58.590Z,34.097,-116.9016667,6.72,1.33,ml,73,24,0.0286,0.16,ci,ci41279872,2025-08-31T15:14:25.170Z,"15 km ENE of Yucaipa, CA",earthquake,0.12,0.39,0.195,27,reviewed,ci,ci
 2025-08-31T07:11:23.792Z,-23.3664,178.9769,554.091,4.6,mb,54,58,5.66,0.79,us,us7000qsqx,2025-08-31T07:28:34.040Z,"south of the Fiji Islands",earthquake,12.74,8.972,0.036,237,reviewed,us,us
 2025-08-31T07:07:24.016Z,59.8896,-141.6728,3.6,1.8,ml,,,,0.42,ak,ak025b5zsx3l,2025-08-31T07:09:38.534Z,"115 km WNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-08-31T07:03:59.720Z,33.2398333,-116.3931667,4.3,0.76,ml,49,36,0.03471,0.19,ci,ci41279864,2025-08-31T15:14:01.787Z,"2 km SW of Borrego Springs, CA",earthquake,0.17,0.38,0.139,17,reviewed,ci,ci
-2025-08-31T07:00:31.151Z,62.8526,-150.9304,25.2,1.6,ml,,,,1.07,ak,ak025b5zrfbh,2025-08-31T07:04:01.953Z,"40 km NNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
