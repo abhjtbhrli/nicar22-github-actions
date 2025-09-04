@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-04T07:58:17.990Z,31.4681667,-115.6096667,10.55,2.77,ml,6,154,0.1675,0.06,ci,ci41282816,2025-09-04T08:01:54.017Z,"94 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.24,0.59,0.154,23,automatic,ci,ci
 2025-09-04T07:46:20.460Z,37.2745,-115.3629,0.1,0.8,ml,8,164.79,0.281,0.4279,nn,nn00903782,2025-09-04T07:48:51.597Z,"20 km WSW of Alamo, Nevada",earthquake,,75.2,0.44,6,automatic,nn,nn
 2025-09-04T07:36:23.579Z,64.5413,-148.9284,17,1.1,ml,,,,0.41,ak,ak025bcm4it1,2025-09-04T07:38:44.769Z,"8 km ESE of Nenana, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-04T07:33:32.274Z,64.6114,-146.5456,19.1,0.8,ml,,,,0.52,ak,ak025bcm3wbv,2025-09-04T07:36:19.245Z,"19 km ENE of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -30,6 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-04T04:33:08.090Z,33.879,-116.0086667,1.98,1.63,ml,55,47,0.1216,0.17,ci,ci41282752,2025-09-04T04:36:37.902Z,"26 km NE of Indio, CA",earthquake,0.15,0.36,0.201,26,automatic,ci,ci
 2025-09-04T04:19:41.536Z,31.708,-104.177,6.8048,1.8,ml,38,83,0.1,0.2,tx,tx2025rjxgdl,2025-09-04T07:18:13.724Z,"54 km W of Mentone, Texas",earthquake,0.46836676736218,0.55750846145494,0.2,18,reviewed,tx,tx
 2025-09-04T04:14:50.580Z,36.115,-117.8648333,2.43,0.73,ml,16,204,0.008476,0.08,ci,ci41282728,2025-09-04T04:18:19.281Z,"11 km NE of Coso Junction, CA",earthquake,0.67,0.34,0.281,14,automatic,ci,ci
+2025-09-04T04:13:03.688Z,32.121,-101.054,7.2021,1.2,ml,24,48,0.2,0.2,tx,tx2025rjxaox,2025-09-04T08:04:10.002Z,"26 km S of Westbrook, Texas",earthquake,0.61904791273042,1.5107909209961,0.2,13,reviewed,tx,tx
 2025-09-04T04:10:18.014Z,-24.3833,-67.2005,176.483,5.9,mww,109,70,1.684,1.31,us,us7000qtpj,2025-09-04T06:46:04.378Z,"91 km WSW of San Antonio de los Cobres, Argentina",earthquake,8.35,7.242,0.037,71,reviewed,us,us
 2025-09-04T04:10:08.663Z,-24.347,-67.16,177.999,5.1,mb,71,66,1.674,1.55,us,us7000qtpi,2025-09-04T04:33:20.236Z,"86 km W of San Antonio de los Cobres, Argentina",earthquake,8.84,7.726,0.04,207,reviewed,us,us
 2025-09-04T03:38:32.040Z,33.5788333,-116.8048333,7.2,0.58,ml,25,54,0.05795,0.17,ci,ci41282712,2025-09-04T03:42:03.248Z,"12 km WNW of Anza, CA",earthquake,0.23,0.51,0.263,19,automatic,ci,ci
@@ -237,4 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-03T08:12:35.170Z,35.91,-117.7336667,10.02,0.61,ml,20,70,0.07746,0.1,ci,ci41282064,2025-09-03T13:03:10.478Z,"16 km E of Little Lake, CA",earthquake,0.16,0.32,0.217,9,reviewed,ci,ci
 2025-09-03T08:10:43.975Z,61.2626,-151.5252,77.3,0.4,ml,,,,0.13,ak,ak025baz12vh,2025-09-03T08:12:23.252Z,"27 km WNW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-09-03T08:09:16.029Z,60.4773,-143.7072,8.9,2.3,ml,,,,0.66,ak,ak025baz0t02,2025-09-03T08:11:15.978Z,"112 km E of Cordova, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-09-03T08:01:18.770Z,33.244,-116.383,4.72,0.7,ml,48,33,0.03744,0.2,ci,ci41282056,2025-09-03T13:04:09.280Z,"2 km SSW of Borrego Springs, CA",earthquake,0.18,0.37,0.114,11,reviewed,ci,ci
