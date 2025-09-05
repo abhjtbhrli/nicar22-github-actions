@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-05T06:53:44.819Z,35.31958771,-97.93725586,4.926845551,1.83,ml,10,109.4744644,0.07272215933,0.1847914441,ok,ok2025rjux,2025-09-05T06:55:31.864Z,"0 km NE of Minco, Oklahoma",earthquake,4.110462901,3.007546724,0.28,10,automatic,ok,ok
 2025-09-05T06:49:04.760Z,39.296001434326,-123.22783660889,5.3099999427795,1.54,md,13,107,0.1066,0.04,nc,nc75233327,2025-09-05T06:50:42.404Z,"4 km NNW of Redwood Valley, CA",earthquake,0.3,1.54999995,0.09,10,automatic,nc,nc
 2025-09-05T06:40:44.326Z,63.106,-149.7544,90.8,1.1,ml,,,,0.23,ak,ak025be93c5s,2025-09-05T06:42:06.658Z,"51 km SW of Cantwell, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-09-05T06:35:16.040Z,33.7756667,-116.0796667,1.59,1.07,ml,48,56,0.12,0.16,ci,ci41283680,2025-09-05T06:38:46.342Z,"14 km NE of Coachella, CA",earthquake,0.15,0.28,0.141,27,automatic,ci,ci
+2025-09-05T06:33:14.571Z,15.9324,-96.1984,35.725,4.7,mb,50,157,2.788,0.74,us,us7000qu0w,2025-09-05T06:51:56.907Z,"2 km WNW of San Miguel del Puerto, Mexico",earthquake,9.35,8.004,0.029,350,reviewed,us,us
 2025-09-05T06:32:12.780Z,33.7731667,-116.0818333,1.18,1.27,ml,54,36,0.1187,0.19,ci,ci41283672,2025-09-05T06:43:15.610Z,"13 km NE of Coachella, CA",earthquake,0.16,0.33,0.137,25,automatic,ci,ci
 2025-09-05T06:31:22.973Z,31.527,-104.155,3.7684,1.4,ml,28,102,0.1,0.4,tx,tx2025rlxiqt,2025-09-05T06:35:07.425Z,"41 km NW of Toyah, Texas",earthquake,0,1.2055666446686,0.3,20,automatic,tx,tx
 2025-09-05T06:19:24.180Z,34.2598333,-117.4633333,2.9,0.86,ml,16,141,0.03028,0.13,ci,ci41283656,2025-09-05T06:24:25.686Z,"3 km E of Lytle Creek, CA",earthquake,0.64,0.86,0.186,27,automatic,ci,ci
