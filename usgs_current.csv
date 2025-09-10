@@ -11,12 +11,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-10T18:33:57.920Z,36.655666351318,-121.31716918945,3.3699998855591,1.6,md,14,85,0.04476,0.13,nc,nc75236032,2025-09-10T18:57:19.774Z,"15 km S of Tres Pinos, CA",earthquake,0.41,1.38999999,0.19,10,automatic,nc,nc
 2025-09-10T18:31:24.886Z,32.257,-101.935,8.4717,1.2,ml,20,50,0,0.1,tx,tx2025rvzvnj,2025-09-10T19:10:53.135Z,"19 km NW of Stanton, Texas",earthquake,0.4397994791932,0.71228096570247,0.1,14,reviewed,tx,tx
 2025-09-10T18:27:44.539Z,29.347,-97.328,10.7628,1.8,ml,5,128,0.1,0.2,tx,tx2025rvzshu,2025-09-10T19:00:19.659Z,"17 km WSW of Shiner, Texas",earthquake,0,8.3717851638794,0.1,5,automatic,tx,tx
-2025-09-10T18:24:24.244Z,42.67,-111.2847,5,3.2,ml,44,75,0.665,0.41,us,us7000qvaf,2025-09-10T19:54:09.060Z,"22 km NNE of Georgetown, Idaho",earthquake,1.8,1.938,0.034,114,reviewed,us,us
+2025-09-10T18:24:24.244Z,42.67,-111.2847,5,3.2,ml,44,75,0.665,0.41,us,us7000qvaf,2025-09-10T19:03:24.040Z,"22 km NNE of Georgetown, Idaho",earthquake,1.8,1.938,0.034,114,reviewed,us,us
 2025-09-10T18:21:06.670Z,35.6556667,-117.4873333,7.98,0.89,ml,26,44,0.05266,0.14,ci,ci41288368,2025-09-10T19:53:37.843Z,"14 km SSW of Searles Valley, CA",earthquake,0.2,0.6,0.191,16,reviewed,ci,ci
 2025-09-10T18:03:57.987Z,51.6411,159.3734,50.615,5.1,mb,86,90,1.454,0.77,us,us7000qvae,2025-09-10T18:39:28.040Z,"158 km SSE of Vilyuchinsk, Russia",earthquake,9.69,6.304,0.041,193,reviewed,us,us
 2025-09-10T17:58:05.230Z,33.0638333,-116.4613333,13.14,1.57,ml,63,17,0.02361,0.22,ci,ci41288336,2025-09-10T19:53:54.456Z,"13 km E of Julian, CA",earthquake,0.16,0.48,0.292,26,reviewed,ci,ci
 2025-09-10T17:34:37.110Z,33.5226667,-116.4843333,16.32,0.51,ml,19,72,0.1024,0.12,ci,ci41288296,2025-09-10T19:53:50.456Z,"18 km ESE of Anza, CA",earthquake,0.24,0.48,0.072,9,reviewed,ci,ci
-2025-09-10T17:16:21.130Z,33.4805,-116.5221667,11.92,1,ml,42,34,0.06837,0.16,ci,ci41288248,2025-09-10T19:54:06.457Z,"16 km ESE of Anza, CA",earthquake,0.17,0.4,0.169,26,reviewed,ci,ci
+2025-09-10T17:16:21.130Z,33.4805,-116.5221667,11.92,1,ml,42,34,0.06837,0.16,ci,ci41288248,2025-09-10T18:50:37.095Z,"16 km ESE of Anza, CA",earthquake,0.17,0.4,0.169,26,automatic,ci,ci
 2025-09-10T17:11:49.660Z,33.5896667,-116.6181667,12.85,0.47,ml,23,88,0.02516,0.13,ci,ci41288240,2025-09-10T18:49:48.329Z,"6 km NE of Anza, CA",earthquake,0.2,0.33,0.057,11,automatic,ci,ci
 2025-09-10T16:56:01.170Z,60.2219,-152.7458,103.8,2,ml,,,,0.32,ak,ak025bmotqt1,2025-09-10T17:07:42.040Z,"62 km WNW of Ninilchik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-09-10T16:41:25.320Z,33.5875,-116.6198333,12.81,0.33,ml,13,78,0.02262,0.12,ci,ci41288216,2025-09-10T16:58:36.605Z,"6 km NE of Anza, CA",earthquake,0.3,0.46,0.1,4,reviewed,ci,ci
@@ -206,6 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-09T20:10:55.830Z,38.687831878662,-122.49333190918,7.2699999809265,1.33,md,8,109,0.07201,0.06,nc,nc75235687,2025-09-09T20:42:18.078Z,"13 km SE of Middletown, CA",earthquake,0.44,1.51999998,0.11,9,automatic,nc,nc
 2025-09-09T20:09:50.450Z,19.1645,-155.48733333333,32.47,2.27,ml,49,113,0.0255,0.11,hv,hv74771557,2025-09-09T20:50:19.340Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.46,0.57,0.15963561303245,30,reviewed,hv,hv
 2025-09-09T20:07:41.779Z,31.231,-103.766,7.6636,2.4,ml,20,76,0.2,0.1,tx,tx2025ruhhpm,2025-09-09T20:59:26.009Z,"9 km SSE of Toyah, Texas",earthquake,0.86326710347258,2.4316839607965,0.1,49,reviewed,tx,tx
-2025-09-09T20:01:33.984Z,53.0001,161.5104,14.385,4.6,mb,84,105,1.728,0.7,us,us7000qv4j,2025-09-09T20:47:45.040Z,"193 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,8.79,4.573,0.065,71,reviewed,us,us
-2025-09-09T20:00:01.300Z,47.113833333333,-123.111,-0.23,1.53,ml,17,85,0.06566,0.32,uw,uw62177742,2025-09-10T04:50:07.840Z,"11 km S of Shelton, Washington",explosion,0.57,31.61,0.095311505873155,11,reviewed,uw,uw
-2025-09-09T19:56:46.035Z,60.217,-153.5437,182.6,2.3,ml,,,,0.57,ak,ak025bl32sjs,2025-09-09T20:33:39.040Z,"42 km E of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
