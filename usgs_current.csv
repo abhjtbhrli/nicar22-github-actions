@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-09-11T08:51:43.610Z,36.1945,-118.3031693,5.67,1.53,ml,13,85,0.04311,0.09,ci,ci41288864,2025-09-11T08:53:48.994Z,"28 km WSW of Olancha, CA",earthquake,0.33,0.64,0.24,2,automatic,ci,ci
+2025-09-11T08:54:38.740Z,33.2543333,-116.3688333,4.4,0.64,ml,43,52,0.04279,0.21,ci,ci41288872,2025-09-11T08:58:06.018Z,"1 km ESE of Borrego Springs, CA",earthquake,0.24,0.44,0.133,17,automatic,ci,ci
+2025-09-11T08:51:43.620Z,36.1908333,-118.3066667,5.52,0.91,ml,20,85,0.03904,0.17,ci,ci41288864,2025-09-11T08:55:12.551Z,"29 km WSW of Olancha, CA",earthquake,0.25,0.45,0.201,13,automatic,ci,ci
 2025-09-11T08:41:32.795Z,59.5747,-152.069,64.1,1.8,ml,,,,0.5,ak,ak025bo7ih5r,2025-09-11T08:51:04.743Z,"25 km NW of Seldovia, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-09-11T08:29:35.280Z,32.3343333,-115.061,11.29,2.6,ml,17,269,0.1205,0.3,ci,ci41288856,2025-09-11T08:33:09.897Z,"7 km NE of Guadalupe Victoria, B.C., MX",earthquake,1.47,0.98,0.192,26,automatic,ci,ci
 2025-09-11T08:26:37.953Z,64.4098,-148.158,12.8,1.7,ml,,,,0.48,ak,ak025bo7f9tf,2025-09-11T08:28:16.310Z,"47 km SSW of South Van Horn, Alaska",earthquake,,0.3,,,automatic,ak,ak
