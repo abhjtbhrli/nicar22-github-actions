@@ -289,5 +289,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-17T08:29:35.160Z,37.799833333333,-122.2045,10.41,1.11,md,31,67,0.06039,0.07,nc,nc75238692,2025-09-17T20:52:17.414Z,"2 km ENE of Oakland, CA",earthquake,0.18,0.52,0.264,24,reviewed,nc,nc
 2025-09-17T08:23:38.950Z,54.752,-163.97683333333,-0.75,0.9,ml,5,97,0.04424,0.14,av,av93773823,2025-09-17T20:02:55.790Z,"38 km WSW of False Pass, Alaska",earthquake,0.36,0.47,0.22243654540535,5,reviewed,av,av
 2025-09-17T08:06:33.817Z,60.4522,-142.9533,6.8,2,ml,,,,0.26,ak,ak025by4j251,2025-09-17T08:07:44.703Z,"109 km S of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2025-09-17T08:03:18.026Z,61.5355,-149.9359,29.4,1.2,ml,,,,0.25,ak,ak025by4idru,2025-09-17T08:06:38.554Z,"1 km NNE of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-09-17T08:00:35.690Z,34.1368333,-117.3488333,10.16,0.38,ml,21,84,0.1375,0.14,ci,ci41292840,2025-09-17T08:04:26.972Z,"2 km SSW of Muscoy, CA",earthquake,0.25,0.54,0.094,5,automatic,ci,ci
