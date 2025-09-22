@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-21T23:55:52.810Z,17.9355,-66.941,10.49,2.4,md,5,233,0.07072,0.02,pr,pr71496253,2025-09-22T00:05:20.740Z,"5 km SW of Guánica, Puerto Rico",earthquake,0.7,0.62,0.038615156214451,3,reviewed,pr,pr
 2025-09-21T23:36:06.925Z,36.7695,-116.2571,12.6,0.7,ml,23,64.76,0.051,0.1414,nn,nn00904748,2025-09-21T23:38:03.280Z,"47 km ESE of Beatty, Nevada",earthquake,,0.5,0.25,16,automatic,nn,nn
 2025-09-21T23:35:59.120Z,19.475666046143,-155.44732666016,4.3699998855591,1.87,ml,45,49,0.05456,0.159999996,hv,hv74781552,2025-09-21T23:39:34.730Z,"22 km W of Volcano, Hawaii",earthquake,0.32,0.860000014,0.04,3,automatic,hv,hv
 2025-09-21T23:24:31.560Z,35.027,-117.6795,-0.27,1.09,ml,29,42,0.09342,0.19,ci,ci40447722,2025-09-21T23:27:59.285Z,"4 km NW of Boron, CA",earthquake,0.33,0.7,0.214,23,automatic,ci,ci
@@ -193,4 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-21T00:23:05.870Z,39.7005,-123.7035,-0.52,1.71,md,33,117,0.09369,0.16,nc,nc75240052,2025-09-21T23:32:17.209Z,"10 km ESE of Rockport, CA",earthquake,0.27,0.62,0.297,21,reviewed,nc,nc
 2025-09-21T00:14:44.536Z,32.109,-101.504,4.899,1.2,mlv,9,157,0.1,0.5,tx,tx2025soulym,2025-09-21T11:12:17.175Z,"13 km W of Forsan, Texas",earthquake,0,1.8082618713379,0.3,6,automatic,tx,tx
 2025-09-21T00:11:10.160Z,17.949666666667,-66.942333333333,9.8,2.25,md,7,210,0.06513,0.18,pr,pr71496123,2025-09-21T00:33:18.530Z,"4 km WSW of Guánica, Puerto Rico",earthquake,0.75,0.9,0.089456922744561,3,reviewed,pr,pr
-2025-09-21T00:06:06.000Z,38.792999267578,-122.74833679199,2.5099999904633,0.73,md,7,91,0.0117,0.02,nc,nc75240042,2025-09-21T01:32:17.673Z,"2 km NNE of The Geysers, CA",earthquake,0.42,1.37,0.21,7,automatic,nc,nc
