@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-24T08:57:46.940Z,33.872,-117.7608333,9.48,0.97,ml,43,69,0.0496,0.17,ci,ci40449562,2025-09-24T09:01:19.743Z,"5 km ESE of Yorba Linda, CA",earthquake,0.21,0.36,0.154,26,automatic,ci,ci
+2025-09-24T08:55:19.970Z,33.218,-116.76,20,0.47,ml,34,25,0.01796,0.14,ci,ci40449554,2025-09-24T08:59:17.120Z,"3 km S of Lake Henshaw, CA",earthquake,0.19,0.48,0.159,8,automatic,ci,ci
+2025-09-24T08:50:38.920Z,63.0283,-151.555,1.2,1.6,ml,,,,0.81,ak,ak025c9pjxhw,2025-09-24T08:52:54.890Z,"57 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-09-24T08:23:32.810Z,45.982833862305,-122.55100250244,16.719999313354,1.7972731590271,ml,26,154,,0.100000001,uw,uw62193411,2025-09-24T08:26:26.170Z,"11 km NW of Amboy, Washington",earthquake,0.54,0.720000029,0.2791051864624,19,automatic,uw,uw
 2025-09-24T07:29:14.999Z,58.1696,-155.3976,1.1,0.8,ml,,,,0.19,ak,ak025c9oty0b,2025-09-24T07:31:17.172Z,"87 km NW of Karluk, Alaska",earthquake,,2.6,,,automatic,ak,ak
 2025-09-24T07:24:52.931Z,62.0489,-150.9348,63,1.9,ml,,,,0.31,ak,ak025c9osyct,2025-09-24T07:26:44.327Z,"25 km ENE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -216,7 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-23T09:10:45.920Z,38.819332122803,-122.79499816894,3.210000038147,1.11,md,16,83,0.01135,0.02,nc,nc75240837,2025-09-23T10:27:19.373Z,"6 km NNW of The Geysers, CA",earthquake,0.3,0.479999989,0.24,17,automatic,nc,nc
 2025-09-23T09:07:28.360Z,36.000331878662,-120.56116485596,1.460000038147,1.6,md,21,80,0.02188,0.08,nc,nc75240832,2025-09-23T10:07:19.226Z,"16 km NW of Parkfield, CA",earthquake,0.26,0.600000024,0.17,8,automatic,nc,nc
 2025-09-23T09:03:50.270Z,32.088,-101.603,6.4209,0.8,ml,13,94,0,0.1,tx,tx2025stdlwj,2025-09-23T13:04:06.098Z,"18 km ESE of Stanton, Texas",earthquake,0.79439901609483,1.1120620037735,0.1,6,reviewed,tx,tx
-2025-09-23T09:02:01.980Z,32.6458333,-115.7341667,4.99,1.29,ml,30,54,0.007437,0.22,ci,ci40448594,2025-09-23T16:31:46.915Z,"16 km WNW of Progreso, B.C., MX",earthquake,0.25,0.39,0.202,12,automatic,ci,ci
-2025-09-23T09:01:08.230Z,32.6516667,-115.7401667,4.95,1.27,ml,27,76,0.01186,0.19,ci,ci40448586,2025-09-23T16:29:30.904Z,"17 km WNW of Progreso, B.C., MX",earthquake,0.27,0.4,0.26,14,automatic,ci,ci
-2025-09-23T09:00:00.150Z,33.4266667,-116.6566667,4.47,0.23,ml,23,56,0.03418,0.13,ci,ci40448578,2025-09-23T16:28:33.576Z,"14 km S of Anza, CA",earthquake,0.16,0.38,0.105,2,automatic,ci,ci
-2025-09-23T08:50:10.810Z,18.939833333333,-66.944833333333,5.19,2.97,md,14,283,0.4956,0.25,pr,pr71496368,2025-09-23T09:06:49.420Z,"49 km N of Isabela, Puerto Rico",earthquake,1.33,1.42,0.10055118306089,10,reviewed,pr,pr
