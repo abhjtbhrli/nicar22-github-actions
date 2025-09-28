@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-28T22:15:58.287Z,63.5652,-150.861,0,1.8,ml,,,,0.73,ak,ak025cgjtxdg,2025-09-28T22:17:53.470Z,"42 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-09-28T22:11:23.348Z,64.7067,-149.1932,23.3,1.4,ml,,,,1.02,ak,ak025cgjsztf,2025-09-28T22:14:19.873Z,"12 km NNW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-28T21:43:23.960Z,34.0373333,-117.0788333,9.5,1.5,ml,83,20,0.02794,0.18,ci,ci41100335,2025-09-28T21:47:25.961Z,"3 km W of Yucaipa, CA",earthquake,0.11,0.28,0.145,27,automatic,ci,ci
 2025-09-28T21:40:47.554Z,60.4419,-142.9529,5.2,1.6,ml,,,,0.35,ak,ak025cgjdtub,2025-09-28T21:42:34.912Z,"110 km S of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-09-28T21:12:37.370Z,37.842834472656,-121.99716949463,9.1400003433228,2.14,md,45,37,0.01638,0.1,nc,nc75243112,2025-09-28T21:15:48.480Z,"2 km NNE of Danville, CA",earthquake,0.18,0.280000001,0.15,38,automatic,nc,nc
@@ -34,6 +36,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-28T19:04:37.610Z,40.596332550049,-122.43733215332,9.7200002670288,1.78,md,9,81,0.09021,0.4,nc,nc75243047,2025-09-28T21:12:19.385Z,"5 km ESE of Shasta, CA",earthquake,1.86,3.6400001,0.1,4,automatic,nc,nc
 2025-09-28T18:41:24.372Z,-11.5584,166.3016,77.046,5.2,mww,69,110,6.594,0.91,us,us6000rdgx,2025-09-28T19:00:44.040Z,"107 km SSE of Lata, Solomon Islands",earthquake,9.31,6.57,0.086,13,reviewed,us,us
 2025-09-28T18:41:07.920Z,36.654335021973,-121.29850006103,5.0700001716614,1.44,md,10,77,0.04529,0.19,nc,nc75243042,2025-09-28T20:47:20.198Z,"15 km S of Tres Pinos, CA",earthquake,0.64,2.3599999,0.3,8,automatic,nc,nc
+2025-09-28T18:40:03.560Z,44.586833333333,-112.2225,10.26,2.34,ml,25,83,0.3026,0.24,mb,mb90113598,2025-09-28T22:16:39.370Z,"25 km N of Spencer, Idaho",earthquake,0.41,1.05,0.22436720408044,49,reviewed,mb,mb
 2025-09-28T18:11:54.680Z,35.9641667,-117.3221667,3.57,1.93,ml,35,69,0.07957,0.16,ci,ci41100247,2025-09-28T18:34:16.748Z,"23 km NNE of Trona, CA",earthquake,0.18,0.74,0.226,27,reviewed,ci,ci
 2025-09-28T18:04:57.160Z,31.7155,-115.9766667,5,2.4,ml,14,62,0.1756,0.17,ci,ci41100239,2025-09-28T18:56:47.236Z,"56 km E of Maneadero, B.C., MX",earthquake,0.27,1.03,0.116,54,reviewed,ci,ci
 2025-09-28T17:57:42.677Z,60.1164,-151.7993,65.8,1.4,ml,,,,0.22,ak,ak025cgh3q7v,2025-09-28T17:59:34.592Z,"10 km NW of Ninilchik, Alaska",earthquake,,2.7,,,automatic,ak,ak
@@ -185,10 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-27T22:55:11.801Z,31.814,-103.924,2.1312,1.6,ml,9,153,0.2,0.7,tx,tx2025tbnxuf,2025-09-28T00:00:48.049Z,"33 km WNW of Mentone, Texas",earthquake,0,2.722972869873,0.4,4,automatic,tx,tx
 2025-09-27T22:53:39.550Z,35.436166666667,-120.71983333333,7.06,1.17,md,16,84,0.04458,0.07,nc,nc75242747,2025-09-28T11:42:18.146Z,"7 km SW of Atascadero, CA",earthquake,0.23,0.46,0.146,10,reviewed,nc,nc
 2025-09-27T22:40:03.810Z,34.197,-117.482,3.75,0.97,ml,41,48,0.01813,0.19,ci,ci41099823,2025-09-27T22:43:50.739Z,"7 km SSE of Lytle Creek, CA",earthquake,0.21,0.29,0.148,30,automatic,ci,ci
-2025-09-27T22:22:37.110Z,18.881,-64.944166666667,21.7,3.39,md,19,227,0.5517,0.26,pr,pr71496633,2025-09-27T23:46:07.040Z,"59 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.05,20.61,0.11281541127092,15,reviewed,pr,pr
-2025-09-27T22:22:34.830Z,46.192833333333,-122.19866666667,7.21,0.2,ml,12,123,0.01174,0.15,uw,uw62195136,2025-09-28T05:49:24.900Z,"36 km NNE of Amboy, Washington",earthquake,0.5,0.67,0.021532526616932,4,reviewed,uw,uw
-2025-09-27T22:21:26.160Z,33.4881667,-116.7665,7.81,1.13,ml,57,18,0.03811,0.2,ci,ci41099815,2025-09-28T03:44:07.918Z,"10 km ENE of Aguanga, CA",earthquake,0.15,0.45,0.131,28,reviewed,ci,ci
-2025-09-27T22:13:03.150Z,52.9291,160.4585,35,4.4,mb,26,158,1.098,1.31,us,us6000rdda,2025-09-27T23:25:32.040Z,"123 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,10.79,1.964,0.108,26,reviewed,us,us
-2025-09-27T22:12:49.949Z,43.461,-127.1422,10,5.1,mww,67,186,1.634,1.27,us,us6000rdd9,2025-09-28T18:22:34.420Z,"225 km W of Bandon, Oregon",earthquake,6.47,1.97,0.066,22,reviewed,us,us
-2025-09-27T22:10:26.003Z,61.2079,-150.1707,35.6,1.8,ml,,,,0.92,ak,ak025cew9ft4,2025-09-27T22:12:47.161Z,"14 km W of Anchorage, Alaska",earthquake,,19.6,,,automatic,ak,ak
-2025-09-27T22:06:28.522Z,64.496,-146.9023,0.1,1,ml,,,,0.35,ak,ak025cew8l50,2025-09-27T22:08:54.604Z,"3 km S of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
