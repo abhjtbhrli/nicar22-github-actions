@@ -1,5 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-09-28T19:52:00.010Z,35.8816681,-118.1878357,10.06,1.38,ml,17,88,0.09239,0.09,ci,ci41100287,2025-09-28T19:54:15.062Z,"26 km ENE of Kernville, CA",earthquake,0.4,0.79,0.229,10,automatic,ci,ci
+2025-09-28T20:00:00.070Z,33.7088333,-116.7691667,16.44,1.29,ml,66,24,0.04802,0.19,ci,ci41100311,2025-09-28T20:03:32.127Z,"6 km SW of Idyllwild, CA",earthquake,0.16,0.32,0.153,27,automatic,ci,ci
+2025-09-28T19:54:29.370Z,33.3465004,-116.2559967,11.29,1.24,ml,17,133,0.04757,0.19,ci,ci41100303,2025-09-28T19:56:49.572Z,"15 km NE of Borrego Springs, CA",earthquake,0.47,0.57,0.223,3,automatic,ci,ci
+2025-09-28T19:53:48.510Z,33.3381667,-116.2556667,11.74,1.37,ml,73,20,0.05119,0.21,ci,ci41100295,2025-09-28T19:57:21.084Z,"14 km NE of Borrego Springs, CA",earthquake,0.15,0.3,0.156,27,automatic,ci,ci
+2025-09-28T19:53:27.277Z,60.1851,-152.6786,103.3,1.8,ml,,,,0.42,ak,ak025cgi9pdj,2025-09-28T19:55:49.491Z,"58 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-09-28T19:51:59.980Z,35.8821667,-118.1901667,9.53,1,ml,27,69,0.0943,0.13,ci,ci41100287,2025-09-28T19:55:25.849Z,"26 km NE of Kernville, CA",earthquake,0.18,0.45,0.209,18,automatic,ci,ci
 2025-09-28T19:46:44.830Z,38.835498809815,-122.81700134277,1.7799999713898,0.71,md,7,96,0.01324,0.01,nc,nc75243077,2025-09-28T19:48:23.747Z,"8 km WNW of Cobb, CA",earthquake,0.41,1.39999998,0.25,10,automatic,nc,nc
 2025-09-28T19:44:21.320Z,67.0603,-154.7599,11.7,1.8,ml,,,,0.82,ak,ak025cgi7rh0,2025-09-28T19:46:32.281Z,"94 km E of Kobuk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-09-28T19:31:45.581Z,60.586,-142.1784,14,1.1,ml,,,,0.07,ak,ak025cgi511a,2025-09-28T19:33:48.584Z,"102 km SSE of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
