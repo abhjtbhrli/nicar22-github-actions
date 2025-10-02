@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-02T00:03:19.680Z,63.3483,-145.4888,0,2.3,ml,,,,0.78,ak,ak025cmst4gf,2025-10-02T00:04:57.750Z,"29 km NNE of Paxson, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-10-02T00:02:59.210Z,34.0073318,-117.0439987,12.74,1.32,ml,48,35,0.1087,0.19,ci,ci41101567,2025-10-02T00:05:11.840Z,"2 km NNE of Calimesa, CA",earthquake,0.23,0.76,0.232,14,automatic,ci,ci
+2025-10-02T00:00:59.030Z,37.51250076294,-122.43399810791,2.7799999713898,1.66,md,8,118,0.01521,0.02,nc,nc75243686,2025-10-02T00:03:16.743Z,"3 km ENE of El Granada, CA",earthquake,0.6,0.709999979,0.09,7,automatic,nc,nc
+2025-10-01T23:54:34.300Z,34.2826667,-118.5288333,6.81,1.39,ml,43,50,0.04057,0.27,ci,ci41101551,2025-10-01T23:59:14.590Z,"3 km WNW of Granada Hills, CA",earthquake,0.29,0.5,0.216,29,automatic,ci,ci
 2025-10-01T23:46:41.533Z,39.5241,-119.5119,0.3,1.8,ml,8,105.06,0.252,0.0989,nn,nn00905288,2025-10-01T23:49:23.849Z,"20 km NW of Stagecoach, Nevada",earthquake,,23,0.46,4,automatic,nn,nn
 2025-10-01T23:33:04.174Z,60.4578,-142.8987,6.5,0.8,ml,,,,1.14,ak,ak025clj5569,2025-10-01T23:34:54.236Z,"108 km S of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-10-01T23:13:26.558Z,63.0041,-148.7602,57.3,2.4,ml,,,,0.57,ak,ak025clj0wjt,2025-10-01T23:24:23.660Z,"44 km SSE of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -39,7 +43,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-01T20:00:51.130Z,48.879333333333,-117.369,-0.3,1.47,md,5,285,0.06944,0.21,uw,uw61504818,2025-10-01T22:45:43.970Z,"1 km N of Metaline Falls, Washington",earthquake,1.2,31.61,0.17706030304644,4,reviewed,uw,uw
 2025-10-01T19:41:15.190Z,38.794334411621,-122.77716827393,2.4000000953674,0.77,md,8,156,0.008479,0.01,nc,nc75243606,2025-10-01T21:07:19.076Z,"3 km NW of The Geysers, CA",earthquake,0.65,0.959999979,0.06,9,automatic,nc,nc
 2025-10-01T19:34:36.907Z,62.6274,-150.4595,75.2,1.4,ml,,,,0.52,ak,ak025clgrozt,2025-10-01T19:46:53.983Z,"21 km NE of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-10-01T19:31:57.400Z,19.264165878296,-155.48849487305,-0.49000000953674,2.24,ml,53,60,0.01857,0.270000011,hv,hv74789577,2025-10-01T19:35:12.440Z,"6 km N of Pāhala, Hawaii",earthquake,0.36,0.159999996,0.26,4,automatic,hv,hv
+2025-10-01T19:31:58.280Z,19.268166666667,-155.4815,8.01,1.92,ml,40,59,0.0257,0.19,hv,hv74789577,2025-10-02T00:04:45.300Z,"7 km N of Pāhala, Hawaii",earthquake,0.31,0.61,0.18765771621257,24,reviewed,hv,hv
 2025-10-01T19:26:13.602Z,33.4746,142.3962,10,4.5,mb,26,161,2.192,0.62,us,us6000re33,2025-10-01T19:53:45.040Z,"266 km SE of Katsuura, Japan",earthquake,10.34,1.941,0.15,13,reviewed,us,us
 2025-10-01T19:25:46.963Z,38.4371,-116.4973,6,1.6,ml,8,149.94,0.492,0.137,nn,nn00905278,2025-10-01T20:11:35.936Z,"76 km ENE of Tonopah, Nevada",earthquake,,4.8,0.18,3,reviewed,nn,nn
 2025-10-01T19:25:35.696Z,41.5648,-120.3178,0,2.1,ml,6,158.93,0.338,0.162,nn,nn00905286,2025-10-01T23:02:44.561Z,"12 km SW of Lake City, California",earthquake,,0,0.08,3,reviewed,nn,nn
@@ -70,6 +74,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-01T17:06:08.586Z,58.8579,-31.4734,10,4.9,mb,55,133,7.608,0.82,us,us6000re28,2025-10-01T17:45:23.040Z,"Reykjanes Ridge",earthquake,10.12,1.906,0.055,102,reviewed,us,us
 2025-10-01T17:03:25.470Z,61.6616,-149.9487,32.5,1.3,ml,,,,0.41,ak,ak025clfe5pf,2025-10-01T17:05:01.425Z,"7 km WNW of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-10-01T16:54:57.490Z,18.480666666667,-66.733666666667,15.06,2.35,md,9,183,0.1347,0.26,pr,pr71496833,2025-10-01T17:30:58.080Z,"2 km WNW of Arecibo, Puerto Rico",earthquake,0.81,1,0.035374750784555,5,reviewed,pr,pr
+2025-10-01T16:45:46.924Z,58.7935,-31.6373,10,4.8,mww,51,127,7.71,1.08,us,us6000re24,2025-10-02T00:00:37.040Z,"Reykjanes Ridge",earthquake,10.11,1.922,0.083,14,reviewed,us,us
 2025-10-01T16:43:04.050Z,62.607,-151.7456,92.2,0.9,ml,,,,0.53,ak,ak025clf1939,2025-10-01T16:45:18.425Z,"51 km WNW of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-10-01T16:34:55.767Z,31.549,-104.136,8.0994,1.6,ml,35,68,0,0.1,tx,tx2025tikfqh,2025-10-01T17:29:55.928Z,"41 km NW of Toyah, Texas",earthquake,0.60812943274995,0.55363502940117,0.2,18,reviewed,tx,tx
 2025-10-01T16:34:02.800Z,11.2275,123.971,10,4.7,mb,33,105,4.426,0.74,us,us6000re23,2025-10-01T17:23:19.040Z,"1 km NNW of Paypay, Philippines",earthquake,12.44,1.906,0.099,31,reviewed,us,us
@@ -250,5 +255,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-01T00:09:13.170Z,38.797832489014,-122.75033569336,1.1000000238419,1.09,md,14,96,0.007839,0.02,nc,nc75243261,2025-10-01T00:57:17.443Z,"2 km NNE of The Geysers, CA",earthquake,0.24,0.720000029,0.11,13,automatic,nc,nc
 2025-10-01T00:07:14.322Z,57.1111,-157.4708,2.7,2.5,ml,,,,0.54,ak,ak025cl5amet,2025-10-01T00:25:09.040Z,"44 km S of Ugashik, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-01T00:07:08.870Z,35.7436667,-117.567,7.18,0.76,ml,17,110,0.07608,0.16,ci,ci41101175,2025-10-01T15:37:21.299Z,"15 km W of Searles Valley, CA",earthquake,0.35,0.51,0.162,9,reviewed,ci,ci
-2025-10-01T00:03:19.530Z,31.532,-104.009,7.5867,1.7,ml,32,56,0,0.1,tx,tx2025thdjct,2025-10-01T02:59:35.815Z,"31 km NW of Toyah, Texas",earthquake,0.72523261816792,0.5256628755364,0.1,19,reviewed,tx,tx
-2025-09-30T23:59:30.650Z,58.3665,-154.8709,6.7,0.8,ml,,,,1.03,ak,ak025cjvrfc9,2025-10-01T08:04:22.170Z,"92 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
