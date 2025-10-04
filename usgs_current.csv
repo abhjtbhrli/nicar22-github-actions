@@ -23,7 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-04T18:50:54.303Z,-18.6384,-177.9514,531.745,4.9,mb,151,30,3.338,0.68,us,us6000reu0,2025-10-04T19:09:49.040Z,"295 km ESE of Levuka, Fiji",earthquake,9.12,7.327,0.027,426,reviewed,us,us
 2025-10-04T18:45:13.238Z,51.0993,-179.8077,10.787,3.2,ml,20,226,0.626,0.48,us,us6000reu8,2025-10-04T21:22:38.040Z,"236 km WSW of Adak, Alaska",earthquake,3.54,8.492,0.091,16,reviewed,us,us
 2025-10-04T18:37:02.270Z,32.9198333,-115.8018333,8.84,1.62,ml,47,35,0.02523,0.25,ci,ci41102591,2025-10-04T18:47:35.970Z,"21 km SW of Westmorland, CA",earthquake,0.21,0.49,0.214,27,automatic,ci,ci
-2025-10-04T18:35:42.948Z,28.843,-99.096,6.6003,2,ml,12,222,0.3,0.4,tx,tx2025tobkjg,2025-10-04T19:00:47.434Z,"5 km S of Pearsall, Texas",earthquake,0,5.3255085945129,0.2,10,automatic,tx,tx
+2025-10-04T18:35:43.050Z,28.847,-99.094,5.865,2.1,mlv,13,132,0,0.5,tx,tx2025tobkjg,2025-10-04T22:14:31.796Z,"5 km S of Pearsall, Texas",earthquake,0,3.1649119853973,0.1,11,automatic,tx,tx
 2025-10-04T18:31:32.540Z,47.193164825439,-121.96583557129,17.870000839233,1.5400793552399,ml,27,151,0.2052,0.100000001,uw,uw62189342,2025-10-04T18:40:08.050Z,"2 km ESE of Enumclaw, Washington",earthquake,0.68,1.39999998,0.24527470767498,11,reviewed,uw,uw
 2025-10-04T18:29:35.650Z,35.967334747315,-120.52317047119,10.310000419617,1.21,md,20,57,0.02455,0.07,nc,nc75244801,2025-10-04T20:27:17.819Z,"11 km NW of Parkfield, CA",earthquake,0.38,0.620000005,0.19,11,automatic,nc,nc
 2025-10-04T18:27:14.310Z,36.029666900635,-119.84449768066,0.070000000298023,2.13,md,13,137,0.2433,0.1,nc,nc75244796,2025-10-04T20:07:17.691Z,"11 km ENE of Kettleman City, CA",earthquake,0.58,7.92999983,0.13,7,automatic,nc,nc
@@ -54,7 +54,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-04T16:46:47.940Z,46.850166320801,-121.76667022705,0.81000000238419,1.52999997,md,16,74,0.01805,0.0399999991,uw,uw62189287,2025-10-04T17:33:28.780Z,"22 km ENE of Ashford, Washington",earthquake,0.33,0.74000001,,1,reviewed,uw,uw
 2025-10-04T16:43:54.397Z,59.2189,-139.4701,8.3,2.2,ml,,,,0.68,ak,ak025cqdnegf,2025-10-04T16:46:09.460Z,"39 km SSE of Yakutat, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-10-04T16:38:36.760Z,38.038333892822,-122.23533630371,7.4699997901917,1.26,md,12,113,0.04183,0.08,nc,nc75244756,2025-10-04T17:47:21.725Z,"3 km SW of Crockett, CA",earthquake,0.55,0.670000017,0.17,10,automatic,nc,nc
-2025-10-04T16:36:58.431Z,28.865,-99.102,4.5519,1.7,ml,8,94,0.3,0.4,tx,tx2025tnxlzr,2025-10-04T16:40:30.119Z,"3 km SSW of Pearsall, Texas",earthquake,0,3.230865240097,0.3,4,automatic,tx,tx
+2025-10-04T16:36:57.904Z,28.858,-99.09,8.421,1.8,mlv,9,119,0,0.4,tx,tx2025tnxlzr,2025-10-04T22:14:26.795Z,"3 km S of Pearsall, Texas",earthquake,0,4.0972275733948,0.2,7,automatic,tx,tx
 2025-10-04T16:36:50.634Z,58.7645,-153.848,16.4,1.7,ml,,,,0.64,ak,ak025cqdlw4l,2025-10-04T16:48:57.116Z,"92 km SE of Kokhanok, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-10-04T16:15:06.130Z,33.3756667,-116.8613333,5.28,0.52,ml,26,39,0.02203,0.19,ci,ci41102527,2025-10-04T16:18:47.590Z,"2 km N of Palomar Observatory, CA",earthquake,0.26,0.77,0.12,17,automatic,ci,ci
 2025-10-04T16:12:31.120Z,60.8685,-146.8891,21.2,1.5,ml,,,,0.59,ak,ak025cqdgpgo,2025-10-04T16:14:21.796Z,"11 km W of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
