@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-06T04:04:53.620Z,38.792167663574,-122.7756652832,2.210000038147,0.81,md,9,100,0.009628,0.02,nc,nc75245401,2025-10-06T04:06:31.289Z,"2 km NW of The Geysers, CA",earthquake,0.36,0.930000007,0.1,10,automatic,nc,nc
+2025-10-06T04:03:54.610Z,38.791667938232,-122.77600097656,1.960000038147,1.51,md,25,79,0.009434,0.03,nc,nc75245396,2025-10-06T04:05:31.153Z,"2 km NW of The Geysers, CA",earthquake,0.22,0.400000006,0.16,27,automatic,nc,nc
 2025-10-06T03:41:04.210Z,36.947334289551,-121.55466461182,5.8499999046326,1.42,md,15,106,0.02333,0.15,nc,nc75245391,2025-10-06T03:57:19.562Z,"7 km S of Gilroy, CA",earthquake,0.51,0.910000026,0.16,12,automatic,nc,nc
 2025-10-06T03:35:02.450Z,34.3223333,-116.8573333,6.48,1.05,ml,47,47,0.03561,0.15,ci,ci41103367,2025-10-06T03:38:42.828Z,"7 km N of Big Bear City, CA",earthquake,0.14,0.39,0.278,24,automatic,ci,ci
-2025-10-06T03:33:19.017Z,31.707,-104.605,4.4012,1.7,ml,18,116,0.1,0.4,tx,tx2025tqoynd,2025-10-06T03:35:42.691Z,"56 km SSW of Whites City, New Mexico",earthquake,0,1.5213857889175,0.2,13,automatic,tx,tx
+2025-10-06T03:33:19.016Z,31.707,-104.605,4.4027,1.7,ml,18,116,0.1,0.4,tx,tx2025tqoynd,2025-10-06T04:03:35.608Z,"56 km SSW of Whites City, New Mexico",earthquake,0,1.5214115381241,0.2,13,automatic,tx,tx
 2025-10-06T03:29:20.733Z,61.5421,-146.4808,1.5,2,ml,,,,0.86,ak,ak025ctgwe0h,2025-10-06T03:32:15.942Z,"46 km N of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-06T03:19:07.631Z,-4.8346,151.1849,192.136,4.4,mb,22,110,1.166,0.74,us,us6000rf0q,2025-10-06T03:33:16.040Z,"129 km WSW of Rabaul, Papua New Guinea",earthquake,12.72,14.339,0.13,17,reviewed,us,us
 2025-10-06T03:06:49.295Z,39.1579,-119.0345,8.8,0.9,ml,8,106.03,0.235,0.1178,nn,nn00905482,2025-10-06T03:09:10.822Z,"22 km NNE of Yerington, Nevada",earthquake,,2.3,0.05,4,automatic,nn,nn
